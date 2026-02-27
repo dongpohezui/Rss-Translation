@@ -4,7 +4,14 @@
     <title>Google 在线安全博客</title>
     <link>http://security.googleblog.com/</link>
     <description>Google 关于互联网安全的最新新闻和见解。</description>
-    <lastBuildDate>Fri, 27 Feb 2026 15:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 18:26:07 GMT</lastBuildDate>
+    <item>
+      <title>培育强大且高效的量子安全 HTTPS</title>
+      <link>http://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html</guid>
+      <pubDate>Fri, 27 Feb 2026 17:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>保持领先一步：加强 Android 在诈骗防护方面的领先地位</title>
       <link>http://security.googleblog.com/2026/02/strengthening-android-lead-in-scam-protection.html</link>
@@ -186,18 +193,11 @@
       <pubDate>Thu, 08 May 2025 16:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌宣布推出 Sec-Gemini v1，一种新的实验性网络安全模型</title>
+      <title>谷歌宣布推出新的实验性网络安全模型 Sec-Gemini v1</title>
       <link>http://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html</link>
       <description><![CDATA[]]></description>
       <guid>http://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html</guid>
       <pubDate>Fri, 04 Apr 2025 18:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>驯服 ML 的狂野西部：使用 Sigstore 进行实用模型签名</title>
-      <link>http://security.googleblog.com/2025/04/taming-wild-west-of-ml-practical-model.html</link>
-      <description><![CDATA[]]></description>
-      <guid>http://security.googleblog.com/2025/04/taming-wild-west-of-ml-practical-model.html</guid>
-      <pubDate>Fri, 04 Apr 2025 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
