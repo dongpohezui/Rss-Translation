@@ -12,3 +12,4 @@
 
 ## 已转换翻译源
  - threatpost [https://threatpost.com/feed/](https://threatpost.com/feed/) -> [threatpost](rss/threatpost.xml)
+ - GoogleOnlineSecurityBlog [https://feeds.feedburner.com/GoogleOnlineSecurityBlog](https://feeds.feedburner.com/GoogleOnlineSecurityBlog) -> [GoogleOnlineSecurityBlog](rss/GoogleOnlineSecurityBlog.xml)

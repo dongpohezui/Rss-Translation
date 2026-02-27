@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Google 在线安全博客</title>
+    <link>http://security.googleblog.com/</link>
+    <description>Google 关于互联网安全的最新新闻和见解。</description>
+    <lastBuildDate>Fri, 27 Feb 2026 15:21:11 GMT</lastBuildDate>
+    <item>
+      <title>保持领先一步：加强 Android 在诈骗防护方面的领先地位</title>
+      <link>http://security.googleblog.com/2026/02/strengthening-android-lead-in-scam-protection.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2026/02/strengthening-android-lead-in-scam-protection.html</guid>
+      <pubDate>Wed, 25 Feb 2026 15:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年确保 Google Play 和 Android 应用生态系统的安全</title>
+      <link>http://security.googleblog.com/2026/02/keeping-google-play-android-app-ecosystem-safe-2025.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2026/02/keeping-google-play-android-app-ecosystem-safe-2025.html</guid>
+      <pubDate>Thu, 19 Feb 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的 Android 防盗保护功能更新：更智能、更强</title>
+      <link>http://security.googleblog.com/2026/01/android-theft-protection-feature-updates.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2026/01/android-theft-protection-feature-updates.html</guid>
+      <pubDate>Tue, 27 Jan 2026 16:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTPS 证书行业逐步淘汰安全性较低的域验证方法</title>
+      <link>http://security.googleblog.com/2025/12/https-certificate-industry-phasing-out.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/12/https-certificate-industry-phasing-out.html</guid>
+      <pubDate>Wed, 10 Dec 2025 20:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>进一步强化 Android GPU</title>
+      <link>http://security.googleblog.com/2025/12/further-hardening-android-gpus.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/12/further-hardening-android-gpus.html</guid>
+      <pubDate>Tue, 09 Dec 2025 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Chrome 中构建代理功能的安全性</title>
+      <link>http://security.googleblog.com/2025/12/architecting-security-for-agentic.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/12/architecting-security-for-agentic.html</guid>
+      <pubDate>Mon, 08 Dec 2025 18:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 扩大金融应用通话诈骗保护试点</title>
+      <link>http://security.googleblog.com/2025/12/android-expands-pilot-in-call-scam-protection-financial-apps.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/12/android-expands-pilot-in-call-scam-protection-financial-apps.html</guid>
+      <pubDate>Wed, 03 Dec 2025 16:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 快速共享支持 AirDrop：跨平台文件共享的安全方法</title>
+      <link>http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html</guid>
+      <pubDate>Thu, 20 Nov 2025 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 中的 Rust：快速行动并修复问题</title>
+      <link>http://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html</guid>
+      <pubDate>Thu, 13 Nov 2025 16:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 如何提供最有效的保护，让您免受手机诈骗</title>
+      <link>http://security.googleblog.com/2025/10/how-android-protects-you-from-scams.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/10/how-android-protects-you-from-scams.html</guid>
+      <pubDate>Thu, 30 Oct 2025 16:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>默认使用 HTTPS</title>
+      <link>http://security.googleblog.com/2025/10/https-by-default.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/10/https-by-default.html</guid>
+      <pubDate>Tue, 28 Oct 2025 17:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEF CON 33 加速人工智能在网络安全领域的应用</title>
+      <link>http://security.googleblog.com/2025/09/accelerating-adoption-of-ai-for.html</link>
+      <description><![CDATA[发布者：Google 隐私、安全和安保团队 Elie Bursztein 和 Marianna Tishchenko为网络防御者提供人工智能支持对于在与网络犯罪分子的斗争中扭转网络安全平衡并确保用户安全至关重要。为了帮助加速人工智能在网络安全工作流程中的采用，我们在 DEF CON 33 上与空中客车公司合作举办了 GenSec Capture the Flag (CTF)，致力于网络安全领域的人与人工智能协作。我们的目标是创建一个有趣的互动环境，让不同技能水平的参与者可以探索 AI 如何加速他们的日常网络安全工作流程。在 GenSec CTF 上，近 500 名参与者成功完成了入门挑战，其中 23% 的参与者使用人工智能进行网络安全非常第一次。绝大多数参与者中的 85% 认为该活动对于了解如何将人工智能应用于安全工作流程很有帮助。这一积极反馈凸显了以 AI 为中心的 CTF 在加速安全社区的 AI 教育和采用方面可以发挥至关重要的作用。CTF 还为社区提供了一个宝贵的机会，让他们能够使用 Google 的实验性网络安全 AI Sec-Gemini，作为用户界面中与主要法学硕士一起使用的可选助手。我们收到了有关 Sec-Gemini 的良好反馈，77% 的受访者表示，他们发现 Sec-Gemini 在帮助他们解决挑战方面“非常有帮助”或“非常有帮助”。我们要感谢 DEF CON 社区的热情参与，并使本次首届活动取得圆满成功。活动期间的社区反馈对于了解如何改进 Sec-Gemini 非常宝贵，我们已经将一些经验教训融入到下一次迭代中。我们致力于推进人工智能网络安全前沿，并将继续与社区合作，构建有助于保护人们上网的工具。请继续关注，我们计划与更广泛的社区分享更多来自 CTF 的研究和重要经验。]]></description>
+      <guid>http://security.googleblog.com/2025/09/accelerating-adoption-of-ai-for.html</guid>
+      <pubDate>Wed, 24 Sep 2025 18:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>支持 Rowhammer 研究以保护 DRAM 生态系统</title>
+      <link>http://security.googleblog.com/2025/09/supporting-rowhammer-research-to.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/09/supporting-rowhammer-research-to.html</guid>
+      <pubDate>Mon, 15 Sep 2025 17:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pixel 和 Android 如何通过 C2PA 内容凭证为您的图像带来新的信任级别</title>
+      <link>http://security.googleblog.com/2025/09/pixel-android-trusted-images-c2pa-content-credentials.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/09/pixel-android-trusted-images-c2pa-content-credentials.html</guid>
+      <pubDate>Wed, 10 Sep 2025 15:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 的 pKVM 成为首个获得著名的 SESIP 5 级安全认证的全球认证软件</title>
+      <link>http://security.googleblog.com/2025/08/Android-pKVM-Certified-SESIP-Level-5.html</link>
+      <description><![CDATA[发布者：Android 安全与隐私工程副总裁 Dave Kleidermacher
+
+今天标志着开源安全和消费电子产品未来的分水岭和新基准。 Google 自豪地宣布，为 Android 虚拟化框架提供支持的管理程序受保护的 KVM (pKVM) 已正式获得SESIP 5 级认证。这使得 pKVM 成为第一个专为消费电子产品大规模部署而设计的软件安全系统，以满足这一保证标准。 支持下一代 Android 功能
+
+
+对安全移动技术未来的影响是深远的。凭借这种级别的安全保证，Android 现在能够安全地支持下一代高关键性隔离工作负载。这包括重要的功能，例如可以在超个性化数据上运行的设备上人工智能工作负载，并具有最高的隐私和完整性保证。
+
+
+此认证需要由全球认可的网络安全认证实验室 Dekra 进行实际评估，该实验室针对 TrustCB SESIP 方案 进行了评估，符合EN-17927。实现物联网平台安全评估标准 (SESIP) 5 级具有里程碑意义，因为它包含了 AVA_VAN.5，即 ISO 15408（通用标准）标准下最高级别的漏洞分析和渗透测试。经过此级别认证的系统已被评估为能够抵抗可能拥有内部知识和访问权限的高技能、知识渊博、动机良好且资金充足的攻击者。
+
+
+该认证是下一代Android多层安全策略的基石。业界使用的许多TEE（可信执行环境）尚未经过正式认证或仅实现了较低级别的安全保障。这种不一致给希望构建需要强大且可验证的安全级别的高度关键应用程序的开发人员带来了挑战。经过认证的 pKVM 完全改变了这种模式。它提供了一个单一、开源且质量极高的固件基础，所有设备制造商都可以在此基础上进行构建。
+
+
+展望未来，Android 设备制造商将需要使用满足设备所依赖的各种安全操作相同安全级别的隔离技术。受保护的 KVM 确保每个用户都能从一致、透明且可验证的安全基础中受益。
+协作努力
+
+
+这一成就只是 Linux 和 KVM 开发者社区以及 Google 多个工程团队多年来为开发 pKVM 和 AVF 所做的巨大贡献的一个重要方面。我们期待看到开源社区和 Android 生态系统继续在此基础上构建，为用户带来高保障移动技术的新时代。
+]]></description>
+      <guid>http://security.googleblog.com/2025/08/Android-pKVM-Certified-SESIP-Level-5.html</guid>
+      <pubDate>Tue, 12 Aug 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSS Rebuild 简介：开源，重建至最后</title>
+      <link>http://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html</guid>
+      <pubDate>Mon, 21 Jul 2025 21:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 上 Chrome 的高级保护</title>
+      <link>http://security.googleblog.com/2025/07/advancing-protection-in-chrome-on.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/07/advancing-protection-in-chrome-on.html</guid>
+      <pubDate>Tue, 08 Jul 2025 17:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过分层防御策略缓解即时注入攻击</title>
+      <link>http://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html</guid>
+      <pubDate>Fri, 13 Jun 2025 16:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>维持数字证书安全 - Chrome 根存储区即将发生的变化</title>
+      <link>http://security.googleblog.com/2025/05/sustaining-digital-certificate-security-chrome-root-store-changes.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/05/sustaining-digital-certificate-security-chrome-root-store-changes.html</guid>
+      <pubDate>Fri, 30 May 2025 14:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>跟踪量子保理的成本</title>
+      <link>http://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html</guid>
+      <pubDate>Fri, 23 May 2025 11:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年 Android 安全和隐私方面的新变化</title>
+      <link>http://security.googleblog.com/2025/05/whats-new-in-android-security-privacy-2025.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/05/whats-new-in-android-security-privacy-2025.html</guid>
+      <pubDate>Tue, 13 May 2025 16:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>高级保护：Google 为移动设备提供的最强安全保护</title>
+      <link>http://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html</guid>
+      <pubDate>Tue, 13 May 2025 16:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 AI 阻止 Chrome 中的技术支持诈骗</title>
+      <link>http://security.googleblog.com/2025/05/using-ai-to-stop-tech-support-scams-in.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/05/using-ai-to-stop-tech-support-scams-in.html</guid>
+      <pubDate>Thu, 08 May 2025 16:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌宣布推出 Sec-Gemini v1，一种新的实验性网络安全模型</title>
+      <link>http://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html</guid>
+      <pubDate>Fri, 04 Apr 2025 18:53:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>驯服 ML 的狂野西部：使用 Sigstore 进行实用模型签名</title>
+      <link>http://security.googleblog.com/2025/04/taming-wild-west-of-ml-practical-model.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2025/04/taming-wild-west-of-ml-practical-model.html</guid>
+      <pubDate>Fri, 04 Apr 2025 17:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

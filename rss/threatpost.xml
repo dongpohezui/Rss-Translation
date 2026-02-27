@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>威胁站</title>
+    <link>https://threatpost.com</link>
+    <description>安全新闻第一站</description>
+    <lastBuildDate>Fri, 27 Feb 2026 15:20:58 GMT</lastBuildDate>
+    <item>
+      <title>学生贷款违规行为暴露 250 万条记录</title>
+      <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
+      <description><![CDATA[250 万人受到影响，此次泄露可能会带来更多麻烦。]]></description>
+      <guid>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</guid>
+      <pubDate>Wed, 31 Aug 2022 12:57:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>水坑攻击推送 ScanBox 键盘记录器</title>
+      <link>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</link>
+      <description><![CDATA[研究人员发现了可能由 APT TA423 发起的水坑攻击，该攻击试图植入基于 JavaScript 的 ScanBox 侦察工具。]]></description>
+      <guid>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</guid>
+      <pubDate>Tue, 30 Aug 2022 16:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>“0ktapus”威胁组织的触角使 130 家公司受害</title>
+      <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+      <description><![CDATA[超过 130 家公司卷入了大规模的网络钓鱼活动，该活动欺骗了多因素身份验证系统。]]></description>
+      <guid>https://threatpost.com/0ktapus-victimize-130-firms/180487/</guid>
+      <pubDate>Mon, 29 Aug 2022 14:56:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>勒索软件攻击呈上升趋势</title>
+      <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
+      <description><![CDATA[Lockbit 是今年夏天迄今为止最多产的勒索软件组织，紧随其后的是 Conti 组织的两个分支。]]></description>
+      <guid>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</guid>
+      <pubDate>Fri, 26 Aug 2022 16:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络犯罪分子正在出售中国监控摄像头的使用权</title>
+      <link>https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/</link>
+      <description><![CDATA[数以万计的摄像头未能修补 11 个月前的关键 CVE，导致数千个组织暴露在风险之下。]]></description>
+      <guid>https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/</guid>
+      <pubDate>Thu, 25 Aug 2022 18:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twitter 举报人投诉：TL;DR 版本</title>
+      <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
+      <description><![CDATA[推特因安全和隐私漏洞而受到该公司前安全主管的严厉批评，他声称这家社交媒体巨头的行为构成了国家安全风险。]]></description>
+      <guid>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</guid>
+      <pubDate>Wed, 24 Aug 2022 14:17:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>主动攻击下的防火墙漏洞触发 CISA 警告</title>
+      <link>https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</link>
+      <description><![CDATA[CISA 警告帕洛阿尔托网络公司的 PAN-OS 正受到主动攻击，需要尽快修补。]]></description>
+      <guid>https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</guid>
+      <pubDate>Tue, 23 Aug 2022 13:19:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>虚假预订链接吸引疲惫的旅客</title>
+      <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
+      <description><![CDATA[虚假的旅行预订给已经厌倦了旅行的人带来更多的痛苦，他们已经在应对航班取消和酒店超额预订的痛苦。]]></description>
+      <guid>https://threatpost.com/reservation-links-prey-on-travelers/180462/</guid>
+      <pubDate>Mon, 22 Aug 2022 13:59:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 用户被敦促更新补丁 2 零日</title>
+      <link>https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/</link>
+      <description><![CDATA[对 macOS 和 iOS 的单独修复分别修补了内核和 WebKit 中的各自缺陷，这些缺陷可能允许威胁行为者接管设备并受到攻击。]]></description>
+      <guid>https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/</guid>
+      <pubDate>Fri, 19 Aug 2022 15:25:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌修补了 Chrome 今年第五个零日漏洞</title>
+      <link>https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/</link>
+      <description><![CDATA[验证输入不足的缺陷是本周更新中修复的 11 个缺陷之一，该缺陷可能允许执行任意代码，并且正在受到主动攻击。]]></description>
+      <guid>https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/</guid>
+      <pubDate>Thu, 18 Aug 2022 14:31:38 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
