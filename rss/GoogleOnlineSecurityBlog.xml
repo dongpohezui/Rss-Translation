@@ -4,7 +4,7 @@
     <title>Google 在线安全博客</title>
     <link>http://security.googleblog.com/</link>
     <description>Google 关于互联网安全的最新新闻和见解。</description>
-    <lastBuildDate>Mon, 30 Mar 2026 12:50:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:43:57 GMT</lastBuildDate>
     <item>
       <title>量子时代的安全：在 Android 中实现后量子密码学</title>
       <link>http://security.googleblog.com/2026/03/post-quantum-cryptography-in-android.html</link>
@@ -69,7 +69,7 @@
       <pubDate>Wed, 03 Dec 2025 16:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Android 快速共享对 AirDrop 的支持：跨平台文件共享的安全方法</title>
+      <title>Android 快速共享支持 AirDrop：跨平台文件共享的安全方法</title>
       <link>http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html</link>
       <description><![CDATA[]]></description>
       <guid>http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html</guid>
