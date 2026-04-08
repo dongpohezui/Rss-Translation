@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>克雷布斯谈安全</title>
+    <link>https://krebsonsecurity.com</link>
+    <description>深入的安全新闻和调查</description>
+    <lastBuildDate>Wed, 08 Apr 2026 11:11:39 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯黑客入侵路由器窃取微软 Office 令牌</title>
+      <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
+      <description><![CDATA[安全专家今天警告说，与俄罗斯军事情报部门有联系的黑客正在利用旧版互联网路由器中的已知缺陷来大量获取 Microsoft Office 用户的身份验证令牌。这次间谍活动使国家支持的俄罗斯黑客能够在不部署任何恶意软件或代码的情况下悄悄从 18,000 多个网络上的用户那里窃取身份验证令牌。]]></description>
+      <guid>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</guid>
+      <pubDate>Tue, 07 Apr 2026 17:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国 Doxes“UNKN”，RU 勒索软件团伙 REvil、GandCrab 头目</title>
+      <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
+      <description><![CDATA[一位难以捉摸的黑客，以“UNKN”为名，运营着早期的俄罗斯勒索软件组织 GandCrab 和 REvil，现在有了名字和面孔。德国当局表示，31 岁的俄罗斯人丹尼尔·马克西莫维奇·舒金 (Daniil Maksimovich Shchukin) 领导着两个网络犯罪团伙，并在 2019 年至 2021 年间帮助在全国各地实施了至少 130 起针对受害者的计算机破坏和勒索行为。]]></description>
+      <guid>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</guid>
+      <pubDate>Mon, 06 Apr 2026 02:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>“CanisterWorm”针对伊朗发起雨刮器攻击</title>
+      <link>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</link>
+      <description><![CDATA[一个出于经济动机的数据盗窃和勒索组织正试图将自己卷入伊朗战争，释放一种蠕虫病毒，该蠕虫病毒通过安全性较差的云服务进行传播，并擦除使用伊朗时区或将波斯语设置为默认语言的受感染系统上的数据。]]></description>
+      <guid>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</guid>
+      <pubDate>Mon, 23 Mar 2026 15:43:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦政府破坏了大规模 DDoS 攻击背后的物联网僵尸网络</title>
+      <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+      <description><![CDATA[美国司法部与加拿大和德国当局一起拆除了四个极具破坏性的僵尸网络背后的在线基础设施，这些网络基础设施破坏了超过 300 万台被黑客入侵的物联网 (IoT) 设备，例如路由器和网络摄像头。联邦政府表示，这四个僵尸网络——Aisuru、Kimwolf、JackSkid 和 Mossad——最近发起了一系列创纪录的分布式拒绝服务 (DDoS) 攻击，这些攻击能够使几乎所有目标离线。]]></description>
+      <guid>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗支持的黑客声称对医疗技术公司 Stryker 进行雨刮器攻击</title>
+      <link>https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</link>
+      <description><![CDATA[一个与伊朗情报机构有联系的黑客组织声称对针对总部位于密歇根州的全球医疗技术公司史赛克 (Stryker) 的数据擦除攻击负责。来自爱尔兰（史赛克在美国以外最大的枢纽）的新闻报道称，该公司今天已将 5,000 多名工人遣返回国。与此同时，史赛克美国主要总部的语音邮件显示，该公司目前正在经历建筑紧急情况。]]></description>
+      <guid>https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</guid>
+      <pubDate>Wed, 11 Mar 2026 16:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 补丁 2026 年 3 月星期二版</title>
+      <link>https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</link>
+      <description><![CDATA[微软公司今天推出了安全更新，修复了其 Windows 操作系统和其他软件中的至少 77 个漏洞。本月没有紧迫的“零日”缺陷（与二月份的五个零日漏洞相比），但与往常一样，一些补丁可能值得使用 Windows 的组织更快地关注。以下是本月补丁星期二的一些亮点。]]></description>
+      <guid>https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能助理如何移动安全目标</title>
+      <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
+      <description><![CDATA[基于人工智能的助手或“代理”——可以访问用户的计算机、文件、在线服务并可以自动执行几乎任何任务的自主程序——越来越受到开发人员和 IT 员工的欢迎。但正如过去几周许多令人瞠目结舌的头条新闻所表明的那样，这些强大而自信的新工具正在迅速改变组织的安全优先事项，同时模糊了数据和代码、值得信赖的同事和内部威胁、忍者黑客和新手代码骑师之间的界限。]]></description>
+      <guid>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</guid>
+      <pubDate>Sun, 08 Mar 2026 23:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kimwolf 机器人大师“Dort”是谁？</title>
+      <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
+      <description><![CDATA[2026 年 1 月上旬，KrebsOnSecurity 披露了一名安全研究人员如何披露一个用于组装世界上最大、最具破坏性的僵尸网络 Kimwolf 的漏洞。从那时起，Kimwolf 的控制者（昵称为“Dort”）协调了针对研究人员和本文作者的一系列分布式拒绝服务 (DDoS)、人肉搜索和电子邮件泛滥攻击，最近还导致特警队被派往研究人员的家中。这篇文章根据公共信息探讨了有关多特的已知信息。]]></description>
+      <guid>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</guid>
+      <pubDate>Sat, 28 Feb 2026 12:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Starkiller”网络钓鱼服务代理真实登录页面，MFA</title>
+      <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
+      <description><![CDATA[大多数网络钓鱼网站只不过是流行在线目的地的登录页面的静态副本，并且它们通常很快就会被反滥用活动人士和安全公司拿下。但一种隐秘的新型网络钓鱼即服务产品可以让客户避开这两个陷阱：它使用巧妙伪装的链接来加载目标品牌的真实网站，然后充当目标和合法网站之间的中继——将受害者的用户名、密码和多重身份验证 (MFA) 代码转发到合法网站并返回其响应。]]></description>
+      <guid>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</guid>
+      <pubDate>Fri, 20 Feb 2026 20:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kimwolf 僵尸网络淹没了匿名网络 I2P</title>
+      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
+      <description><![CDATA[过去一周，名为 Kimwolf 的大规模“物联网”(IoT) 僵尸网络一直在扰乱隐形互联网项目 (I2P)，这是一个分散的加密通信网络，旨在匿名和保护在线通信。 I2P 用户开始报告网络中断，大约在 Kimwolf 僵尸大师开始依靠它来逃避针对僵尸网络控制服务器的攻击尝试的同时。]]></description>
+      <guid>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
+      <pubDate>Wed, 11 Feb 2026 16:08:11 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

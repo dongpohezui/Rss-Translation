@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>安全列表</title>
+    <link>https://securelist.com</link>
+    <description></description>
+    <lastBuildDate>Wed, 08 Apr 2026 11:11:24 GMT</lastBuildDate>
+    <item>
+      <title>2025 年金融网络威胁和 2026 年展望</title>
+      <link>https://securelist.com/financial-threat-report-2025/119304/</link>
+      <description><![CDATA[在这份报告中，卡巴斯基专家分享了他们对 2025 年金融威胁形势的见解，包括网络钓鱼、PC 恶意软件和信息窃取者的区域统计数据和趋势。]]></description>
+      <guid>https://securelist.com/financial-threat-report-2025/119304/</guid>
+      <pubDate>Wed, 08 Apr 2026 09:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>会笑的老鼠：CrystalX 结合了间谍软件、盗窃软件和恶作剧软件的功能</title>
+      <link>https://securelist.com/crystalx-rat-with-prankware-features/119283/</link>
+      <description><![CDATA[卡巴斯基研究人员分析了一种以 MaaS 形式分发的新 CrystalX RAT，该 RAT 具有广泛的间谍软件、窃取程序和恶作剧软件功能。]]></description>
+      <guid>https://securelist.com/crystalx-rat-with-prankware-features/119283/</guid>
+      <pubDate>Wed, 01 Apr 2026 06:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>旨在窃取您数据的人工智能网关</title>
+      <link>https://securelist.com/litellm-supply-chain-attack/119257/</link>
+      <description><![CDATA[剖析对 LiteLLM（许多 AI 代理中使用的多功能网关）的供应链攻击。解释恶意代码的危险以及如何保护自己。]]></description>
+      <guid>https://securelist.com/litellm-supply-chain-attack/119257/</guid>
+      <pubDate>Thu, 26 Mar 2026 11:01:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coruna：三角测量行动中使用的框架</title>
+      <link>https://securelist.com/coruna-framework-updated-operation-triangulation-exploit/119228/</link>
+      <description><![CDATA[卡巴斯基 GReAT 专家研究了针对 iPhone 的 Coruna 漏洞利用工具包。我们发现 CVE-2023-32434 和 CVE-2023-38606 的内核漏洞是三角测量操作漏洞的更新版本。]]></description>
+      <guid>https://securelist.com/coruna-framework-updated-operation-triangulation-exploit/119228/</guid>
+      <pubDate>Thu, 26 Mar 2026 08:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络世界剖析 2026 年全球报告</title>
+      <link>https://securelist.com/global-report-security-services-2026/119233/</link>
+      <description><![CDATA[卡巴斯基安全服务报告描述了托管检测和响应服务揭示的网络攻击趋势和统计数据。该报告还包括基于 2025 年发现和缓解的现实案例的事件响应调查结果。]]></description>
+      <guid>https://securelist.com/global-report-security-services-2026/119233/</guid>
+      <pubDate>Wed, 25 Mar 2026 11:00:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOC 文件：“Sapecar”时间到了。揭开墨西哥新的 Horabot 营销活动的面纱</title>
+      <link>https://securelist.com/horabot-campaign/119033/</link>
+      <description><![CDATA[卡巴斯基 SOC 发现并分析了墨西哥发生的复杂的 Horabot 活动。在本文中，我们将分享有关它是如何释放以及如何寻找这种威胁的见解。]]></description>
+      <guid>https://securelist.com/horabot-campaign/119033/</guid>
+      <pubDate>Wed, 18 Mar 2026 11:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费房地产：GoPix，依靠您记忆生存的银行木马</title>
+      <link>https://securelist.com/gopix-banking-trojan/119173/</link>
+      <description><![CDATA[卡巴斯基 GReAT 专家描述了前所未有的复杂巴西银行木马 GoPix，该木马采用仅内存植入、代理自动配置 (PAC) 文件进行中间人攻击，并通过 Google Ads 进行恶意广告。]]></description>
+      <guid>https://securelist.com/gopix-banking-trojan/119173/</guid>
+      <pubDate>Mon, 16 Mar 2026 11:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>BeatBanker：双模式 Android 木马</title>
+      <link>https://securelist.com/beatbanker-miner-and-banker/119121/</link>
+      <description><![CDATA[卡巴斯基研究人员发现了一种名为 BeatBanker 的新 Android 木马，针对巴西，冒充政府应用程序和 Google Play 商店，能够进行加密货币挖掘和窃取银行数据。]]></description>
+      <guid>https://securelist.com/beatbanker-miner-and-banker/119121/</guid>
+      <pubDate>Tue, 10 Mar 2026 10:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年第 4 季度的漏洞利用和漏洞</title>
+      <link>https://securelist.com/vulnerabilities-and-exploits-in-q4-2025/119105/</link>
+      <description><![CDATA[该报告提供了我们在 2025 年第四季度研究的已发布漏洞和利用的统计数据。它还包括有关 APT 攻击中使用 C2 框架的摘要数据。]]></description>
+      <guid>https://securelist.com/vulnerabilities-and-exploits-in-q4-2025/119105/</guid>
+      <pubDate>Fri, 06 Mar 2026 10:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年移动恶意软件的演变</title>
+      <link>https://securelist.com/mobile-threat-report-2025/119076/</link>
+      <description><![CDATA[Android 恶意软件和 2025 年最显着的移动威胁的统计数据：预装后门 Keenadu 和 Triada、间谍软件木马、Kimwolf IoT 僵尸网络和 Mamont 银行木马。]]></description>
+      <guid>https://securelist.com/mobile-threat-report-2025/119076/</guid>
+      <pubDate>Wed, 04 Mar 2026 10:00:46 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

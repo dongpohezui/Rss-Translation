@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>凯文·博蒙特在 Medium 上的故事</title>
+    <link>https://medium.com/@networksecurity?source=rss-7db6d2df42a6------2</link>
+    <description>凯文·博蒙特在 Medium 上的故事</description>
+    <lastBuildDate>Wed, 08 Apr 2026 11:11:32 GMT</lastBuildDate>
+    <item>
+      <title>圣诞节快乐！发生 MongoDB 安全事件。</title>
+      <link>https://doublepulsar.com/merry-christmas-day-have-a-mongodb-security-incident-9537f54289eb?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[Elastic Security 的某人决定在圣诞节那天发布 CVE-2025-14847 漏洞。这里是所说的漏洞：GitHub - joe-desimone/mongobleed该漏洞在圣诞节前夕发布，理论上允许内存读取而无需认证。补丁可用。它影响了大约十年前的 MongoDB 的每个版本。另一家供应商认为在平安夜发布技术细节是个好主意：https://www.ox.security/blog/attackers-could-exploit-zlib-to-exfiltrate-data-cve-2025-14847/该漏洞已于昨天发布，现已发布第一次公开利用。它被称为 MongoBleed，类似于 CitrixBleed。我已经验证了该漏洞是真实的，您只需提供 MongoDB 实例的 IP 地址，它就会开始在内存中搜索数据库密码（纯文本）、AWS 密钥等内容。该漏洞也专门查找这些类别的凭证和机密。MongoDB 的互联网足迹非常大，超过 20 万个实例。由于现在利用这一点非常简单 — 该栏已被删除 — 预计大规模利用和相关安全事件的可能性很高。漏洞利用作者没有提供有关如何通过 Elastic 等产品检测日志中的漏洞利用的详细信息。建议保持冷静并修补面向互联网的资产。圣诞节快乐！发生了 MongoDB 安全事件。 最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示并回应这个故事来继续对话。]]></description>
+      <guid>https://doublepulsar.com/merry-christmas-day-have-a-mongodb-security-incident-9537f54289eb?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Fri, 26 Dec 2025 16:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络安全行业对 React 漏洞反应过度，开始恐慌，再次烧毁自己的房子</title>
+      <link>https://doublepulsar.com/cybersecurity-industry-overreacts-to-react-vulnerability-starts-panic-burns-own-house-down-again-e85c10ad1607?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[几天前，CVE-2025-55182 与一篇出色的文章一起被披露：https://react.dev/blog/2025/12/03/ritic-security-vulnerability-in-react-server-components披露的文章很棒 — 它充满了事实，并解释了你什么时候是、什么时候不是我认为没有人知道如何解析它，人们甚至在知道自己在做什么之前就开始采取行动。要变得容易受到攻击，你必须运行：React v19 — 去年发布使用 React Server Components — 一个新功能，也是在去年这是一个利基设置。绝大多数组织还没有这种设置，更不用说面向互联网了。该漏洞在维护人员首次在新功能中引入后很快就被发现了，因此如果组织也能快速使用它，就可以修复它。Next.js 的情况也是如此，您需要使用新版本并使用 React Server 组件才能受到攻击 ——这是全新的。如果您像“React Router 有漏洞！”你是对的，但情况是一样的 — 你需要使用新版本，并且也启用了对 React Server 组件的实验性支持。过度反应LinkedIn 绝对挤满了分享世界末日警告和虚假概念证明的人。人们正在互联网上喷洒试图利用这一漏洞这个 — 尝试是关键词 — 所以人们对此也感到崩溃。InfoSecCloudflare通过急于做出改变，成功地在全球范围内关闭了他们的网络，摧毁了每个客户网站和大约四分之一的互联网：实际应该做什么冷静下来。检查。与您的开发人员和供应商联系（如果他们还使用 React v19）。他们很可能不会，在这种情况下你就不会受到攻击。如果他们这样做了，请冷静地查明他们是否使用 React Server 组件。他们很可能不会，这样你就不会受到攻击。然后，如果需要的话，打补丁。末日还没有到来，云还没有塌下来，不要因为网络安全行业的警告而像旅鼠一样从悬崖上逃跑。主要动机是吓唬，这不是一个好的动机。网络安全行业对 React 漏洞反应过度，开始恐慌，再次烧毁自己的房子最初发表在 Medium 上的 DoublePulsar 上，人们在其中通过突出显示并回应这个故事来继续对话。]]></description>
+      <guid>https://doublepulsar.com/cybersecurity-industry-overreacts-to-react-vulnerability-starts-panic-burns-own-house-down-again-e85c10ad1607?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Fri, 05 Dec 2025 11:21:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>少数 Notepad++ 用户报告安全问题</title>
+      <link>https://doublepulsar.com/small-numbers-of-notepad-users-reporting-security-woes-371d7a3fd2d9?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://doublepulsar.com/small-numbers-of-notepad-users-reporting-security-woes-371d7a3fd2d9?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Tue, 02 Dec 2025 19:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>组织可以从 Capita 勒索软件事件破纪录的罚款中学到什么</title>
+      <link>https://doublepulsar.com/what-organisations-can-learn-from-the-record-breaking-fine-over-capitas-ransomware-incident-6afbdfcdd35b?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://doublepulsar.com/what-organisations-can-learn-from-the-record-breaking-fine-over-capitas-ransomware-incident-6afbdfcdd35b?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Thu, 20 Nov 2025 23:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cyber​​Slop — 认识新的威胁参与者、MIT 和 Safe Security</title>
+      <link>https://doublepulsar.com/cyberslop-meet-the-new-threat-actor-mit-and-safe-security-d250d19d02a4?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://doublepulsar.com/cyberslop-meet-the-new-threat-actor-mit-and-safe-security-d250d19d02a4?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Mon, 03 Nov 2025 18:44:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软在 Recall 的基础上构建了 Gaming Copilot  -  未通过基本隐私测试</title>
+      <link>https://doublepulsar.com/microsoft-builds-on-recall-with-gaming-copilot-fails-basic-privacy-tests-52988576bcc8?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[Microsoft 在 Recall 的基础上构建了 Gaming Copilot  -  未通过基本隐私测试您可能还记得我关于 Microsoft Recall 的博客：回想一下：现在可以窃取您在自己的 Windows PC 上输入或查看过的所有内容。通过 Windows 11，Microsoft 目前正在向所有客户推出 Gaming Copilot。它使用 Copilot Vision（类似于 Recall），基本上使用 AI 检查游戏玩家正在做什么，以便为他们提供提示和技巧等。Microsoft 开始在 Windows 11 上推出 Gaming Copilot PC该软件被标记为测试版，但无论如何都会被推送到现有的 PC，因为..好吧..为什么不在产品中测试一些东西，毕竟已经是 2025 年了。它出现在游戏栏中，可以通过 Windows 键 + G 访问。您可能还没有它，因为他们正在分阶段部署。我不在 Windows 预览体验成员中，但我安装了它  -  所以看起来它的推广正在变得越来越广泛。请注意，我已从电脑上卸载了 Copilot…但 Gaming Copilot 仍然以静默方式安装。用户界面如下所示：没有入门步骤，也没有通知它已安装，并且没有选择隐私选项。我在英国，所以我很惊讶。默认情况下，它会默默地捕获游戏的屏幕截图：其工作原理基本上是 Copilot Vision AI：现在 Microsoft 的 Copilot Vision AI 可以扫描屏幕上的所有内容它与 Recall 类似，只是并非所有处理都在本地完成  - 它依赖于云。它会截取游戏玩法的屏幕截图，然后提取屏幕元素（例如符号和文本）以了解玩家正在做什么。这个想法是它可以帮助你玩游戏，例如您可以询问有关您在特定时刻在游戏中进行的操作的问题。网络流量设置为向 Microsoft 提供关于游戏玩家正在玩什么和做什么的信息，使用 Azure  上托管的当前未记录的端点 —  至少我找不到 Microsoft 网站或 Google 搜索上任何位置列出的端点。默认情况下，它还设置为在文本上训练 Microsoft 的 AI 模型，并记录对话和推断的兴趣“个性化您的体验”，根据链接的 Microsoft 在线隐私政策，该体验可能会用于广告等用途。您可以从游戏栏中禁用 Gaming Copilot 小部件，但从目前的实验来看，网络流量仍然在用户界面未打开的情况下运行 — 我不知道这是一个功能还是一个错误。我的意见是微软需要为此在游戏栏之外添加一个入门向导，默认关闭文本和屏幕截图的模型训练 — 人们应该选择加入 — 并且非常清楚此功能是如何工作的。我仍在关注网络安全影响 — 更多的是，它很时髦，因为它为 Windows 11 PC 增加了新的攻击面。Microsoft 在 Recall 上构建了 Gaming Copilot — 未通过基本隐私测试 最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示和回复来继续对话到这个故事。]]></description>
+      <guid>https://doublepulsar.com/microsoft-builds-on-recall-with-gaming-copilot-fails-basic-privacy-tests-52988576bcc8?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Thu, 23 Oct 2025 10:01:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>红帽咨询违规事件使 5000 多家知名企业客户面临风险 — 详细信息</title>
+      <link>https://doublepulsar.com/red-hat-consulting-breach-puts-over-5000-high-profile-enterprise-customers-at-risk-in-detail-90114f18f706?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[红帽咨询违规行为使 5000 多家知名企业客户面临风险 — 详情上周，一个名为 Crimson Collective 的鲜为人知的勒索组织引起了我的注意。当时他们在 Telegram 上只有 22 名关注者。红帽当天晚些时候确认了此次泄露，并开始通知受影响的客户。红帽咨询是进入大型企业处理复杂技术问题的顾问。很明显，他们围绕客户的文档和源代码已被盗。Brian Krebs 注意到一些有趣的事情：据称，Miku 是 Thalha Jubair 的 Telegram 用户名，Thalha Jubair 是一位因 LAPSUS$ 闻名的英国青少年。在 NCA 指控塔尔哈是分散蜘蛛组织成员后，塔尔哈应该被还押候审：https://www.nationalcrimeagency.gov.uk/news/two-charged-for-tfl-cyber-attack值得注意的是Crimson Collective 列出的第一个受害者是电信公司 Claro ——2021 年 LAPSUS$ 的第一个受害者。此外，通过 Red Hat Collective 黑客攻击，他们在屏幕截图中突出显示了沃达丰 —— 他们也是 2022 年 LAPSUS$ 的目标。快进到周末，分散的 LAPSUS$ 猎人在他们新成立的门户网站上发布了红帽的条目：该门户具有 LAPSUS$ 活动的所有特征，例如，拼写以前拼写过的单词、HTML 评论中的随意种族主义、笑话和……口袋妖怪曲调。红帽妥协日期列出的时间为 2025 年 9 月 13 日，即 Thalha 被指控参与伦敦交通黑客攻击之前。该数据是合法的。他们发布了一个文件树作为证据，涉及 370,852 个目录、3,438,976 个文件。他们还发布了 7 个组织的 CER 样本 — 咨询参与报告 — ：AIR、AMEX_GBT、Atos_Group（NHS Scotland）、BOC、HSBC 和 Walmart。https://medium.com/media/c619dac5f0d8c1c017f2f63b7579ffec/href今天早些时候，他们又发布了 Red 的 2.2GB 样本数据Hat ——这是一个 ZIP 文件，其中包含我见过的最长的文件树。显示超过 3200 万个文件被盗。文件树表明超过 5000 个企业组织受到影响，其中包括咨询参与报告、源代码和其他与所述客户相关的信息。某些数据显然是敏感的，例如.pfx 文件示例（私有证书，切勿公开） — 在本例中为 ING 银行和达美航空公司：我的感觉 — 红帽不应该支付勒索费用，因为这会鼓励更多此类攻击，如果 Thalha 仍被拘留，有人可能想检查他是否有 Amazon Fire Stick。受影响的组织应联系红帽咨询支持，获取被盗文件 —并采取补救措施，例如：更改证书、存储的凭证等，并假设所有文件将来都会公开，因为很明显它们已经在网上进行了交易。如果需要，您可以在 Mastodon 上关注我以获取有关此主题的更新。红帽咨询违规行为使 5000 多家知名企业客户面临风险 — 详细信息 最初发布于 DoublePulsar 在 Medium 上，人们通过突出显示并回应这个故事来继续对话。]]></description>
+      <guid>https://doublepulsar.com/red-hat-consulting-breach-puts-over-5000-high-profile-enterprise-customers-at-risk-in-detail-90114f18f706?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Mon, 06 Oct 2025 19:51:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>商业中的大象：关键 IT 和网络安全功能外包给英国经济带来风险……</title>
+      <link>https://doublepulsar.com/the-elephant-in-the-biz-outsourcing-of-critical-it-and-cybersecurity-functions-risks-uk-economic-96205e0585bf?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://doublepulsar.com/the-elephant-in-the-biz-outsourcing-of-critical-it-and-cybersecurity-functions-risks-uk-economic-96205e0585bf?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Mon, 15 Sep 2025 20:20:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Citrix Netscaler 后门 — 第一部分 — 2025 年 5 月针对政府的活动</title>
+      <link>https://doublepulsar.com/citrix-netscaler-backdoors-part-one-may-2025-activity-against-governments-f48037199c3f?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://doublepulsar.com/citrix-netscaler-backdoors-part-one-may-2025-activity-against-governments-f48037199c3f?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Sun, 31 Aug 2025 17:52:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Citrix 忘记告诉您 CVE-2025–6543 自 2025 年 5 月起已被用作零日漏洞</title>
+      <link>https://doublepulsar.com/citrix-forgot-to-tell-you-cve-2025-6543-has-been-used-as-a-zero-day-since-may-2025-d76574e2dd2c?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://doublepulsar.com/citrix-forgot-to-tell-you-cve-2025-6543-has-been-used-as-a-zero-day-since-may-2025-d76574e2dd2c?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Thu, 28 Aug 2025 19:27:40 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
