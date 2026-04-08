@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 08 Apr 2026 12:53:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:00:55 GMT</lastBuildDate>
+    <item>
+      <title>FortiGate CVE-2025-59718 漏洞利用：事件响应结果</title>
+      <link>https://www.rapid7.com/blog/post/ve-fortigate-cve-2025-59718-exploitation-incident-response-ir-findings</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ve-fortigate-cve-2025-59718-exploitation-incident-response-ir-findings</guid>
+      <pubDate>Wed, 08 Apr 2026 13:39:52 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 2026 全球网络安全峰会的演讲者阵容和议程一览</title>
       <link>https://www.rapid7.com/blog/post/it-speaker-lineup-first-look-agenda-rapid7-2026-global-cybersecurity-summit</link>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 26 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>从向量到判决：使用向量命令进行 Web 应用程序测试</title>
+      <title>从向量到判决：使用 Vector 命令进行 Web 应用程序测试</title>
       <link>https://www.rapid7.com/blog/post/pt-vectors-verdicts-web-app-testing-vector-command</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-vectors-verdicts-web-app-testing-vector-command</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/tr-accelerating-attack-cycle-2026-global-threat-landscape-report</guid>
       <pubDate>Wed, 18 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PACT 2026：Rapid7 合作伙伴更强大、更简单、更有利可图的道路</title>
-      <link>https://www.rapid7.com/blog/post/c-pact-2026-stronger-simpler-profitable-path-for-rapid7-partners</link>
-      <description><![CDATA[网络安全渠道正在快速发展。购买行为正在发生变化，客户正在重新思考如何评估解决方案。合作伙伴正在重新思考如何大规模交付价值。在这种环境下，供应商合作伙伴计划不能保持静态。大多数合作伙伴计划都是围绕适合供应商的内容构建的。我们继续选择不同的道路，询问我们的合作伙伴我们可以在哪些方面发展和改进。结果如何？ 有意义的更新2026 年 Rapid7 PACT 合作伙伴计划。精心设计，旨在提供更强大的经济效益、更简单的参与和更清晰的增长路径。Rapid7 PACT：在考虑合作伙伴反馈的基础上在过去的一年里，我们与全球生态系统中的合作伙伴进行了持续对话。这些讨论的基础是信任、坦诚和共同获胜的共同抱负。合作伙伴告诉我们哪里存在摩擦。他们告诉我们我们的经济需要在哪些方面更具竞争力。他们告诉我们，在哪些方面清晰、简单可以让我们更容易进入市场。2026 年 PACT 更新是我们对反馈的回应。Rapid7 &#39;PACT&#39; 合作伙伴计划是什么？PACT 是定义 Rapid7 如何与我们的全球经销商网络、托管安全服务提供商 (MSSP) 和分销商合作的框架。但 PACT 不仅仅是一个框架。它反映了我们对每次合作伙伴互动中的透明度、一致性和问责制的承诺。这些不是理想的价值观，而是指导我们如何在整个渠道生态系统中建立信任的运营原则。2026 年 PACT 的新增功能今年的更新重点关注四个核心领域，每个领域均由合作伙伴直接塑造更强的经济性：扩大的计划折扣、回扣和激励措施可以提高利润、可预测性和 MDR 竞争力。更简单的参与：我们的运营有两个明确的动议：交易注册和联合销售。从而减少摩擦并加快执行速度。白金合作伙伴级别：新的顶级合作伙伴认可并加速我们表现最好、最具战略意义的合作伙伴。技术冠军计划：对合作伙伴系统工程师的独家认可和访问，以加深技术协作和影响力。为什么现在这很重要能够赢得（并保留）合作伙伴关注度的供应商是将受欢迎的网络安全解决方案与简单、盈利且规模化的合作伙伴体验相结合的供应商。我们知道仅靠技术领先是不够的。与我们合作的经验必须与我们提供的解决方案一样丰富。 2026 年 PACT 更新体现了这一承诺。准备好与我们一起成长了吗？更新后的 2026 年 PACT 合作伙伴计划现已上线。无论您是正在探索变化的现有合作伙伴，还是考虑与 Rapid7 建立合作伙伴关系的组织，您都可以在 rapid7.com/partners 找到所需的一切。我们对未来感到兴奋，并且正在与合作伙伴一起构建它。]]></description>
-      <guid>https://www.rapid7.com/blog/post/c-pact-2026-stronger-simpler-profitable-path-for-rapid7-partners</guid>
-      <pubDate>Tue, 17 Mar 2026 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

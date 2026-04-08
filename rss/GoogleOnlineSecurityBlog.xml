@@ -4,7 +4,7 @@
     <title>Google 在线安全博客</title>
     <link>http://security.googleblog.com/</link>
     <description>Google 关于互联网安全的最新新闻和见解。</description>
-    <lastBuildDate>Wed, 08 Apr 2026 12:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:00:29 GMT</lastBuildDate>
     <item>
       <title>Google Workspace 持续减少间接提示注入的方法</title>
       <link>http://security.googleblog.com/2026/04/google-workspaces-continuous-approach.html</link>
@@ -83,7 +83,7 @@
       <pubDate>Wed, 03 Dec 2025 16:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Android 快速共享支持 AirDrop：跨平台文件共享的安全方法</title>
+      <title>Android 快速共享对 AirDrop 的支持：跨平台文件共享的安全方法</title>
       <link>http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html</link>
       <description><![CDATA[]]></description>
       <guid>http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html</guid>
