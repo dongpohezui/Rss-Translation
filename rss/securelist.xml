@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 08 Apr 2026 11:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 12:56:37 GMT</lastBuildDate>
+    <item>
+      <title>通向加密货币的漫长道路：ClipBanker 及其马拉松感染链</title>
+      <link>https://securelist.com/clipbanker-malware-distributed-via-trojanized-proxifier/119341/</link>
+      <description><![CDATA[威胁行为者正在分发伪装成 Proxifier 软件的木马；通过多阶段感染链，它提供了 ClipBanker——替换剪贴板中的加密货币钱包地址的恶意软件。]]></description>
+      <guid>https://securelist.com/clipbanker-malware-distributed-via-trojanized-proxifier/119341/</guid>
+      <pubDate>Thu, 09 Apr 2026 09:30:17 GMT</pubDate>
+    </item>
     <item>
       <title>2025 年金融网络威胁和 2026 年展望</title>
       <link>https://securelist.com/financial-threat-report-2025/119304/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[该报告提供了我们在 2025 年第四季度研究的已发布漏洞和利用的统计数据。它还包括有关 APT 攻击中使用 C2 框架的摘要数据。]]></description>
       <guid>https://securelist.com/vulnerabilities-and-exploits-in-q4-2025/119105/</guid>
       <pubDate>Fri, 06 Mar 2026 10:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年移动恶意软件的演变</title>
-      <link>https://securelist.com/mobile-threat-report-2025/119076/</link>
-      <description><![CDATA[Android 恶意软件和 2025 年最显着的移动威胁的统计数据：预装后门 Keenadu 和 Triada、间谍软件木马、Kimwolf IoT 僵尸网络和 Mamont 银行木马。]]></description>
-      <guid>https://securelist.com/mobile-threat-report-2025/119076/</guid>
-      <pubDate>Wed, 04 Mar 2026 10:00:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
