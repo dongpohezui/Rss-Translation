@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 09 Apr 2026 12:56:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 18:45:57 GMT</lastBuildDate>
+    <item>
+      <title>Rapid7 产品和服务的新增功能：2026 年第一季度回顾</title>
+      <link>https://www.rapid7.com/blog/post/pt-whats-new-rapid7-products-services-q1-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-whats-new-rapid7-products-services-q1-2026</guid>
+      <pubDate>Thu, 09 Apr 2026 12:46:35 GMT</pubDate>
+    </item>
     <item>
       <title>FortiGate CVE-2025-59718 漏洞利用：事件响应结果</title>
       <link>https://www.rapid7.com/blog/post/ve-fortigate-cve-2025-59718-exploitation-incident-response-ir-findings</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-preemptive-proactive-enhanced-cnapp-available-exposure-command</guid>
       <pubDate>Thu, 19 Mar 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>攻击周期正在加速：发布 Rapid7 2026 年全球威胁形势报告</title>
-      <link>https://www.rapid7.com/blog/post/tr-accelerating-attack-cycle-2026-global-threat-landscape-report</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/tr-accelerating-attack-cycle-2026-global-threat-landscape-report</guid>
-      <pubDate>Wed, 18 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
