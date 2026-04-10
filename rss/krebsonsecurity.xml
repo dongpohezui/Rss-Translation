@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Fri, 10 Apr 2026 12:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:38:46 GMT</lastBuildDate>
     <item>
       <title>俄罗斯黑客入侵路由器窃取微软 Office 令牌</title>
       <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>人工智能助理如何移动安全目标</title>
       <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
-      <description><![CDATA[基于人工智能的助手或“代理”——可以访问用户的计算机、文件、在线服务并可以自动执行几乎任何任务的自主程序——越来越受到开发人员和 IT 员工的欢迎。但正如过去几周许多令人瞠目结舌的头条新闻所表明的那样，这些强大而自信的新工具正在迅速改变组织的安全优先事项，同时模糊了数据和代码、值得信赖的同事和内部威胁、忍者黑客和新手代码骑师之间的界限。]]></description>
+      <description><![CDATA[AI-based assistants or &quot;agents&quot; -- autonomous programs that have access to the user&#39;s computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers.但正如过去几周许多令人瞠目结舌的头条新闻所表明的那样，这些强大而自信的新工具正在迅速改变组织的安全优先事项，同时模糊了数据和代码、值得信赖的同事和内部威胁、忍者黑客和新手代码骑师之间的界限。]]></description>
       <guid>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</guid>
       <pubDate>Sun, 08 Mar 2026 23:35:42 GMT</pubDate>
     </item>

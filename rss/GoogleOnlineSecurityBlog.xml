@@ -4,7 +4,14 @@
     <title>Google 在线安全博客</title>
     <link>http://security.googleblog.com/</link>
     <description>Google 关于互联网安全的最新新闻和见解。</description>
-    <lastBuildDate>Fri, 10 Apr 2026 12:42:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:38:12 GMT</lastBuildDate>
+    <item>
+      <title>将 Rust 引入 Pixel 基带</title>
+      <link>http://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html</guid>
+      <pubDate>Fri, 10 Apr 2026 15:12:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用设备绑定会话凭证保护 Cookie</title>
       <link>http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html</link>
@@ -191,13 +198,6 @@
       <description><![CDATA[]]></description>
       <guid>http://security.googleblog.com/2025/05/sustaining-digital-certificate-security-chrome-root-store-changes.html</guid>
       <pubDate>Fri, 30 May 2025 14:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>跟踪量子保理的成本</title>
-      <link>http://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html</link>
-      <description><![CDATA[]]></description>
-      <guid>http://security.googleblog.com/2025/05/tracking-cost-of-quantum-factori.html</guid>
-      <pubDate>Fri, 23 May 2025 11:57:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
