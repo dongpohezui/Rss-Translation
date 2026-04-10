@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 09 Apr 2026 18:45:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 01:16:50 GMT</lastBuildDate>
+    <item>
+      <title>Glasswing 项目对安全领导者意味着什么</title>
+      <link>https://www.rapid7.com/blog/post/ai-what-project-glasswing-means-for-security-leaders</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ai-what-project-glasswing-means-for-security-leaders</guid>
+      <pubDate>Thu, 09 Apr 2026 17:51:15 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 产品和服务的新增功能：2026 年第一季度回顾</title>
       <link>https://www.rapid7.com/blog/post/pt-whats-new-rapid7-products-services-q1-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ve-cve-2026-31381-cve-2026-31382-gainsight-assist-information-disclosure-xss-fixed</guid>
       <pubDate>Fri, 20 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>抢占式和主动式：可通过 Exposure Command 使用增强型 CNAPP</title>
-      <link>https://www.rapid7.com/blog/post/em-preemptive-proactive-enhanced-cnapp-available-exposure-command</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/em-preemptive-proactive-enhanced-cnapp-available-exposure-command</guid>
-      <pubDate>Thu, 19 Mar 2026 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
