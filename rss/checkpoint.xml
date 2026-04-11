@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>检查点研究</title>
+    <link>https://research.checkpoint.com/</link>
+    <description>我们团队的最新研究</description>
+    <lastBuildDate>Sat, 11 Apr 2026 09:00:17 GMT</lastBuildDate>
+    <item>
+      <title>4 月 6 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/</link>
+      <description><![CDATA[有关 3 月 30 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 欧盟执行机构欧盟委员会 (European Commission) 确认，其 Europa.eu 平台因与 Trivy 供应链攻击相关的第三方交易所遭到破坏后发生了数据泄露事件。该事件[…]
+4 月 6 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/</guid>
+      <pubDate>Mon, 06 Apr 2026 11:21:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>TrueChaos 行动：针对东南亚政府目标的 0 天利用</title>
+      <link>https://research.checkpoint.com/2026/operation-truechaos-0-day-exploitation-against-southeast-asian-government-targets/</link>
+      <description><![CDATA[要点介绍 2026 年初，Check Point Research 观察到一系列针对东南亚政府实体的针对性攻击，这些攻击是通过目标环境中安装的合法 TrueConf 软件进行的。调查发现 TrueConf 客户端存在一个零日漏洞，编号为“CVE-2026-3502”，CVSS 评分为 7.8。 […]
+TrueChaos 行动：针对东南亚政府目标的 0 天利用帖子首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/operation-truechaos-0-day-exploitation-against-southeast-asian-government-targets/</guid>
+      <pubDate>Tue, 31 Mar 2026 13:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 通过代码执行运行时中的隐藏出站通道进行数据泄露</title>
+      <link>https://research.checkpoint.com/2026/chatgpt-data-leakage-via-a-hidden-outbound-channel-in-the-code-execution-runtime/</link>
+      <description><![CDATA[关键要点发生了什么人工智能助手现在可以处理人们拥有的一些最敏感的数据。用户讨论症状和病史。他们询问有关税收、债务和个人财务的问题，上传 PDF、合同、实验室结果以及包含姓名、地址、帐户详细信息和私人记录的身份丰富的文档。这种信任取决于一个简单的期望：[…]
+ChatGPT 数据通过代码执行运行时中的隐藏出站通道泄露一文首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/chatgpt-data-leakage-via-a-hidden-outbound-channel-in-the-code-execution-runtime/</guid>
+      <pubDate>Mon, 30 Mar 2026 13:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 月 30 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/30th-march-threat-intelligence-report/</link>
+      <description><![CDATA[有关 3 月 30 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 伊朗国家附属威胁组织 Handala Hack 入侵了联邦调查局局长帕特尔的个人 Gmail 帐户，并泄露了许多个人照片和文件。在此之前，FBI 查封了与 Handala Hack 相关的域名 […]
+3 月 30 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/30th-march-threat-intelligence-report/</guid>
+      <pubDate>Mon, 30 Mar 2026 12:53:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年 1 月至 2 月 AI 威胁态势摘要</title>
+      <link>https://research.checkpoint.com/2026/ai-threat-landscape-digest-january-february-2026/</link>
+      <description><![CDATA[主要发现人工智能辅助恶意软件开发已达到运营成熟度。VoidLink 框架是模块化、专业设计且功能齐全的，由单个开发人员使用商业人工智能驱动的 IDE 在压缩的时间内构建。人工智能辅助开发不再是实验性的，而是产生可部署的输出。从最终产品来看，人工智能辅助开发并不总是显而易见。VoidLink […]
+这篇文章2026 年 1 月至 2 月人工智能威胁形势摘要首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/ai-threat-landscape-digest-january-february-2026/</guid>
+      <pubDate>Sun, 29 Mar 2026 10:08:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 月 23 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/23rd-march-threat-intelligence-report/</link>
+      <description><![CDATA[有关 3 月 23 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露美国员工福利管理机构 Navia Benefit Solutions 披露，2025 年 12 月 22 日至 […] 期间发生未经授权的访问和潜在的数据泄露，影响超过 260 万人的数据泄露事件
+3 月 23 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/23rd-march-threat-intelligence-report/</guid>
+      <pubDate>Mon, 23 Mar 2026 13:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 月 16 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/16th-march-threat-intelligence-report/</link>
+      <description><![CDATA[有关 3 月 16 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 美国医疗技术公司 Stryker 遭受了网络攻击，导致全球环境受到破坏。该公司表示，其手术机器人、临床通信平台和生命支持监视器[…]
+3 月 16 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/16th-march-threat-intelligence-report/</guid>
+      <pubDate>Mon, 16 Mar 2026 15:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Handala Hack”——揭晓该组织的作案手法</title>
+      <link>https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operandi/</link>
+      <description><![CDATA[主要发现简介 Handala Hack（也被 Check Point Research 追踪为 Void Manticore）是一个伊朗威胁行为者，以多次破坏性擦除攻击与“黑客和泄漏”操作相结合而闻名。该威胁行为者操纵着多个在线角色，其中最突出的是“国土正义”，该角色从 2022 年中期开始维护，专门针对多次攻击[…]
+帖子“Handala Hack”– Unveiling Group 的作案手法首先出现在Check Point Research。]]></description>
+      <guid>https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operandi/</guid>
+      <pubDate>Thu, 12 Mar 2026 17:21:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗 MOIS 演员与网络犯罪的联系</title>
+      <link>https://research.checkpoint.com/2026/iranian-mois-actors-the-cyber-crime-connection/</link>
+      <description><![CDATA[要点 与伊朗有关的行为者越来越多地参与网络犯罪生态系统。他们的活动表明他们越来越依赖犯罪工具、服务和运营模式来支持国家目标。伊朗行为者长期以来一直利用网络犯罪和黑客行为作为破坏性活动的掩护，但现在的趋势表明他们直接参与犯罪生态系统。 […]
+帖子伊朗 MOIS 演员和网络犯罪连接首先出现在Check Point Research。]]></description>
+      <guid>https://research.checkpoint.com/2026/iranian-mois-actors-the-cyber-crime-connection/</guid>
+      <pubDate>Tue, 10 Mar 2026 16:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 月 9 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/9th-march-threat-intelligence-report/</link>
+      <description><![CDATA[有关 3 月 9 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 总部位于荷兰的全球涂料制造商阿克苏诺贝尔已确认其美国站点之一受到网络攻击。该公司表示入侵已得到遏制，而 Anubis 勒索软件组织则声称其窃取了 […]
+3 月 9 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/9th-march-threat-intelligence-report/</guid>
+      <pubDate>Mon, 09 Mar 2026 16:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗针对 IP 摄像机的攻击与中东的实体战之间的相互作用</title>
+      <link>https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-cameras-and-physical-warfare-in-the-middle-east/</link>
+      <description><![CDATA[主要发现简介 正如《2026 年网络安全报告》中所强调的那样，网络行动已日益成为国家间冲突中的额外工具，既用于支持军事行动，又用于支持持续的战斗损害评估 (BDA)。在 2025 年 6 月以色列和伊朗之间为期 12 天的冲突期间，摄像头的妥协很可能被用来支持 […]
+伊朗针对 IP 摄像机的攻击与中东物理战之间的相互作用首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-cameras-and-physical-warfare-in-the-middle-east/</guid>
+      <pubDate>Wed, 04 Mar 2026 03:16:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>银龙瞄准东南亚和欧洲的组织</title>
+      <link>https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/</link>
+      <description><![CDATA[主要发现简介 近几个月来，Check Point Research (CPR) 一直在追踪一个复杂的、与中国结盟的威胁组织，该组织的活动与之前与 APT41 相关的活动存在操作相关性。我们把这个活动集群命名为“银龙”。该组织积极针对东南亚和欧洲的组织，特别关注政府实体。 […]
+帖子银龙针对东南亚和欧洲的组织首先出现在Check Point Research上。]]></description>
+      <guid>https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/</guid>
+      <pubDate>Tue, 03 Mar 2026 15:49:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 月 2 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/2nd-march-threat-intelligence-report/</link>
+      <description><![CDATA[有关 3 月 2 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 美国赌场和酒店运营商永利度假村 (Wynn Resorts) 已确认，在与 ShinyHunters 相关的勒索威胁之后，员工数据被盗取。该公司表示，运营并未受到干扰。报告表明[…]
+3 月 2 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/2nd-march-threat-intelligence-report/</guid>
+      <pubDate>Mon, 02 Mar 2026 16:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>陷入困境：通过 Claude 代码项目文件进行 RCE 和 API 令牌渗透 | CVE-2025-59536 | CVE-2026-21852</title>
+      <link>https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/</link>
+      <description><![CDATA[作者：Aviv Donenfeld 和 Oded Vanunu 执行摘要 Check Point Research 发现了 Anthropic 的 Claude 代码中的严重漏洞，这些漏洞允许攻击者通过恶意项目配置实现远程代码执行并窃取 API 凭据。这些漏洞利用各种配置机制，包括 Hooks、模型上下文协议 (MCP) 服务器和环境变量 - 执行任意 shell 命令 […]
+帖子陷入困境：通过 Claude 代码项目文件进行 RCE 和 API 令牌渗透 | CVE-2025-59536 | CVE-2026-21852&lt;其他 cve=&quot;&quot; id=“” tbd=&quot;&quot;&gt;&lt;/other&gt; 首先出现在 Check Point Research。]]></description>
+      <guid>https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/</guid>
+      <pubDate>Wed, 25 Feb 2026 13:58:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年：Check Point 研究不为人知的故事</title>
+      <link>https://research.checkpoint.com/2026/2025-the-untold-stories-of-check-point-research/</link>
+      <description><![CDATA[简介 检查点研究 (CPR) 持续跟踪威胁，追踪威胁领域主要参与者和事件的线索。无论是高端的经济动机活动还是国家赞助的活动，我们的重点都是找出威胁是什么，向相关方报告我们的发现，并确保 Check Point 客户受到保护。 […]
+帖子2025：Check Point Research 不为人知的故事首先出现在Check Point Research上。]]></description>
+      <guid>https://research.checkpoint.com/2026/2025-the-untold-stories-of-check-point-research/</guid>
+      <pubDate>Mon, 23 Feb 2026 15:27:21 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

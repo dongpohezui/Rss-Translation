@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Cloudflare 博客</title>
+    <link>https://blog.cloudflare.com</link>
+    <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
+    <lastBuildDate>Sat, 11 Apr 2026 09:00:41 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
+      <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
+      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和法学硕士相结合，我们将误报率减少了高达 200 倍，同时捕获了复杂的零日漏洞。]]></description>
+      <guid>https://blog.cloudflare.com/client-side-security-open-to-everyone/</guid>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
+      <link>https://blog.cloudflare.com/account-abuse-protection/</link>
+      <description><![CDATA[阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。]]></description>
+      <guid>https://blog.cloudflare.com/account-abuse-protection/</guid>
+      <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 应用安全现已全面推出</title>
+      <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
+      <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
+      <guid>https://blog.cloudflare.com/ai-security-for-apps-ga/</guid>
+      <pubDate>Wed, 11 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Log Explorer 中调查多向量攻击</title>
+      <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
+      <description><![CDATA[Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。]]></description>
+      <guid>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</guid>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复 Pingora OSS 部署中的请求走私漏洞</title>
+      <link>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</link>
+      <description><![CDATA[今天，我们将披露当我们的开源 Pingora 服务部署为入口代理时存在的请求走私漏洞，以及我们如何在 Pingora 0.8.0 中修复这些漏洞。]]></description>
+      <guid>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</guid>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>主动防御：引入 API 状态漏洞扫描器</title>
+      <link>https://blog.cloudflare.com/vulnerability-scanner/</link>
+      <description><![CDATA[Cloudflare 的新 Web 和 API 漏洞扫描程序可帮助团队主动发现逻辑缺陷。通过使用 AI 构建 API 调用图，我们可以识别标准防御工具遗漏的漏洞。]]></description>
+      <guid>https://blog.cloudflare.com/vulnerability-scanner/</guid>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudy 如何将复杂的安全性转化为人类行动</title>
+      <link>https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/</link>
+      <description><![CDATA[Cloudy 是由 LLM 支持的解释层，直接内置于 Cloudflare One 中。其解释现已成为 Phishnet 和 API CASB 的一部分，可以改善用户决策和 SOC 效率。]]></description>
+      <guid>https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/</guid>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从被动到主动：缩小与法学硕士的网络钓鱼差距</title>
+      <link>https://blog.cloudflare.com/email-security-phishing-gap-llm/</link>
+      <description><![CDATA[电子邮件安全是一场持续的军备竞赛。就像二战工程师只加固返回的飞机一样，幸存者偏差掩盖了真正的差距。但法学硕士可以帮助我们发现看不见的弱点。]]></description>
+      <guid>https://blog.cloudflare.com/email-security-phishing-gap-llm/</guid>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为后量子使用、加密消息传递和路由安全带来更多透明度</title>
+      <link>https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/</link>
+      <description><![CDATA[Cloudflare Radar 添加了用于监控 PQ 采用情况的新工具、用于消息传递的 KT 日志以及 ASPA 路由记录，以跟踪互联网向更安全的加密和路由标准的迁移。]]></description>
+      <guid>https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/</guid>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年第 4 季度 DDoS 威胁报告：创纪录的 31.4 Tbps 攻击终结了这一年的大规模 DDoS 攻击</title>
+      <link>https://blog.cloudflare.com/ddos-threat-report-2025-q4/</link>
+      <description><![CDATA[2025 年，DDoS 攻击数量增加了一倍多。随着超容量攻击增长 700%，网络层受到特别威胁。]]></description>
+      <guid>https://blog.cloudflare.com/ddos-threat-report-2025-q4/</guid>
+      <pubDate>Thu, 05 Feb 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建无服务器、后量子 Matrix 家庭服务器</title>
+      <link>https://blog.cloudflare.com/serverless-matrix-homeserver-workers/</link>
+      <description><![CDATA[作为概念验证，我们为 Cloudflare Workers 构建了一个 Matrix 家庭服务器 - 使用自动后量子加密技术在边缘提供加密消息传递。]]></description>
+      <guid>https://blog.cloudflare.com/serverless-matrix-homeserver-workers/</guid>
+      <pubDate>Tue, 27 Jan 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何缓解 Cloudflare ACME 验证逻辑中的漏洞</title>
+      <link>https://blog.cloudflare.com/acme-path-vulnerability/</link>
+      <description><![CDATA[最近在 Cloudflare 的证书验证自动化中发现了一个漏洞。在这里，我们解释了该漏洞并概述了我们为缓解该漏洞而采取的步骤。]]></description>
+      <guid>https://blog.cloudflare.com/acme-path-vulnerability/</guid>
+      <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astro 即将加入 Cloudflare</title>
+      <link>https://blog.cloudflare.com/astro-joins-cloudflare/</link>
+      <description><![CDATA[Astro Technology Company 团队（Astro Web 框架的创建者）即将加入 Cloudflare。我们正在加倍努力，使 Astro 成为当今和未来几年内容驱动网站的最佳框架。]]></description>
+      <guid>https://blog.cloudflare.com/astro-joins-cloudflare/</guid>
+      <pubDate>Fri, 16 Jan 2026 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年 Cloudflare Radar 回顾：人工智能的兴起、后量子和破纪录的 DDoS 攻击</title>
+      <link>https://blog.cloudflare.com/radar-2025-year-in-review/</link>
+      <description><![CDATA[我们对全球范围内观察到的互联网趋势和模式进行了第六次年度回顾，揭示了 2025 年的颠覆、进步和指标。]]></description>
+      <guid>https://blog.cloudflare.com/radar-2025-year-in-review/</guid>
+      <pubDate>Mon, 15 Dec 2025 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Workers VPC 服务如何从世界任何地方连接到您的区域专用网络</title>
+      <link>https://blog.cloudflare.com/workers-vpc-open-beta/</link>
+      <description><![CDATA[Workers VPC 服务今天进入公开测试版。我们深入了解 Workers VPC 如何使用 Cloudflare 的全球网络将全球部署的 Workers 连接到您的区域专用网络，同时抽象出跨云网络的复杂性。]]></description>
+      <guid>https://blog.cloudflare.com/workers-vpc-open-beta/</guid>
+      <pubDate>Wed, 05 Nov 2025 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个IP地址，多个用户：检测CGNAT以减少附带影响</title>
+      <link>https://blog.cloudflare.com/detecting-cgn-to-reduce-collateral-damage/</link>
+      <description><![CDATA[IPv4 的稀缺性推动了运营商级网络地址转换的广泛使用，这是 ISP 和移动网络中的一种做法，它将许多用户及其收集的活动和流量置于每个 IP 地址后面。我们介绍了我们开发的用于检测全球大规模 IP 共享并缓解由此产生的问题的方法。]]></description>
+      <guid>https://blog.cloudflare.com/detecting-cgn-to-reduce-collateral-damage/</guid>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护 QUIC 免受基于确认的 DDoS 攻击</title>
+      <link>https://blog.cloudflare.com/defending-quic-from-acknowledgement-based-ddos-attacks/</link>
+      <description><![CDATA[我们在 QUIC 实现中发现并修复了两个与数据包确认相关的 DDoS 漏洞。 Cloudflare 客户没有受到影响。我们检查“乐观 ACK”攻击向量和我们的解决方案，该解决方案动态跳过数据包编号以验证客户端行为。]]></description>
+      <guid>https://blog.cloudflare.com/defending-quic-from-acknowledgement-based-ddos-attacks/</guid>
+      <pubDate>Wed, 29 Oct 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>保持互联网快速安全：引入 Merkle 树证书</title>
+      <link>https://blog.cloudflare.com/bootstrap-mtc/</link>
+      <description><![CDATA[Cloudflare 正在使用 Chrome 启动一项实验，以评估快速、可扩展且量子就绪的 Merkle Tree 证书，所有这些都不会降低性能或改变 WebPKI 信任关系。]]></description>
+      <guid>https://blog.cloudflare.com/bootstrap-mtc/</guid>
+      <pubDate>Tue, 28 Oct 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>提高 Javascript 在 Web 上的可信度</title>
+      <link>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</link>
+      <description><![CDATA[当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审计性。]]></description>
+      <guid>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</guid>
+      <pubDate>Thu, 16 Oct 2025 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>15 年来帮助建设更好的互联网：回顾 2025 年生日周</title>
+      <link>https://blog.cloudflare.com/birthday-week-2025-wrap-up/</link>
+      <description><![CDATA[Rust 支持的核心系统、后量子升级、学生开发人员访问权限、PlanetScale 集成、开源合作伙伴关系以及我们有史以来最大的实习计划 - 2026 年将有 1,111 名实习生。]]></description>
+      <guid>https://blog.cloudflare.com/birthday-week-2025-wrap-up/</guid>
+      <pubDate>Mon, 29 Sep 2025 14:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
