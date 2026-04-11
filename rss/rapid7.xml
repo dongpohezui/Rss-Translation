@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 10 Apr 2026 18:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 01:12:00 GMT</lastBuildDate>
+    <item>
+      <title>Metasploit 总结 04/10/2026</title>
+      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-10-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-10-2026</guid>
+      <pubDate>Fri, 10 Apr 2026 19:11:43 GMT</pubDate>
+    </item>
     <item>
       <title>Glasswing 项目对安全领导者意味着什么</title>
       <link>https://www.rapid7.com/blog/post/ai-what-project-glasswing-means-for-security-leaders</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-translating-active-into-risk-financial-exposure-board-negotiating-vm</guid>
       <pubDate>Fri, 20 Mar 2026 15:18:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-31381、CVE-2026-31382：Gainsight 协助信息泄露和跨站脚本（已修复）</title>
-      <link>https://www.rapid7.com/blog/post/ve-cve-2026-31381-cve-2026-31382-gainsight-assist-information-disclosure-xss-fixed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ve-cve-2026-31381-cve-2026-31382-gainsight-assist-information-disclosure-xss-fixed</guid>
-      <pubDate>Fri, 20 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
