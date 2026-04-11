@@ -17,3 +17,4 @@
  - securelist [https://securelist.com/feed/](https://securelist.com/feed/) -> [securelist](rss/securelist.xml)
  - medium [https://medium.com/feed/@networksecurity](https://medium.com/feed/@networksecurity) -> [medium](rss/medium.xml)
  - krebsonsecurity [https://krebsonsecurity.com/feed/](https://krebsonsecurity.com/feed/) -> [krebsonsecurity](rss/krebsonsecurity.xml)
+ - Unit42 [https://feeds.feedburner.com/Unit42](https://feeds.feedburner.com/Unit42) -> [unit42.paloaltonetworks.com](rss/unit42.paloaltonetworks.com.xml)
