@@ -4,9 +4,9 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 13 Apr 2026 01:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:46:47 GMT</lastBuildDate>
     <item>
-      <title>代理 SOC — 重新思考未来十年的 SecOps</title>
+      <title>代理 SOC——重新思考未来十年的 SecOps</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/</link>
       <description><![CDATA[在未来的 SOC 中，自主防御以机器速度移动，代理添加上下文和协调，而人类则专注于判断、风险和结果。
 这篇文章代理 SOC — 重新思考未来十年的 SecOps 首先出现在 Microsoft 安全博客上。]]></description>
@@ -25,7 +25,7 @@
       <title>第三方 SDK 中的 Intent 重定向漏洞使数百万 Android 钱包面临潜在风险</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/</link>
       <description><![CDATA[广泛部署的 SDK 中存在严重的 Android 意图重定向漏洞，暴露了数百万个应用程序中的敏感用户数据。微软研究人员详细介绍了该缺陷的工作原理、其重要性以及开发人员如何通过更新受影响的 SDK 来降低类似风险。
-这篇文章第三方 SDK 中的 Intent 重定向漏洞使数百万 Android 钱包面临潜在风险首先出现在 Microsoft 安全博客上。]]></description>
+第三方 SDK 中的 Intent 重定向漏洞使数百万 Android 钱包面临潜在风险的帖子首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/</guid>
       <pubDate>Thu, 09 Apr 2026 13:21:18 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Cookie 控制的 PHP Webshel​​l：Linux 托管环境中的隐秘交易</title>
+      <title>Cookie 控制的 PHP Webshel​​l：Linux 托管环境中的隐秘交易技术</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/</link>
       <description><![CDATA[ Cookie 门禁的 PHP Webshel​​l 使用混淆、php-fpm 执行和基于 cron 的持久性来逃避 Linux 托管环境中的检测。这篇文章探讨了这种谍报技术如何隐藏特制 HTTP cookie 背后的执行。
 Cookie 控制的 PHP webshell：Linux 托管环境中的隐秘交易技术首先出现在 Microsoft 安全博客上。]]></description>
