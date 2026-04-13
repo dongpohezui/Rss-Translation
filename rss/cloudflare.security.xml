@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Sun, 12 Apr 2026 18:31:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 01:22:37 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 的目标是 2029 年实现全面的后量子安全</title>
+      <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
+      <description><![CDATA[量子硬件和软件的最新进展加快了量子攻击可能发生的时间。 Cloudflare 的回应是将我们的全面后量子安全目标推迟到 2029 年。]]></description>
+      <guid>https://blog.cloudflare.com/post-quantum-roadmap/</guid>
+      <pubDate>Tue, 07 Apr 2026 21:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
       <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>宣布推出 Cloudflare 帐户滥用保护：防止机器人和人类的欺诈性攻击</title>
+      <title>宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
       <link>https://blog.cloudflare.com/account-abuse-protection/</link>
       <description><![CDATA[阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。]]></description>
       <guid>https://blog.cloudflare.com/account-abuse-protection/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>提高 Javascript 在 Web 上的可信度</title>
       <link>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</link>
-      <description><![CDATA[当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审计性。]]></description>
+      <description><![CDATA[当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审核性。]]></description>
       <guid>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</guid>
       <pubDate>Thu, 16 Oct 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>15 年来帮助建设更好的互联网：回顾 2025 年生日周</title>
-      <link>https://blog.cloudflare.com/birthday-week-2025-wrap-up/</link>
-      <description><![CDATA[Rust 支持的核心系统、后量子升级、学生开发人员访问、PlanetScale 集成、开源合作伙伴关系以及我们有史以来最大的实习计划 - 2026 年将有 1,111 名实习生。]]></description>
-      <guid>https://blog.cloudflare.com/birthday-week-2025-wrap-up/</guid>
-      <pubDate>Mon, 29 Sep 2025 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
