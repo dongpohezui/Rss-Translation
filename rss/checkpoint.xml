@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Sat, 11 Apr 2026 09:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 18:59:35 GMT</lastBuildDate>
+    <item>
+      <title>4 月 13 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/13th-april-threat-intelligence-report/</link>
+      <description><![CDATA[有关 4 月 13 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和泄露洛杉矶警察局报告了一起涉及洛杉矶市检察官办公室使用的数字存储系统的数据泄露事件。此次泄露的数据大小为 7.7 TB，文件数量超过 337,000 个，[…]
+4 月 13 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/13th-april-threat-intelligence-report/</guid>
+      <pubDate>Mon, 13 Apr 2026 13:11:17 GMT</pubDate>
+    </item>
     <item>
       <title>4 月 6 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/</link>
@@ -116,14 +124,6 @@ ChatGPT 数据通过代码执行运行时中的隐藏出站通道泄露一文首
 帖子陷入困境：通过 Claude 代码项目文件进行 RCE 和 API 令牌渗透 | CVE-2025-59536 | CVE-2026-21852&lt;其他 cve=&quot;&quot; id=“” tbd=&quot;&quot;&gt;&lt;/other&gt; 首先出现在 Check Point Research。]]></description>
       <guid>https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/</guid>
       <pubDate>Wed, 25 Feb 2026 13:58:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年：Check Point 研究不为人知的故事</title>
-      <link>https://research.checkpoint.com/2026/2025-the-untold-stories-of-check-point-research/</link>
-      <description><![CDATA[简介 检查点研究 (CPR) 持续跟踪威胁，追踪威胁领域主要参与者和事件的线索。无论是高端的经济动机活动还是国家赞助的活动，我们的重点都是找出威胁是什么，向相关方报告我们的发现，并确保 Check Point 客户受到保护。 […]
-帖子2025：Check Point Research 不为人知的故事首先出现在Check Point Research上。]]></description>
-      <guid>https://research.checkpoint.com/2026/2025-the-untold-stories-of-check-point-research/</guid>
-      <pubDate>Mon, 23 Feb 2026 15:27:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

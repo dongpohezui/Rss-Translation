@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 13 Apr 2026 12:57:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 18:58:58 GMT</lastBuildDate>
+    <item>
+      <title>将日志行转化为答案：SOC 团队即时清晰</title>
+      <link>https://www.rapid7.com/blog/post/dr-log-lines-into-answers-instant-soc-clarity-ai</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/dr-log-lines-into-answers-instant-soc-clarity-ai</guid>
+      <pubDate>Mon, 13 Apr 2026 12:57:53 GMT</pubDate>
+    </item>
     <item>
       <title>Metasploit 总结 04/10/2026</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-10-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-03-20-2026</guid>
       <pubDate>Fri, 20 Mar 2026 20:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>与董事会谈判：将主动风险转化为财务风险</title>
-      <link>https://www.rapid7.com/blog/post/pt-translating-active-into-risk-financial-exposure-board-negotiating-vm</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-translating-active-into-risk-financial-exposure-board-negotiating-vm</guid>
-      <pubDate>Fri, 20 Mar 2026 15:18:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
