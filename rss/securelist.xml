@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 09 Apr 2026 12:56:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:57:57 GMT</lastBuildDate>
+    <item>
+      <title>JanelaRAT：针对拉丁美洲用户的金融威胁</title>
+      <link>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</link>
+      <description><![CDATA[卡巴斯基 GReAT 专家描述了最新的 JanelaRAT 活动，详细介绍了感染链和恶意软件功能更新。]]></description>
+      <guid>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</guid>
+      <pubDate>Mon, 13 Apr 2026 09:00:23 GMT</pubDate>
+    </item>
     <item>
       <title>通向加密货币的漫长道路：ClipBanker 及其马拉松感染链</title>
       <link>https://securelist.com/clipbanker-malware-distributed-via-trojanized-proxifier/119341/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基研究人员发现了一种名为 BeatBanker 的新 Android 木马，针对巴西，冒充政府应用程序和 Google Play 商店，能够进行加密货币挖掘和窃取银行数据。]]></description>
       <guid>https://securelist.com/beatbanker-miner-and-banker/119121/</guid>
       <pubDate>Tue, 10 Mar 2026 10:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年第 4 季度的漏洞利用和漏洞</title>
-      <link>https://securelist.com/vulnerabilities-and-exploits-in-q4-2025/119105/</link>
-      <description><![CDATA[该报告提供了我们在 2025 年第四季度研究的已发布漏洞和利用的统计数据。它还包括有关 APT 攻击中使用 C2 框架的摘要数据。]]></description>
-      <guid>https://securelist.com/vulnerabilities-and-exploits-in-q4-2025/119105/</guid>
-      <pubDate>Fri, 06 Mar 2026 10:00:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
