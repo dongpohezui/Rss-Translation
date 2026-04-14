@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 14 Apr 2026 07:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 12:58:01 GMT</lastBuildDate>
+    <item>
+      <title>2026 年云检测策略：全球网络安全峰会有何期待</title>
+      <link>https://www.rapid7.com/blog/post/it-2026-cloud-detection-strategy-global-cybersecurity-summit</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/it-2026-cloud-detection-strategy-global-cybersecurity-summit</guid>
+      <pubDate>Tue, 14 Apr 2026 12:31:19 GMT</pubDate>
+    </item>
     <item>
       <title>将日志行转化为答案：SOC 团队即时清晰</title>
       <link>https://www.rapid7.com/blog/post/dr-log-lines-into-answers-instant-soc-clarity-ai</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-3055-citrix-netscaler-adc-and-netscaler-gateway-out-of-bounds-read</guid>
       <pubDate>Mon, 23 Mar 2026 19:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 总结 03/20/2026</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-03-20-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-03-20-2026</guid>
-      <pubDate>Fri, 20 Mar 2026 20:03:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Tue, 14 Apr 2026 07:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 12:58:19 GMT</lastBuildDate>
     <item>
       <title>俄罗斯黑客入侵路由器窃取微软 Office 令牌</title>
       <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
@@ -20,7 +20,7 @@
       <pubDate>Mon, 06 Apr 2026 02:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>“CanisterWorm”针对伊朗发起雨刮器攻击</title>
+      <title>“CanisterWorm”针对伊朗发动刮水器攻击</title>
       <link>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</link>
       <description><![CDATA[一个出于经济动机的数据盗窃和勒索组织正试图将自己卷入伊朗战争，释放一种蠕虫病毒，该蠕虫病毒通过安全性较差的云服务进行传播，并擦除使用伊朗时区或将波斯语设置为默认语言的受感染系统上的数据。]]></description>
       <guid>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</guid>
