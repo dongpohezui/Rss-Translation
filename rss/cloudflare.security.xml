@@ -4,7 +4,7 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Tue, 14 Apr 2026 01:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:16:03 GMT</lastBuildDate>
     <item>
       <title>Cloudflare 的目标是 2029 年实现全面的后量子安全</title>
       <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
@@ -141,7 +141,7 @@
     <item>
       <title>提高 Javascript 在 Web 上的可信度</title>
       <link>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</link>
-      <description><![CDATA[当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审计性。]]></description>
+      <description><![CDATA[当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审核性。]]></description>
       <guid>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</guid>
       <pubDate>Thu, 16 Oct 2025 14:00:00 GMT</pubDate>
     </item>
