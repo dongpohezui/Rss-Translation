@@ -4,7 +4,28 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Tue, 14 Apr 2026 12:59:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 18:57:12 GMT</lastBuildDate>
+    <item>
+      <title>保护非人类身份：自动撤销、OAuth 和范围权限</title>
+      <link>https://blog.cloudflare.com/improved-developer-security/</link>
+      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最低权限架构，同时防止凭证泄漏。]]></description>
+      <guid>https://blog.cloudflare.com/improved-developer-security/</guid>
+      <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>扩大 MCP 的采用：我们的参考架构可实现更简单、更安全和更便宜的 MCP 企业部署</title>
+      <link>https://blog.cloudflare.com/enterprise-mcp/</link>
+      <description><![CDATA[我们分享 Cloudflare 使用 Access、AI 网关和 MCP 服务器门户管理 MCP 的内部策略。我们还推出了代码模式来削减代币成本，并推荐了在 Cloudflare Gateway 中检测 Shadow MCP 的新规则。]]></description>
+      <guid>https://blog.cloudflare.com/enterprise-mcp/</guid>
+      <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于访问的托管 OAuth：一键使内部应用程序代理就绪</title>
+      <link>https://blog.cloudflare.com/managed-oauth-for-access/</link>
+      <description><![CDATA[Cloudflare Access 的托管 OAuth 可帮助 AI 代理安全地导航内部应用程序。通过采用 RFC 9728，代理可以代表用户进行身份验证，而无需使用不安全的服务帐户。]]></description>
+      <guid>https://blog.cloudflare.com/managed-oauth-for-access/</guid>
+      <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare 的目标是 2029 年实现全面的后量子安全</title>
       <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
       <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
-      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和 LLM 相结合，我们将误报率减少了 200 倍，同时捕获了复杂的零日漏洞。]]></description>
+      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和法学硕士相结合，我们将误报率减少了高达 200 倍，同时捕获了复杂的零日漏洞。]]></description>
       <guid>https://blog.cloudflare.com/client-side-security-open-to-everyone/</guid>
       <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[IPv4 的稀缺性推动了运营商级网络地址转换的广泛使用，这是 ISP 和移动网络中的一种做法，它将许多用户及其收集的活动和流量置于每个 IP 地址后面。我们介绍了我们开发的用于检测全球大规模 IP 共享并缓解由此产生的问题的方法。]]></description>
       <guid>https://blog.cloudflare.com/detecting-cgn-to-reduce-collateral-damage/</guid>
       <pubDate>Wed, 29 Oct 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护 QUIC 免受基于确认的 DDoS 攻击</title>
-      <link>https://blog.cloudflare.com/defending-quic-from-acknowledgement-based-ddos-attacks/</link>
-      <description><![CDATA[我们在 QUIC 实现中发现并修复了两个与数据包确认相关的 DDoS 漏洞。 Cloudflare 客户没有受到影响。我们检查“乐观 ACK”攻击向量和我们的解决方案，该解决方案动态跳过数据包编号以验证客户端行为。]]></description>
-      <guid>https://blog.cloudflare.com/defending-quic-from-acknowledgement-based-ddos-attacks/</guid>
-      <pubDate>Wed, 29 Oct 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>保持互联网快速安全：引入 Merkle 树证书</title>
-      <link>https://blog.cloudflare.com/bootstrap-mtc/</link>
-      <description><![CDATA[Cloudflare 正在使用 Chrome 启动一项实验，以评估快速、可扩展且量子就绪的 Merkle Tree 证书，所有这些都不会降低性能或改变 WebPKI 信任关系。]]></description>
-      <guid>https://blog.cloudflare.com/bootstrap-mtc/</guid>
-      <pubDate>Tue, 28 Oct 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高 Javascript 在 Web 上的可信度</title>
-      <link>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</link>
-      <description><![CDATA[当网站的客户端代码发生变化时，无法对其进行审核，因此很难信任使用加密技术的网站。我们预览了我们共同编写的规范，该规范增加了网络的可审计性。]]></description>
-      <guid>https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/</guid>
-      <pubDate>Thu, 16 Oct 2025 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
