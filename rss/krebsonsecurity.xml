@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Tue, 14 Apr 2026 18:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 01:18:10 GMT</lastBuildDate>
+    <item>
+      <title>2026 年 4 月星期二补丁版</title>
+      <link>https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</link>
+      <description><![CDATA[微软今天推出了软件更新，以修复其 Windows 操作系统和相关软件中惊人的 167 个安全漏洞，其中包括 SharePoint Server 零日漏洞和 Windows Defender 中公开披露的名为“BlueHammer”的漏洞。另外，Google Chrome 修复了 2026 年的第四个零日漏洞，Adobe Reader 的紧急更新消除了一个被积极利用的漏洞，该漏洞可能导致远程代码执行。]]></description>
+      <guid>https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</guid>
+      <pubDate>Tue, 14 Apr 2026 21:47:59 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯黑客入侵路由器窃取微软 Office 令牌</title>
       <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[大多数网络钓鱼网站只不过是流行在线目的地的登录页面的静态副本，并且它们通常很快就会被反滥用活动人士和安全公司拿下。但一种隐秘的新型网络钓鱼即服务产品可以让客户避开这两个陷阱：它使用巧妙伪装的链接来加载目标品牌的真实网站，然后充当目标和合法网站之间的中继——将受害者的用户名、密码和多重身份验证 (MFA) 代码转发到合法网站并返回其响应。]]></description>
       <guid>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</guid>
       <pubDate>Fri, 20 Feb 2026 20:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kimwolf 僵尸网络淹没了匿名网络 I2P</title>
-      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
-      <description><![CDATA[过去一周，名为 Kimwolf 的大规模“物联网”(IoT) 僵尸网络一直在扰乱隐形互联网项目 (I2P)，这是一个分散的加密通信网络，旨在匿名和保护在线通信。 I2P 用户开始报告网络中断，大约在 Kimwolf 僵尸大师开始依靠它来逃避针对僵尸网络控制服务器的攻击尝试的同时。]]></description>
-      <guid>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
-      <pubDate>Wed, 11 Feb 2026 16:08:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
