@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 15 Apr 2026 12:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:59:19 GMT</lastBuildDate>
+    <item>
+      <title>从优先曝光到补救进展的更清晰路径</title>
+      <link>https://www.rapid7.com/blog/post/em-path-from-prioritized-exposures-to-remediation-progress</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/em-path-from-prioritized-exposures-to-remediation-progress</guid>
+      <pubDate>Wed, 15 Apr 2026 12:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>星期二补丁 - 2026 年 4 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-april-2026</link>
@@ -97,7 +104,7 @@
       <pubDate>Tue, 31 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年红队：2026 年全球网络安全峰会有何期待</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/it-red-teaming-2026-global-cybersecurity-summit</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/it-red-teaming-2026-global-cybersecurity-summit</guid>
@@ -125,7 +132,7 @@
       <pubDate>Thu, 26 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>从向量到判决：使用 Vector 命令进行 Web 应用程序测试</title>
+      <title>从向量到判决：使用向量命令进行 Web 应用程序测试</title>
       <link>https://www.rapid7.com/blog/post/pt-vectors-verdicts-web-app-testing-vector-command</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-vectors-verdicts-web-app-testing-vector-command</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Rapid7 发布了一份名为“基于蜂窝的物联网技术的武器化，作者：Rapid7 物联网首席安全研究员 Deral Heiland 和 Thermo Fisher Scientific 首席产品安全研究员 Carlota Bindner。该论文研究了具有物理访问权限的攻击者如何利用物联网 (IoT) 设备中的蜂窝模块进入云和后端环境、窃取数据并隐藏预期设备流量中的命令通道。 Heiland 在 RSAC 上展示了他们的发现 2026 年旧金山会议。研究重点是这些攻击在实践中如何发挥作用。它详细介绍了如何观察和操作 USB 和通用异步接收器-发送器 (UART) 等芯片间通信。它还展示了硬件修改如何取代设备主机，从而允许外部系统接管蜂窝模块的控制。作者开发了概念验证工具，包括使用 AT 命令的 TCP 端口扫描器、S3 存储桶枚举器、通过蜂窝模块路由流量的 SOCKS5 代理以及 Metasploit 代理模块。这些示例演示了攻击者如何利用设备和连接服务之间的可信关系。研究结果强调了受测试设备之间存在的一致风险。蜂窝模块通常公开多个接口，未使用的 UART 或 USB 路径可以提供直接访问。通过有针对性的印刷电路板修改，攻击者可以通过蜂窝接口重新路由流量。许多模块接受支持原始套接字、HTTP 请求和 TCP 隧道的 AT 命令，这可以实现侦察和横向移动。研究人员检查的所有蜂窝设备都缺乏防篡改保护，并且大多数在传输前没有对敏感数据进行加密，从而增加了在使用私有接入点名称 (APN) 的环境中的暴露程度。组织应将支持蜂窝功能的设备视为进入其网络以及关键数据存储和管理环境的特权入口点。这包括禁用或删除未使用的芯片间接口、在通过蜂窝模块传输数据之前强制执行端到端加密，以及在 APN 架构内应用监控和出站控制。硬件级安全测试应该成为标准产品安全实践的一部分。要阅读白皮书，请单击 此处。]]></description>
       <guid>https://www.rapid7.com/blog/post/tr-new-whitepaper-exploiting-cellular-based-iot-devices</guid>
       <pubDate>Tue, 24 Mar 2026 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 完成 BSI C5 2 类考试：为 DACH 组织提供更强的云安全性</title>
-      <link>https://www.rapid7.com/blog/post/cds-rapid7-completes-bsi-c5-type-2-examination-stronger-cloud-security-dach-organizations</link>
-      <description><![CDATA[如果您是在德国、奥地利或瑞士工作的安全领导者，您已经知道合规性不是一个复选框。这是一个竞争优势。 Rapid7 已完成 Rapid7 命令平台（包括 Threat Command）的 BSI C5 Type 2 认证，这是一个值得揭开的里程碑。这不仅仅是网页上的徽章。这证明我们的安全控制措施不仅在纸面上有效，而且在实践中，随着时间的推移。什么是 BSI C5，为什么它很重要？云计算合规标准目录 (C5) 由德国联邦信息安全办公室 (BSI) 开发。它制定了一些世界上最严格的云安全标准，涵盖从数据保护到操作透明度的各个方面。2 类认证是该框架内的黄金标准。与时间点审核不同，类型 2 验证安全控制不仅设计良好，而且在持续一段时间内积极、一致地工作。这就是安全承诺和安全证明之间的区别。对于 DACH 区域的组织来说，C5 不仅仅是一个可有可无的东西。这是德国联邦机构、关键基础设施运营商、医疗机构和金融服务公司的采购要求。如果您在这些行业中的任何一个领域运营，您的云提供商都需要满足这一标准。 Rapid7 现在就是这样。BSI C5 Type 2 和您的云安全策略无论您是在评估安全供应商、管理合规义务，还是希望加强组织的风险态势，问题都是一样的：您如何知道您的云安全提供商实际上做了什么？说？BSI C5 Type 2 认证回答了这个问题。它是独立的、严谨的、并且随着时间的推移而持续的。虽然植根于德国监管要求，C5 越来越被认为是整个欧洲安全云运营的基准。这是云提供商拥有处理敏感环境的运营成熟度的最明显信号之一。Rapid7 Command Platform 将暴露管理与检测和响应相结合，使安全团队能够清晰地了解整个攻击面。威胁司令部进一步扩展了这种保护，识别并帮助修复明网、深层网络和暗网中的威胁。两者现已针对世界上最严格的云安全框架之一进行了独立验证。为什么安全控制的独立验证很重要信任安全供应商不需要信仰的飞跃。存在独立验证，因此您有证据可以自信地做出决定。该认证反映了我们为满足德国和更广泛的欧洲市场客户的最高安全标准而进行的持续投资。 Rapid7 实现了一个里程碑，直接反映了每天与公共部门和企业组织进行的对话，他们需要的不仅仅是承诺。 他们需要证据证明安全提供商的控制措施已经过测试、验证，并证明可以长期有效。当风险很高时，这种保证就显得尤为重要。准备好观看指挥平台的实际应用了吗？访问Rapid7.com免费试用。]]></description>
-      <guid>https://www.rapid7.com/blog/post/cds-rapid7-completes-bsi-c5-type-2-examination-stronger-cloud-security-dach-organizations</guid>
-      <pubDate>Tue, 24 Mar 2026 16:04:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
