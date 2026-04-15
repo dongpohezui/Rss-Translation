@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 13 Apr 2026 12:57:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 12:56:35 GMT</lastBuildDate>
+    <item>
+      <title>2025 年第四季度工业自动化系统的威胁格局</title>
+      <link>https://securelist.com/industrial-threat-report-q4-2025/119392/</link>
+      <description><![CDATA[该报告包含 2025 年第四季度的工业威胁统计数据。它涵盖了各种感染媒介和恶意软件类型，以及区域统计数据和按行业统计的数据。]]></description>
+      <guid>https://securelist.com/industrial-threat-report-q4-2025/119392/</guid>
+      <pubDate>Wed, 15 Apr 2026 12:30:48 GMT</pubDate>
+    </item>
     <item>
       <title>JanelaRAT：针对拉丁美洲用户的金融威胁</title>
       <link>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基 GReAT 专家描述了前所未有的复杂巴西银行木马 GoPix，该木马采用仅内存植入、代理自动配置 (PAC) 文件进行中间人攻击，并通过 Google Ads 进行恶意广告。]]></description>
       <guid>https://securelist.com/gopix-banking-trojan/119173/</guid>
       <pubDate>Mon, 16 Mar 2026 11:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>BeatBanker：双模式 Android 木马</title>
-      <link>https://securelist.com/beatbanker-miner-and-banker/119121/</link>
-      <description><![CDATA[卡巴斯基研究人员发现了一种名为 BeatBanker 的新 Android 木马，针对巴西，冒充政府应用程序和 Google Play 商店，能够进行加密货币挖掘和窃取银行数据。]]></description>
-      <guid>https://securelist.com/beatbanker-miner-and-banker/119121/</guid>
-      <pubDate>Tue, 10 Mar 2026 10:00:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
