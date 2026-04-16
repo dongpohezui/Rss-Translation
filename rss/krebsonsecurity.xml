@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Thu, 16 Apr 2026 07:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:01:22 GMT</lastBuildDate>
     <item>
       <title>2026 年 4 月星期二补丁版</title>
       <link>https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>伊朗支持的黑客声称对医疗技术公司 Stryker 进行雨刮器攻击</title>
       <link>https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</link>
-      <description><![CDATA[一个与伊朗情报机构有联系的黑客组织声称对针对总部位于密歇根州的全球医疗技术公司史赛克 (Stryker) 的数据擦除攻击负责。来自爱尔兰（史赛克在美国以外最大的枢纽）的新闻报道称，该公司今天已将 5,000 多名工人遣返回国。与此同时，史赛克美国主要总部的语音邮件显示，该公司目前正在经历建筑紧急情况。]]></description>
+      <description><![CDATA[一个与伊朗情报机构有联系的黑客组织声称对针对总部位于密歇根州的全球医疗技术公司史赛克 (Stryker) 的数据擦除攻击负责。 News reports out of Ireland, Stryker&#39;s largest hub outside of the United States, said the company sent home more than 5,000 workers there today.与此同时，史赛克美国主要总部的语音邮件显示，该公司目前正在经历建筑紧急情况。]]></description>
       <guid>https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</guid>
       <pubDate>Wed, 11 Mar 2026 16:20:13 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>Kimwolf 机器人大师“Dort”是谁？</title>
       <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
-      <description><![CDATA[2026 年 1 月上旬，KrebsOnSecurity 披露了一名安全研究人员如何披露一个用于组装世界上最大、最具破坏性的僵尸网络 Kimwolf 的漏洞。从那时起，Kimwolf 的控制者（昵称为“Dort”）协调了针对研究人员和本文作者的一系列分布式拒绝服务 (DDoS)、人肉搜索和电子邮件泛滥攻击，最近还导致特警队被派往研究人员的家中。这篇文章根据公开信息探讨了有关多特的已知信息。]]></description>
+      <description><![CDATA[2026 年 1 月上旬，KrebsOnSecurity 披露了一名安全研究人员如何披露一个用于组装世界上最大、最具破坏性的僵尸网络 Kimwolf 的漏洞。从那时起，Kimwolf 的控制者（昵称为“Dort”）协调了针对研究人员和本文作者的一系列分布式拒绝服务 (DDoS)、人肉搜索和电子邮件泛滥攻击，最近还导致特警队被派往研究人员的家中。这篇文章根据公共信息探讨了有关多特的已知信息。]]></description>
       <guid>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</guid>
       <pubDate>Sat, 28 Feb 2026 12:01:57 GMT</pubDate>
     </item>

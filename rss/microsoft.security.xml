@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 16 Apr 2026 07:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:01:54 GMT</lastBuildDate>
     <item>
       <title>人工智能的事件响应：同样的火，不同的燃料</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/</link>
@@ -14,7 +14,7 @@ AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></
       <pubDate>Wed, 15 Apr 2026 16:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>代理 SOC——重新思考未来十年的 SecOps</title>
+      <title>代理 SOC — 重新思考未来十年的 SecOps</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/</link>
       <description><![CDATA[在未来的 SOC 中，自主防御以机器速度移动，代理添加上下文和协调，而人类则专注于判断、风险和结果。
 这篇文章代理 SOC — 重新思考未来十年的 SecOps 首先出现在 Microsoft 安全博客上。]]></description>
@@ -22,7 +22,7 @@ AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></
       <pubDate>Thu, 09 Apr 2026 19:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>调查 Storm-2755：针对加拿大员工的“工资盗版”攻击</title>
+      <title>调查 Storm-2755：针对加拿大员工的“薪资盗版”攻击</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/</link>
       <description><![CDATA[微软事件响应 - 检测和响应团队 (DART) 研究人员观察到，一个新兴的、出于经济动机的威胁行为者（被追踪为 Storm-2755）会危害加拿大员工帐户，以获取对员工个人资料的未经授权的访问权限，并将工资支付转移到攻击者控制的帐户。
 调查 Storm-2755：针对加拿大员工的“工资盗版”攻击首先出现在 Microsoft Security博客。]]></description>
