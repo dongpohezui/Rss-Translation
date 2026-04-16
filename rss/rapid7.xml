@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 16 Apr 2026 13:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:56:29 GMT</lastBuildDate>
+    <item>
+      <title>伪装成 Claude 安装程序的 ClickFix 网络钓鱼活动</title>
+      <link>https://www.rapid7.com/blog/post/ve-clickfix-phishing-campaign-fake-claude-installer</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ve-clickfix-phishing-campaign-fake-claude-installer</guid>
+      <pubDate>Thu, 16 Apr 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>从优先曝光到补救进展的更清晰路径</title>
       <link>https://www.rapid7.com/blog/post/em-path-from-prioritized-exposures-to-remediation-progress</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-vectors-verdicts-web-app-testing-vector-command</guid>
       <pubDate>Wed, 25 Mar 2026 13:52:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>新白皮书：利用基于蜂窝的物联网设备</title>
-      <link>https://www.rapid7.com/blog/post/tr-new-whitepaper-exploiting-cellular-based-iot-devices</link>
-      <description><![CDATA[Rapid7 发布了一份名为“基于蜂窝的物联网技术的武器化，作者：Rapid7 物联网首席安全研究员 Deral Heiland 和 Thermo Fisher Scientific 首席产品安全研究员 Carlota Bindner。 The paper examines how attackers with physical access can exploit cellular modules in Internet of Things (IoT) devices to move into cloud and backend environments, exfiltrate data, and conceal command channels within expected device traffic. Heiland 在 RSAC 上展示了他们的发现 2026 年旧金山会议。研究重点是这些攻击在实践中如何发挥作用。它详细介绍了如何观察和操作 USB 和通用异步接收器-发送器 (UART) 等芯片间通信。它还展示了硬件修改如何取代设备主机，从而允许外部系统接管蜂窝模块的控制。作者开发了概念验证工具，包括使用 AT 命令的 TCP 端口扫描器、S3 存储桶枚举器、通过蜂窝模块路由流量的 SOCKS5 代理以及 Metasploit 代理模块。这些示例演示了攻击者如何利用设备和连接服务之间的可信关系。研究结果强调了受测试设备之间存在的一致风险。蜂窝模块通常公开多个接口，未使用的 UART 或 USB 路径可以提供直接访问。通过有针对性的印刷电路板修改，攻击者可以通过蜂窝接口重新路由流量。许多模块接受支持原始套接字、HTTP 请求和 TCP 隧道的 AT 命令，这可以实现侦察和横向移动。研究人员检查的所有蜂窝设备都缺乏防篡改保护，并且大多数在传输前没有对敏感数据进行加密，从而增加了在使用私有接入点名称 (APN) 的环境中的暴露程度。组织应将支持蜂窝功能的设备视为进入其网络以及关键数据存储和管理环境的特权入口点。这包括禁用或删除未使用的芯片间接口、在通过蜂窝模块传输数据之前强制执行端到端加密，以及在 APN 架构内应用监控和出站控制。硬件级安全测试应该成为标准产品安全实践的一部分。要阅读白皮书，请单击 此处。]]></description>
-      <guid>https://www.rapid7.com/blog/post/tr-new-whitepaper-exploiting-cellular-based-iot-devices</guid>
-      <pubDate>Tue, 24 Mar 2026 20:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

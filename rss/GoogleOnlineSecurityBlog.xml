@@ -4,7 +4,7 @@
     <title>Google 在线安全博客</title>
     <link>http://security.googleblog.com/</link>
     <description>Google 关于互联网安全的最新新闻和见解。</description>
-    <lastBuildDate>Thu, 16 Apr 2026 13:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:56:12 GMT</lastBuildDate>
     <item>
       <title>将 Rust 引入 Pixel 基带</title>
       <link>http://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html</link>
@@ -127,7 +127,7 @@
     <item>
       <title>DEF CON 33 加速人工智能在网络安全领域的应用</title>
       <link>http://security.googleblog.com/2025/09/accelerating-adoption-of-ai-for.html</link>
-      <description><![CDATA[发布者：Google 隐私、安全和安保团队 Elie Bursztein 和 Marianna TishchenkoEmpowering cyber defenders with AI is critical to tilting the cybersecurity balance back in their favor as they battle cybercriminals and keep users safe.为了帮助加速人工智能在网络安全工作流程中的采用，我们在 DEF CON 33 上与空中客车公司合作举办了 GenSec Capture the Flag (CTF)，致力于网络安全领域的人与人工智能协作。我们的目标是创建一个有趣的互动环境，让不同技能水平的参与者可以探索 AI 如何加速他们的日常网络安全工作流程。在 GenSec CTF 上，近 500 名参与者成功完成了入门挑战，其中 23% 的参与者使用人工智能进行网络安全非常第一次。绝大多数参与者中的 85% 认为该活动对于了解如何将人工智能应用于安全工作流程很有帮助。这一积极反馈凸显了以 AI 为中心的 CTF 在加速安全社区的 AI 教育和采用方面可以发挥至关重要的作用。CTF 还为社区提供了一个宝贵的机会，让他们能够使用 Google 的实验性网络安全 AI Sec-Gemini，作为用户界面中与主要法学硕士一起使用的可选助手。我们收到了有关 Sec-Gemini 的良好反馈，77% 的受访者表示，他们发现 Sec-Gemini 在帮助他们解决挑战方面“非常有帮助”或“非常有帮助”。我们要感谢 DEF CON 社区的热情参与，并使本次首届活动取得圆满成功。活动期间的社区反馈对于了解如何改进 Sec-Gemini 非常宝贵，我们已经将一些经验教训融入到下一次迭代中。我们致力于推进人工智能网络安全前沿，并将继续与社区合作，构建有助于保护人们上网的工具。请继续关注，我们计划与更广泛的社区分享更多来自 CTF 的研究和重要经验。]]></description>
+      <description><![CDATA[发布者：Google 隐私、安全和安保团队 Elie Bursztein 和 Marianna Tishchenko为网络防御者提供人工智能支持对于在与网络犯罪分子的斗争中扭转网络安全平衡并确保用户安全至关重要。为了帮助加速人工智能在网络安全工作流程中的采用，我们在 DEF CON 33 上与空中客车公司合作举办了 GenSec Capture the Flag (CTF)，致力于网络安全领域的人与人工智能协作。我们的目标是创建一个有趣的互动环境，让不同技能水平的参与者可以探索 AI 如何加速他们的日常网络安全工作流程。在 GenSec CTF 上，近 500 名参与者成功完成了入门挑战，其中 23% 的参与者使用人工智能进行网络安全非常第一次。绝大多数参与者中的 85% 认为该活动对于了解如何将人工智能应用于安全工作流程很有帮助。这一积极反馈凸显了以 AI 为中心的 CTF 在加速安全社区的 AI 教育和采用方面可以发挥至关重要的作用。CTF 还为社区提供了一个宝贵的机会，让他们能够使用 Google 的实验性网络安全 AI Sec-Gemini，作为用户界面中与主要法学硕士一起使用的可选助手。我们收到了有关 Sec-Gemini 的良好反馈，77% 的受访者表示，他们发现 Sec-Gemini 在帮助他们解决挑战方面“非常有帮助”或“非常有帮助”。我们要感谢 DEF CON 社区的热情参与，并使本次首届活动取得圆满成功。活动期间的社区反馈对于了解如何改进 Sec-Gemini 非常宝贵，我们已经将一些经验教训融入到下一次迭代中。我们致力于推进人工智能网络安全前沿，并将继续与社区合作，构建有助于保护人们上网的工具。请继续关注，我们计划与更广泛的社区分享更多来自 CTF 的研究和重要经验。]]></description>
       <guid>http://security.googleblog.com/2025/09/accelerating-adoption-of-ai-for.html</guid>
       <pubDate>Wed, 24 Sep 2025 18:42:00 GMT</pubDate>
     </item>
@@ -150,7 +150,7 @@
       <link>http://security.googleblog.com/2025/08/Android-pKVM-Certified-SESIP-Level-5.html</link>
       <description><![CDATA[发布者：Android 安全与隐私工程副总裁 Dave Kleidermacher
 
-今天标志着开源安全和消费电子产品未来的分水岭和新基准。 Google is proud to announce that protected KVM (pKVM), the hypervisor that powers the Android Virtualization Framework, has officially achieved SESIP Level 5 certification.这使得 pKVM 成为第一个专为消费电子产品大规模部署而设计的软件安全系统，以满足这一保证标准。 支持下一代 Android 功能
+今天标志着开源安全和消费电子产品未来的分水岭和新基准。 Google 自豪地宣布，为 Android 虚拟化框架提供支持的管理程序受保护的 KVM (pKVM) 已正式获得SESIP 5 级认证。这使得 pKVM 成为第一个专为消费电子产品大规模部署而设计的软件安全系统，以满足这一保证标准。 支持下一代 Android 功能
 
 
 对安全移动技术未来的影响是深远的。凭借这种级别的安全保证，Android 现在能够安全地支持下一代高关键性隔离工作负载。这包括重要的功能，例如可以在超个性化数据上运行的设备上人工智能工作负载，并具有最高的隐私和完整性保证。

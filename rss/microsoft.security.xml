@@ -4,7 +4,23 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 16 Apr 2026 13:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:57:30 GMT</lastBuildDate>
+    <item>
+      <title>构建您的加密库存：加密状态管理的客户策略</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/</link>
+      <description><![CDATA[了解如何使用 Microsoft 安全工具、最佳实践生命周期模型和合作伙伴解决方案构建全面的加密库存并加强量子安全准备。
+构建加密库存：加密状态管理的客户策略一文首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/</guid>
+      <pubDate>Thu, 16 Apr 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>剖析 Sapphire Sleet 对 macOS 的从诱惑到妥协的入侵</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/</link>
+      <description><![CDATA[Microsoft Defender 安全研究团队发现了一场复杂的 macOS 入侵活动，该活动归因于朝鲜威胁参与者 Sapphire Sleet，该活动滥用用户驱动的执行和社会工程来绕过 macOS 安全保护并窃取凭据、加密货币资产和敏感数据。
+这篇文章剖析 Sapphire Sleet 的 macOS 入侵从诱饵到妥协首先出现在 Microsoft安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/16/dissecting-sapphire-sleets-macos-intrusion-from-lure-to-compromise/</guid>
+      <pubDate>Thu, 16 Apr 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能的事件响应：同样的火，不同的燃料</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/</link>
@@ -68,22 +84,6 @@ AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></
 这篇文章威胁者滥用人工智能加速了从工具到网络攻击面首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/</guid>
       <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cookie 控制的 PHP Webshel​​l：Linux 托管环境中的隐秘交易</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/</link>
-      <description><![CDATA[ Cookie 门禁的 PHP Webshel​​l 使用混淆、php-fpm 执行和基于 cron 的持久性来逃避 Linux 托管环境中的检测。这篇文章探讨了这种谍报技术如何隐藏特制 HTTP cookie 背后的执行。
-Cookie 控制的 PHP webshell：Linux 托管环境中的隐秘交易技术首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/</guid>
-      <pubDate>Thu, 02 Apr 2026 15:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>缓解 Axios npm 供应链妥协</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/</link>
-      <description><![CDATA[2026 年 3 月 31 日，流行的 HTTP 客户端 Axios 经历了供应链攻击，导致从命令和控制 (C2) 下载两个新发布的用于版本更新的 npm 包，Microsoft 威胁情报将其归因于朝鲜国家行为者 Sapphire Sleet。尽管恶意版本不再可供下载，但由于 Axios 是 JavaScript 生态系统中使用最广泛的 HTTP 客户端之一，这种妥协暴露了数百名潜在的数百万用户。
-这篇文章缓解 Axios npm 供应链泄露首先出现在微软安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/</guid>
-      <pubDate>Wed, 01 Apr 2026 21:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
