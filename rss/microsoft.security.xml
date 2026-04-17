@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 17 Apr 2026 12:54:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 18:41:38 GMT</lastBuildDate>
+    <item>
+      <title>遏制领域妥协：预测屏蔽如何阻止横向移动</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/</link>
+      <description><![CDATA[域名泄露速度很快。预测性屏蔽减慢了速度。这次真实世界的攻击展示了基于暴露的遏制如何阻止凭证滥用并打破威胁行为者的势头。
+包含域泄露：预测屏蔽如何关闭横向移动的帖子首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/</guid>
+      <pubDate>Fri, 17 Apr 2026 14:51:01 GMT</pubDate>
+    </item>
     <item>
       <title>构建您的加密库存：加密状态管理的客户策略</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/</link>
@@ -76,14 +84,6 @@ AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></
 帖子 Storm-1175 重点关注高速 Medusa 勒索软件操作中易受攻击的面向 Web 的资产 首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/06/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/</guid>
       <pubDate>Mon, 06 Apr 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>威胁行为者对人工智能的滥用加速从工具到网络攻击的表面</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/</link>
-      <description><![CDATA[生成式 AI 正在升级网络攻击，从提高 450% 的网络钓鱼点击率到工业化的 MFA 绕过。
-这篇文章威胁者滥用人工智能加速了从工具到网络攻击面首先出现在Microsoft Security博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/</guid>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
