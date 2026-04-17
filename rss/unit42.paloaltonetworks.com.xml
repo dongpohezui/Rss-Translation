@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Tue, 14 Apr 2026 01:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 01:21:38 GMT</lastBuildDate>
+    <item>
+      <title>深入探讨 CVE-2023-33538 的利用尝试</title>
+      <link>https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/</link>
+      <description><![CDATA[CVE-2023-33538 允许在 TP-Link 路由器中进行命令注入。我们讨论了利用 Mirai 僵尸网络恶意软件的有效负载特征进行的利用尝试。
+帖子深入探讨 CVE-2023-33538 的利用首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/</guid>
+      <pubDate>Thu, 16 Apr 2026 22:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>基岩裂缝：神探模式</title>
       <link>https://unit42.paloaltonetworks.com/exploit-of-aws-agentcore-iam-god-mode/</link>
@@ -24,7 +32,7 @@
     <item>
       <title>了解 Kubernetes 环境当前面临的威胁</title>
       <link>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</link>
-      <description><![CDATA[第 42 单元揭示了不断升级的 Kubernetes 攻击，详细介绍了威胁行为者如何利用身份和关键漏洞来危害云环境。
+      <description><![CDATA[第 42 单元揭示了不断升级的 Kubernetes 攻击，详细介绍了威胁行为者如何利用身份和关键漏洞来破坏云环境。
 这篇文章了解 Kubernetes 环境的当前威胁首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</guid>
       <pubDate>Mon, 06 Apr 2026 22:00:08 GMT</pubDate>
@@ -116,14 +124,6 @@
 帖子导航人工智能代理的安全权衡首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/navigating-security-tradeoffs-ai-agents/</guid>
       <pubDate>Wed, 18 Mar 2026 23:00:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放、封闭和破碎：快速模糊测试发现法学硕士在开放和封闭模型中仍然脆弱</title>
-      <link>https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/</link>
-      <description><![CDATA[Unit 42 研究利用遗传算法启发的提示模糊测试揭示了 LLM 护栏脆弱性。发现可扩展的规避方法和关键的 GenAI 安全隐患。
-帖子开放、封闭和破碎：即时模糊测试发现LLM在开放和封闭模型中仍然脆弱首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/</guid>
-      <pubDate>Tue, 17 Mar 2026 10:00:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

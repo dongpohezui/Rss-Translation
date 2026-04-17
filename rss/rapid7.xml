@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 16 Apr 2026 18:56:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 01:20:54 GMT</lastBuildDate>
+    <item>
+      <title>CVE-2026-33032：Nginx UI 缺少​​ MCP 身份验证</title>
+      <link>https://www.rapid7.com/blog/post/etr-cve-2026-33032-nginx-ui-missing-mcp-authentication</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/etr-cve-2026-33032-nginx-ui-missing-mcp-authentication</guid>
+      <pubDate>Thu, 16 Apr 2026 19:44:49 GMT</pubDate>
+    </item>
     <item>
       <title>伪装成 Claude 安装程序的 ClickFix 网络钓鱼活动</title>
       <link>https://www.rapid7.com/blog/post/ve-clickfix-phishing-campaign-fake-claude-installer</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/tr-bpfdoor-telecom-networks-sleeper-cells-threat-research-report</guid>
       <pubDate>Thu, 26 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从向量到判决：使用 Vector 命令进行 Web 应用程序测试</title>
-      <link>https://www.rapid7.com/blog/post/pt-vectors-verdicts-web-app-testing-vector-command</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-vectors-verdicts-web-app-testing-vector-command</guid>
-      <pubDate>Wed, 25 Mar 2026 13:52:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
