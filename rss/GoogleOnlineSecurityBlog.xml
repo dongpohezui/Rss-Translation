@@ -4,7 +4,7 @@
     <title>Google 在线安全博客</title>
     <link>http://security.googleblog.com/</link>
     <description>Google 关于互联网安全的最新新闻和见解。</description>
-    <lastBuildDate>Fri, 17 Apr 2026 18:41:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 12:34:54 GMT</lastBuildDate>
     <item>
       <title>将 Rust 引入 Pixel 基带</title>
       <link>http://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html</link>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 03 Dec 2025 16:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Android 快速共享对 AirDrop 的支持：跨平台文件共享的安全方法</title>
+      <title>Android 快速共享支持 AirDrop：跨平台文件共享的安全方法</title>
       <link>http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html</link>
       <description><![CDATA[]]></description>
       <guid>http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html</guid>
@@ -139,7 +139,7 @@
       <pubDate>Mon, 15 Sep 2025 17:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pixel 和 Android 如何通过 C2PA 内容凭证为您的图像带来新的信任度</title>
+      <title>Pixel 和 Android 如何通过 C2PA 内容凭证为您的图像带来新的信任级别</title>
       <link>http://security.googleblog.com/2025/09/pixel-android-trusted-images-c2pa-content-credentials.html</link>
       <description><![CDATA[]]></description>
       <guid>http://security.googleblog.com/2025/09/pixel-android-trusted-images-c2pa-content-credentials.html</guid>
