@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 17 Apr 2026 18:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 01:14:38 GMT</lastBuildDate>
+    <item>
+      <title>Metasploit 总结 04/17/2026</title>
+      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-17-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-17-2026</guid>
+      <pubDate>Fri, 17 Apr 2026 20:35:42 GMT</pubDate>
+    </item>
     <item>
       <title>CVE-2026-33032：Nginx UI 缺少​​ MCP 身份验证</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-33032-nginx-ui-missing-mcp-authentication</link>
@@ -104,7 +111,7 @@
       <pubDate>Thu, 02 Apr 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Rapid7 首席执行官 Corey Thomas 表示，CISO 在 2026 年对 AI 支持的 MDR 有何期望</title>
+      <title>Rapid7 首席执行官科里·托马斯 (Corey Thomas) 表示，CISO 在 2026 年对 AI 支持的 MDR 有何期望</title>
       <link>https://www.rapid7.com/blog/post/it-2026-ai-powered-mdr-ceo-corey-thomas-cisos</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/it-2026-ai-powered-mdr-ceo-corey-thomas-cisos</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-cvss-and-exposure-management</guid>
       <pubDate>Fri, 27 Mar 2026 14:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>电信网络中的 BPFdoor：骨干网中的休眠单元</title>
-      <link>https://www.rapid7.com/blog/post/tr-bpfdoor-telecom-networks-sleeper-cells-threat-research-report</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/tr-bpfdoor-telecom-networks-sleeper-cells-threat-research-report</guid>
-      <pubDate>Thu, 26 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

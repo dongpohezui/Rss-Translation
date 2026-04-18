@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Fri, 17 Apr 2026 01:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 01:15:17 GMT</lastBuildDate>
+    <item>
+      <title>威胁简报：与伊朗相关的网络风险升级（4 月 17 日更新）</title>
+      <link>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/</link>
+      <description><![CDATA[第 42 单元详细介绍了伊朗最近的网络攻击活动，分享了对网络钓鱼、黑客活动和网络犯罪的直接观察。我们为维护者提供了建议。
+帖子威胁简报：与伊朗相关的网络风险升级（4 月 17 日更新）首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/</guid>
+      <pubDate>Fri, 17 Apr 2026 22:35:07 GMT</pubDate>
+    </item>
     <item>
       <title>深入探讨 CVE-2023-33538 的利用尝试</title>
       <link>https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/</link>
@@ -68,14 +76,6 @@
 帖子双重代理：暴露 GCP Vertex AI 中的安全盲点首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/double-agents-vertex-ai/</guid>
       <pubDate>Tue, 31 Mar 2026 10:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>威胁简报：2026 年 3 月与伊朗相关的网络风险升级（3 月 26 日更新）</title>
-      <link>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/</link>
-      <description><![CDATA[第 42 单元详细介绍了伊朗最近的网络攻击活动，分享了对网络钓鱼、黑客活动和网络犯罪的直接观察。我们为维护者提供了建议。
-帖子威胁简报：2026 年 3 月与伊朗相关的网络风险升级（3 月 26 日更新）首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/</guid>
-      <pubDate>Thu, 26 Mar 2026 22:10:07 GMT</pubDate>
     </item>
     <item>
       <title>利益趋同：针对东南亚政府的威胁集群分析</title>
