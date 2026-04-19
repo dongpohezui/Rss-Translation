@@ -4,11 +4,11 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sun, 19 Apr 2026 12:34:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 18:33:36 GMT</lastBuildDate>
     <item>
       <title>跨租户帮助台模拟数据泄露：人为操作的入侵手册</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/</link>
-      <description><![CDATA[威胁参与者正在滥用外部 Microsoft Teams 协作来冒充 IT 帮助台工作人员并说服用户授予远程访问权限。一旦进入内部，攻击者就可以滥用合法工具和标准管理协议进行横向移动并窃取数据，同时表现为常规 IT 支持活动 - Microsoft Defender 有助于跨 Teams、端点和身份遥测进行检测。
+      <description><![CDATA[威胁参与者正在滥用外部 Microsoft Teams 协作来冒充 IT 帮助台员工并说服用户授予远程访问权限。一旦进入内部，攻击者就可以滥用合法工具和标准管理协议进行横向移动并窃取数据，同时表现为常规 IT 支持活动 - Microsoft Defender 有助于跨 Teams、端点和身份遥测进行检测。
 帖子跨租户帮助台模拟数据泄露：人工操作的入侵手册首先出现在Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/</guid>
       <pubDate>Sat, 18 Apr 2026 12:55:45 GMT</pubDate>
@@ -17,7 +17,7 @@
       <title>遏制领域妥协：预测屏蔽如何阻止横向移动</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/</link>
       <description><![CDATA[域名泄露速度很快。预测性屏蔽减慢了速度。这次真实世界的攻击展示了基于暴露的遏制如何阻止凭证滥用并打破威胁行为者的势头。
-帖子包含域泄露：预测屏蔽如何关闭横向移动首先出现在微软安全博客上。]]></description>
+包含域泄露：预测屏蔽如何关闭横向移动的帖子首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/</guid>
       <pubDate>Fri, 17 Apr 2026 14:51:01 GMT</pubDate>
     </item>
@@ -65,7 +65,7 @@ AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></
       <title>第三方 SDK 中的 Intent 重定向漏洞使数百万 Android 钱包面临潜在风险</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/</link>
       <description><![CDATA[广泛部署的 SDK 中存在严重的 Android 意图重定向漏洞，暴露了数百万个应用程序中的敏感用户数据。微软研究人员详细介绍了该缺陷的工作原理、其重要性以及开发人员如何通过更新受影响的 SDK 来降低类似风险。
-这篇文章第三方 SDK 中的 Intent 重定向漏洞使数百万 Android 钱包面临潜在风险首先出现在 Microsoft 安全博客上。]]></description>
+第三方 SDK 中的 Intent 重定向漏洞使数百万 Android 钱包面临潜在风险的帖子首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/</guid>
       <pubDate>Thu, 09 Apr 2026 13:21:18 GMT</pubDate>
     </item>
