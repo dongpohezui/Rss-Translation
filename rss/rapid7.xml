@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 20 Apr 2026 13:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:49:49 GMT</lastBuildDate>
+    <item>
+      <title>Glasswing 项目和防御者面临的下一个挑战：将更快的发现转化为更快的行动</title>
+      <link>https://www.rapid7.com/blog/post/ai-project-glasswing-challenge-faster-discovery-and-action</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ai-project-glasswing-challenge-faster-discovery-and-action</guid>
+      <pubDate>Mon, 20 Apr 2026 16:20:32 GMT</pubDate>
+    </item>
     <item>
       <title>Metasploit 总结 04/17/2026</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-17-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-03-27-2026</guid>
       <pubDate>Fri, 27 Mar 2026 20:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 CVSS 不足以用于暴露管理</title>
-      <link>https://www.rapid7.com/blog/post/em-cvss-and-exposure-management</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/em-cvss-and-exposure-management</guid>
-      <pubDate>Fri, 27 Mar 2026 14:28:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

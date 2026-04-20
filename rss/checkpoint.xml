@@ -4,7 +4,23 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 13 Apr 2026 18:59:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:51:37 GMT</lastBuildDate>
+    <item>
+      <title>4 月 20 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/</link>
+      <description><![CDATA[有关 4 月 20 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 总部位于阿姆斯特丹的旅游平台 Booking.com 确认，未经授权的各方访问了与某些客户相关的预订数据后发生了数据泄露事件。暴露的信息包括姓名、电子邮件地址、电话号码、实际地址和预订[…]
+4 月 20 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/</guid>
+      <pubDate>Mon, 20 Apr 2026 14:24:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFIR 报告 – 绅士们与 SystemBC：代理背后的一瞥</title>
+      <link>https://research.checkpoint.com/2026/dfir-report-the-gentlemen/</link>
+      <description><![CDATA[要点 Gentlemen RaaS Gentlemen 勒索软件即服务 (RaaS) 操作是一个相对较新的组织，于 2025 年中期左右出现。运营商在多个地下论坛上宣传他们的服务，宣传他们的勒索软件平台并邀请渗透测试人员（和其他技术熟练的参与者）作为附属机构加入。 RaaS 为附属机构提供适用于 Windows、Linux 的多操作系统储物柜，[…]
+帖子DFIR 报告 – 先生们和SystemBC：代理背后的先睹为快首先出现在Check Point Research。]]></description>
+      <guid>https://research.checkpoint.com/2026/dfir-report-the-gentlemen/</guid>
+      <pubDate>Mon, 20 Apr 2026 12:55:53 GMT</pubDate>
+    </item>
     <item>
       <title>4 月 13 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/13th-april-threat-intelligence-report/</link>
@@ -108,22 +124,6 @@ ChatGPT 数据通过代码执行运行时中的隐藏出站通道泄露一文首
 帖子银龙针对东南亚和欧洲的组织首先出现在Check Point Research上。]]></description>
       <guid>https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/</guid>
       <pubDate>Tue, 03 Mar 2026 15:49:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>3 月 2 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/2nd-march-threat-intelligence-report/</link>
-      <description><![CDATA[有关 3 月 2 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 美国赌场和酒店运营商永利度假村 (Wynn Resorts) 已确认，在与 ShinyHunters 相关的勒索威胁之后，员工数据被盗取。该公司表示，运营并未受到干扰。报告表明[…]
-3 月 2 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/2nd-march-threat-intelligence-report/</guid>
-      <pubDate>Mon, 02 Mar 2026 16:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>陷入困境：通过 Claude 代码项目文件进行 RCE 和 API 令牌渗透 | CVE-2025-59536 | CVE-2026-21852</title>
-      <link>https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/</link>
-      <description><![CDATA[作者：Aviv Donenfeld 和 Oded Vanunu 执行摘要 Check Point Research 发现了 Anthropic 的 Claude 代码中的严重漏洞，这些漏洞允许攻击者通过恶意项目配置实现远程代码执行并窃取 API 凭据。这些漏洞利用各种配置机制，包括 Hooks、模型上下文协议 (MCP) 服务器和环境变量 - 执行任意 shell 命令 […]
-帖子陷入困境：通过 Claude 代码项目文件进行 RCE 和 API 令牌渗透 | CVE-2025-59536 | CVE-2026-21852&lt;其他 cve=&quot;&quot; id=“” tbd=&quot;&quot;&gt;&lt;/other&gt; 首先出现在 Check Point Research。]]></description>
-      <guid>https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/</guid>
-      <pubDate>Wed, 25 Feb 2026 13:58:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
