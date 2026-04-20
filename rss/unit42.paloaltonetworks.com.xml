@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Sat, 18 Apr 2026 01:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:02:32 GMT</lastBuildDate>
+    <item>
+      <title>利用前沿人工智能模型破坏软件安全</title>
+      <link>https://unit42.paloaltonetworks.com/ai-software-security-risks/</link>
+      <description><![CDATA[Unit 42 发现前沿人工智能模型可以增强漏洞发现，充当全方位安全研究人员。它们支持自主零日发现和更快的 N 日修补。
+这篇文章利用前沿人工智能模型破坏软件安全首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/ai-software-security-risks/</guid>
+      <pubDate>Mon, 20 Apr 2026 10:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>威胁简报：与伊朗相关的网络风险升级（4 月 17 日更新）</title>
       <link>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/</link>
@@ -40,7 +48,7 @@
     <item>
       <title>了解 Kubernetes 环境当前面临的威胁</title>
       <link>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</link>
-      <description><![CDATA[第 42 单元揭示了不断升级的 Kubernetes 攻击，详细介绍了威胁行为者如何利用身份和关键漏洞来破坏云环境。
+      <description><![CDATA[第 42 单元揭示了不断升级的 Kubernetes 攻击，详细介绍了威胁行为者如何利用身份和关键漏洞来危害云环境。
 这篇文章了解 Kubernetes 环境的当前威胁首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</guid>
       <pubDate>Mon, 06 Apr 2026 22:00:08 GMT</pubDate>
@@ -116,14 +124,6 @@
 这篇文章分析恶意软件中人工智能的使用现状首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/ai-use-in-malware/</guid>
       <pubDate>Thu, 19 Mar 2026 10:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能代理的安全权衡</title>
-      <link>https://unit42.paloaltonetworks.com/navigating-security-tradeoffs-ai-agents/</link>
-      <description><![CDATA[第 42 单元概述了人工智能生态系统的风险以及允许人工智能代理拥有过多特权的风险。了解如何使您的安全策略跟上这些最新趋势。 
-帖子导航人工智能代理的安全权衡首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/navigating-security-tradeoffs-ai-agents/</guid>
-      <pubDate>Wed, 18 Mar 2026 23:00:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

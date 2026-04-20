@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Apr 2026 18:59:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:02:10 GMT</lastBuildDate>
+    <item>
+      <title>FakeWallet 加密货币窃取程序通过 App Store 中的 iOS 应用程序传播</title>
+      <link>https://securelist.com/fakewallet-cryptostealer-ios-app-store/119474/</link>
+      <description><![CDATA[2026 年 3 月，我们在 Apple App Store 中发现了 20 多个伪装成流行加密钱包的网络钓鱼应用程序。]]></description>
+      <guid>https://securelist.com/fakewallet-cryptostealer-ios-app-store/119474/</guid>
+      <pubDate>Mon, 20 Apr 2026 09:22:47 GMT</pubDate>
+    </item>
     <item>
       <title>2025 年第四季度工业自动化系统的威胁格局</title>
       <link>https://securelist.com/industrial-threat-report-q4-2025/119392/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>JanelaRAT：针对拉丁美洲用户的金融威胁</title>
       <link>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</link>
-      <description><![CDATA[卡巴斯基 GReAT 专家描述了最新的 JanelaRAT 活动，详细说明了感染链和恶意软件功能更新。]]></description>
+      <description><![CDATA[卡巴斯基 GReAT 专家描述了最新的 JanelaRAT 活动，详细介绍了感染链和恶意软件功能更新。]]></description>
       <guid>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</guid>
       <pubDate>Mon, 13 Apr 2026 09:00:23 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基 SOC 发现并分析了墨西哥发生的复杂的 Horabot 活动。在本文中，我们将分享有关它是如何释放以及如何寻找这种威胁的见解。]]></description>
       <guid>https://securelist.com/horabot-campaign/119033/</guid>
       <pubDate>Wed, 18 Mar 2026 11:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费房地产：GoPix，依靠您记忆生存的银行木马</title>
-      <link>https://securelist.com/gopix-banking-trojan/119173/</link>
-      <description><![CDATA[卡巴斯基 GReAT 专家描述了前所未有的复杂巴西银行木马 GoPix，该木马采用仅内存植入、代理自动配置 (PAC) 文件进行中间人攻击，并通过 Google Ads 进行恶意广告。]]></description>
-      <guid>https://securelist.com/gopix-banking-trojan/119173/</guid>
-      <pubDate>Mon, 16 Mar 2026 11:00:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
