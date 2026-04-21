@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 21 Apr 2026 07:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:56:39 GMT</lastBuildDate>
+    <item>
+      <title>从批量导出到人工智能就绪的安全工作流程：Rapid7 的开源 MCP 服务器和代理技能简介</title>
+      <link>https://www.rapid7.com/blog/post/em-bulk-export-ai-ready-security-workflows-open-source-mcp-server-agent-skill</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/em-bulk-export-ai-ready-security-workflows-open-source-mcp-server-agent-skill</guid>
+      <pubDate>Tue, 21 Apr 2026 12:22:09 GMT</pubDate>
+    </item>
     <item>
       <title>Glasswing 项目和防御者面临的下一个挑战：将更快的发现转化为更快的行动</title>
       <link>https://www.rapid7.com/blog/post/ai-project-glasswing-challenge-faster-discovery-and-action</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/it-red-teaming-2026-global-cybersecurity-summit</guid>
       <pubDate>Mon, 30 Mar 2026 16:31:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 总结 03/27/2026</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-03-27-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-03-27-2026</guid>
-      <pubDate>Fri, 27 Mar 2026 20:48:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
