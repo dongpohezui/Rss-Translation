@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Tue, 21 Apr 2026 12:56:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 18:55:33 GMT</lastBuildDate>
+    <item>
+      <title>“分散蜘蛛”成员“泰勒布”认罪</title>
+      <link>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</link>
+      <description><![CDATA[一名 24 岁英国公民、网络犯罪组织“分散蜘蛛”的高级成员已承认犯有电信欺诈阴谋和严重身份盗窃罪。泰勒·罗伯特·布坎南 (Tyler Robert Buchanan) 承认他在 2022 年夏天参与了一系列短信网络钓鱼攻击，该攻击使该组织侵入了至少十几家主要科技公司，并从投资者那里窃取了价值数千万美元的加密货币。]]></description>
+      <guid>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</guid>
+      <pubDate>Tue, 21 Apr 2026 14:53:59 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年 4 月星期二补丁版</title>
       <link>https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[2026 年 1 月上旬，KrebsOnSecurity 披露了一名安全研究人员如何披露一个用于组装世界上最大、最具破坏性的僵尸网络 Kimwolf 的漏洞。从那时起，Kimwolf 的控制者（昵称为“Dort”）协调了针对研究人员和本文作者的一系列分布式拒绝服务 (DDoS)、人肉搜索和电子邮件泛滥攻击，最近还导致特警队被派往研究人员的家中。这篇文章根据公共信息探讨了有关多特的已知信息。]]></description>
       <guid>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</guid>
       <pubDate>Sat, 28 Feb 2026 12:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Starkiller”网络钓鱼服务代理真实登录页面，MFA</title>
-      <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
-      <description><![CDATA[大多数网络钓鱼网站只不过是流行在线目的地的登录页面的静态副本，并且它们通常很快就会被反滥用活动人士和安全公司拿下。但一种隐秘的新型网络钓鱼即服务产品可以让客户避开这两个陷阱：它使用巧妙伪装的链接来加载目标品牌的真实网站，然后充当目标和合法网站之间的中继——将受害者的用户名、密码和多重身份验证 (MFA) 代码转发到合法网站并返回其响应。]]></description>
-      <guid>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</guid>
-      <pubDate>Fri, 20 Feb 2026 20:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
