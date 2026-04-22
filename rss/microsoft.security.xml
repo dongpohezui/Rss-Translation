@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 22 Apr 2026 12:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 18:57:41 GMT</lastBuildDate>
+    <item>
+      <title>针对人工智能加速的威胁环境的人工智能防御</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/</link>
+      <description><![CDATA[了解 Microsoft 如何与 Anthropic 和更广泛的行业合作，使用领先的模型，结合我们的平台和专业知识，将 AI 驱动的发现转化为大规模的保护。
+这篇文章人工智能加速的威胁态势的人工智能防御首先出现在微软安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/</guid>
+      <pubDate>Wed, 22 Apr 2026 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>针对渗透 IT 工作人员的跨云和身份检测策略</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/</link>
@@ -33,7 +41,7 @@
       <title>遏制领域妥协：预测屏蔽如何阻止横向移动</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/</link>
       <description><![CDATA[域名泄露速度很快。预测性屏蔽减慢了速度。这次真实世界的攻击展示了基于暴露的遏制如何阻止凭证滥用并打破威胁行为者的势头。
-包含域泄露：预测屏蔽如何关闭横向移动的帖子首先出现在 Microsoft 安全博客上。]]></description>
+帖子包含域泄露：预测屏蔽如何关闭横向移动首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/</guid>
       <pubDate>Fri, 17 Apr 2026 14:51:01 GMT</pubDate>
     </item>
@@ -62,7 +70,7 @@ AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></
       <pubDate>Wed, 15 Apr 2026 16:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>代理 SOC——重新思考未来十年的 SecOps</title>
+      <title>代理 SOC — 重新思考未来十年的 SecOps</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/</link>
       <description><![CDATA[在未来的 SOC 中，自主防御以机器速度移动，代理添加上下文和协调，而人类则专注于判断、风险和结果。
 这篇文章代理 SOC — 重新思考未来十年的 SecOps 首先出现在 Microsoft 安全博客上。]]></description>
@@ -76,14 +84,6 @@ AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></
 调查 Storm-2755：针对加拿大员工的“工资盗版”攻击首先出现在 Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/</guid>
       <pubDate>Thu, 09 Apr 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第三方 SDK 中的 Intent 重定向漏洞使数百万 Android 钱包面临潜在风险</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/</link>
-      <description><![CDATA[广泛部署的 SDK 中存在严重的 Android 意图重定向漏洞，暴露了数百万个应用程序中的敏感用户数据。微软研究人员详细介绍了该缺陷的工作原理、其重要性以及开发人员如何通过更新受影响的 SDK 来降低类似风险。
-这篇文章第三方 SDK 中的 Intent 重定向漏洞使数百万 Android 钱包面临潜在风险首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/</guid>
-      <pubDate>Thu, 09 Apr 2026 13:21:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
