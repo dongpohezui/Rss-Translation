@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Mon, 20 Apr 2026 18:51:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 12:58:31 GMT</lastBuildDate>
+    <item>
+      <title>当 Wi-Fi 加密失败时：保护您的企业免受 AirSnitch 攻击</title>
+      <link>https://unit42.paloaltonetworks.com/air-snitch-enterprise-wireless-attacks/</link>
+      <description><![CDATA[Unit 42 研究揭示 AirSnitch 攻击绕过 WPA2/3 Wi-Fi 加密和客户端隔离，暴露关键基础设施漏洞。
+帖子当 Wi-Fi 加密失败时：保护您的企业免受 AirSnitch 攻击首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/air-snitch-enterprise-wireless-attacks/</guid>
+      <pubDate>Wed, 22 Apr 2026 10:00:22 GMT</pubDate>
+    </item>
     <item>
       <title>利用前沿人工智能模型破坏软件安全</title>
       <link>https://unit42.paloaltonetworks.com/ai-software-security-risks/</link>
@@ -116,14 +124,6 @@
 帖子谁在真正购物？代理人工智能时代的零售欺诈首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/retail-fraud-agentic-ai/</guid>
       <pubDate>Fri, 20 Mar 2026 23:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析恶意软件中人工智能的使用现状</title>
-      <link>https://unit42.paloaltonetworks.com/ai-use-in-malware/</link>
-      <description><![CDATA[Unit 42 研究探讨了人工智能目前如何在恶意软件中使用，从表面集成到高级决策，及其未来影响。 
-这篇文章分析恶意软件中人工智能的使用现状首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/ai-use-in-malware/</guid>
-      <pubDate>Thu, 19 Mar 2026 10:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
