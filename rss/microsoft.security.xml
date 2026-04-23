@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 22 Apr 2026 18:57:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:26:35 GMT</lastBuildDate>
     <item>
       <title>针对人工智能加速的威胁环境的人工智能防御</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/</link>
@@ -32,7 +32,7 @@
     <item>
       <title>跨租户帮助台模拟数据泄露：人为操作的入侵手册</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/</link>
-      <description><![CDATA[威胁参与者正在滥用外部 Microsoft Teams 协作来冒充 IT 帮助台工作人员并说服用户授予远程访问权限。一旦进入内部，攻击者就可以滥用合法工具和标准管理协议进行横向移动并窃取数据，同时表现为常规 IT 支持活动 - Microsoft Defender 有助于跨 Teams、端点和身份遥测进行检测。
+      <description><![CDATA[威胁参与者正在滥用外部 Microsoft Teams 协作来冒充 IT 帮助台员工并说服用户授予远程访问权限。一旦进入内部，攻击者就可以滥用合法工具和标准管理协议进行横向移动并窃取数据，同时表现为常规 IT 支持活动 - Microsoft Defender 有助于跨 Teams、端点和身份遥测进行检测。
 帖子跨租户帮助台模拟数据泄露：人工操作的入侵手册首先出现在Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/</guid>
       <pubDate>Sat, 18 Apr 2026 12:55:45 GMT</pubDate>
@@ -70,7 +70,7 @@ AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></
       <pubDate>Wed, 15 Apr 2026 16:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>代理 SOC — 重新思考未来十年的 SecOps</title>
+      <title>代理 SOC——重新思考未来十年的 SecOps</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/</link>
       <description><![CDATA[在未来的 SOC 中，自主防御以机器速度移动，代理添加上下文和协调，而人类则专注于判断、风险和结果。
 这篇文章代理 SOC — 重新思考未来十年的 SecOps 首先出现在 Microsoft 安全博客上。]]></description>
