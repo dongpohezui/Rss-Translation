@@ -4,7 +4,7 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Thu, 23 Apr 2026 12:56:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 18:54:02 GMT</lastBuildDate>
     <item>
       <title>AI可以攻击云吗？构建自主云攻击性多代理系统的经验教训</title>
       <link>https://unit42.paloaltonetworks.com/autonomous-ai-cloud-attacks/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>了解 Kubernetes 环境当前面临的威胁</title>
       <link>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</link>
-      <description><![CDATA[第 42 单元揭示了不断升级的 Kubernetes 攻击，详细介绍了威胁行为者如何利用身份和关键漏洞来危害云环境。
+      <description><![CDATA[第 42 单元揭示了不断升级的 Kubernetes 攻击，详细介绍了威胁行为者如何利用身份和关键漏洞来破坏云环境。
 这篇文章了解 Kubernetes 环境的当前威胁首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</guid>
       <pubDate>Mon, 06 Apr 2026 22:00:08 GMT</pubDate>
@@ -116,6 +116,14 @@
 帖子威胁简介：冒充 Palo Alto Networks 人才招聘团队的招聘计划首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/phishing-attackers-pose-as-panw-recruiters/</guid>
       <pubDate>Tue, 24 Mar 2026 22:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud Authenticator：无密码身份验证的隐藏机制</title>
+      <link>https://unit42.paloaltonetworks.com/passwordless-authentication/</link>
+      <description><![CDATA[探索 Google 的同步密钥架构。第 42 单元详细介绍了无密码系统中的机制、密钥管理和安全通信。”
+帖子Google Cloud Authenticator：无密码身份验证的隐藏机制首先出现在第 42 单元。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/passwordless-authentication/</guid>
+      <pubDate>Mon, 23 Mar 2026 22:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

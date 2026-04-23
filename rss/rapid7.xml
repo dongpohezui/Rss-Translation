@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 23 Apr 2026 12:56:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 18:53:16 GMT</lastBuildDate>
+    <item>
+      <title>人工智能正在改变漏洞发现，您的软件供应链策略必须随之改变</title>
+      <link>https://www.rapid7.com/blog/post/ai-changing-vulnerability-discovery-software-supply-chain-strategy</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ai-changing-vulnerability-discovery-software-supply-chain-strategy</guid>
+      <pubDate>Thu, 23 Apr 2026 13:25:47 GMT</pubDate>
+    </item>
     <item>
       <title>Kyber 勒索软件双重麻烦：Windows 和 ESXi 攻击解释</title>
       <link>https://www.rapid7.com/blog/post/tr-kyber-ransomware-double-trouble-windows-esxi-attacks-explained</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/it-2026-ai-powered-mdr-ceo-corey-thomas-cisos</guid>
       <pubDate>Wed, 01 Apr 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>初始访问经纪人已转向高价值目标和溢价定价</title>
-      <link>https://www.rapid7.com/blog/post/tr-initial-access-broker-shift-high-value-targets-premium-pricing</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/tr-initial-access-broker-shift-high-value-targets-premium-pricing</guid>
-      <pubDate>Tue, 31 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

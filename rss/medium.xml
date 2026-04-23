@@ -4,7 +4,14 @@
     <title>凯文·博蒙特在 Medium 上的故事</title>
     <link>https://medium.com/@networksecurity?source=rss-7db6d2df42a6------2</link>
     <description>凯文·博蒙特在 Medium 上的故事</description>
-    <lastBuildDate>Thu, 23 Apr 2026 12:56:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 18:53:27 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Vibing — 无需治理即可捕获屏幕截图和语音样本</title>
+      <link>https://doublepulsar.com/microsoft-vibing-capturing-screenshots-and-voice-samples-without-governance-6973c48f03a7?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://doublepulsar.com/microsoft-vibing-capturing-screenshots-and-voice-samples-without-governance-6973c48f03a7?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Thu, 23 Apr 2026 15:50:12 GMT</pubDate>
+    </item>
     <item>
       <title>圣诞节快乐！发生 MongoDB 安全事件。</title>
       <link>https://doublepulsar.com/merry-christmas-day-have-a-mongodb-security-incident-9537f54289eb?source=rss-7db6d2df42a6------2</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://doublepulsar.com/citrix-netscaler-backdoors-part-one-may-2025-activity-against-governments-f48037199c3f?source=rss-7db6d2df42a6------2</guid>
       <pubDate>Sun, 31 Aug 2025 17:52:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Citrix 忘记告诉您 CVE-2025–6543 自 2025 年 5 月起已被用作零日漏洞</title>
-      <link>https://doublepulsar.com/citrix-forgot-to-tell-you-cve-2025-6543-has-been-used-as-a-zero-day-since-may-2025-d76574e2dd2c?source=rss-7db6d2df42a6------2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://doublepulsar.com/citrix-forgot-to-tell-you-cve-2025-6543-has-been-used-as-a-zero-day-since-may-2025-d76574e2dd2c?source=rss-7db6d2df42a6------2</guid>
-      <pubDate>Thu, 28 Aug 2025 19:27:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
