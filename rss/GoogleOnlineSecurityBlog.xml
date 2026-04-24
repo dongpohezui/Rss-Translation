@@ -4,7 +4,14 @@
     <title>Google 在线安全博客</title>
     <link>http://security.googleblog.com/</link>
     <description>Google 关于互联网安全的最新新闻和见解。</description>
-    <lastBuildDate>Thu, 23 Apr 2026 01:24:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:23:39 GMT</lastBuildDate>
+    <item>
+      <title>野外人工智能威胁：网络上即时注入的现状</title>
+      <link>http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html</link>
+      <description><![CDATA[]]></description>
+      <guid>http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html</guid>
+      <pubDate>Thu, 23 Apr 2026 21:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>将 Rust 引入 Pixel 基带</title>
       <link>http://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html</link>
@@ -191,13 +198,6 @@
       <description><![CDATA[]]></description>
       <guid>http://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html</guid>
       <pubDate>Fri, 13 Jun 2025 16:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>维持数字证书安全 - Chrome 根存储区即将发生的变化</title>
-      <link>http://security.googleblog.com/2025/05/sustaining-digital-certificate-security-chrome-root-store-changes.html</link>
-      <description><![CDATA[]]></description>
-      <guid>http://security.googleblog.com/2025/05/sustaining-digital-certificate-security-chrome-root-store-changes.html</guid>
-      <pubDate>Fri, 30 May 2025 14:59:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

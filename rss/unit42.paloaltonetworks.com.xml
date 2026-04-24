@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Thu, 23 Apr 2026 18:54:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:24:30 GMT</lastBuildDate>
+    <item>
+      <title>前沿人工智能和国防的未来：您最关心的问题的答案</title>
+      <link>https://unit42.paloaltonetworks.com/frontier-ai-top-questions-answered/</link>
+      <description><![CDATA[在这个前沿人工智能新时代，安全领导者的下一步行动是什么？我们回答客户提出的十大问题。
+帖子前沿人工智能与国防的未来：您回答的首要问题首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/frontier-ai-top-questions-answered/</guid>
+      <pubDate>Thu, 23 Apr 2026 20:45:50 GMT</pubDate>
+    </item>
     <item>
       <title>AI可以攻击云吗？构建自主云攻击性多代理系统的经验教训</title>
       <link>https://unit42.paloaltonetworks.com/autonomous-ai-cloud-attacks/</link>
@@ -116,14 +124,6 @@
 帖子威胁简介：冒充 Palo Alto Networks 人才招聘团队的招聘计划首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/phishing-attackers-pose-as-panw-recruiters/</guid>
       <pubDate>Tue, 24 Mar 2026 22:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Authenticator：无密码身份验证的隐藏机制</title>
-      <link>https://unit42.paloaltonetworks.com/passwordless-authentication/</link>
-      <description><![CDATA[探索 Google 的同步密钥架构。第 42 单元详细介绍了无密码系统中的机制、密钥管理和安全通信。”
-帖子Google Cloud Authenticator：无密码身份验证的隐藏机制首先出现在第 42 单元。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/passwordless-authentication/</guid>
-      <pubDate>Mon, 23 Mar 2026 22:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
