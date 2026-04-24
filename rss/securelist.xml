@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 20 Apr 2026 18:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 12:55:33 GMT</lastBuildDate>
+    <item>
+      <title>PhantomRPC：Windows RPC 中的一种新的权限提升技术</title>
+      <link>https://securelist.com/phantomrpc-rpc-vulnerability/119428/</link>
+      <description><![CDATA[卡巴斯基研究人员发现了 RPC 架构中的一个漏洞，攻击者可以利用该漏洞创建虚假的 RPC 服务器并提升其权限。]]></description>
+      <guid>https://securelist.com/phantomrpc-rpc-vulnerability/119428/</guid>
+      <pubDate>Fri, 24 Apr 2026 08:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>FakeWallet 加密货币窃取程序通过 App Store 中的 iOS 应用程序传播</title>
       <link>https://securelist.com/fakewallet-cryptostealer-ios-app-store/119474/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>JanelaRAT：针对拉丁美洲用户的金融威胁</title>
       <link>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</link>
-      <description><![CDATA[卡巴斯基 GReAT 专家描述了最新的 JanelaRAT 活动，详细介绍了感染链和恶意软件功能更新。]]></description>
+      <description><![CDATA[卡巴斯基 GReAT 专家描述了最新的 JanelaRAT 活动，详细说明了感染链和恶意软件功能更新。]]></description>
       <guid>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</guid>
       <pubDate>Mon, 13 Apr 2026 09:00:23 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基安全服务报告描述了托管检测和响应服务揭示的网络攻击趋势和统计数据。该报告还包括基于 2025 年发现和缓解的现实案例的事件响应调查结果。]]></description>
       <guid>https://securelist.com/global-report-security-services-2026/119233/</guid>
       <pubDate>Wed, 25 Mar 2026 11:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>SOC 文件：“Sapecar”时间到了。揭开墨西哥新的 Horabot 营销活动的面纱</title>
-      <link>https://securelist.com/horabot-campaign/119033/</link>
-      <description><![CDATA[卡巴斯基 SOC 发现并分析了墨西哥发生的复杂的 Horabot 活动。在本文中，我们将分享有关它是如何释放以及如何寻找这种威胁的见解。]]></description>
-      <guid>https://securelist.com/horabot-campaign/119033/</guid>
-      <pubDate>Wed, 18 Mar 2026 11:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
