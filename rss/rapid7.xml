@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 24 Apr 2026 12:55:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 18:35:23 GMT</lastBuildDate>
+    <item>
+      <title>如果您关注人工智能、威胁和 CTEM，请参加我们的全球网络安全峰会的 3 个理由</title>
+      <link>https://www.rapid7.com/blog/post/it-why-attend-global-cybersecurity-summit-ai-exposure-management-ctem</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/it-why-attend-global-cybersecurity-summit-ai-exposure-management-ctem</guid>
+      <pubDate>Fri, 24 Apr 2026 13:07:47 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能正在改变漏洞发现，您的软件供应链策略必须随之改变</title>
       <link>https://www.rapid7.com/blog/post/ai-changing-vulnerability-discovery-software-supply-chain-strategy</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/tr-new-whitepaper-stealthy-bpfdoor-variants</guid>
       <pubDate>Thu, 02 Apr 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 首席执行官 Corey Thomas 表示，CISO 在 2026 年对 AI 支持的 MDR 有何期望</title>
-      <link>https://www.rapid7.com/blog/post/it-2026-ai-powered-mdr-ceo-corey-thomas-cisos</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/it-2026-ai-powered-mdr-ceo-corey-thomas-cisos</guid>
-      <pubDate>Wed, 01 Apr 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
