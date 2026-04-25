@@ -4,7 +4,23 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Fri, 24 Apr 2026 01:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 01:17:31 GMT</lastBuildDate>
+    <item>
+      <title>npm 威胁形势：攻击面和缓解措施</title>
+      <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
+      <description><![CDATA[第 42 单元分析了 Shai Hulud 后的 npm 供应链演变。发现可蠕虫恶意软件、CI/CD 持久性、多阶段攻击等。 
+帖子npm 威胁形势：攻击面和缓解措施首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</guid>
+      <pubDate>Fri, 24 Apr 2026 21:40:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>TGR-STA-1030：中美洲和南美洲的新活动</title>
+      <link>https://unit42.paloaltonetworks.com/new-activity-central-south-america/</link>
+      <description><![CDATA[Unit 42 研究报告称，TGR-STA-1030 仍然是一个活跃的威胁，特别是在中美洲和南美洲。
+帖子TGR-STA-1030：中美洲和南美洲的新活动首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/new-activity-central-south-america/</guid>
+      <pubDate>Fri, 24 Apr 2026 20:30:19 GMT</pubDate>
+    </item>
     <item>
       <title>前沿人工智能和国防的未来：您最关心的问题的答案</title>
       <link>https://unit42.paloaltonetworks.com/frontier-ai-top-questions-answered/</link>
@@ -108,22 +124,6 @@
 帖子双重代理：暴露 GCP Vertex AI 中的安全盲点首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/double-agents-vertex-ai/</guid>
       <pubDate>Tue, 31 Mar 2026 10:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>利益趋同：针对东南亚政府的威胁集群分析</title>
-      <link>https://unit42.paloaltonetworks.com/espionage-campaigns-target-se-asian-government-org/</link>
-      <description><![CDATA[Unit 42 发现了多个针对东南亚政府组织的网络间谍活动，其中包括 USBFect、RAT 和加载程序。
-帖子共同利益：针对东南亚政府的威胁集群分析首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/espionage-campaigns-target-se-asian-government-org/</guid>
-      <pubDate>Thu, 26 Mar 2026 22:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>威胁简介：冒充 Palo Alto Networks 人才招聘团队的招聘计划</title>
-      <link>https://unit42.paloaltonetworks.com/phishing-attackers-pose-as-panw-recruiters/</link>
-      <description><![CDATA[Unit 42 发现了一个通过冒充和欺诈性简历费用针对高级专业人士的招聘网络钓鱼活动。
-帖子威胁简介：冒充 Palo Alto Networks 人才招聘团队的招聘计划首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/phishing-attackers-pose-as-panw-recruiters/</guid>
-      <pubDate>Tue, 24 Mar 2026 22:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

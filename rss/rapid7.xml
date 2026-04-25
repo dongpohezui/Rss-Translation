@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 24 Apr 2026 18:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 01:16:52 GMT</lastBuildDate>
+    <item>
+      <title>Metasploit 总结 04/25/2026</title>
+      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-25-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-25-2026</guid>
+      <pubDate>Fri, 24 Apr 2026 20:17:56 GMT</pubDate>
+    </item>
     <item>
       <title>如果您关注人工智能、威胁和 CTEM，请参加我们的全球网络安全峰会的 3 个理由</title>
       <link>https://www.rapid7.com/blog/post/it-why-attend-global-cybersecurity-summit-ai-exposure-management-ctem</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-security-problem-or-visibility-problem</guid>
       <pubDate>Fri, 03 Apr 2026 13:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>新白皮书：隐形 BPFDoor 变体是一根看起来像干草的针</title>
-      <link>https://www.rapid7.com/blog/post/tr-new-whitepaper-stealthy-bpfdoor-variants</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/tr-new-whitepaper-stealthy-bpfdoor-variants</guid>
-      <pubDate>Thu, 02 Apr 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
