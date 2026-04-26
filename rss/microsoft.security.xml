@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sat, 25 Apr 2026 18:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 01:27:22 GMT</lastBuildDate>
     <item>
       <title>针对人工智能加速的威胁环境的人工智能防御</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/</link>
@@ -64,13 +64,13 @@
     <item>
       <title>人工智能的事件响应：同样的火，不同的燃料</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/</link>
-      <description><![CDATA[人工智能改变了事件的展开方式以及我们的应对方式。了解哪些 IR 实践仍然适用，以及哪些地方需要新的遥测、工具和技能。
+      <description><![CDATA[人工智能改变了事件的发生方式以及我们的应对方式。了解哪些 IR 实践仍然适用，以及哪些地方需要新的遥测、工具和技能。
 AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/</guid>
       <pubDate>Wed, 15 Apr 2026 16:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>代理 SOC——重新思考未来十年的 SecOps</title>
+      <title>代理 SOC — 重新思考未来十年的 SecOps</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/</link>
       <description><![CDATA[在未来的 SOC 中，自主防御以机器速度移动，代理添加上下文和协调，而人类则专注于判断、风险和结果。
 这篇文章代理 SOC — 重新思考未来十年的 SecOps 首先出现在 Microsoft 安全博客上。]]></description>
