@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 20 Apr 2026 18:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:14:31 GMT</lastBuildDate>
+    <item>
+      <title>4 月 27 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/27th-april-threat-intelligence-report/</link>
+      <description><![CDATA[有关 4 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 前端云平台 Vercel 披露了与 Context.ai 漏洞相关的安全事件，其中被盗的 OAuth 令牌导致通过连接的应用程序进行未经授权的访问。该公司报告了对员工的访问[…]
+4 月 27 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/27th-april-threat-intelligence-report/</guid>
+      <pubDate>Mon, 27 Apr 2026 12:07:53 GMT</pubDate>
+    </item>
     <item>
       <title>4 月 20 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/</link>
@@ -14,7 +22,7 @@
       <pubDate>Mon, 20 Apr 2026 14:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>DFIR 报告 – 绅士们与 SystemBC：代理背后的一瞥</title>
+      <title>DFIR 报告 – The Gentlemen 和 SystemBC：代理背后的一瞥</title>
       <link>https://research.checkpoint.com/2026/dfir-report-the-gentlemen/</link>
       <description><![CDATA[要点 Gentlemen RaaS Gentlemen 勒索软件即服务 (RaaS) 操作是一个相对较新的组织，于 2025 年中期左右出现。运营商在多个地下论坛上宣传他们的服务，宣传他们的勒索软件平台并邀请渗透测试人员（和其他技术熟练的参与者）作为附属机构加入。 RaaS 为附属机构提供适用于 Windows、Linux 的多操作系统储物柜，[…]
 帖子DFIR 报告 – 先生们和SystemBC：代理背后的先睹为快首先出现在Check Point Research。]]></description>
@@ -116,14 +124,6 @@ ChatGPT 数据通过代码执行运行时中的隐藏出站通道泄露一文首
 伊朗针对 IP 摄像机的攻击与中东物理战之间的相互作用首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-cameras-and-physical-warfare-in-the-middle-east/</guid>
       <pubDate>Wed, 04 Mar 2026 03:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>银龙瞄准东南亚和欧洲的组织</title>
-      <link>https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/</link>
-      <description><![CDATA[主要发现简介 近几个月来，Check Point Research (CPR) 一直在追踪一个复杂的、与中国结盟的威胁组织，该组织的活动与之前与 APT41 相关的活动存在操作相关性。我们把这个活动集群命名为“银龙”。该组织积极针对东南亚和欧洲的组织，特别关注政府实体。 […]
-帖子银龙针对东南亚和欧洲的组织首先出现在Check Point Research上。]]></description>
-      <guid>https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/</guid>
-      <pubDate>Tue, 03 Mar 2026 15:49:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
