@@ -4,7 +4,7 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Mon, 27 Apr 2026 13:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 19:03:22 GMT</lastBuildDate>
     <item>
       <title>保护非人类身份：自动撤销、OAuth 和范围权限</title>
       <link>https://blog.cloudflare.com/improved-developer-security/</link>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Cloudflare 的目标是 2029 年实现全面的后量子安全</title>
       <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
       <description><![CDATA[量子硬件和软件的最新进展加快了量子攻击可能发生的时间。 Cloudflare 的回应是将我们的全面后量子安全目标推迟到 2029 年。]]></description>
       <guid>https://blog.cloudflare.com/post-quantum-roadmap/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
       <link>https://blog.cloudflare.com/account-abuse-protection/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。]]></description>
       <guid>https://blog.cloudflare.com/account-abuse-protection/</guid>
       <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
     </item>
