@@ -4,7 +4,7 @@
     <title>零号计划</title>
     <link>https://projectzero.google/</link>
     <description>让零日变得困难</description>
-    <lastBuildDate>Sat, 11 Apr 2026 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:16:49 GMT</lastBuildDate>
     <item>
       <title>论变异语法模糊测试的有效性</title>
       <link>https://projectzero.google/2026/03/mutational-grammar-fuzzing.html</link>
@@ -48,7 +48,7 @@
       <pubDate>Wed, 14 Jan 2026 18:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pixel 9 的 0-click 漏洞利用链第 2 部分：大波破解沙箱</title>
+      <title>Pixel 9 的 0-click 漏洞利用链第 2 部分：大波破解沙盒</title>
       <link>https://projectzero.google/2026/01/pixel-0-click-part-2.html</link>
       <description><![CDATA[随着潜在的杜比统一解码器 RCE 漏洞的出现，明智的做法是查看可以从生成的用户区上下文（即媒体编解码器上下文）访问哪种 Linux 内核驱动程序。根据 AOSP 文档，mediacodec SELinux 上下文旨在成为使用非安全软件解码器的受限（也称为沙箱）上下文。尽管如此，使用我的 DriverCartographer 工具，我发现了一个有趣的设备驱动程序，/dev/bigwave，可以从 mediacodec SELinux 上下文访问它。 BigWave 是 Pixel SOC 上的硬件，可加速 AV1 解码任务，这解释了为什么可以从媒体编解码器上下文访问它。正如之前的研究充分证实的那样，硬件设备的 Android 驱动程序是发现强大的本地权限升级错误的主要场所。 BigWave 驱动程序也不例外 - 经过几个小时的代码审核，我发现了三个独立的错误，其中一个错误足以逃脱媒体编解码器沙箱并在 Pixel 9 上实现内核任意读/写。]]></description>
       <guid>https://projectzero.google/2026/01/pixel-0-click-part-2.html</guid>
@@ -57,14 +57,14 @@
     <item>
       <title>Pixel 9 的 0-click 漏洞利用链第 1 部分：解码杜比</title>
       <link>https://projectzero.google/2026/01/pixel-0-click-part-1.html</link>
-      <description><![CDATA[在过去的几年里，手机中添加了一些人工智能功能，使用户可以更好地搜索和理解他们的消息。此更改的一个影响是增加了零点击攻击面，因为有效的分析通常需要在用户打开消息之前对消息媒体进行解码。其中一项功能是音频转录。 Google Messages 收到的传入 SMS 和 RCS 音频附件现在会自动解码，无需用户交互。因此，音频解码器现在处于大多数 Android 手机的 0-click 攻击面中。我花了相当多的时间研究这些解码器，首先在三星设备上的 Monkey’s Audio 编解码器中报告了 CVE-2025-49415。根据这项研究，团队审查了杜比统一解码器，我和 Ivan Fratric 报告了 CVE-2025-54957。此漏洞很可能存在于当今使用的大多数 Android 设备的 0 点击攻击面中。与此同时，Seth Jenkins 调查了可从 Pixel 9 上运行解码器的沙箱访问的驱动程序，并报告了 CVE-2025-36934。]]></description>
+      <description><![CDATA[在过去的几年里，手机中添加了一些人工智能功能，使用户可以更好地搜索和理解他们的消息。这一变化的一个影响是增加了零点击攻击面，因为有效的分析通常需要在用户打开消息之前对消息媒体进行解码。其中一项功能是音频转录。 Google Messages 收到的传入 SMS 和 RCS 音频附件现在会自动解码，无需用户交互。因此，音频解码器现在处于大多数 Android 手机的 0-click 攻击面中。我花了相当多的时间研究这些解码器，首先在三星设备上的 Monkey’s Audio 编解码器中报告了 CVE-2025-49415。根据这项研究，团队审查了杜比统一解码器，我和 Ivan Fratric 报告了 CVE-2025-54957。此漏洞很可能存在于当今使用的大多数 Android 设备的 0 点击攻击面中。与此同时，Seth Jenkins 调查了可从 Pixel 9 上运行解码器的沙箱访问的驱动程序，并报告了 CVE-2025-36934。]]></description>
       <guid>https://projectzero.google/2026/01/pixel-0-click-part-1.html</guid>
       <pubDate>Wed, 14 Jan 2026 17:59:00 GMT</pubDate>
     </item>
     <item>
       <title>欢迎来到新的零计划博客</title>
       <link>https://projectzero.google/2025/12/welcome.html</link>
-      <description><![CDATA[在“零号计划”中，我们的目标是让我们的研究处于领先地位，但我们的博客设计……并不是那么重要。我们欢迎读者来到我们闪亮的新博客！值此之际，我们要求零计划的成员掸掉从未见过面的旧博客文章。虽然我们希望可以说它们所涵盖的技术不再相关，但仍然需要做很多工作来保护用户免受零日攻击。我们的新博客将继续揭示攻击者的能力以及防御攻击者的许多机会。从 2016 年开始：Windows 漏洞利用技术：詹姆斯·福肖 (James Forshaw) 的路径查找竞争条件 从 2017 年开始：跳出框框思考，作者：Jann Horn]]></description>
+      <description><![CDATA[在“零号计划”中，我们的目标是让我们的研究处于领先地位，但我们的博客设计……并不是那么重要。我们欢迎读者来到我们闪亮的新博客！值此之际，我们要求零计划的成员掸掉从未见过面的旧博客文章。虽然我们希望可以说它们所涵盖的技术不再相关，但仍然需要做很多工作来保护用户免受零日攻击。我们的新博客将继续揭示攻击者的能力以及防御攻击者的许多机会。 2016 年起：Windows 漏洞利用技术：路径查找的竞争条件，作者：James Forshaw 2017 年起：跳出框框思考，作者：Jann Horn]]></description>
       <guid>https://projectzero.google/2025/12/welcome.html</guid>
       <pubDate>Tue, 16 Dec 2025 10:00:00 GMT</pubDate>
     </item>
