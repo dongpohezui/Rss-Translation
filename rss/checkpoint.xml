@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 27 Apr 2026 13:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 13:25:15 GMT</lastBuildDate>
+    <item>
+      <title>VECT：勒索软件是故意设计的，雨刮器是意外造成的</title>
+      <link>https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/</link>
+      <description><![CDATA[关键要点背景 VECT 勒索软件是一种勒索软件即服务 (RaaS) 程序，于 2025 年 12 月首次出现在俄语网络犯罪论坛上。在 2026 年 1 月认领首批两名受害者后，该组织因宣布与 TeamPCP 合作而重新进入公众视野，TeamPCP 是多起供应链攻击的幕后黑手[…]
+帖子VECT：设计勒索软件，意外擦除首先出现在Check Point Research。]]></description>
+      <guid>https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/</guid>
+      <pubDate>Tue, 28 Apr 2026 13:03:01 GMT</pubDate>
+    </item>
     <item>
       <title>4 月 27 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/27th-april-threat-intelligence-report/</link>
@@ -116,14 +124,6 @@ ChatGPT 数据通过代码执行运行时中的隐藏出站通道泄露一文首
 3 月 9 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/9th-march-threat-intelligence-report/</guid>
       <pubDate>Mon, 09 Mar 2026 16:36:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗针对 IP 摄像机的攻击与中东的实体战之间的相互作用</title>
-      <link>https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-cameras-and-physical-warfare-in-the-middle-east/</link>
-      <description><![CDATA[主要发现简介 正如《2026 年网络安全报告》中所强调的那样，网络行动已日益成为国家间冲突中的额外工具，既用于支持军事行动，又用于支持持续的战斗损害评估 (BDA)。在 2025 年 6 月以色列和伊朗之间为期 12 天的冲突期间，摄像头的妥协很可能被用来支持 […]
-伊朗针对 IP 摄像机的攻击与中东物理战之间的相互作用首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-cameras-and-physical-warfare-in-the-middle-east/</guid>
-      <pubDate>Wed, 04 Mar 2026 03:16:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

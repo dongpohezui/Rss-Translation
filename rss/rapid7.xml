@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 28 Apr 2026 08:03:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 13:24:23 GMT</lastBuildDate>
+    <item>
+      <title>MDR 选择是合作伙伴的决定</title>
+      <link>https://www.rapid7.com/blog/post/dr-mdr-selection-partnership-decision</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/dr-mdr-selection-partnership-decision</guid>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Metasploit 总结 04/25/2026</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-25-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-03-2026</guid>
       <pubDate>Fri, 03 Apr 2026 19:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>您没有安全问题，您有可见性问题</title>
-      <link>https://www.rapid7.com/blog/post/em-security-problem-or-visibility-problem</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/em-security-problem-or-visibility-problem</guid>
-      <pubDate>Fri, 03 Apr 2026 13:46:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
