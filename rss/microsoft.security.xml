@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 29 Apr 2026 13:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:07:02 GMT</lastBuildDate>
+    <item>
+      <title>CISO 进行风险审查的 8 个最佳实践</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/</link>
+      <description><![CDATA[采用强大的主动安全措施是我们所有人都可以采取的措施，以减轻我们日益增加的安全威胁风险。
+CISO 进行风险审查的 8 种最佳实践一文首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/</guid>
+      <pubDate>Wed, 29 Apr 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Microsoft Sentinel UEBA 简化 AWS 防御</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/</link>
@@ -76,14 +84,6 @@
 AI 事件响应：同火不同燃料首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/</guid>
       <pubDate>Wed, 15 Apr 2026 16:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理 SOC — 重新思考未来十年的 SecOps</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/</link>
-      <description><![CDATA[在未来的 SOC 中，自主防御以机器速度移动，代理添加上下文和协调，而人类则专注于判断、风险和结果。
-这篇文章代理 SOC — 重新思考未来十年的 SecOps 首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/</guid>
-      <pubDate>Thu, 09 Apr 2026 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
