@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 29 Apr 2026 07:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:18:27 GMT</lastBuildDate>
+    <item>
+      <title>专家对专家：2026 年威胁形势的发展速度快于防御者的预期</title>
+      <link>https://www.rapid7.com/blog/post/it-security-experts-2026-threat-landscape-moving-faster-than-defenders</link>
+      <description><![CDATA[在本周的专家对专家中，我将与 Rapid7 威胁分析副总裁 Christiaan Beek 一起讨论我们在 2026 年威胁形势中所看到的情况以及它如何与 Rapid7 实验室的最新研究相联系。我们从报告开始，但很快就会进入活跃活动中已经发生的情况。引人注目的不是进攻技术的变化，而是速度的变化。薄弱的凭据、缺少 MFA、暴露的服务和未打补丁的系统仍然是大多数入侵的原因。发生的变化是这些条件被识别和利用的速度，这种转变迫使安全团队重新考虑如何优先考虑和响应。采取行动的窗口正在消失对话中最明确的主题之一是时机。问题不再是存在多少漏洞，而是它们被利用的速度有多快。在许多情况下，披露和利用之间的差距已缩小到几天的时间，这消除了团队过去依赖的缓冲。与此同时，大多数入侵仍然以熟悉的条件开始。身份和访问仍然是弱点，缺少 MFA 和暴露的远程访问继续提供可靠的入口点。改变的是如何利用这些弱点。现在，访问权限通过更广泛的生态系统进行打包和销售，这提高了攻击的速度和规模。访问、持久性和可信系统我们还研究了攻击者行为在初始访问之外是如何演变的。在某些环境中，目标不再是立即破坏，而是长期存在。这改变了团队对检测的思考方式，因为发现活动只是起点。了解访问权限存在多久以及已经发生了什么变得同样重要。与此同时，攻击集中在组织每天依赖的系统内部。身份平台、云环境和协作工具都正在成为关键目标。挑战在于，这些系统中的活动通常看起来是合法的，这使得区分正常行为和需要调查的行为变得更加困难。人工智能正在加速已经有效的工作人工智能是这种转变的一部分，但并不是因为它引入了全新的攻击路径。它的作用是使现有技术更快、更容易扩展，特别是在社会工程和侦察等领域。攻击者可以快速生成和调整活动，而防御者则需要处理不断增加的数据量。这创造了一个简单但重要的转变。安全团队之所以落后，并不是因为他们缺乏工具，而是因为攻击的时间已经改变，他们的流程没有跟上。现在的重点是尽早了解暴露情况，确定重要事项的优先顺序，并提前准备行动。观看下面的整集，了解 Christiaan 对这些趋势如何演变以及它们对进入 2026 年的安全领导者意味着什么的看法。⠀]]></description>
+      <guid>https://www.rapid7.com/blog/post/it-security-experts-2026-threat-landscape-moving-faster-than-defenders</guid>
+      <pubDate>Wed, 29 Apr 2026 12:27:35 GMT</pubDate>
+    </item>
     <item>
       <title>获得动力：Rapid7 全球网络安全峰会的主题演讲值得期待什么</title>
       <link>https://www.rapid7.com/blog/post/it-rapid7-global-cybersecurity-summit-keynote-rundown</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ve-fortigate-cve-2025-59718-exploitation-incident-response-ir-findings</guid>
       <pubDate>Wed, 08 Apr 2026 13:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 2026 全球网络安全峰会的演讲者阵容和议程一览</title>
-      <link>https://www.rapid7.com/blog/post/it-speaker-lineup-first-look-agenda-rapid7-2026-global-cybersecurity-summit</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/it-speaker-lineup-first-look-agenda-rapid7-2026-global-cybersecurity-summit</guid>
-      <pubDate>Tue, 07 Apr 2026 13:06:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
