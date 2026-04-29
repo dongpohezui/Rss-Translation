@@ -4,7 +4,7 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Wed, 29 Apr 2026 01:50:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:58:17 GMT</lastBuildDate>
     <item>
       <title>保护非人类身份：自动撤销、OAuth 和范围权限</title>
       <link>https://blog.cloudflare.com/improved-developer-security/</link>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>AI 应用安全现已全面推出</title>
+      <title>应用程序的人工智能安全现已普遍可用</title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
       <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga/</guid>
