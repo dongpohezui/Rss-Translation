@@ -4,7 +4,21 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 29 Apr 2026 19:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 01:48:21 GMT</lastBuildDate>
+    <item>
+      <title>我们从 Gartner SRM Sydney 2026 中学到的五件事</title>
+      <link>https://www.rapid7.com/blog/post/it-5-things-gartner-srm-sydney-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/it-5-things-gartner-srm-sydney-2026</guid>
+      <pubDate>Wed, 29 Apr 2026 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41940：cPanel 和 WHM 身份验证绕过</title>
+      <link>https://www.rapid7.com/blog/post/etr-cve-2026-41940-cpanel-whm-authentication-bypass</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/etr-cve-2026-41940-cpanel-whm-authentication-bypass</guid>
+      <pubDate>Wed, 29 Apr 2026 20:00:20 GMT</pubDate>
+    </item>
     <item>
       <title>专家对专家：2026 年威胁形势的发展速度快于防御者的预期</title>
       <link>https://www.rapid7.com/blog/post/it-security-experts-2026-threat-landscape-moving-faster-than-defenders</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ai-what-project-glasswing-means-for-security-leaders</guid>
       <pubDate>Thu, 09 Apr 2026 17:51:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 产品和服务的新增功能：2026 年第一季度回顾</title>
-      <link>https://www.rapid7.com/blog/post/pt-whats-new-rapid7-products-services-q1-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-whats-new-rapid7-products-services-q1-2026</guid>
-      <pubDate>Thu, 09 Apr 2026 12:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>FortiGate CVE-2025-59718 漏洞利用：事件响应结果</title>
-      <link>https://www.rapid7.com/blog/post/ve-fortigate-cve-2025-59718-exploitation-incident-response-ir-findings</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ve-fortigate-cve-2025-59718-exploitation-incident-response-ir-findings</guid>
-      <pubDate>Wed, 08 Apr 2026 13:39:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
