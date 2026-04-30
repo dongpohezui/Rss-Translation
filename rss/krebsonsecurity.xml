@@ -4,11 +4,18 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Thu, 30 Apr 2026 13:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 19:04:29 GMT</lastBuildDate>
+    <item>
+      <title>反 DDoS 公司对巴西 ISP 发起大量攻击</title>
+      <link>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</link>
+      <description><![CDATA[KrebsOnSecurity 获悉，一家专门保护网络免受分布式拒绝服务 (DDoS) 攻击的巴西科技公司一直在启用僵尸网络，对巴西其他网络运营商进行大规模 DDoS 攻击。该公司首席执行官表示，恶意活动是由于安全漏洞造成的，很可能是竞争对手试图玷污公司的公众形象所为。]]></description>
+      <guid>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</guid>
+      <pubDate>Thu, 30 Apr 2026 14:04:26 GMT</pubDate>
+    </item>
     <item>
       <title>“分散蜘蛛”成员“泰勒布”认罪</title>
       <link>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</link>
-      <description><![CDATA[一名 24 岁的英国公民、网络犯罪组织“分散蜘蛛”的高级成员已承认犯有电信欺诈阴谋和严重身份盗窃罪。泰勒·罗伯特·布坎南 (Tyler Robert Buchanan) 承认他在 2022 年夏天参与了一系列短信网络钓鱼攻击，该攻击使该组织侵入了至少十几家主要科技公司，并从投资者那里窃取了价值数千万美元的加密货币。]]></description>
+      <description><![CDATA[一名 24 岁英国公民、网络犯罪组织“分散蜘蛛”的高级成员已承认犯有电信欺诈阴谋和严重身份盗窃罪。泰勒·罗伯特·布坎南 (Tyler Robert Buchanan) 承认他在 2022 年夏天参与了一系列短信网络钓鱼攻击，该攻击使该组织侵入了至少十几家主要科技公司，并从投资者那里窃取了价值数千万美元的加密货币。]]></description>
       <guid>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</guid>
       <pubDate>Tue, 21 Apr 2026 14:53:59 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[基于人工智能的助手或“代理”——可以访问用户的计算机、文件、在线服务并可以自动执行几乎任何任务的自主程序——越来越受到开发人员和 IT 员工的欢迎。但正如过去几周许多令人瞠目结舌的头条新闻所表明的那样，这些强大而自信的新工具正在迅速改变组织的安全优先事项，同时模糊了数据和代码、值得信赖的同事和内部威胁、忍者黑客和新手代码骑师之间的界限。]]></description>
       <guid>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</guid>
       <pubDate>Sun, 08 Mar 2026 23:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kimwolf 机器人大师“Dort”是谁？</title>
-      <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
-      <description><![CDATA[2026 年 1 月上旬，KrebsOnSecurity 披露了一名安全研究人员如何披露一个用于组装世界上最大、最具破坏性的僵尸网络 Kimwolf 的漏洞。从那时起，Kimwolf 的控制者（昵称为“Dort”）协调了针对研究人员和本文作者的一系列分布式拒绝服务 (DDoS)、人肉搜索和电子邮件泛滥攻击，最近还导致特警队被派往研究人员的家中。这篇文章根据公开信息探讨了有关多特的已知信息。]]></description>
-      <guid>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</guid>
-      <pubDate>Sat, 28 Feb 2026 12:01:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
