@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 27 Apr 2026 13:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:00:44 GMT</lastBuildDate>
+    <item>
+      <title>Silver Fox 使用新的 ABCDoor 后门来攻击俄罗斯和印度的组织</title>
+      <link>https://securelist.com/silver-fox-tax-notification-campaign/119575/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://securelist.com/silver-fox-tax-notification-campaign/119575/</guid>
+      <pubDate>Thu, 30 Apr 2026 07:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>PhantomRPC：Windows RPC 中的一种新的权限提升技术</title>
       <link>https://securelist.com/phantomrpc-rpc-vulnerability/119428/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基 GReAT 专家研究了针对 iPhone 的 Coruna 漏洞利用工具包。我们发现 CVE-2023-32434 和 CVE-2023-38606 的内核漏洞是三角测量操作漏洞的更新版本。]]></description>
       <guid>https://securelist.com/coruna-framework-updated-operation-triangulation-exploit/119228/</guid>
       <pubDate>Thu, 26 Mar 2026 08:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络世界剖析 2026 年全球报告</title>
-      <link>https://securelist.com/global-report-security-services-2026/119233/</link>
-      <description><![CDATA[卡巴斯基安全服务报告描述了托管检测和响应服务揭示的网络攻击趋势和统计数据。该报告还包括基于 2025 年发现和缓解的现实案例的事件响应调查结果。]]></description>
-      <guid>https://securelist.com/global-report-security-services-2026/119233/</guid>
-      <pubDate>Wed, 25 Mar 2026 11:00:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
