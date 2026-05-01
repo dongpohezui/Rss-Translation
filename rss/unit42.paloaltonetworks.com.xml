@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Tue, 28 Apr 2026 01:46:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 01:52:49 GMT</lastBuildDate>
+    <item>
+      <title>那个人工智能扩展可以帮助你写电子邮件吗？首先阅读它们</title>
+      <link>https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/</link>
+      <description><![CDATA[第 42 单元揭示了高风险的 AI 浏览器扩展。它们伪装成生产力工具，窃取数据、拦截提示并窃取密码。保护您的浏览器。
+帖子那个人工智能扩展可以帮助你写电子邮件？它首先阅读它们首先出现在Unit 42。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/</guid>
+      <pubDate>Thu, 30 Apr 2026 22:00:57 GMT</pubDate>
+    </item>
     <item>
       <title>npm 威胁形势：攻击面和缓解措施</title>
       <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
@@ -116,14 +124,6 @@
 帖子武装保护者：TeamPCP 对安全基础设施的多阶段供应链攻击首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/teampcp-supply-chain-attacks/</guid>
       <pubDate>Tue, 31 Mar 2026 21:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>双重代理：暴露 GCP Vertex AI 中的安全盲点</title>
-      <link>https://unit42.paloaltonetworks.com/double-agents-vertex-ai/</link>
-      <description><![CDATA[第 42 单元发现了 Google Cloud Vertex AI 中的“双重代理”缺陷，展示了特权过高的 AI 代理如何危害云环境。
-帖子双重代理：暴露 GCP Vertex AI 中的安全盲点首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/double-agents-vertex-ai/</guid>
-      <pubDate>Tue, 31 Mar 2026 10:00:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Thu, 30 Apr 2026 19:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 01:53:27 GMT</lastBuildDate>
     <item>
       <title>Cloudflare IPsec 的后量子加密已普遍可用</title>
       <link>https://blog.cloudflare.com/post-quantum-ipsec/</link>
@@ -48,7 +48,7 @@
       <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
+      <title>宣布推出 Cloudflare 帐户滥用保护：防止机器人和人类的欺诈性攻击</title>
       <link>https://blog.cloudflare.com/account-abuse-protection/</link>
       <description><![CDATA[阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。]]></description>
       <guid>https://blog.cloudflare.com/account-abuse-protection/</guid>
