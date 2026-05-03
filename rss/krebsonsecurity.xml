@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Sun, 03 May 2026 12:41:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 18:41:02 GMT</lastBuildDate>
     <item>
       <title>反 DDoS 公司对巴西 ISP 发起大量攻击</title>
       <link>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>“分散蜘蛛”成员“泰勒布”认罪</title>
       <link>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</link>
-      <description><![CDATA[一名 24 岁英国公民、网络犯罪组织“分散蜘蛛”的高级成员已承认犯有电信欺诈阴谋和严重身份盗窃罪。泰勒·罗伯特·布坎南 (Tyler Robert Buchanan) 承认他在 2022 年夏天参与了一系列短信网络钓鱼攻击，该攻击使该组织侵入了至少十几家主要科技公司，并从投资者那里窃取了价值数千万美元的加密货币。]]></description>
+      <description><![CDATA[一名 24 岁的英国公民、网络犯罪组织“分散蜘蛛”的高级成员已承认犯有电信欺诈阴谋和严重身份盗窃罪。泰勒·罗伯特·布坎南 (Tyler Robert Buchanan) 承认他在 2022 年夏天参与了一系列短信网络钓鱼攻击，该攻击使该组织侵入了至少十几家主要科技公司，并从投资者那里窃取了价值数千万美元的加密货币。]]></description>
       <guid>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</guid>
       <pubDate>Tue, 21 Apr 2026 14:53:59 GMT</pubDate>
     </item>
@@ -36,12 +36,12 @@
     <item>
       <title>德国 Doxes“UNKN”，RU 勒索软件团伙 REvil、GandCrab 头目</title>
       <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
-      <description><![CDATA[一位难以捉摸的黑客，以“UNKN”为名，运营着早期的俄罗斯勒索软件组织 GandCrab 和 REvil，现在有了名字和面孔。德国当局表示，31 岁的俄罗斯人丹尼尔·马克西莫维奇·舒金 (Daniil Maksimovich Shchukin) 领导着两个网络犯罪团伙，并在 2019 年至 2021 年间帮助在全国各地实施了至少 130 起针对受害者的计算机破坏和勒索行为。]]></description>
+      <description><![CDATA[一名化名“UNKN”、运行早期俄罗斯勒索软件组织 GandCrab 和 REvil 的难以捉摸的黑客现在有了名字和面孔。德国当局表示，31 岁的俄罗斯人丹尼尔·马克西莫维奇·舒金 (Daniil Maksimovich Shchukin) 领导着两个网络犯罪团伙，并在 2019 年至 2021 年间帮助在全国各地实施了至少 130 起针对受害者的计算机破坏和勒索行为。]]></description>
       <guid>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</guid>
       <pubDate>Mon, 06 Apr 2026 02:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>“CanisterWorm”针对伊朗发起雨刮器攻击</title>
+      <title>“CanisterWorm”针对伊朗发动刮水器攻击</title>
       <link>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</link>
       <description><![CDATA[一个出于经济动机的数据盗窃和勒索组织正试图将自己卷入伊朗战争，释放一种蠕虫病毒，该蠕虫病毒通过安全性较差的云服务进行传播，并擦除使用伊朗时区或将波斯语设置为默认语言的受感染系统上的数据。]]></description>
       <guid>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</guid>
