@@ -4,7 +4,7 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Mon, 04 May 2026 13:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:11:32 GMT</lastBuildDate>
     <item>
       <title>Cloudflare IPsec 的后量子加密已普遍可用</title>
       <link>https://blog.cloudflare.com/post-quantum-ipsec/</link>
@@ -43,19 +43,19 @@
     <item>
       <title>Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
       <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
-      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和 LLM 相结合，我们将误报率减少了 200 倍，同时捕获了复杂的零日漏洞。]]></description>
+      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和法学硕士相结合，我们将误报率减少了高达 200 倍，同时捕获了复杂的零日漏洞。]]></description>
       <guid>https://blog.cloudflare.com/client-side-security-open-to-everyone/</guid>
       <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
+      <title>宣布推出 Cloudflare 帐户滥用保护：防止机器人和人类的欺诈性攻击</title>
       <link>https://blog.cloudflare.com/account-abuse-protection/</link>
       <description><![CDATA[阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。]]></description>
       <guid>https://blog.cloudflare.com/account-abuse-protection/</guid>
       <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>AI 应用安全现已全面推出</title>
+      <title>应用程序的人工智能安全现已普遍可用</title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
       <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga/</guid>
