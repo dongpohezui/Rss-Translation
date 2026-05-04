@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 30 Apr 2026 19:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 13:19:13 GMT</lastBuildDate>
+    <item>
+      <title>“合法”网络钓鱼：攻击者如何利用 Amazon SES 来绕过电子邮件安全</title>
+      <link>https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/</link>
+      <description><![CDATA[卡巴斯基专家破解了一种使用 Amazon SES 云电子邮件服务的新网络钓鱼方案。让我们看一些示例，了解如何区分网络钓鱼电子邮件和真实电子邮件。]]></description>
+      <guid>https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/</guid>
+      <pubDate>Mon, 04 May 2026 10:00:23 GMT</pubDate>
+    </item>
     <item>
       <title>Silver Fox 使用新的 ABCDoor 后门来攻击俄罗斯和印度的组织</title>
       <link>https://securelist.com/silver-fox-tax-notification-campaign/119575/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>JanelaRAT：针对拉丁美洲用户的金融威胁</title>
       <link>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</link>
-      <description><![CDATA[卡巴斯基 GReAT 专家描述了最新的 JanelaRAT 活动，详细说明了感染链和恶意软件功能更新。]]></description>
+      <description><![CDATA[卡巴斯基 GReAT 专家描述了最新的 JanelaRAT 活动，详细介绍了感染链和恶意软件功能更新。]]></description>
       <guid>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</guid>
       <pubDate>Mon, 13 Apr 2026 09:00:23 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[剖析对 LiteLLM（许多 AI 代理中使用的多功能网关）的供应链攻击。解释恶意代码的危险以及如何保护自己。]]></description>
       <guid>https://securelist.com/litellm-supply-chain-attack/119257/</guid>
       <pubDate>Thu, 26 Mar 2026 11:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coruna：三角测量行动中使用的框架</title>
-      <link>https://securelist.com/coruna-framework-updated-operation-triangulation-exploit/119228/</link>
-      <description><![CDATA[卡巴斯基 GReAT 专家研究了针对 iPhone 的 Coruna 漏洞利用工具包。我们发现 CVE-2023-32434 和 CVE-2023-38606 的内核漏洞是三角测量操作漏洞的更新版本。]]></description>
-      <guid>https://securelist.com/coruna-framework-updated-operation-triangulation-exploit/119228/</guid>
-      <pubDate>Thu, 26 Mar 2026 08:00:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
