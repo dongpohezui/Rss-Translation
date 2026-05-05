@@ -4,67 +4,67 @@
     <title>零号计划</title>
     <link>https://projectzero.google/</link>
     <description>让零日变得困难</description>
-    <lastBuildDate>Tue, 28 Apr 2026 19:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:07:03 GMT</lastBuildDate>
     <item>
       <title>论变异语法模糊测试的有效性</title>
       <link>https://projectzero.google/2026/03/mutational-grammar-fuzzing.html</link>
       <description><![CDATA[突变语法模糊测试是一种模糊测试技术，其中模糊器使用描述样本结构的预定义语法。当样本发生突变时，突变的发生方式使得任何生成的样本仍然遵守语法规则，因此样本的结构通过突变过程得以维持。在覆盖引导的语法模糊测试中，如果生成的样本（突变后）触发了以前未见过的代码覆盖率，则该样本将保存到样本语料库中并用作未来突变的基础。事实证明，该技术能够发现复杂的问题，并且我过去曾成功地使用过它，包括发现 Web 浏览器中的 XSLT 实现中的问题，甚至是 JIT 引擎错误。然而，尽管该方法很有效，但它并非没有缺陷，对于临时模糊器用户来说，这些缺陷可能并不明显。在这篇博文中，我将介绍我认为突变覆盖引导的语法模糊测试方法的缺陷。我还将描述我在模糊测试中使用的一种非常简单但有效的技术来应对这些缺陷。]]></description>
       <guid>https://projectzero.google/2026/03/mutational-grammar-fuzzing.html</guid>
-      <pubDate>Thu, 05 Mar 2026 08:00:00 GMT</pubDate>
+      <pubDate>Wed, 04 Mar 2026 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>深入探讨 GetProcessHandleFromHwnd API</title>
       <link>https://projectzero.google/2026/02/gphfh-deep-dive.html</link>
       <description><![CDATA[在我之前的博文中，我提到了 GetProcessHandleFromHwnd API。在我发现使用 Quick Assist UI Access 应用程序公开披露的 UAC 绕过之前，我并不知道这个 API 的存在。这个 API 看起来很有趣，所以我想我应该仔细看看。我通常会先阅读我不了解的 API 的文档，假设它有文档记录。它可以让您了解 API 存在的时间及其安全属性。文档的注释包含以下三个我认为有趣的语句：但是，如果调用者具有 UIAccess，他们可以使用 Windows 挂钩将代码注入目标进程，并从目标进程内部将句柄发送回调用者。 GetProcessHandleFromHwnd 是一个便利函数，它使用此技术来获取拥有指定 HWND 的进程的句柄。请注意，只有在调用方和目标进程以同一用户身份运行的情况下，它才会成功。]]></description>
       <guid>https://projectzero.google/2026/02/gphfh-deep-dive.html</guid>
-      <pubDate>Thu, 26 Feb 2026 08:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Feb 2026 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>通过滥用 UI 访问绕过管理员保护</title>
       <link>https://projectzero.google/2026/02/windows-administrator-protection.html</link>
       <description><![CDATA[在我的上一篇博客文章中，我介绍了新的 Windows 功能“管理员保护”，以及它如何为不存在的 UAC 创建安全边界。我描述了在该功能发布之前我能够绕过该功能的一种方法。在我的研究过程中，我总共发现了 9 个绕过漏洞，现在已经全部修复。在这篇博文中，我想描述这 9 个问题中的 5 个问题的根本原因，特别是 UI Access 的实现，这是如何成为 UAC 的一个长期存在的问题而被低估的，以及现在如何解决它。可访问性问题 在 Windows Vista 之前，用户桌面上运行的任何进程都可以控制另一个进程创建的任何窗口，例如通过发送窗口消息。如果特权用户（例如 SYSTEM）在桌面上显示用户界面，则可能会滥用此行为。受限用户可以控制 UI 并可能提升权限。这被称为粉碎攻击，通常通过从特权代码中删除用户界面组件来修复。]]></description>
       <guid>https://projectzero.google/2026/02/windows-administrator-protection.html</guid>
-      <pubDate>Thu, 12 Feb 2026 08:00:00 GMT</pubDate>
+      <pubDate>Wed, 11 Feb 2026 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>打破音障，第二部分：利用 CVE-2024-54529</title>
       <link>https://projectzero.google/2026/01/sound-barrier-2.html</link>
       <description><![CDATA[在本系列的第一部分中，我详细介绍了 macOS 安全研究之旅，通过我称之为知识驱动模糊测试的过程，在 coreaudiod 系统守护程序中发现了类型混淆漏洞 (CVE-2024-54529) 和双重释放漏洞 (CVE-2025-31235)。第一篇文章重点介绍了发现漏洞的过程，而这篇文章则深入探讨了利用类型混淆漏洞的复杂过程。我将解释将潜在可利用的崩溃转变为有效利用的技术细节：充满死胡同的旅程，创造性地解决问题，并最终取得成功。漏洞：快速回顾 如果您还没有阅读过，我强烈建议您先阅读我关于此漏洞的详细文章，然后再继续。回顾一下，CVE-2024-54529 是 coreaudiod 进程使用的 CoreAudio 框架中 com.apple.audio.audiohald Mach 服务中的类型混淆漏洞。多个 Mach 消息处理程序（例如 _XIOContext_Fetch_Workgroup_Port）将根据 Mach 消息中的 ID 从对象映射中获取 HALS_Object，然后对其执行操作，假设它是未经适当验证的特定类型 (ioct)。]]></description>
       <guid>https://projectzero.google/2026/01/sound-barrier-2.html</guid>
-      <pubDate>Fri, 30 Jan 2026 08:00:00 GMT</pubDate>
+      <pubDate>Thu, 29 Jan 2026 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>绕过Windows管理员保护</title>
       <link>https://projectzero.google/2026/26/windows-administrator-protection.html</link>
       <description><![CDATA[最新版本的 Windows 11 25H2 中引入的一项主要功能是管理员保护。此功能的目标是用更强大且更重要的安全系统取代用户帐户控制 (UAC)，以允许本地用户仅在必要时访问管理员权限。这篇博文将简要概述这一新功能、它的工作原理以及它与 UAC 的不同之处。然后，我将描述我在 Windows 11 上的内部预览版本中进行的一些安全研究。最后，我将详细介绍我发现的九个独立漏洞之一，这些漏洞可以绕过该功能，以静默方式获得完整的管理员权限。我向 Microsoft 报告的所有问题均已在该功能正式发布之前（在可选更新 KB5067036 中）或作为后续安全公告得到修复。注意：自 2025 年 12 月 1 日起，Microsoft 在处理应用程序兼容性问题时已禁用管理员保护功能。该问题不太可能与本博文中描述的任何内容相关，因此分析不会改变。]]></description>
       <guid>https://projectzero.google/2026/26/windows-administrator-protection.html</guid>
-      <pubDate>Mon, 26 Jan 2026 08:00:00 GMT</pubDate>
+      <pubDate>Sun, 25 Jan 2026 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Pixel 9 的零点击漏洞利用链第 3 部分：我们该何去何从？</title>
       <link>https://projectzero.google/2026/01/pixel-0-click-part-3.html</link>
       <description><![CDATA[虽然我们的前两篇博客文章提供了技术建议，以增加攻击者开发 0 点击漏洞利用链所需的努力，但我们发现、报告和利用这些漏洞的经验凸显了 Android 生态系统中的一些更广泛的问题。这篇文章描述了我们遇到的问题以及改进的建议。音频攻击面 由于 Google Messages 应用程序中的音频转录，杜比 UDC 是大多数 Android 设备的 0-click 攻击面的一部分。传入的音频消息在用户与消息交互之前被转录。在 Pixel 9 上，第二个进程 com.google.android.tts 也会解码传入的音频。其目的尚不完全清楚，但似乎与使传入消息可搜索有关。]]></description>
       <guid>https://projectzero.google/2026/01/pixel-0-click-part-3.html</guid>
-      <pubDate>Wed, 14 Jan 2026 18:01:00 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 09:01:00 GMT</pubDate>
     </item>
     <item>
       <title>Pixel 9 的 0-click 漏洞利用链第 2 部分：大波破解沙盒</title>
       <link>https://projectzero.google/2026/01/pixel-0-click-part-2.html</link>
       <description><![CDATA[随着潜在的杜比统一解码器 RCE 漏洞的出现，明智的做法是查看可以从生成的用户区上下文（即媒体编解码器上下文）访问哪种 Linux 内核驱动程序。根据 AOSP 文档，mediacodec SELinux 上下文旨在成为使用非安全软件解码器的受限（也称为沙箱）上下文。尽管如此，使用我的 DriverCartographer 工具，我发现了一个有趣的设备驱动程序，/dev/bigwave，可以从 mediacodec SELinux 上下文访问它。 BigWave 是 Pixel SOC 上的硬件，可加速 AV1 解码任务，这解释了为什么可以从媒体编解码器上下文访问它。正如之前的研究充分证实的那样，硬件设备的 Android 驱动程序是发现强大的本地权限升级错误的主要场所。 BigWave 驱动程序也不例外 - 经过几个小时的代码审核，我发现了三个独立的错误，其中一个错误足以逃脱媒体编解码器沙箱并在 Pixel 9 上实现内核任意读/写。]]></description>
       <guid>https://projectzero.google/2026/01/pixel-0-click-part-2.html</guid>
-      <pubDate>Wed, 14 Jan 2026 18:00:00 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Pixel 9 的 0-click 漏洞利用链第 1 部分：解码杜比</title>
       <link>https://projectzero.google/2026/01/pixel-0-click-part-1.html</link>
       <description><![CDATA[在过去的几年里，手机中添加了一些人工智能功能，使用户可以更好地搜索和理解他们的消息。这一变化的一个影响是增加了零点击攻击面，因为有效的分析通常需要在用户打开消息之前对消息媒体进行解码。其中一项功能是音频转录。 Google Messages 收到的传入 SMS 和 RCS 音频附件现在会自动解码，无需用户交互。因此，音频解码器现在处于大多数 Android 手机的 0-click 攻击面中。我花了相当多的时间研究这些解码器，首先在三星设备上的 Monkey’s Audio 编解码器中报告了 CVE-2025-49415。根据这项研究，团队审查了杜比统一解码器，我和 Ivan Fratric 报告了 CVE-2025-54957。此漏洞很可能存在于当今使用的大多数 Android 设备的 0 点击攻击面中。与此同时，Seth Jenkins 调查了可从 Pixel 9 上运行解码器的沙箱访问的驱动程序，并报告了 CVE-2025-36934。]]></description>
       <guid>https://projectzero.google/2026/01/pixel-0-click-part-1.html</guid>
-      <pubDate>Wed, 14 Jan 2026 17:59:00 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 08:59:00 GMT</pubDate>
     </item>
     <item>
       <title>欢迎来到新的零计划博客</title>
       <link>https://projectzero.google/2025/12/welcome.html</link>
-      <description><![CDATA[在“零号计划”中，我们的目标是让我们的研究处于领先地位，但我们的博客设计……并不是那么重要。我们欢迎读者来到我们闪亮的新博客！值此之际，我们要求零计划的成员掸掉从未见过面的旧博客文章。虽然我们希望可以说它们所涵盖的技术不再相关，但仍然需要做很多工作来保护用户免受零日攻击。我们的新博客将继续揭示攻击者的能力以及防御攻击者的许多机会。 2016 年起：Windows 漏洞利用技术：路径查找的竞争条件，作者：James Forshaw 2017 年起：跳出框框思考，作者：Jann Horn]]></description>
+      <description><![CDATA[在“零号计划”中，我们的目标是让我们的研究处于领先地位，但我们的博客设计……并不是那么重要。我们欢迎读者来到我们闪亮的新博客！值此之际，我们要求零计划的成员掸掉从未见过面的旧博客文章。虽然我们希望可以说它们所涵盖的技术不再相关，但仍然需要做很多工作来保护用户免受零日攻击。我们的新博客将继续揭示攻击者的能力以及防御攻击者的许多机会。从 2016 年开始：Windows 漏洞利用技术：詹姆斯·福肖 (James Forshaw) 的路径查找竞争条件 从 2017 年开始：跳出框框思考，作者：Jann Horn]]></description>
       <guid>https://projectzero.google/2025/12/welcome.html</guid>
       <pubDate>Tue, 16 Dec 2025 10:00:00 GMT</pubDate>
     </item>
