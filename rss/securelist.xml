@@ -4,7 +4,21 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 04 May 2026 13:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 13:25:51 GMT</lastBuildDate>
+    <item>
+      <title>OceanLotus 疑似使用 PyPI 传播 ZiChatBot 恶意软件</title>
+      <link>https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/</link>
+      <description><![CDATA[卡巴斯基研究人员在 PyPI 中发现了针对 Windows 和 Linux 的恶意 Wheel 软件包，其中包含一个传播名为 ZiChatBot 的恶意软件的植入程序。我们将此活动归因于 OceanLotus APT。]]></description>
+      <guid>https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/</guid>
+      <pubDate>Wed, 06 May 2026 13:00:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>信任级别未定义的网站：避免陷阱</title>
+      <link>https://securelist.com/suspicious-websites-undefined-trust-level/119675/</link>
+      <description><![CDATA[我们解释什么是可疑网站以及如何区分安全网站和欺诈网站。卡巴斯基解决方案中的一个新类别：我们正在共享有关不受信任站点检测的全球统计数据。]]></description>
+      <guid>https://securelist.com/suspicious-websites-undefined-trust-level/119675/</guid>
+      <pubDate>Wed, 06 May 2026 09:30:46 GMT</pubDate>
+    </item>
     <item>
       <title>“合法”网络钓鱼：攻击者如何利用 Amazon SES 来绕过电子邮件安全</title>
       <link>https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[在这份报告中，卡巴斯基专家分享了他们对 2025 年金融威胁形势的见解，包括网络钓鱼、PC 恶意软件和信息窃取者的区域统计数据和趋势。]]></description>
       <guid>https://securelist.com/financial-threat-report-2025/119304/</guid>
       <pubDate>Wed, 08 Apr 2026 09:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>会笑的老鼠：CrystalX 结合了间谍软件、盗窃软件和恶作剧软件的功能</title>
-      <link>https://securelist.com/crystalx-rat-with-prankware-features/119283/</link>
-      <description><![CDATA[卡巴斯基研究人员分析了一种以 MaaS 形式分发的新 CrystalX RAT，该 RAT 具有广泛的间谍软件、窃取程序和恶作剧软件功能。]]></description>
-      <guid>https://securelist.com/crystalx-rat-with-prankware-features/119283/</guid>
-      <pubDate>Wed, 01 Apr 2026 06:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>旨在窃取您数据的人工智能网关</title>
-      <link>https://securelist.com/litellm-supply-chain-attack/119257/</link>
-      <description><![CDATA[剖析对 LiteLLM（许多 AI 代理中使用的多功能网关）的供应链攻击。解释恶意代码的危险以及如何保护自己。]]></description>
-      <guid>https://securelist.com/litellm-supply-chain-attack/119257/</guid>
-      <pubDate>Thu, 26 Mar 2026 11:01:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
