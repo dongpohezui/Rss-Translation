@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Tue, 05 May 2026 01:31:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 01:30:19 GMT</lastBuildDate>
+    <item>
+      <title>复制失败：您需要了解多年来最严重的 Linux 威胁</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2026-31431-copy-fail/</link>
+      <description><![CDATA[复制失败 (CVE-2026-31431) 是一个关键的 Linux 内核 LPE，允许秘密 root 访问。此缺陷影响数百万个系统。阅读我们的分析。
+帖子复制失败：您需要了解多年来最严重的 Linux 威胁首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/cve-2026-31431-copy-fail/</guid>
+      <pubDate>Tue, 05 May 2026 23:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>npm 威胁形势：攻击面和缓解措施（5 月 1 日更新）</title>
       <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
@@ -116,14 +124,6 @@
 帖子当攻击者遇到一组代理时：导航 Amazon Bedrock 的多代理应用程序首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/</guid>
       <pubDate>Fri, 03 Apr 2026 22:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>威胁简介：Axios 供应链攻击的广泛影响</title>
-      <link>https://unit42.paloaltonetworks.com/axios-supply-chain-attack/</link>
-      <description><![CDATA[第 42 单元讨论了针对 Axios 的供应链攻击。了解完整的攻击链，从植入程序到取证清理。
-帖子威胁简介：Axios 供应链攻击的广泛影响首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/axios-supply-chain-attack/</guid>
-      <pubDate>Wed, 01 Apr 2026 18:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
