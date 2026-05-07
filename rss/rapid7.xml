@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 07 May 2026 08:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:25:42 GMT</lastBuildDate>
+    <item>
+      <title>为什么 2026 年的安全需要大规模的持续威胁和暴露管理 (CTEM)</title>
+      <link>https://www.rapid7.com/blog/post/em-2026-cybersecurity-requires-ctem-at-scale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/em-2026-cybersecurity-requires-ctem-at-scale</guid>
+      <pubDate>Thu, 07 May 2026 13:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Palo Alto Networks PAN-OS 用户 ID 身份验证门户中的严重缓冲区溢出 (CVE-2026-0300)</title>
       <link>https://www.rapid7.com/blog/post/etr-critical-buffer-overflow-in-palo-alto-networks-pan-os-user-id-authentication-portal-cve-2026-0300</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-path-from-prioritized-exposures-to-remediation-progress</guid>
       <pubDate>Wed, 15 Apr 2026 12:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>星期二补丁 - 2026 年 4 月</title>
-      <link>https://www.rapid7.com/blog/post/em-patch-tuesday-april-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-april-2026</guid>
-      <pubDate>Tue, 14 Apr 2026 21:48:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

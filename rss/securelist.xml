@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 06 May 2026 19:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:25:51 GMT</lastBuildDate>
+    <item>
+      <title>2026 年第一季度的漏洞利用和漏洞</title>
+      <link>https://securelist.com/vulnerabilities-and-exploits-in-q1-2026/119733/</link>
+      <description><![CDATA[该报告提供了我们在 2026 年第一季度研究的已发布漏洞和漏洞利用的统计数据。它还包括有关 APT 攻击中使用 C2 框架的摘要数据。]]></description>
+      <guid>https://securelist.com/vulnerabilities-and-exploits-in-q1-2026/119733/</guid>
+      <pubDate>Thu, 07 May 2026 10:00:43 GMT</pubDate>
+    </item>
     <item>
       <title>OceanLotus 疑似使用 PyPI 传播 ZiChatBot 恶意软件</title>
       <link>https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[威胁行为者正在分发伪装成 Proxifier 软件的木马；通过多阶段感染链，它提供了 ClipBanker——替换剪贴板中的加密货币钱包地址的恶意软件。]]></description>
       <guid>https://securelist.com/clipbanker-malware-distributed-via-trojanized-proxifier/119341/</guid>
       <pubDate>Thu, 09 Apr 2026 09:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年金融网络威胁和 2026 年展望</title>
-      <link>https://securelist.com/financial-threat-report-2025/119304/</link>
-      <description><![CDATA[在这份报告中，卡巴斯基专家分享了他们对 2025 年金融威胁形势的见解，包括网络钓鱼、PC 恶意软件和信息窃取者的区域统计数据和趋势。]]></description>
-      <guid>https://securelist.com/financial-threat-report-2025/119304/</guid>
-      <pubDate>Wed, 08 Apr 2026 09:00:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
