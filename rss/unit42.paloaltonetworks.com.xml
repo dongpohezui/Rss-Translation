@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Wed, 06 May 2026 01:30:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 01:48:31 GMT</lastBuildDate>
+    <item>
+      <title>威胁简介：利用 PAN-OS 强制门户零日漏洞进行未经身份验证的远程代码执行</title>
+      <link>https://unit42.paloaltonetworks.com/captive-portal-zero-day/</link>
+      <description><![CDATA[第 42 单元详细介绍了 CVE-2026-0300，这是 PAN-OS 用户 ID 身份验证门户中的缓冲区溢出漏洞。立即阅读了解详情。 
+帖子威胁简介：利用 PAN-OS 强制门户零日漏洞进行未经身份验证的远程代码执行首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/captive-portal-zero-day/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:53 GMT</pubDate>
+    </item>
     <item>
       <title>复制失败：您需要了解多年来最严重的 Linux 威胁</title>
       <link>https://unit42.paloaltonetworks.com/cve-2026-31431-copy-fail/</link>
@@ -116,14 +124,6 @@
 这篇文章了解 Kubernetes 环境的当前威胁首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/modern-kubernetes-threats/</guid>
       <pubDate>Mon, 06 Apr 2026 22:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>当攻击者遇到一组代理时：浏览 Amazon Bedrock 的多代理应用程序</title>
-      <link>https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/</link>
-      <description><![CDATA[Unit 42 对 Amazon Bedrock 上的多代理 AI 系统的研究揭示了新的攻击面和提示注入风险。了解如何保护您的 AI 应用程序。
-帖子当攻击者遇到一组代理时：导航 Amazon Bedrock 的多代理应用程序首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/</guid>
-      <pubDate>Fri, 03 Apr 2026 22:00:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
