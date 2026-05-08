@@ -4,7 +4,21 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 08 May 2026 13:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 19:02:07 GMT</lastBuildDate>
+    <item>
+      <title>Metasploit 总结 05/08/2026</title>
+      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-08-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-08-2026</guid>
+      <pubDate>Fri, 08 May 2026 18:26:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>零混沌：以软件的速度扩展检测工程，检测即代码</title>
+      <link>https://www.rapid7.com/blog/post/dr-scaling-engineering-detection-as-code</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/dr-scaling-engineering-detection-as-code</guid>
+      <pubDate>Fri, 08 May 2026 12:37:21 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 和 OpenAI：帮助防御者以机器速度移动</title>
       <link>https://www.rapid7.com/blog/post/ai-rapid7-openai-helping-defenders-move-at-machine-speed</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-17-2026</guid>
       <pubDate>Fri, 17 Apr 2026 20:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-33032：Nginx UI 缺少​​ MCP 身份验证</title>
-      <link>https://www.rapid7.com/blog/post/etr-cve-2026-33032-nginx-ui-missing-mcp-authentication</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/etr-cve-2026-33032-nginx-ui-missing-mcp-authentication</guid>
-      <pubDate>Thu, 16 Apr 2026 19:44:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>伪装成 Claude 安装程序的 ClickFix 网络钓鱼活动</title>
-      <link>https://www.rapid7.com/blog/post/ve-clickfix-phishing-campaign-fake-claude-installer</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ve-clickfix-phishing-campaign-fake-claude-installer</guid>
-      <pubDate>Thu, 16 Apr 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
