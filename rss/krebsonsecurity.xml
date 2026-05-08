@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Fri, 08 May 2026 01:52:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:13:55 GMT</lastBuildDate>
+    <item>
+      <title>帆布破坏扰乱了全国的学校和学院</title>
+      <link>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</link>
+      <description><![CDATA[今天，针对广泛使用的教育技术平台 Canvas 的持续数据勒索攻击扰乱了美国各地学区和大学的课程和课程，此前一个网络犯罪团伙以勒索赎金的方式破坏了该服务的登录页面，威胁要泄露近 9,000 家教育机构 2.75 亿学生和教师的数据。]]></description>
+      <guid>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
+      <pubDate>Fri, 08 May 2026 02:58:46 GMT</pubDate>
+    </item>
     <item>
       <title>反 DDoS 公司对巴西 ISP 发起大量攻击</title>
       <link>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[微软公司今天推出了安全更新，修复了其 Windows 操作系统和其他软件中的至少 77 个漏洞。本月没有紧迫的“零日”缺陷（与二月份的五个零日漏洞相比），但与往常一样，一些补丁可能值得使用 Windows 的组织更快地关注。以下是本月补丁星期二的一些亮点。]]></description>
       <guid>https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</guid>
       <pubDate>Wed, 11 Mar 2026 00:32:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能助理如何移动安全目标</title>
-      <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
-      <description><![CDATA[基于人工智能的助手或“代理”——可以访问用户的计算机、文件、在线服务并可以自动执行几乎任何任务的自主程序——越来越受到开发人员和 IT 员工的欢迎。但正如过去几周许多令人瞠目结舌的头条新闻所表明的那样，这些强大而自信的新工具正在迅速改变组织的安全优先事项，同时模糊了数据和代码、值得信赖的同事和内部威胁、忍者黑客和新手代码骑师之间的界限。]]></description>
-      <guid>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:35:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
