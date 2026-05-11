@@ -4,7 +4,23 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Wed, 06 May 2026 19:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 14:24:38 GMT</lastBuildDate>
+    <item>
+      <title>5 月 11 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/</link>
+      <description><![CDATA[有关 5 月 11 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露 Canvas 学习平台背后的美国教育技术公司 Instruct 已确认发生了影响其云托管环境的重大数据泄露事件。据报道，暴露的数据包括学生和教职员工的记录以及私人消息，而[…]
+5 月 11 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/</guid>
+      <pubDate>Mon, 11 May 2026 12:49:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>勒索软件现状 – 2026 年第一季度</title>
+      <link>https://research.checkpoint.com/2026/the-state-of-ransomware-q1-2026/</link>
+      <description><![CDATA[2026 年第一季度勒索软件的主要发现：大规模整合 在 2026 年第一季度，我们监控了 70 多个活跃数据泄露站点 (DLS)，总共列出了 2,122 个新受害者。这一数字比 2025 年第四季度 2,416 名受害者的历史记录下降了 12.2%，但仍然是有记录以来第一季度第二高的 117% […]
+帖子勒索软件现状– 2026 年第一季度首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/the-state-of-ransomware-q1-2026/</guid>
+      <pubDate>Mon, 11 May 2026 09:58:28 GMT</pubDate>
+    </item>
     <item>
       <title>5 月 4 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/4th-may-threat-intelligence-report/</link>
@@ -108,22 +124,6 @@ ChatGPT 数据通过代码执行运行时中的隐藏出站通道泄露一文首
 3 月 16 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/16th-march-threat-intelligence-report/</guid>
       <pubDate>Mon, 16 Mar 2026 15:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Handala Hack”——揭晓该组织的作案手法</title>
-      <link>https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operandi/</link>
-      <description><![CDATA[主要发现简介 Handala Hack（也被 Check Point Research 追踪为 Void Manticore）是一个伊朗威胁行为者，以多次破坏性擦除攻击与“黑客和泄漏”操作相结合而闻名。该威胁行为者操纵着多个在线角色，其中最突出的是“国土正义”，该角色从 2022 年中期开始维护，专门针对多次攻击[…]
-帖子“Handala Hack”– Unveiling Group 的作案手法首先出现在Check Point Research。]]></description>
-      <guid>https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operandi/</guid>
-      <pubDate>Thu, 12 Mar 2026 17:21:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗 MOIS 演员与网络犯罪的联系</title>
-      <link>https://research.checkpoint.com/2026/iranian-mois-actors-the-cyber-crime-connection/</link>
-      <description><![CDATA[要点 与伊朗有关的行为者越来越多地参与网络犯罪生态系统。他们的活动表明他们越来越依赖犯罪工具、服务和运营模式来支持国家目标。伊朗行为者长期以来一直利用网络犯罪和黑客行为作为破坏性活动的掩护，但现在的趋势表明他们直接参与犯罪生态系统。 […]
-帖子伊朗 MOIS 演员和网络犯罪连接首先出现在Check Point Research。]]></description>
-      <guid>https://research.checkpoint.com/2026/iranian-mois-actors-the-cyber-crime-connection/</guid>
-      <pubDate>Tue, 10 Mar 2026 16:54:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
