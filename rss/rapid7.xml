@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 11 May 2026 14:23:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:25:12 GMT</lastBuildDate>
+    <item>
+      <title>最后倒计时：参加 Rapid7 全球网络安全峰会的最后机会</title>
+      <link>https://www.rapid7.com/blog/post/it-last-chance-rapid7-global-cybersecurity-summit</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/it-last-chance-rapid7-global-cybersecurity-summit</guid>
+      <pubDate>Mon, 11 May 2026 12:54:26 GMT</pubDate>
+    </item>
     <item>
       <title>Metasploit 总结 05/08/2026</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-08-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ai-project-glasswing-challenge-faster-discovery-and-action</guid>
       <pubDate>Mon, 20 Apr 2026 16:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 总结 04/17/2026</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-17-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-17-2026</guid>
-      <pubDate>Fri, 17 Apr 2026 20:35:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
