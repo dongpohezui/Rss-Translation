@@ -4,7 +4,23 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 12 May 2026 13:49:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 19:27:17 GMT</lastBuildDate>
+    <item>
+      <title>保护消费者网络财产免受现代 DDoS 攻击</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/</link>
+      <description><![CDATA[了解如何通过分层安全、弹性架构和优雅的服务降级来保护消费者网站并防御现代 DDoS 攻击。
+这篇文章保护消费者网络资产免受现代 DDoS 攻击首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/</guid>
+      <pubDate>Tue, 12 May 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>破坏信任边界：通过第三方妥协调查隐秘入侵</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/</link>
+      <description><![CDATA[Microsoft 事件响应中心调查了通过合法且可信的管理机制进行的攻击，该攻击无缝地融入日常操作并且不被发现，这表明入侵已越来越多地避免使用嘈杂的漏洞、明显的恶意软件或自定义工具，而是利用组织在其环境中已经信任的系统。
+帖子破坏信任边界：调查通过第三方妥协的隐秘入侵首先出现在Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/</guid>
+      <pubDate>Tue, 12 May 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>主动攻击：Dirty Frag Linux 漏洞扩大了入侵后风险</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/</link>
@@ -68,22 +84,6 @@
 这篇文章Microsoft Agent 365现已全面上市，扩展了功能和集成首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/</guid>
       <pubDate>Fri, 01 May 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Security 中的新增内容、更新内容或最近发布的内容</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/</link>
-      <description><![CDATA[利用 In the Loop 系列提供的 Microsoft 最新安全创新和更新，领先于新兴威胁。
-Microsoft 安全中的新增内容、更新或最近发布的内容首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/</guid>
-      <pubDate>Thu, 30 Apr 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件威胁形势：2026 年第一季度趋势和见解</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/</link>
-      <description><![CDATA[2026 年初，电子邮件威胁随着凭证网络钓鱼、二维码网络钓鱼和验证码门控活动的增加而增加，其中 Microsoft 破坏 Tycoon2FA 网络钓鱼平台导致数量减少 15% 以及威胁行为者策略的转变凸显了这一点。
-这篇文章电子邮件威胁形势：2026 年第一季度趋势和见解首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/</guid>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

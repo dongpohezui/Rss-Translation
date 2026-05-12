@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Tue, 12 May 2026 13:48:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 19:27:01 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 如何应对“复制失败”Linux 漏洞</title>
+      <link>https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/</link>
+      <description><![CDATA[当关键的 Linux 内核权限升级被公开披露时，Cloudflare 的安全和工程团队检测、调查并缓解了我们全球机群中的威胁，确认客户影响为零且没有恶意利用。]]></description>
+      <guid>https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/</guid>
+      <pubDate>Thu, 07 May 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare IPsec 的后量子加密已普遍可用</title>
       <link>https://blog.cloudflare.com/post-quantum-ipsec/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我们对全球范围内观察到的互联网趋势和模式进行了第六次年度回顾，揭示了 2025 年的颠覆、进步和指标。]]></description>
       <guid>https://blog.cloudflare.com/radar-2025-year-in-review/</guid>
       <pubDate>Mon, 15 Dec 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Workers VPC 服务如何从世界任何地方连接到您的区域专用网络</title>
-      <link>https://blog.cloudflare.com/workers-vpc-open-beta/</link>
-      <description><![CDATA[Workers VPC 服务今天进入公开测试版。我们深入了解 Workers VPC 如何使用 Cloudflare 的全球网络将全球部署的 Workers 连接到您的区域专用网络，同时抽象出跨云网络的复杂性。]]></description>
-      <guid>https://blog.cloudflare.com/workers-vpc-open-beta/</guid>
-      <pubDate>Wed, 05 Nov 2025 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
