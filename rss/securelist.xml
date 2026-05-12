@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Fri, 08 May 2026 13:04:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 08:20:58 GMT</lastBuildDate>
+    <item>
+      <title>2026 年勒索软件状况</title>
+      <link>https://securelist.com/state-of-ransomware-in-2026/119761/</link>
+      <description><![CDATA[卡巴斯基研究人员正在分享对 2026 年主要勒索软件趋势的见解：EDR 杀手的崛起、从数据加密转向数据泄露等等。]]></description>
+      <guid>https://securelist.com/state-of-ransomware-in-2026/119761/</guid>
+      <pubDate>Tue, 12 May 2026 07:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>CVE-2025-68670：发现 xrdp 中的 RCE 漏洞</title>
       <link>https://securelist.com/cve-2025-68670/119742/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[该报告包含 2025 年第四季度的工业威胁统计数据。它涵盖了各种感染媒介和恶意软件类型，以及区域统计数据和按行业统计的数据。]]></description>
       <guid>https://securelist.com/industrial-threat-report-q4-2025/119392/</guid>
       <pubDate>Wed, 15 Apr 2026 12:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>JanelaRAT：针对拉丁美洲用户的金融威胁</title>
-      <link>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</link>
-      <description><![CDATA[卡巴斯基 GReAT 专家描述了最新的 JanelaRAT 活动，详细介绍了感染链和恶意软件功能更新。]]></description>
-      <guid>https://securelist.com/janelarat-financial-threat-in-latin-america/119332/</guid>
-      <pubDate>Mon, 13 Apr 2026 09:00:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
