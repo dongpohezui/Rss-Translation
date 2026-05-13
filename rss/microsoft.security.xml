@@ -4,7 +4,23 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 12 May 2026 19:27:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:56:24 GMT</lastBuildDate>
+    <item>
+      <title>使用人工智能辅助合成攻击日志生成加速检测工程</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/</link>
+      <description><![CDATA[如果您可以按需生成真实的攻击遥测数据会怎样？探索将攻击者行为 (TTP) 转化为合成日志的研究方法，这些日志可以触发大规模检测且无需敏感数据。
+这篇文章使用 AI 辅助合成攻击日志生成加速检测工程首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/</guid>
+      <pubDate>Tue, 12 May 2026 22:53:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>以 AI 速度进行防御：微软全新多模型代理安全系统超越领先行业基准</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/</link>
+      <description><![CDATA[今天，微软宣布在人工智能驱动的网络防御领域向前迈出了重要一步：一种新的多模型代理扫描工具（代号为 MDASH）。
+帖子人工智能速度防御：微软新的多模型代理安全系统超越领先的行业基准首先出现在Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/</guid>
+      <pubDate>Tue, 12 May 2026 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>保护消费者网络财产免受现代 DDoS 攻击</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/</link>
@@ -68,22 +84,6 @@
 帖子破解代码：多阶段“行为准则”网络钓鱼活动导致 AiTM 令牌泄露首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/</guid>
       <pubDate>Mon, 04 May 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-31431：复制失败漏洞可实现跨云环境的 Linux root 权限提升</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/</link>
-      <description><![CDATA[一个高严重性的 Linux 漏洞“复制失败”(CVE-2026-31431) 可实现跨云环境和 Kubernetes 工作负载的 root 权限提升。有了可用的漏洞，组织应该迅速采取行动来检测、缓解和降低风险。
-帖子 CVE-2026-31431：复制失败漏洞可实现跨云环境的 Linux root 权限提升首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/</guid>
-      <pubDate>Sat, 02 May 2026 03:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Agent 365 现已全面上市，扩展了功能和集成</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/</link>
-      <description><![CDATA[​今天，我们宣布 Agent 365 全面上市，并预览了发现和管理影子 AI 代理的新功能，包括 OpenClaw 和 Claude Code 等本地代理。
-这篇文章Microsoft Agent 365现已全面上市，扩展了功能和集成首先出现在Microsoft Security博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/</guid>
-      <pubDate>Fri, 01 May 2026 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

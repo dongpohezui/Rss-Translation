@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 12 May 2026 19:26:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:55:09 GMT</lastBuildDate>
+    <item>
+      <title>星期二补丁 - 2026 年 5 月</title>
+      <link>https://www.rapid7.com/blog/post/em-patch-tuesday-may-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-may-2026</guid>
+      <pubDate>Wed, 13 May 2026 00:22:19 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 如何让 Cyber​​ GRC 更接近安全运营</title>
       <link>https://www.rapid7.com/blog/post/cds-rapid7-cyber-grc-secops-compliance</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/tr-kyber-ransomware-double-trouble-windows-esxi-attacks-explained</guid>
       <pubDate>Tue, 21 Apr 2026 14:38:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>从批量导出到人工智能就绪的安全工作流程：Rapid7 的开源 MCP 服务器和代理技能简介</title>
-      <link>https://www.rapid7.com/blog/post/em-bulk-export-ai-ready-security-workflows-open-source-mcp-server-agent-skill</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/em-bulk-export-ai-ready-security-workflows-open-source-mcp-server-agent-skill</guid>
-      <pubDate>Tue, 21 Apr 2026 13:58:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
