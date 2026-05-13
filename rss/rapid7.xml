@@ -4,7 +4,21 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 13 May 2026 14:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 19:28:43 GMT</lastBuildDate>
+    <item>
+      <title>当 IT 支持致电时：剖析从团队到域入侵的 ModeloRAT 活动</title>
+      <link>https://www.rapid7.com/blog/post/tr-it-support-dissecting-modelorat-campaign-microsoft-teams-compromise</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/tr-it-support-dissecting-modelorat-campaign-microsoft-teams-compromise</guid>
+      <pubDate>Wed, 13 May 2026 14:44:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rapid7 合作伙伴学院：通过荣获史蒂夫金奖的合作伙伴服务认证推动影响力</title>
+      <link>https://www.rapid7.com/blog/post/c-gold-stevie-award-winning-partner-services-certifications-academy</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/c-gold-stevie-award-winning-partner-services-certifications-academy</guid>
+      <pubDate>Wed, 13 May 2026 13:54:10 GMT</pubDate>
+    </item>
     <item>
       <title>星期二补丁 - 2026 年 5 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-may-2026</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/it-why-attend-global-cybersecurity-summit-ai-exposure-management-ctem</guid>
       <pubDate>Fri, 24 Apr 2026 13:07:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能正在改变漏洞发现，您的软件供应链策略必须随之改变</title>
-      <link>https://www.rapid7.com/blog/post/ai-changing-vulnerability-discovery-software-supply-chain-strategy</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ai-changing-vulnerability-discovery-software-supply-chain-strategy</guid>
-      <pubDate>Thu, 23 Apr 2026 13:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kyber 勒索软件双重麻烦：Windows 和 ESXi 攻击解释</title>
-      <link>https://www.rapid7.com/blog/post/tr-kyber-ransomware-double-trouble-windows-esxi-attacks-explained</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/tr-kyber-ransomware-double-trouble-windows-esxi-attacks-explained</guid>
-      <pubDate>Tue, 21 Apr 2026 14:38:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

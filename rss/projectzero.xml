@@ -4,7 +4,14 @@
     <title>零号计划</title>
     <link>https://projectzero.google/</link>
     <description>让零日变得困难</description>
-    <lastBuildDate>Tue, 12 May 2026 19:26:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 19:29:11 GMT</lastBuildDate>
+    <item>
+      <title>Pixel 10 的零点击漏洞利用链：当门关闭时，窗户打开</title>
+      <link>https://projectzero.google/2026/05/pixel-10-exploit.html</link>
+      <description><![CDATA[我们最近发布了 Google Pixel 9 的漏洞利用链，证明只需两次漏洞利用即可从零点击上下文进入 Android root 权限。杜比 0-click 漏洞存在于整个 Android 系统中，直到 2026 年 1 月得到修补。虽然我们有 Pixel 9 的漏洞利用链，但我们想看看是否可以为 Pixel 10 编写类似的漏洞利用链。更新杜比漏洞利用 改变 CVE-2025-54957 的利用漏洞相当简单。大多数所需的更改涉及将针对 Pixel 9 的特定版本库计算的偏移量更新为 Pixel 10 库中的类似偏移量。唯一的挑战（除了希望我们更好地记录哪些同步帧包含偏移量之外）是 Pixel 10 使用 RET PAC 代替 -fstack-protector，这意味着 __stack_chk_fail 无法被代码覆盖。经过一番尝试和错误后，我们使用了 dap_cpdp_init，它是可以被覆盖而不会导致功能问题的初始化代码，因为它在解码器初始化时被调用一次，再也不会被调用。]]></description>
+      <guid>https://projectzero.google/2026/05/pixel-10-exploit.html</guid>
+      <pubDate>Wed, 13 May 2026 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>论变异语法模糊测试的有效性</title>
       <link>https://projectzero.google/2026/03/mutational-grammar-fuzzing.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在“零号计划”中，我们的目标是让我们的研究处于领先地位，但我们的博客设计……并不是那么重要。我们欢迎读者来到我们闪亮的新博客！值此之际，我们要求零计划的成员掸掉从未见过面的旧博客文章。虽然我们希望可以说它们所涵盖的技术不再相关，但仍然需要做很多工作来保护用户免受零日攻击。我们的新博客将继续揭示攻击者的能力以及防御攻击者的许多机会。从 2016 年开始：Windows 漏洞利用技术：詹姆斯·福肖 (James Forshaw) 的路径查找竞争条件 从 2017 年开始：跳出框框思考，作者：Jann Horn]]></description>
       <guid>https://projectzero.google/2025/12/welcome.html</guid>
       <pubDate>Tue, 16 Dec 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>跳出框框思考 [2017 年草案尘埃落定]</title>
-      <link>https://projectzero.google/2025/12/thinking-outside-the-box.html</link>
-      <description><![CDATA[前言 来自未来的你好！这是我最初在 2017 年初起草的博文。我写了这篇文章的前半部分（关于使用 CVE-2017-3558 从虚拟机转义到 VirtualBox 主机用户空间进程），但我一直没有时间写后半部分（从 VirtualBox 主机用户空间进程到主机内核），最终有点忘记了这个旧的帖子草案……但是让这个旧草案腐烂似乎有点悲伤永远，所以我决定现在将其放入我们的博客文章队列中，距我最初起草它已有 8 年了。我现在对它进行了非常轻微的编辑（添加了一些链接，修复了一些语法），但它仍然几乎和我当时起草的一样。当您阅读这篇文章时，请记住，除非另有说明，否则它描述的是截至 2017 年的情况。尽管自那时以来，所描述的许多代码似乎没有太大变化……]]></description>
-      <guid>https://projectzero.google/2025/12/thinking-outside-the-box.html</guid>
-      <pubDate>Tue, 16 Dec 2025 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
