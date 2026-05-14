@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 13 May 2026 19:28:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 13:25:50 GMT</lastBuildDate>
+    <item>
+      <title>Kimsuky 使用基于 PebbleDash 的工具瞄准组织</title>
+      <link>https://securelist.com/kimsuky-appleseed-pebbledash-campaigns/119785/</link>
+      <description><![CDATA[卡巴斯基研究人员分析了最近 Kimsuky 活动中使用的一系列基于 PebbleDash 的新工具，并揭示了它们与 AppleSeed 恶意软件集群的联系。]]></description>
+      <guid>https://securelist.com/kimsuky-appleseed-pebbledash-campaigns/119785/</guid>
+      <pubDate>Thu, 14 May 2026 11:00:58 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年勒索软件状况</title>
       <link>https://securelist.com/state-of-ransomware-in-2026/119761/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[2026 年 3 月，我们在 Apple App Store 中发现了 20 多个伪装成流行加密钱包的网络钓鱼应用程序。]]></description>
       <guid>https://securelist.com/fakewallet-cryptostealer-ios-app-store/119474/</guid>
       <pubDate>Mon, 20 Apr 2026 09:22:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年第四季度工业自动化系统的威胁格局</title>
-      <link>https://securelist.com/industrial-threat-report-q4-2025/119392/</link>
-      <description><![CDATA[该报告包含 2025 年第四季度的工业威胁统计数据。它涵盖了各种感染媒介和恶意软件类型，以及区域统计数据和按行业统计的数据。]]></description>
-      <guid>https://securelist.com/industrial-threat-report-q4-2025/119392/</guid>
-      <pubDate>Wed, 15 Apr 2026 12:30:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
