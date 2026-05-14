@@ -4,7 +4,21 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 14 May 2026 13:25:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 19:26:03 GMT</lastBuildDate>
+    <item>
+      <title>CVE-2026-20182：Cisco Catalyst SD-WAN 控制器中的关键身份验证绕过（已修复）</title>
+      <link>https://www.rapid7.com/blog/post/ve-cve-2026-20182-critical-authentication-bypass-cisco-catalyst-sd-wan-controller-fixed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ve-cve-2026-20182-critical-authentication-bypass-cisco-catalyst-sd-wan-controller-fixed</guid>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>效率的黑暗面：当网络控制器成为攻击者的“上帝模式”</title>
+      <link>https://www.rapid7.com/blog/post/tr-efficiencys-dark-side-network-controllers-in-god-mode-attackers-sd-wan</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/tr-efficiencys-dark-side-network-controllers-in-god-mode-attackers-sd-wan</guid>
+      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>当 IT 支持致电时：剖析从团队到域入侵的 ModeloRAT 活动</title>
       <link>https://www.rapid7.com/blog/post/tr-it-support-dissecting-modelorat-campaign-microsoft-teams-compromise</link>
@@ -20,7 +34,7 @@
       <pubDate>Wed, 13 May 2026 13:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>星期二补丁 - 2026 年 5 月</title>
+      <title>周二补丁 - 2026 年 5 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-may-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-may-2026</guid>
@@ -41,7 +55,7 @@
       <pubDate>Mon, 11 May 2026 12:54:26 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Metasploit 总结 05/08/2026</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-08-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-08-2026</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/dr-mdr-selection-partnership-decision</guid>
       <pubDate>Tue, 28 Apr 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 总结 04/25/2026</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-25-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-04-25-2026</guid>
-      <pubDate>Fri, 24 Apr 2026 20:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您关注人工智能、威胁和 CTEM，请参加我们的全球网络安全峰会的 3 个理由</title>
-      <link>https://www.rapid7.com/blog/post/it-why-attend-global-cybersecurity-summit-ai-exposure-management-ctem</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/it-why-attend-global-cybersecurity-summit-ai-exposure-management-ctem</guid>
-      <pubDate>Fri, 24 Apr 2026 13:07:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
