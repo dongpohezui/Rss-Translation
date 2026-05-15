@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Tue, 12 May 2026 01:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:24:31 GMT</lastBuildDate>
+    <item>
+      <title>Gremlin Stealer 的策略演变：利用资源文件隐藏在众目睽睽之下</title>
+      <link>https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/</link>
+      <description><![CDATA[第 42 单元分析了 Gremlin 窃取者的演变。该变体使用高级混淆、加密剪辑和会话劫持来破坏数据。
+帖子Gremlin Stealer的进化策略：利用资源文件隐藏在众目睽睽之下首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/</guid>
+      <pubDate>Fri, 15 May 2026 10:00:52 GMT</pubDate>
+    </item>
     <item>
       <title>AD CS 升级内部：解析高级误用技术和工具</title>
       <link>https://unit42.paloaltonetworks.com/active-directory-certificate-services-exploitation/</link>
@@ -116,14 +124,6 @@
 帖子基岩中的裂缝：特工上帝模式首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/exploit-of-aws-agentcore-iam-god-mode/</guid>
       <pubDate>Wed, 08 Apr 2026 22:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>基岩中的裂缝：逃离 AWS AgentCore 沙盒</title>
-      <link>https://unit42.paloaltonetworks.com/bypass-of-aws-sandbox-network-isolation-mode/</link>
-      <description><![CDATA[第 42 单元发现了 Amazon Bedrock AgentCore 沙盒中的关键漏洞，展示了 DNS 隧道和凭证暴露。 
-帖子基岩中的裂缝：逃离 AWS AgentCore 沙箱首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/bypass-of-aws-sandbox-network-isolation-mode/</guid>
-      <pubDate>Tue, 07 Apr 2026 22:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
