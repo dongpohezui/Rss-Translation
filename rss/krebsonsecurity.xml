@@ -4,11 +4,11 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Sat, 16 May 2026 01:49:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 07:48:11 GMT</lastBuildDate>
     <item>
       <title>2026 年 5 月星期二补丁版</title>
       <link>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</link>
-      <description><![CDATA[人工智能平台可能和人类一样容易受到社会工程的影响，但事实证明，它们非常擅长发现人造计算机代码中的安全漏洞。这一现实在本月得到了充分体现，一些使用更广泛的软件制造商——包括苹果、谷歌、微软、Mozilla 和甲骨文——修复了接近创纪录数量的安全漏洞，和/或加快了补丁发布的速度。]]></description>
+      <description><![CDATA[人工智能平台可能和人类一样容易受到社会工程的影响，但事实证明，它们非常擅长发现人造计算机代码中的安全漏洞。本月，一些使用更广泛的软件制造商（包括苹果、谷歌、微软、Mozilla 和甲骨文）修复了接近创纪录数量的安全漏洞，和/或加快了补丁发布的速度，这一现实得到了充分展示。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</guid>
       <pubDate>Tue, 12 May 2026 21:46:45 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>“分散蜘蛛”成员“泰勒布”认罪</title>
       <link>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</link>
-      <description><![CDATA[一名 24 岁英国公民、网络犯罪组织“分散蜘蛛”的高级成员已承认犯有电信欺诈阴谋和严重身份盗窃罪。泰勒·罗伯特·布坎南 (Tyler Robert Buchanan) 承认他在 2022 年夏天参与了一系列短信网络钓鱼攻击，该攻击使该组织侵入了至少十几家主要科技公司，并从投资者那里窃取了价值数千万美元的加密货币。]]></description>
+      <description><![CDATA[一名 24 岁的英国公民、网络犯罪组织“分散蜘蛛”的高级成员已承认犯有电信欺诈阴谋和严重身份盗窃罪。泰勒·罗伯特·布坎南 (Tyler Robert Buchanan) 承认他在 2022 年夏天参与了一系列短信网络钓鱼攻击，该攻击使该组织侵入了至少十几家主要科技公司，并从投资者那里窃取了价值数千万美元的加密货币。]]></description>
       <guid>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</guid>
       <pubDate>Tue, 21 Apr 2026 14:53:59 GMT</pubDate>
     </item>
