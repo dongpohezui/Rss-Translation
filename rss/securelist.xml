@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Sun, 17 May 2026 01:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 12:52:09 GMT</lastBuildDate>
     <item>
       <title>Kimsuky 使用基于 PebbleDash 的工具瞄准组织</title>
       <link>https://securelist.com/kimsuky-appleseed-pebbledash-campaigns/119785/</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 12 May 2026 07:00:04 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2025-68670：在 xrdp 中发现 RCE 漏洞</title>
+      <title>CVE-2025-68670：发现 xrdp 中的 RCE 漏洞</title>
       <link>https://securelist.com/cve-2025-68670/119742/</link>
       <description><![CDATA[在对卡巴斯基 USB 重定向器进行安全评估期间，我们发现了 CVE-2025-68670：xrdp 服务器组件中的预身份验证 RCE。项目维护人员及时修复了该漏洞。]]></description>
       <guid>https://securelist.com/cve-2025-68670/119742/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>OceanLotus 疑似使用 PyPI 传播 ZiChatBot 恶意软件</title>
       <link>https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/</link>
-      <description><![CDATA[卡巴斯基研究人员在 PyPI 中发现了针对 Windows 和 Linux 的恶意轮子包，其中包含一个传播名为 ZiChatBot 的恶意软件的植入程序。我们将此活动归因于 OceanLotus APT。]]></description>
+      <description><![CDATA[卡巴斯基研究人员在 PyPI 中发现了针对 Windows 和 Linux 的恶意 Wheel 软件包，其中包含一个传播名为 ZiChatBot 的恶意软件的植入程序。我们将此活动归因于 OceanLotus APT。]]></description>
       <guid>https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/</guid>
       <pubDate>Wed, 06 May 2026 13:00:34 GMT</pubDate>
     </item>
