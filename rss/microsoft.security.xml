@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sun, 17 May 2026 01:54:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 08:08:08 GMT</lastBuildDate>
     <item>
       <title>自主人工智能代理的纵深防御</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/</link>
@@ -65,7 +65,7 @@ Kazuar：民族国家僵尸网络剖析首先出现在微软安全博客上。]]
       <title>主动攻击：Dirty Frag Linux 漏洞扩大了入侵后风险</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/</link>
       <description><![CDATA[Dirty Frag 是一个新披露的 Linux 本地权限提升漏洞，影响内核网络和内存碎片处理组件，包括 esp4、esp6 和 rxrpc。该漏洞可实现从非特权用户到 root 的可靠升级，并且可在通过 SSH 访问、Web shell、容器或低特权帐户进行初始攻击后被利用。 Microsoft Defender 正在积极监控有限的野外活动，并为利用尝试提供检测范围。
-帖子主动攻击：Dirty Frag Linux 漏洞扩大了妥协后风险首先出现在Microsoft Security博客。]]></description>
+帖子主动攻击：Dirty Frag Linux 漏洞扩大了泄露后风险首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/</guid>
       <pubDate>Fri, 08 May 2026 17:12:46 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@ Kazuar：民族国家僵尸网络剖析首先出现在微软安全博客上。]]
       <pubDate>Thu, 07 May 2026 20:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>世界密钥日：推进无密码身份验证</title>
+      <title>世界密码日：推进无密码身份验证</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/</link>
       <description><![CDATA[今年世界密钥日，了解 Microsoft 如何推进密钥采用，以取代密码、降低网络钓鱼风险并提供更简单、更安全的登录。
 帖子世界密钥日：推进无密码身份验证首先出现在Microsoft 安全博客上。]]></description>
