@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 18 May 2026 14:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:22:36 GMT</lastBuildDate>
+    <item>
+      <title>如何在人工智能驱动的世界中更好地保​​护您不断增长的业务</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/</link>
+      <description><![CDATA[了解内置安全性如何帮助您不断增长的业务持续运行、保护客户信任并支持增长。
+这篇文章如何在人工智能驱动的世界中更好地保护您不断增长的业务首先出现在微软安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/</guid>
+      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>自主人工智能代理的纵深防御</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/</link>
@@ -76,14 +84,6 @@ Kazuar：民族国家僵尸网络剖析首先出现在微软安全博客上。]]
 帖子当提示变成shell：AI代理框架中的RCE漏洞首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/</guid>
       <pubDate>Thu, 07 May 2026 20:22:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界密码日：推进无密码身份验证</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/</link>
-      <description><![CDATA[今年世界密钥日，了解 Microsoft 如何推进密钥采用，以取代密码、降低网络钓鱼风险并提供更简单、更安全的登录。
-帖子世界密钥日：推进无密码身份验证首先出现在Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/</guid>
-      <pubDate>Thu, 07 May 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

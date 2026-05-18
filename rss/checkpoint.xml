@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Thu, 14 May 2026 19:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:22:05 GMT</lastBuildDate>
+    <item>
+      <title>5 月 18 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/</link>
+      <description><![CDATA[有关 5 月 18 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 大型国际电信公司沃达丰 (Vodafone) 遭受了 Lapsus$ 勒索组织声称的源代码泄露。该公司确认通过受感染的第三方开发软件对 GitHub 文件的访问受到限制，同时指出[…]
+5 月 18 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/</guid>
+      <pubDate>Mon, 18 May 2026 14:58:29 GMT</pubDate>
+    </item>
     <item>
       <title>如此说……先生们</title>
       <link>https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/</link>
@@ -116,14 +124,6 @@ ChatGPT 数据通过代码执行运行时中的隐藏出站通道泄露一文首
 这篇文章2026 年 1 月至 2 月人工智能威胁形势摘要首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/ai-threat-landscape-digest-january-february-2026/</guid>
       <pubDate>Sun, 29 Mar 2026 10:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>3 月 23 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/23rd-march-threat-intelligence-report/</link>
-      <description><![CDATA[有关 3 月 23 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露美国员工福利管理机构 Navia Benefit Solutions 披露，2025 年 12 月 22 日至 […] 期间发生未经授权的访问和潜在的数据泄露，影响超过 260 万人的数据泄露事件
-3 月 23 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/23rd-march-threat-intelligence-report/</guid>
-      <pubDate>Mon, 23 Mar 2026 13:38:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
