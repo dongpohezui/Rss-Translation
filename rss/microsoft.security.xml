@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 18 May 2026 19:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 02:03:01 GMT</lastBuildDate>
+    <item>
+      <title>Storm-2949 如何将受损的身份转变为云范围内的漏洞</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/</link>
+      <description><![CDATA[Storm-2949 将被盗凭证转变为云范围内的漏洞，从身份泄露转变为不使用恶意软件的大规模数据盗窃。此事件展示了威胁行为者如何利用受信任的系统进行不被发现的操作。
+这篇文章Storm-2949如何将受损的身份转变为云范围内的漏洞首先出现在Microsoft Security博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/</guid>
+      <pubDate>Mon, 18 May 2026 22:42:50 GMT</pubDate>
+    </item>
     <item>
       <title>如何在人工智能驱动的世界中更好地保​​护您不断增长的业务</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/</link>
@@ -76,14 +84,6 @@ Kazuar：民族国家僵尸网络剖析首先出现在微软安全博客上。]]
 帖子主动攻击：Dirty Frag Linux 漏洞扩大了泄露后风险首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/</guid>
       <pubDate>Fri, 08 May 2026 17:12:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>当提示变成shell：AI代理框架中的RCE漏洞</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/</link>
-      <description><![CDATA[新研究揭示了人工智能代理框架中的即时注入如何导致远程代码执行。了解这些漏洞的工作原理、受影响的内容以及如何保护您的代理。
-帖子当提示变成shell：AI代理框架中的RCE漏洞首先出现在微软安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/</guid>
-      <pubDate>Thu, 07 May 2026 20:22:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

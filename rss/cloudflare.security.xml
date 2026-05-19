@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Mon, 18 May 2026 19:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 02:02:49 GMT</lastBuildDate>
+    <item>
+      <title>Glasswing 项目：Mythos 向我们展示了什么</title>
+      <link>https://blog.cloudflare.com/cyber-frontier-models/</link>
+      <description><![CDATA[最近几周，我们向 Mythos 和其他专注于安全的法学硕士指出了我们基础设施关键部分的实时代码。我们分享我们的观察结果、模型的优点和缺点，以及围绕它们的工作在规模化之前需要是什么样子。]]></description>
+      <guid>https://blog.cloudflare.com/cyber-frontier-models/</guid>
+      <pubDate>Mon, 18 May 2026 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare 如何应对“复制失败”Linux 漏洞</title>
       <link>https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Astro Technology Company 团队（Astro Web 框架的创建者）即将加入 Cloudflare。我们正在加倍努力，使 Astro 成为当今和未来几年内容驱动网站的最佳框架。]]></description>
       <guid>https://blog.cloudflare.com/astro-joins-cloudflare/</guid>
       <pubDate>Fri, 16 Jan 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年 Cloudflare Radar 回顾：人工智能的兴起、后量子和破纪录的 DDoS 攻击</title>
-      <link>https://blog.cloudflare.com/radar-2025-year-in-review/</link>
-      <description><![CDATA[我们对全球范围内观察到的互联网趋势和模式进行了第六次年度回顾，揭示了 2025 年的颠覆、进步和指标。]]></description>
-      <guid>https://blog.cloudflare.com/radar-2025-year-in-review/</guid>
-      <pubDate>Mon, 15 Dec 2025 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
