@@ -4,7 +4,7 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Tue, 19 May 2026 02:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 08:57:06 GMT</lastBuildDate>
     <item>
       <title>Glasswing 项目：Mythos 向我们展示了什么</title>
       <link>https://blog.cloudflare.com/cyber-frontier-models/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>扩大 MCP 的采用：我们的参考架构可实现更简单、更安全和更便宜的 MCP 企业部署</title>
       <link>https://blog.cloudflare.com/enterprise-mcp/</link>
-      <description><![CDATA[我们分享 Cloudflare 使用 Access、AI 网关和 MCP 服务器门户管理 MCP 的内部策略。我们还推出了代码模式来削减代币成本，并推荐了在 Cloudflare Gateway 中检测 Shadow MCP 的新规则。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://blog.cloudflare.com/enterprise-mcp/</guid>
       <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Tue, 07 Apr 2026 21:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
+      <title></title>
       <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
       <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和 LLM 相结合，我们将误报率减少了 200 倍，同时捕获了复杂的零日漏洞。]]></description>
       <guid>https://blog.cloudflare.com/client-side-security-open-to-everyone/</guid>
