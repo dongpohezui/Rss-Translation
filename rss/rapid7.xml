@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 20 May 2026 08:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:30:17 GMT</lastBuildDate>
+    <item>
+      <title>更快地实施 CTEM：在几分钟内构建地面命令仪表板</title>
+      <link>https://www.rapid7.com/blog/post/em-operationalizing-ctem-building-surface-command-dashboards</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/em-operationalizing-ctem-building-surface-command-dashboards</guid>
+      <pubDate>Wed, 20 May 2026 12:15:54 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 2026 年全球网络安全峰会：安全领导者的主要收获</title>
       <link>https://www.rapid7.com/blog/post/it-2026-global-cybersecurity-summit-key-takeaways-security-leaders</link>
@@ -20,14 +27,14 @@
       <pubDate>Fri, 15 May 2026 18:54:25 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-0265：帕洛阿尔托网络 PAN-OS 中的身份验证绕过</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-0265-authentication-bypass-in-palo-alto-networks-pan-os</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-0265-authentication-bypass-in-palo-alto-networks-pan-os</guid>
       <pubDate>Thu, 14 May 2026 19:15:49 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-20182：Cisco Catalyst SD-WAN 控制器中的关键身份验证绕过（已修复）</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/ve-cve-2026-20182-critical-authentication-bypass-cisco-catalyst-sd-wan-controller-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ve-cve-2026-20182-critical-authentication-bypass-cisco-catalyst-sd-wan-controller-fixed</guid>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>当 IT 支持致电时：剖析从团队到域入侵的 ModeloRAT 活动</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/tr-it-support-dissecting-modelorat-campaign-microsoft-teams-compromise</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/tr-it-support-dissecting-modelorat-campaign-microsoft-teams-compromise</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/it-5-things-gartner-srm-sydney-2026</guid>
       <pubDate>Wed, 29 Apr 2026 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-41940：cPanel 和 WHM 身份验证绕过</title>
-      <link>https://www.rapid7.com/blog/post/etr-cve-2026-41940-cpanel-whm-authentication-bypass</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/etr-cve-2026-41940-cpanel-whm-authentication-bypass</guid>
-      <pubDate>Wed, 29 Apr 2026 20:00:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

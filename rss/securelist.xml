@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 20 May 2026 08:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:30:26 GMT</lastBuildDate>
+    <item>
+      <title>图像如何危害您的 Mac：了解 ExifTool 漏洞 (CVE-2026-3102)</title>
+      <link>https://securelist.com/exiftool-compromise-mac/119866/</link>
+      <description><![CDATA[我们解释了 ExifTool 中的缺陷如何允许攻击者通过恶意图像 (CVE-2026-3102) 危害 macOS 系统。]]></description>
+      <guid>https://securelist.com/exiftool-compromise-mac/119866/</guid>
+      <pubDate>Wed, 20 May 2026 09:02:31 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年第一季度 IT 威胁演变。移动统计</title>
       <link>https://securelist.com/malware-report-q1-2026-mobile-statistics/119819/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基专家破解了一种使用 Amazon SES 云电子邮件服务的新网络钓鱼方案。让我们看一些示例，了解如何区分网络钓鱼电子邮件和真实电子邮件。]]></description>
       <guid>https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/</guid>
       <pubDate>Mon, 04 May 2026 10:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Silver Fox 使用新的 ABCDoor 后门来攻击俄罗斯和印度的组织</title>
-      <link>https://securelist.com/silver-fox-tax-notification-campaign/119575/</link>
-      <description><![CDATA[Silver Fox 组织通过冒充税务机关分发 ValleyRAT 和新的 ABCDoor 后门，瞄准俄罗斯和印度的公司。]]></description>
-      <guid>https://securelist.com/silver-fox-tax-notification-campaign/119575/</guid>
-      <pubDate>Thu, 30 Apr 2026 07:00:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

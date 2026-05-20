@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Fri, 15 May 2026 13:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:31:12 GMT</lastBuildDate>
+    <item>
+      <title>通过证书和代码重用跟踪 TamperedChef 集群</title>
+      <link>https://unit42.paloaltonetworks.com/tracking-tampered-chef-clusters/</link>
+      <description><![CDATA[第 42 单元分析了 TamperedChef 恶意软件集群，这些恶意软件集群使用木马生产力应用程序和恶意广告向目标传送隐形有效负载。 
+帖子通过证书和代码重用跟踪 TamperedChef 集群首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/tracking-tampered-chef-clusters/</guid>
+      <pubDate>Wed, 20 May 2026 10:00:46 GMT</pubDate>
+    </item>
     <item>
       <title>Gremlin Stealer 的策略演变：利用资源文件隐藏在众目睽睽之下</title>
       <link>https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/</link>
@@ -116,14 +124,6 @@
 帖子深入探讨 CVE-2023-33538 的利用首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/</guid>
       <pubDate>Thu, 16 Apr 2026 22:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>基岩裂缝：神探模式</title>
-      <link>https://unit42.paloaltonetworks.com/exploit-of-aws-agentcore-iam-god-mode/</link>
-      <description><![CDATA[Unit 42 揭示了 Amazon Bedrock AgentCore 中的“Agent God 模式”。广泛的 IAM 权限会导致权限升级和数据泄露风险。
-帖子基岩中的裂缝：特工上帝模式首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/exploit-of-aws-agentcore-iam-god-mode/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
