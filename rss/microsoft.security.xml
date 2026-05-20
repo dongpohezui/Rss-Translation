@@ -4,7 +4,31 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 20 May 2026 14:31:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 20:01:03 GMT</lastBuildDate>
+    <item>
+      <title>Mini Shai Hulud：受损的 @antv npm 软件包导致 CI​​/CD 凭证被盗</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/</link>
+      <description><![CDATA[受感染的 @antv npm 软件包会部署 Mini Shai-Hulud 有效负载，以从基于 Linux 的自动化环境中窃取 CI/CD 机密。该恶意软件在 npm 安装期间执行，并针对 GitHub、AWS、Kubernetes、Vault、npm 和 1Password 平台上的凭据。
+帖子Mini Shai Hulud：受损的 @antv npm 软件包导致 CI/CD 凭据被盗首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/</guid>
+      <pubDate>Wed, 20 May 2026 17:48:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护各种文化的游戏文化</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/</link>
+      <description><![CDATA[了解保护游戏平台安全的独特挑战和回报，以及如何更好地保护游戏社区。
+这篇文章保护不同文化的游戏文化首先出现在微软安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/</guid>
+      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAMPART 和 Clarity 简介：将安全性引入代理开发工作流程的开源工具</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/</link>
+      <description><![CDATA[当今企业内部的人工智能系统与我们两年前构建的系统有着根本的不同，因为它们已经远远超出了回答问题的范围，而是访问您的电子邮件、从您的 CRM 检索记录、编写和执行代码，以及在数十个连接的系统中代表您采取行动。
+RAMPART 和 Clarity 简介：将安全性引入代理开发工作流程的开源工具首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/</guid>
+      <pubDate>Wed, 20 May 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>揭露 Fox Tempest：恶意软件签名服务操作</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/</link>
@@ -60,30 +84,6 @@ Kazuar：民族国家僵尸网络剖析首先出现在微软安全博客上。]]
 这篇文章使用 AI 辅助合成攻击日志生成加速检测工程首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/</guid>
       <pubDate>Tue, 12 May 2026 22:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>以 AI 速度进行防御：微软全新多模型代理安全系统超越领先行业基准</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/</link>
-      <description><![CDATA[今天，微软宣布在人工智能驱动的网络防御领域向前迈出了重要一步：一种新的多模型代理扫描工具（代号为 MDASH）。
-帖子人工智能速度防御：微软新的多模型代理安全系统超越领先的行业基准首先出现在Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/</guid>
-      <pubDate>Tue, 12 May 2026 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护消费者网络财产免受现代 DDoS 攻击</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/</link>
-      <description><![CDATA[了解如何通过分层安全、弹性架构和优雅的服务降级来保护消费者网站并防御现代 DDoS 攻击。
-这篇文章保护消费者网络资产免受现代 DDoS 攻击首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/</guid>
-      <pubDate>Tue, 12 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>破坏信任边界：通过第三方妥协调查隐秘入侵</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/</link>
-      <description><![CDATA[Microsoft 事件响应中心调查了通过合法且可信的管理机制进行的攻击，该攻击无缝地融入日常操作并且不被发现，这表明入侵已越来越多地避免使用嘈杂的漏洞、明显的恶意软件或自定义工具，而是利用组织在其环境中已经信任的系统。
-帖子破坏信任边界：调查通过第三方妥协的隐秘入侵首先出现在Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/</guid>
-      <pubDate>Tue, 12 May 2026 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
