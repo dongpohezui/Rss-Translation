@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Wed, 20 May 2026 20:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:01:24 GMT</lastBuildDate>
+    <item>
+      <title>npm 威胁形势：攻击面和缓解措施（5 月 20 日更新）</title>
+      <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
+      <description><![CDATA[第 42 单元分析了 Shai Hulud 后的 npm 供应链演变。发现可蠕虫恶意软件、CI/CD 持久性、多阶段攻击等。 
+帖子npm 威胁形势：攻击面和缓解措施（5 月 20 日更新）首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</guid>
+      <pubDate>Wed, 20 May 2026 19:30:33 GMT</pubDate>
+    </item>
     <item>
       <title>通过证书和代码重用跟踪 TamperedChef 集群</title>
       <link>https://unit42.paloaltonetworks.com/tracking-tampered-chef-clusters/</link>
@@ -44,14 +52,6 @@
 帖子复制失败：您需要了解多年来最严重的 Linux 威胁首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/cve-2026-31431-copy-fail/</guid>
       <pubDate>Tue, 05 May 2026 23:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>npm 威胁形势：攻击面和缓解措施（5 月 1 日更新）</title>
-      <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
-      <description><![CDATA[第 42 单元分析了 Shai Hulud 后的 npm 供应链演变。发现可蠕虫恶意软件、CI/CD 持久性、多阶段攻击等。 
-帖子npm 威胁形势：攻击面和缓解措施（5 月 1 日更新）首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</guid>
-      <pubDate>Sat, 02 May 2026 00:10:33 GMT</pubDate>
     </item>
     <item>
       <title>端点之外检测的基本数据源</title>
