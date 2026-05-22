@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Fri, 22 May 2026 08:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 14:11:22 GMT</lastBuildDate>
+    <item>
+      <title>2025 年下半年和 2026 年初的 Cloud Atlas 活动：新工具和新有效负载</title>
+      <link>https://securelist.com/cloud-atlas-2026/119895/</link>
+      <description><![CDATA[Cloud Atlas 使用 ReverseSocks、SSH 和 Tor 来持久保留受感染的系统及其新工具 PowerCloud，攻击俄罗斯和白俄罗斯的公共部门和外交结构。]]></description>
+      <guid>https://securelist.com/cloud-atlas-2026/119895/</guid>
+      <pubDate>Fri, 22 May 2026 09:12:13 GMT</pubDate>
+    </item>
     <item>
       <title>图像如何危害您的 Mac：了解 ExifTool 漏洞 (CVE-2026-3102)</title>
       <link>https://securelist.com/exiftool-compromise-mac/119866/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们解释什么是可疑网站以及如何区分安全网站和欺诈网站。卡巴斯基解决方案中的一个新类别：我们正在共享有关不受信任站点检测的全球统计数据。]]></description>
       <guid>https://securelist.com/suspicious-websites-undefined-trust-level/119675/</guid>
       <pubDate>Wed, 06 May 2026 09:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>“合法”网络钓鱼：攻击者如何利用 Amazon SES 来绕过电子邮件安全</title>
-      <link>https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/</link>
-      <description><![CDATA[卡巴斯基专家破解了一种使用 Amazon SES 云电子邮件服务的新网络钓鱼方案。让我们看一些示例，了解如何区分网络钓鱼电子邮件和真实电子邮件。]]></description>
-      <guid>https://securelist.com/amazon-ses-phishing-and-bec-attacks/119623/</guid>
-      <pubDate>Mon, 04 May 2026 10:00:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

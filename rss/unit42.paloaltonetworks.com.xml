@@ -4,7 +4,23 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Thu, 21 May 2026 19:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 14:11:42 GMT</lastBuildDate>
+    <item>
+      <title>追踪伊朗 APT 筛查 Serpens 2026 年间谍活动</title>
+      <link>https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/</link>
+      <description><![CDATA[第 42 单元详细介绍了在最近的活动中筛查 Serpens 使用 AppDomainManager 劫持和新的 RAT 变体来瞄准科技和国防部门的情况。
+跟踪伊朗 APT 筛选 Serpens 2026 年间谍活动的帖子首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/</guid>
+      <pubDate>Fri, 22 May 2026 13:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有意为之：ROADtools 和云中的民族国家策略</title>
+      <link>https://unit42.paloaltonetworks.com/roadtools-cloud-attacks/</link>
+      <description><![CDATA[开源框架 ROADtools 被威胁行为者滥用进行云入侵。了解如何识别其恶意使用。
+帖子铺垫意图：云端中的ROADtools和民族国家策略首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/roadtools-cloud-attacks/</guid>
+      <pubDate>Fri, 22 May 2026 10:00:24 GMT</pubDate>
+    </item>
     <item>
       <title>npm 威胁形势：攻击面和缓解措施（5 月 21 日更新）</title>
       <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
@@ -108,22 +124,6 @@
 这篇文章利用前沿人工智能模型破坏软件安全首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/ai-software-security-risks/</guid>
       <pubDate>Mon, 20 Apr 2026 10:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>威胁简报：与伊朗相关的网络风险升级（4 月 17 日更新）</title>
-      <link>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/</link>
-      <description><![CDATA[第 42 单元详细介绍了伊朗最近的网络攻击活动，分享了对网络钓鱼、黑客活动和网络犯罪的直接观察。我们为维护者提供了建议。
-帖子威胁简报：与伊朗相关的网络风险升级（4 月 17 日更新）首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/</guid>
-      <pubDate>Fri, 17 Apr 2026 22:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入探讨 CVE-2023-33538 的利用尝试</title>
-      <link>https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/</link>
-      <description><![CDATA[CVE-2023-33538 允许在 TP-Link 路由器中进行命令注入。我们讨论了利用 Mirai 僵尸网络恶意软件的有效负载特征进行的利用尝试。
-帖子深入探讨 CVE-2023-33538 的利用首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/</guid>
-      <pubDate>Thu, 16 Apr 2026 22:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
