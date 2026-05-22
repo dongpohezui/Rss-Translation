@@ -4,7 +4,31 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 22 May 2026 14:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:21:41 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 被 Forrester Wave™ 评为劳动力身份安全平台领导者</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/</link>
+      <description><![CDATA[Microsoft 被评为 Forrester Wave™：2026 年第 2 季度劳动力身份安全平台的领导者，在当前产品和策略类别中均获得最高分。
+Microsoft 被公认为 Forrester Wave™ 劳动力身份安全平台领导者首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/</guid>
+      <pubDate>Fri, 22 May 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从边缘设备到企业妥协：通过 F5 和 Confluence 的多阶段 Linux 入侵</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/</link>
+      <description><![CDATA[针对 Linux 设备的多阶段攻击从暴露的 F5 BIG-IP 边缘设备开始，并转向内部 Confluence 服务器，以进行凭证盗窃和身份泄露。了解威胁参与者如何尝试 Kerberos 中继和横向移动，以及 Microsoft Defender 如何检测、阻止和破解攻击。
+帖子从边缘设备到企业妥协：通过 F5 和 Confluence 的多阶段 Linux 入侵首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/</guid>
+      <pubDate>Fri, 22 May 2026 16:53:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 安全成功案例：St. Luke's 和 ManpowerGroup 如何保护 AI 基础</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/</link>
+      <description><![CDATA[Frontier 公司如何大规模保护 AI：了解 Microsoft 客户如何嵌入治理、身份和云安全，使保护成为 AI 增长的推动者。
+帖子Microsoft 安全成功案例：St. Luke’s 和 ManpowerGroup 如何保护 AI 基础首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/</guid>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 安全性的新增功能：2026 年 5 月</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/</link>
@@ -60,30 +84,6 @@ RAMPART 和 Clarity 简介：将安全性引入代理开发工作流程的开源
 这篇文章如何在人工智能驱动的世界中更好地保护您不断增长的业务首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/</guid>
       <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>自主人工智能代理的纵深防御</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/</link>
-      <description><![CDATA[随着人工智能代理获得自主权，纵深防御必须不断发展，以应用层设计、身份和人类监督为中心。
-这篇文章自主人工智能代理的深度防御首先出现在微软安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/</guid>
-      <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kazuar：民族国家僵尸网络剖析</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/</link>
-      <description><![CDATA[Kazuar 是俄罗斯国家行为者 Secret Blizzard 开发的一个复杂的恶意软件家族，多年来一直在不断发展，并不断发展以支持以间谍活动为重点的行动。随着时间的推移，Kazuar 已从相对传统的后门扩展到高度模块化的点对点 (P2P) 僵尸网络生态系统，旨在实现对目标环境的持久、隐蔽访问。
-Kazuar：民族国家僵尸网络剖析首先出现在微软安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/</guid>
-      <pubDate>Thu, 14 May 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>当配置成为漏洞时：人工智能应用程序中可利用的错误配置</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/</link>
-      <description><![CDATA[暴露的 UI、弱身份验证和有风险的默认设置可能会将 Kubernetes 上的云原生 AI 应用程序变成威胁行为者的潜在目标。了解可利用的错误配置如何导致 RCE 和数据泄漏。
-帖子当配置成为漏洞：AI 应用中可利用的错误配置首先出现在Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/</guid>
-      <pubDate>Thu, 14 May 2026 14:20:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

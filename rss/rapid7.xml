@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 22 May 2026 14:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:20:37 GMT</lastBuildDate>
+    <item>
+      <title>Metasploit 总结 05/22/2026</title>
+      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-22-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-22-2026</guid>
+      <pubDate>Fri, 22 May 2026 19:10:05 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年第一季度威胁形势报告：零点击、地缘政治紧张局势以及执法方面的一些胜利</title>
       <link>https://www.rapid7.com/blog/post/tr-q1-2026-threat-landscape-report-geopolitics-ransomware</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/it-walkthrough-2026-global-cybersecurity-summit-agenda</guid>
       <pubDate>Tue, 05 May 2026 12:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 总结 05/01/2026</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-01-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-01-2026</guid>
-      <pubDate>Fri, 01 May 2026 20:22:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 18 May 2026 19:22:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:21:23 GMT</lastBuildDate>
+    <item>
+      <title>速度与激情——伊朗冲突期间的 Nimbus Manticore 行动</title>
+      <link>https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/</link>
+      <description><![CDATA[主要调查结果简介在最近中东地缘政治紧张局势期间，我们报道了多个与伊朗有联系的威胁行为体通过网络行动推进伊朗的战略目标。这些活动包括针对联网摄像头、针对美国和以色列实体进行破坏性攻击，以及从云环境中“窃取数据”以支持更广泛的动态和情报收集工作。 Nimbus Manticore（也被追踪为“UNC1549”）是一种隶属于 IRGC 的威胁 […]
+帖子速度与激情–伊朗冲突期间的 Nimbus Manticore 行动首先出现在 Check Point Research。]]></description>
+      <guid>https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/</guid>
+      <pubDate>Fri, 22 May 2026 15:09:29 GMT</pubDate>
+    </item>
     <item>
       <title>5 月 18 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/</link>
@@ -70,7 +78,7 @@
       <pubDate>Mon, 20 Apr 2026 14:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>DFIR 报告 – The Gentlemen 和 SystemBC：代理背后的一瞥</title>
+      <title>DFIR 报告 – 绅士们与 SystemBC：代理背后的一瞥</title>
       <link>https://research.checkpoint.com/2026/dfir-report-the-gentlemen/</link>
       <description><![CDATA[要点 Gentlemen RaaS Gentlemen 勒索软件即服务 (RaaS) 操作是一个相对较新的组织，于 2025 年中期左右出现。运营商在多个地下论坛上宣传他们的服务，宣传他们的勒索软件平台并邀请渗透测试人员（和其他技术熟练的参与者）作为附属机构加入。 RaaS 为附属机构提供适用于 Windows、Linux 的多操作系统储物柜，[…]
 帖子DFIR 报告 – 先生们和SystemBC：代理背后的先睹为快首先出现在Check Point Research。]]></description>
@@ -116,14 +124,6 @@ ChatGPT 数据通过代码执行运行时中的隐藏出站通道泄露一文首
 3 月 30 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/30th-march-threat-intelligence-report/</guid>
       <pubDate>Mon, 30 Mar 2026 12:53:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年 1 月至 2 月 AI 威胁态势摘要</title>
-      <link>https://research.checkpoint.com/2026/ai-threat-landscape-digest-january-february-2026/</link>
-      <description><![CDATA[主要发现人工智能辅助恶意软件开发已达到运营成熟度。VoidLink 框架是模块化、专业设计且功能齐全的，由单个开发人员使用商业人工智能驱动的 IDE 在压缩的时间内构建。人工智能辅助开发不再是实验性的，而是产生可部署的输出。从最终产品来看，人工智能辅助开发并不总是显而易见。VoidLink […]
-这篇文章2026 年 1 月至 2 月人工智能威胁形势摘要首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/ai-threat-landscape-digest-january-february-2026/</guid>
-      <pubDate>Sun, 29 Mar 2026 10:08:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
