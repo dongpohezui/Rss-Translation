@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Thu, 21 May 2026 19:42:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 02:03:21 GMT</lastBuildDate>
+    <item>
+      <title>据称 Kimwolf Botmaster “Dort” 在美国和加拿大被捕并受到指控</title>
+      <link>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</link>
+      <description><![CDATA[加拿大当局周三逮捕了一名 23 岁的渥太华男子，罪名是他涉嫌构建和运营 Kimwolf，这是一个快速传播的物联网僵尸网络，该僵尸网络在过去六个月中奴役了数百万台设备，用于一系列大规模分布式拒绝服务 (DDoS) 攻击。在被告针对作者和一名安全研究员发起一系列 DDoS、人肉搜索和打击活动后，KrebsOnSecurity 于 2026 年 2 月公开点名了嫌疑人。他现在在加拿大和美国面临刑事黑客指控。]]></description>
+      <guid>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</guid>
+      <pubDate>Thu, 21 May 2026 21:50:25 GMT</pubDate>
+    </item>
     <item>
       <title>CISA 管理员在 Github 上泄露了 AWS GovCloud 密钥</title>
       <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一个出于经济动机的数据盗窃和勒索组织正试图将自己卷入伊朗战争，释放一种蠕虫病毒，该蠕虫病毒通过安全性较差的云服务进行传播，并擦除使用伊朗时区或将波斯语设置为默认语言的受感染系统上的数据。]]></description>
       <guid>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</guid>
       <pubDate>Mon, 23 Mar 2026 15:43:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦政府破坏了大规模 DDoS 攻击背后的物联网僵尸网络</title>
-      <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
-      <description><![CDATA[美国司法部与加拿大和德国当局一起拆除了四个极具破坏性的僵尸网络背后的在线基础设施，这些网络基础设施破坏了超过 300 万台被黑客入侵的物联网 (IoT) 设备，例如路由器和网络摄像头。联邦政府表示，这四个僵尸网络——Aisuru、Kimwolf、JackSkid 和 Mossad——最近发起了一系列创纪录的分布式拒绝服务 (DDoS) 攻击，这些攻击能够使几乎所有目标离线。]]></description>
-      <guid>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</guid>
-      <pubDate>Fri, 20 Mar 2026 00:49:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
