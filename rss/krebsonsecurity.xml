@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Mon, 25 May 2026 09:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:29:55 GMT</lastBuildDate>
+    <item>
+      <title>荷兰扣押 800 台服务器并逮捕 2 名协助网络攻击的服务器</title>
+      <link>https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</link>
+      <description><![CDATA[荷兰当局逮捕了两家相关互联网托管公司的共同所有者，原因是他们运营俄罗斯用来在欧盟内部进行网络攻击、影响行动和虚假信息活动的 IT 基础设施。这两个人是 2025 年 KrebsOnSecurity 报道的焦点，该报道讲述了他们的托管公司如何控制了 Stark Industries Solutions 的技术基础设施。Stark Industries Solutions 是一家互联网服务提供商，去年被欧盟制裁为俄罗斯情报机构网络恶作剧的频繁集结地。]]></description>
+      <guid>https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</guid>
+      <pubDate>Mon, 25 May 2026 13:21:49 GMT</pubDate>
+    </item>
     <item>
       <title>CISA 试图遏制数据泄露，立法者要求答案</title>
       <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[安全专家今天警告说，与俄罗斯军事情报部门有联系的黑客正在利用旧版互联网路由器中的已知缺陷来大量获取 Microsoft Office 用户的身份验证令牌。这次间谍活动使国家支持的俄罗斯黑客能够在不部署任何恶意软件或代码的情况下悄悄从 18,000 多个网络上的用户那里窃取身份验证令牌。]]></description>
       <guid>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</guid>
       <pubDate>Tue, 07 Apr 2026 17:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国 Doxes“UNKN”，RU 勒索软件团伙 REvil、GandCrab 头目</title>
-      <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
-      <description><![CDATA[一位难以捉摸的黑客，以“UNKN”为名，运营着早期的俄罗斯勒索软件组织 GandCrab 和 REvil，现在有了名字和面孔。德国当局表示，31 岁的俄罗斯人丹尼尔·马克西莫维奇·舒金 (Daniil Maksimovich Shchukin) 领导着两个网络犯罪团伙，并在 2019 年至 2021 年间帮助在全国各地实施了至少 130 起针对受害者的计算机破坏和勒索行为。]]></description>
-      <guid>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</guid>
-      <pubDate>Mon, 06 Apr 2026 02:07:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
