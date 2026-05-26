@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 25 May 2026 19:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:34:58 GMT</lastBuildDate>
+    <item>
+      <title>2026 年 3 月至 4 月人工智能威胁态势摘要</title>
+      <link>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</link>
+      <description><![CDATA[执行摘要 在 2026 年 3 月至 4 月的报告期内，人工智能在进攻性作战中的使用从开发和规划进展到实时作战部署。涉及个人犯罪分子、大规模利用平台、勒索软件团体和国家资助的间谍活动的多个独立案件显示了商业人工智能模型在扩展活动中执行自主攻击工作流程的证据。主要发现：人工智能是实时的[…]
+这篇文章2026 年 3 月至 4 月人工智能威胁形势摘要首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</guid>
+      <pubDate>Tue, 26 May 2026 10:09:59 GMT</pubDate>
+    </item>
     <item>
       <title>5 月 25 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</link>
@@ -116,14 +124,6 @@
 TrueChaos 行动：针对东南亚政府目标的 0 天利用帖子首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/operation-truechaos-0-day-exploitation-against-southeast-asian-government-targets/</guid>
       <pubDate>Tue, 31 Mar 2026 13:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 通过代码执行运行时中的隐藏出站通道进行数据泄露</title>
-      <link>https://research.checkpoint.com/2026/chatgpt-data-leakage-via-a-hidden-outbound-channel-in-the-code-execution-runtime/</link>
-      <description><![CDATA[关键要点发生了什么人工智能助手现在可以处理人们拥有的一些最敏感的数据。用户讨论症状和病史。他们询问有关税收、债务和个人财务的问题，上传 PDF、合同、实验室结果以及包含姓名、地址、帐户详细信息和私人记录的身份丰富的文档。这种信任取决于一个简单的期望：[…]
-ChatGPT 数据通过代码执行运行时中的隐藏出站通道泄露一文首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/chatgpt-data-leakage-via-a-hidden-outbound-channel-in-the-code-execution-runtime/</guid>
-      <pubDate>Mon, 30 Mar 2026 13:09:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
