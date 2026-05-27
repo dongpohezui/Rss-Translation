@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 27 May 2026 08:57:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 14:50:41 GMT</lastBuildDate>
     <item>
       <title>安全领导者如何消除复杂性以取得更好的成果</title>
       <link>https://www.rapid7.com/blog/post/it-security-leaders-cut-through-complexity-driving-stronger-outcomes-webinar</link>
@@ -97,13 +97,6 @@
       <pubDate>Tue, 12 May 2026 13:17:51 GMT</pubDate>
     </item>
     <item>
-      <title>什么是网络GRC？ Rapid7 如何使合规性更接近安全运营</title>
-      <link>https://www.rapid7.com/blog/post/so-cyber-grc-how-rapid7-brings-compliance-to-security-operations</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/so-cyber-grc-how-rapid7-brings-compliance-to-security-operations</guid>
-      <pubDate>Tue, 12 May 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>最后倒计时：参加 Rapid7 全球网络安全峰会的最后机会</title>
       <link>https://www.rapid7.com/blog/post/it-last-chance-rapid7-global-cybersecurity-summit</link>
       <description><![CDATA[]]></description>
@@ -144,6 +137,13 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-critical-buffer-overflow-in-palo-alto-networks-pan-os-user-id-authentication-portal-cve-2026-0300</guid>
       <pubDate>Wed, 06 May 2026 13:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>混乱的轨道：混乱勒索软件背后国家资助的影子</title>
+      <link>https://www.rapid7.com/blog/post/tr-muddying-tracks-state-sponsored-shadow-behind-chaos-ransomware</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/tr-muddying-tracks-state-sponsored-shadow-behind-chaos-ransomware</guid>
+      <pubDate>Wed, 06 May 2026 13:00:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
