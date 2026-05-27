@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 26 May 2026 19:53:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 02:07:05 GMT</lastBuildDate>
+    <item>
+      <title>从中毒的搜索结果到 GPU 挖掘：滥用 ScreenConnect 和 Microsoft .NET 实用程序的加密劫持活动</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/</link>
+      <description><![CDATA[微软揭露了利用 SEO 中毒和 ScreenConnect 来针对高性能 PC 的加密劫持活动，恶意网站还通过 AI 聊天机器人浮出水面。
+帖子从中毒的搜索结果到 GPU 挖掘：滥用 ScreenConnect 和 Microsoft .NET 实用程序的加密劫持活动首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/</guid>
+      <pubDate>Tue, 26 May 2026 21:35:34 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 被 Forrester Wave™ 评为劳动力身份安全平台领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/</link>
@@ -76,14 +84,6 @@ RAMPART 和 Clarity 简介：将安全性引入代理开发工作流程的开源
 这篇文章Storm-2949如何将受损的身份转变为云范围内的漏洞首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/</guid>
       <pubDate>Mon, 18 May 2026 22:42:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在人工智能驱动的世界中更好地保​​护您不断增长的业务</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/</link>
-      <description><![CDATA[了解内置安全性如何帮助您不断增长的业务持续运行、保护客户信任并支持增长。
-这篇文章如何在人工智能驱动的世界中更好地保护您不断增长的业务首先出现在微软安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/</guid>
-      <pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
