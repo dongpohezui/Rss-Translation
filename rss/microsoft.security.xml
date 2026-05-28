@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 28 May 2026 15:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 20:02:44 GMT</lastBuildDate>
+    <item>
+      <title>绅士勒索软件：剖析自我传播的 Go 加密器</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/</link>
+      <description><![CDATA[Microsoft 威胁情报对 The Gentlemen 进行了全面分析，The Gentlemen 是一款由 Storm-2697 附属公司部署的基于 Go 的勒索软件，它将每个文件的临时密钥加密与主动的自我传播模块相结合，使用针对每个目标的一系列同步横向移动技术在整个网络上部署自身。
+帖子The Gentlemen 勒索软件：剖析自我传播的 Go 加密器首先出现在 Microsoft Security博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/</guid>
+      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>从中毒的搜索结果到 GPU 挖掘：滥用 ScreenConnect 和 Microsoft .NET 实用程序的加密劫持活动</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/</link>
@@ -46,7 +54,7 @@
       <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mini Shai Hulud：受损的 @antv npm 软件包导致 CI​​/CD 凭证被盗</title>
+      <title>Mini Shai Hulud：@antv npm 软件包受损导致 CI​​/CD 凭证被盗</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/</link>
       <description><![CDATA[受感染的 @antv npm 软件包会部署 Mini Shai-Hulud 有效负载，以从基于 Linux 的自动化环境中窃取 CI/CD 机密。该恶意软件在 npm 安装期间执行，并针对 GitHub、AWS、Kubernetes、Vault、npm 和 1Password 平台上的凭据。
 帖子Mini Shai Hulud：受损的 @antv npm 软件包导致 CI/CD 凭据被盗首先出现在 Microsoft 安全博客。]]></description>
@@ -76,14 +84,6 @@ RAMPART 和 Clarity 简介：将安全性引入代理开发工作流程的开源
 这篇文章揭露 Fox Tempest：恶意软件签名服务操作首先出现在Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/</guid>
       <pubDate>Tue, 19 May 2026 15:07:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Storm-2949 如何将受损的身份转变为云范围内的漏洞</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/</link>
-      <description><![CDATA[Storm-2949 将被盗凭证转变为云范围内的漏洞，从身份泄露转变为不使用恶意软件的大规模数据盗窃。此事件展示了威胁行为者如何利用受信任的系统进行不被发现的操作。
-这篇文章Storm-2949如何将受损的身份转变为云范围内的漏洞首先出现在Microsoft Security博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/</guid>
-      <pubDate>Mon, 18 May 2026 22:42:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
