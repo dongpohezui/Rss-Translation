@@ -4,11 +4,18 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 28 May 2026 01:50:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:41:54 GMT</lastBuildDate>
+    <item>
+      <title>十字准线中的海盗：一个网络犯罪团伙如何多年来感染书籍、电影和电视节目的粉丝</title>
+      <link>https://securelist.com/video-books-pirates-miners-rat/119943/</link>
+      <description><![CDATA[我们的专家继续追踪针对盗版内容（包括书籍和电影）消费者的攻击。 2026 年，发现了拥有数千万访问者的新目标站点，同时矿工获得了 RAT 模块。]]></description>
+      <guid>https://securelist.com/video-books-pirates-miners-rat/119943/</guid>
+      <pubDate>Thu, 28 May 2026 06:55:11 GMT</pubDate>
+    </item>
     <item>
       <title>2025 年下半年和 2026 年初的 Cloud Atlas 活动：新工具和新有效负载</title>
       <link>https://securelist.com/cloud-atlas-2026/119895/</link>
-      <description><![CDATA[Cloud Atlas 使用 ReverseSocks、SSH 和 Tor 来持久保留受感染的系统及其新工具 PowerCloud，攻击俄罗斯和白俄罗斯的公共部门和外交结构。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/cloud-atlas-2026/119895/</guid>
       <pubDate>Fri, 22 May 2026 09:12:13 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 14 May 2026 11:00:58 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年勒索软件状况</title>
+      <title>2026 年勒索软件的状况</title>
       <link>https://securelist.com/state-of-ransomware-in-2026/119761/</link>
       <description><![CDATA[卡巴斯基研究人员正在分享对 2026 年主要勒索软件趋势的见解：EDR 杀手的崛起、从数据加密转向数据泄露等等。]]></description>
       <guid>https://securelist.com/state-of-ransomware-in-2026/119761/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基研究人员在 PyPI 中发现了针对 Windows 和 Linux 的恶意 Wheel 软件包，其中包含一个传播名为 ZiChatBot 的恶意软件的植入程序。我们将此活动归因于 OceanLotus APT。]]></description>
       <guid>https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/</guid>
       <pubDate>Wed, 06 May 2026 13:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>信任级别未定义的网站：避免陷阱</title>
-      <link>https://securelist.com/suspicious-websites-undefined-trust-level/119675/</link>
-      <description><![CDATA[我们解释什么是可疑网站以及如何区分安全网站和欺诈网站。卡巴斯基解决方案中的一个新类别：我们正在共享有关不受信任站点检测的全球统计数据。]]></description>
-      <guid>https://securelist.com/suspicious-websites-undefined-trust-level/119675/</guid>
-      <pubDate>Wed, 06 May 2026 09:30:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
