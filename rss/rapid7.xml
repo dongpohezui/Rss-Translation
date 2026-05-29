@@ -4,7 +4,21 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 29 May 2026 14:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 20:05:39 GMT</lastBuildDate>
+    <item>
+      <title>Metasploit 总结 05/29/2026</title>
+      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-29-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-29-2026</guid>
+      <pubDate>Fri, 29 May 2026 19:34:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rapid7 观察到对 PAN-OS GlobalProtect 身份验证绕过漏洞 (CVE-2026-0257) 的利用</title>
+      <link>https://www.rapid7.com/blog/post/etr-rapid7-observed-exploitation-of-pan-os-globalprotect-authentication-bypass-vulnerability-cve-2026-0257</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/etr-rapid7-observed-exploitation-of-pan-os-globalprotect-authentication-bypass-vulnerability-cve-2026-0257</guid>
+      <pubDate>Fri, 29 May 2026 16:49:40 GMT</pubDate>
+    </item>
     <item>
       <title>专家对专家：合规为何变得持续</title>
       <link>https://www.rapid7.com/blog/post/it-cybersecurity-experts-continuous-compliance</link>
@@ -97,7 +111,7 @@
       <pubDate>Wed, 13 May 2026 13:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>星期二补丁 - 2026 年 5 月</title>
+      <title>周二补丁 - 2026 年 5 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-may-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-may-2026</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/dr-scaling-engineering-detection-as-code</guid>
       <pubDate>Fri, 08 May 2026 12:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 和 OpenAI：帮助防御者以机器速度移动</title>
-      <link>https://www.rapid7.com/blog/post/ai-rapid7-openai-helping-defenders-move-at-machine-speed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ai-rapid7-openai-helping-defenders-move-at-machine-speed</guid>
-      <pubDate>Thu, 07 May 2026 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 2026 年的安全需要大规模的持续威胁和暴露管理 (CTEM)</title>
-      <link>https://www.rapid7.com/blog/post/em-2026-cybersecurity-requires-ctem-at-scale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/em-2026-cybersecurity-requires-ctem-at-scale</guid>
-      <pubDate>Thu, 07 May 2026 13:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

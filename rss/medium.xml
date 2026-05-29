@@ -4,7 +4,7 @@
     <title>凯文·博蒙特在 Medium 上的故事</title>
     <link>https://medium.com/@networksecurity?source=rss-7db6d2df42a6------2</link>
     <description>凯文·博蒙特在 Medium 上的故事</description>
-    <lastBuildDate>Fri, 29 May 2026 14:35:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 20:05:57 GMT</lastBuildDate>
     <item>
       <title>微软对零日漏洞的立场是他们自己造成的垃圾箱火灾</title>
       <link>https://doublepulsar.com/microsofts-stance-on-zero-day-exploits-is-a-dumpster-fire-of-their-own-making-0946117940a4?source=rss-7db6d2df42a6------2</link>
@@ -22,7 +22,7 @@
     <item>
       <title>圣诞节快乐！发生 MongoDB 安全事件。</title>
       <link>https://doublepulsar.com/merry-christmas-day-have-a-mongodb-security-incident-9537f54289eb?source=rss-7db6d2df42a6------2</link>
-      <description><![CDATA[Elastic Security 的某人决定在圣诞节那天发布 CVE-2025-14847 漏洞。这里是所说的漏洞：GitHub - joe-desimone/mongobleed该漏洞在圣诞节前夕发布，理论上允许内存读取而无需认证。补丁可用。它影响了大约十年前的 MongoDB 的每个版本。另一家供应商认为在平安夜发布技术细节是个好主意：https://www.ox.security/blog/attackers-could-exploit-zlib-to-exfiltrate-data-cve-2025-14847/该漏洞已于昨天发布，现已发布第一次公开利用。它被称为 MongoBleed，类似于 CitrixBleed。我已经验证了该漏洞是真实的，您只需提供 MongoDB 实例的 IP 地址，它就会开始在内存中搜索数据库密码（纯文本）、AWS 密钥等内容。该漏洞也专门查找这些类别的凭证和机密。MongoDB 的互联网足迹非常大，超过 20 万个实例。由于现在利用这一点非常简单 — 该栏已被删除 — 预计大规模利用和相关安全事件的可能性很高。漏洞利用作者没有提供有关如何通过 Elastic 等产品检测日志中的漏洞利用的详细信息。建议保持冷静并修补面向互联网的资产。圣诞节快乐！发生了 MongoDB 安全事件。 最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示并回应这个故事来继续对话。]]></description>
+      <description><![CDATA[Elastic Security 的某人决定在圣诞节那天发布 CVE-2025-14847 漏洞。这里是所说的漏洞：GitHub - joe-desimone/mongobleed该漏洞在圣诞节前夕发布，理论上允许内存读取而无需认证。补丁可用。它影响了大约十年前的 MongoDB 的每个版本。另一家供应商认为在平安夜发布技术细节是个好主意：https://www.ox.security/blog/attackers-could-exploit-zlib-to-exfiltrate-data-cve-2025-14847/该漏洞已于昨天发布，现已发布第一次公开利用。它被称为 MongoBleed，类似于 CitrixBleed。我已经验证了该漏洞是真实的，您只需提供 MongoDB 实例的 IP 地址，它就会开始在内存中搜索数据库密码（纯文本）、AWS 密钥等内容。该漏洞也专门查找这些类别的凭证和机密。MongoDB 的互联网足迹非常大，超过 20 万个实例。由于现在利用这一点非常简单 — 该栏已被删除 — 预计大规模利用和相关安全事件的可能性很高。漏洞利用作者没有提供有关如何通过 Elastic 等产品检测日志中的漏洞利用的详细信息。建议保持冷静并修补面向互联网的资产。Merry Christmas Day!发生了 MongoDB 安全事件。 最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示并回应这个故事来继续对话。]]></description>
       <guid>https://doublepulsar.com/merry-christmas-day-have-a-mongodb-security-incident-9537f54289eb?source=rss-7db6d2df42a6------2</guid>
       <pubDate>Fri, 26 Dec 2025 16:52:33 GMT</pubDate>
     </item>
