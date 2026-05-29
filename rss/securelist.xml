@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 28 May 2026 20:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 09:30:52 GMT</lastBuildDate>
+    <item>
+      <title>容器里有什么？使用 Kaspersky Container Security 和 KIRA AI 助手分析漏洞、风险和保护</title>
+      <link>https://securelist.com/container-security-typical-issues/119974/</link>
+      <description><![CDATA[容器环境的主要风险有哪些：漏洞、供应链攻击、配置错误；如何提高容器安全性以及 Kaspersky Container Security 与 KIRA AI 助手如何提供帮助。]]></description>
+      <guid>https://securelist.com/container-security-typical-issues/119974/</guid>
+      <pubDate>Fri, 29 May 2026 07:00:51 GMT</pubDate>
+    </item>
     <item>
       <title>十字准线中的海盗：一个网络犯罪团伙如何多年来感染书籍、电影和电视节目的粉丝</title>
       <link>https://securelist.com/video-books-pirates-miners-rat/119943/</link>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 14 May 2026 11:00:58 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年勒索软件状况</title>
+      <title>2026 年勒索软件的状况</title>
       <link>https://securelist.com/state-of-ransomware-in-2026/119761/</link>
       <description><![CDATA[卡巴斯基研究人员正在分享对 2026 年主要勒索软件趋势的见解：EDR 杀手的崛起、从数据加密转向数据泄露等等。]]></description>
       <guid>https://securelist.com/state-of-ransomware-in-2026/119761/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[该报告提供了我们在 2026 年第一季度研究的已发布漏洞和漏洞利用的统计数据。它还包括有关 APT 攻击中使用 C2 框架的摘要数据。]]></description>
       <guid>https://securelist.com/vulnerabilities-and-exploits-in-q1-2026/119733/</guid>
       <pubDate>Thu, 07 May 2026 10:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>OceanLotus 疑似使用 PyPI 传播 ZiChatBot 恶意软件</title>
-      <link>https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/</link>
-      <description><![CDATA[卡巴斯基研究人员在 PyPI 中发现了针对 Windows 和 Linux 的恶意 Wheel 软件包，其中包含一个传播名为 ZiChatBot 的恶意软件的植入程序。我们将此活动归因于 OceanLotus APT。]]></description>
-      <guid>https://securelist.com/oceanlotus-suspected-pypi-zichatbot-campaign/119603/</guid>
-      <pubDate>Wed, 06 May 2026 13:00:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
