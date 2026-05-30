@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sat, 30 May 2026 01:54:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:59:59 GMT</lastBuildDate>
     <item>
       <title>恶意 npm 包滥用依赖混淆来分析开发人员环境</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/</link>
@@ -49,7 +49,7 @@
       <title>Microsoft 被 Forrester Wave™ 评为劳动力身份安全平台领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/</link>
       <description><![CDATA[Microsoft 被评为 Forrester Wave™：2026 年第 2 季度劳动力身份安全平台的领导者，在当前产品和策略类别中均获得最高分。
-Microsoft 被公认为 Forrester Wave™ 劳动力身份安全平台领导者首先出现在 Microsoft 安全博客。]]></description>
+帖子Microsoft 被公认为 Forrester Wave™ 劳动力身份安全平台领导者首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/</guid>
       <pubDate>Fri, 22 May 2026 17:00:00 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@ Microsoft 被公认为 Forrester Wave™ 劳动力身份安全平台领导者首
       <pubDate>Fri, 22 May 2026 16:53:39 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft 安全成功案例：St. Luke's 和 ManpowerGroup 如何保护 AI 基础</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/</link>
       <description><![CDATA[Frontier 公司如何大规模保护 AI：了解 Microsoft 客户如何嵌入治理、身份和云安全，使保护成为 AI 增长的推动者。
 帖子Microsoft 安全成功案例：St. Luke’s 和 ManpowerGroup 如何保护 AI 基础首先出现在 Microsoft 安全博客。]]></description>

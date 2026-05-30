@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Sat, 30 May 2026 08:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:59:34 GMT</lastBuildDate>
     <item>
       <title>荷兰扣押 800 台服务器并逮捕 2 名协助网络攻击的服务器</title>
       <link>https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</link>
@@ -36,12 +36,12 @@
     <item>
       <title>2026 年 5 月星期二补丁版</title>
       <link>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</link>
-      <description><![CDATA[人工智能平台可能和人类一样容易受到社会工程的影响，但事实证明，它们非常擅长发现人造计算机代码中的安全漏洞。这一现实在本月得到了充分体现，一些使用更广泛的软件制造商——包括苹果、谷歌、微软、Mozilla 和甲骨文——修复了接近创纪录数量的安全漏洞，和/或加快了补丁发布的速度。]]></description>
+      <description><![CDATA[人工智能平台可能和人类一样容易受到社会工程的影响，但事实证明，它们非常擅长发现人造计算机代码中的安全漏洞。本月，一些使用更广泛的软件制造商（包括苹果、谷歌、微软、Mozilla 和甲骨文）修复了接近创纪录数量的安全漏洞，和/或加快了补丁发布的速度，这一现实得到了充分展示。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</guid>
       <pubDate>Tue, 12 May 2026 21:46:45 GMT</pubDate>
     </item>
     <item>
-      <title>帆布破坏扰乱了全国的学校和学院</title>
+      <title>帆布破损扰乱了全国的学校和学院</title>
       <link>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</link>
       <description><![CDATA[今天，针对广泛使用的教育技术平台 Canvas 的持续数据勒索攻击扰乱了美国各地学区和大学的课程和课程，此前一个网络犯罪团伙以勒索赎金的方式破坏了该服务的登录页面，威胁要泄露近 9,000 家教育机构 2.75 亿学生和教师的数据。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
