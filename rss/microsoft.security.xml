@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 29 May 2026 20:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 01:54:15 GMT</lastBuildDate>
+    <item>
+      <title>恶意 npm 包滥用依赖混淆来分析开发人员环境</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/</link>
+      <description><![CDATA[依赖项混淆活动利用 33 个恶意 npm 包从开发人员和构建环境收集侦察数据。该报告详细介绍了攻击链、观察到的间谍活动和检测机会，以帮助组织识别和破坏相关活动。
+这篇文章恶意 npm 包滥用依赖性混淆来分析开发人员环境首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/</guid>
+      <pubDate>Sat, 30 May 2026 00:06:20 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 在 2026 年 Gartner® 端点保护魔力象限™ 中被评为领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/</link>
@@ -76,14 +84,6 @@ Microsoft 被公认为 Forrester Wave™ 劳动力身份安全平台领导者首
 帖子Mini Shai Hulud：受损的 @antv npm 软件包导致 CI/CD 凭据被盗首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/</guid>
       <pubDate>Wed, 20 May 2026 17:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护各种文化的游戏文化</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/</link>
-      <description><![CDATA[了解保护游戏平台安全的独特挑战和回报，以及如何更好地保护游戏社区。
-这篇文章保护不同文化的游戏文化首先出现在微软安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/</guid>
-      <pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
