@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Sun, 31 May 2026 19:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:05:43 GMT</lastBuildDate>
+    <item>
+      <title>集装箱着火：从集装箱逃逸到供应链攻击</title>
+      <link>https://securelist.com/container-attack-vectors/120010/</link>
+      <description><![CDATA[我们分解了容器化环境中的主要攻击媒介：机密暴露、权限错误配置、API 泄​​露和供应链攻击。]]></description>
+      <guid>https://securelist.com/container-attack-vectors/120010/</guid>
+      <pubDate>Mon, 01 Jun 2026 10:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>容器里有什么？使用 Kaspersky Container Security 和 KIRA AI 助手分析漏洞、风险和保护</title>
       <link>https://securelist.com/container-security-typical-issues/119974/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在对卡巴斯基 USB 重定向器进行安全评估期间，我们发现了 CVE-2025-68670：xrdp 服务器组件中的预身份验证 RCE。项目维护人员及时修复了该漏洞。]]></description>
       <guid>https://securelist.com/cve-2025-68670/119742/</guid>
       <pubDate>Fri, 08 May 2026 08:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年第一季度的漏洞利用和漏洞</title>
-      <link>https://securelist.com/vulnerabilities-and-exploits-in-q1-2026/119733/</link>
-      <description><![CDATA[该报告提供了我们在 2026 年第一季度研究的已发布漏洞和漏洞利用的统计数据。它还包括有关 APT 攻击中使用 C2 框架的摘要数据。]]></description>
-      <guid>https://securelist.com/vulnerabilities-and-exploits-in-q1-2026/119733/</guid>
-      <pubDate>Thu, 07 May 2026 10:00:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

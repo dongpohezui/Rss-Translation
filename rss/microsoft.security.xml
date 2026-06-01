@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 01 Jun 2026 02:31:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:06:12 GMT</lastBuildDate>
     <item>
       <title>恶意 npm 包滥用依赖混淆来分析开发人员环境</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/</link>
@@ -78,7 +78,7 @@
       <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mini Shai Hulud：@antv npm 软件包受损导致 CI​​/CD 凭证被盗</title>
+      <title>Mini Shai Hulud：受损的 @antv npm 软件包导致 CI​​/CD 凭证被盗</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/</link>
       <description><![CDATA[受感染的 @antv npm 软件包会部署 Mini Shai-Hulud 有效负载，以从基于 Linux 的自动化环境中窃取 CI/CD 机密。该恶意软件在 npm 安装期间执行，并针对 GitHub、AWS、Kubernetes、Vault、npm 和 1Password 平台上的凭据。
 帖子Mini Shai Hulud：受损的 @antv npm 软件包导致 CI/CD 凭据被盗首先出现在 Microsoft 安全博客。]]></description>

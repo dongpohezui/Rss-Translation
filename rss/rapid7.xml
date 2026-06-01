@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 01 Jun 2026 02:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:05:35 GMT</lastBuildDate>
+    <item>
+      <title>Rapid7 和 Exclusive Network 扩大北欧地区的合作伙伴关系</title>
+      <link>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-nordics-partnership-stronger-cybersecurity-outcomes-together</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-nordics-partnership-stronger-cybersecurity-outcomes-together</guid>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Metasploit 总结 05/29/2026</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-29-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-08-2026</guid>
       <pubDate>Fri, 08 May 2026 18:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>零混沌：以软件的速度扩展检测工程，检测即代码</title>
-      <link>https://www.rapid7.com/blog/post/dr-scaling-engineering-detection-as-code</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/dr-scaling-engineering-detection-as-code</guid>
-      <pubDate>Fri, 08 May 2026 12:37:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
