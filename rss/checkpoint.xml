@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Tue, 26 May 2026 14:34:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:12:38 GMT</lastBuildDate>
+    <item>
+      <title>6 月 1 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/</link>
+      <description><![CDATA[有关 6 月 1 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 全球邮轮运营商嘉年华公司 (Carnival Corporation) 确认，攻击者利用社交工程入侵员工帐户后，数据泄露事件影响到近 600 万人。暴露的信息可能包括姓名、联系方式[…]
+6 月 1 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/</guid>
+      <pubDate>Mon, 01 Jun 2026 14:43:11 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年 3 月至 4 月人工智能威胁态势摘要</title>
       <link>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</link>
@@ -116,14 +124,6 @@
 4 月 6 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/</guid>
       <pubDate>Mon, 06 Apr 2026 11:21:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrueChaos 行动：针对东南亚政府目标的 0 天利用</title>
-      <link>https://research.checkpoint.com/2026/operation-truechaos-0-day-exploitation-against-southeast-asian-government-targets/</link>
-      <description><![CDATA[要点介绍 2026 年初，Check Point Research 观察到一系列针对东南亚政府实体的针对性攻击，这些攻击是通过目标环境中安装的合法 TrueConf 软件进行的。调查发现 TrueConf 客户端存在一个零日漏洞，编号为“CVE-2026-3502”，CVSS 评分为 7.8。 […]
-TrueChaos 行动：针对东南亚政府目标的 0 天利用帖子首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/operation-truechaos-0-day-exploitation-against-southeast-asian-government-targets/</guid>
-      <pubDate>Tue, 31 Mar 2026 13:16:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
