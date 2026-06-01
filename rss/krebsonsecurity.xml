@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Mon, 01 Jun 2026 17:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 21:20:05 GMT</lastBuildDate>
+    <item>
+      <title>黑客利用 Meta 的 AI 支持机器人来夺取 Instagram 帐户</title>
+      <link>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</link>
+      <description><![CDATA[上周末，Telegram 上开始流传如何欺骗 Meta 的“人工智能支持助理”机器人重置账户密码的说明后，奥巴马白宫和美国太空军首席军士长的 Instagram 账户被亲伊朗的图片和消息短暂破坏。]]></description>
+      <guid>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</guid>
+      <pubDate>Mon, 01 Jun 2026 17:32:50 GMT</pubDate>
+    </item>
     <item>
       <title>荷兰扣押 800 台服务器并逮捕 2 名协助网络攻击的服务器</title>
       <link>https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 12 May 2026 21:46:45 GMT</pubDate>
     </item>
     <item>
-      <title>帆布破坏扰乱了全国的学校和学院</title>
+      <title>帆布破损扰乱了全国的学校和学院</title>
       <link>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</link>
       <description><![CDATA[今天，针对广泛使用的教育技术平台 Canvas 的持续数据勒索攻击扰乱了美国各地学区和大学的课程和课程，此前一个网络犯罪团伙以勒索赎金的方式破坏了该服务的登录页面，威胁要泄露近 9,000 家教育机构 2.75 亿学生和教师的数据。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>“分散蜘蛛”成员“泰勒布”认罪</title>
       <link>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</link>
-      <description><![CDATA[一名 24 岁英国公民、网络犯罪组织“分散蜘蛛”的高级成员已承认犯有电信欺诈阴谋和严重身份盗窃罪。泰勒·罗伯特·布坎南 (Tyler Robert Buchanan) 承认他在 2022 年夏天参与了一系列短信网络钓鱼攻击，该攻击使该组织侵入了至少十几家主要科技公司，并从投资者那里窃取了价值数千万美元的加密货币。]]></description>
+      <description><![CDATA[一名 24 岁的英国公民、网络犯罪组织“分散蜘蛛”的高级成员已承认犯有电信欺诈阴谋和严重身份盗窃罪。泰勒·罗伯特·布坎南 (Tyler Robert Buchanan) 承认他在 2022 年夏天参与了一系列短信网络钓鱼攻击，该攻击使该组织侵入了至少十几家主要科技公司，并从投资者那里窃取了价值数千万美元的加密货币。]]></description>
       <guid>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</guid>
       <pubDate>Tue, 21 Apr 2026 14:53:59 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[微软今天推出了软件更新，以修复其 Windows 操作系统和相关软件中惊人的 167 个安全漏洞，其中包括 SharePoint Server 零日漏洞和 Windows Defender 中公开披露的名为“BlueHammer”的漏洞。另外，Google Chrome 修复了 2026 年的第四个零日漏洞，Adobe Reader 的紧急更新消除了一个被积极利用的漏洞，该漏洞可能导致远程代码执行。]]></description>
       <guid>https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</guid>
       <pubDate>Tue, 14 Apr 2026 21:47:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯黑客入侵路由器窃取微软 Office 令牌</title>
-      <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
-      <description><![CDATA[安全专家今天警告说，与俄罗斯军事情报部门有联系的黑客正在利用旧版互联网路由器中的已知缺陷来大量获取 Microsoft Office 用户的身份验证令牌。这次间谍活动使国家支持的俄罗斯黑客能够在不部署任何恶意软件或代码的情况下悄悄从 18,000 多个网络上的用户那里窃取身份验证令牌。]]></description>
-      <guid>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</guid>
-      <pubDate>Tue, 07 Apr 2026 17:02:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
