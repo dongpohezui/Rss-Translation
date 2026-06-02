@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 01 Jun 2026 21:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 02:29:41 GMT</lastBuildDate>
     <item>
       <title>集装箱着火：从集装箱逃逸到供应链攻击</title>
       <link>https://securelist.com/container-attack-vectors/120010/</link>
@@ -69,7 +69,7 @@
       <pubDate>Tue, 12 May 2026 07:00:04 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2025-68670：在 xrdp 中发现 RCE 漏洞</title>
+      <title>CVE-2025-68670：发现 xrdp 中的 RCE 漏洞</title>
       <link>https://securelist.com/cve-2025-68670/119742/</link>
       <description><![CDATA[在对卡巴斯基 USB 重定向器进行安全评估期间，我们发现了 CVE-2025-68670：xrdp 服务器组件中的预身份验证 RCE。项目维护人员及时修复了该漏洞。]]></description>
       <guid>https://securelist.com/cve-2025-68670/119742/</guid>
