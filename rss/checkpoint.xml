@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Wed, 03 Jun 2026 10:30:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 16:13:13 GMT</lastBuildDate>
+    <item>
+      <title>假冒、点击劫持和 TDS：恶意软件分发生态系统内部</title>
+      <link>https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/</link>
+      <description><![CDATA[研究：Alexey Bukhteyev 主要要点简介 当我们在 Google 上搜索一款流行软件时，我们通常会点击第一个结果，有时甚至不看其余结果，因为官方项目网站往往排名最高，并且出现在结果的顶部附近。登陆具有专业设计和[…]的网站后
+假冒、点击劫持和 TDS：恶意软件分发生态系统内部一文首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/</guid>
+      <pubDate>Wed, 03 Jun 2026 13:21:44 GMT</pubDate>
+    </item>
     <item>
       <title>6 月 1 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/</link>
@@ -78,7 +86,7 @@
       <pubDate>Mon, 04 May 2026 13:49:31 GMT</pubDate>
     </item>
     <item>
-      <title>VECT：勒索软件是故意设计的，雨刮器是意外造成的</title>
+      <title>VECT：勒索软件是有意设计的，雨刮器是意外造成的</title>
       <link>https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/</link>
       <description><![CDATA[关键要点背景 VECT 勒索软件是一种勒索软件即服务 (RaaS) 程序，于 2025 年 12 月首次出现在俄语网络犯罪论坛上。在 2026 年 1 月认领首批两名受害者后，该组织因宣布与 TeamPCP 合作而重新进入公众视野，TeamPCP 是多起供应链攻击的幕后黑手[…]
 帖子VECT：设计勒索软件，意外擦除首先出现在Check Point Research。]]></description>
@@ -116,14 +124,6 @@
 4 月 13 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/13th-april-threat-intelligence-report/</guid>
       <pubDate>Mon, 13 Apr 2026 13:11:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>4 月 6 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/</link>
-      <description><![CDATA[有关 3 月 30 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 欧盟执行机构欧盟委员会 (European Commission) 确认，其 Europa.eu 平台因与 Trivy 供应链攻击相关的第三方交易所遭到破坏后发生了数据泄露事件。该事件[…]
-4 月 6 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/</guid>
-      <pubDate>Mon, 06 Apr 2026 11:21:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
