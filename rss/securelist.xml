@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Jun 2026 02:35:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:29:55 GMT</lastBuildDate>
+    <item>
+      <title>Argamal：隐藏在无尽游戏中的恶意软件</title>
+      <link>https://securelist.com/argamal-rat-distributed-with-hentai-games/119999/</link>
+      <description><![CDATA[卡巴斯基研究人员分析了通过受感染的无尽游戏分发的新 Argamal RAT，并允许攻击者控制目标计算机。]]></description>
+      <guid>https://securelist.com/argamal-rat-distributed-with-hentai-games/119999/</guid>
+      <pubDate>Wed, 03 Jun 2026 09:00:22 GMT</pubDate>
+    </item>
     <item>
       <title>墨西哥各地的战争驾驶评估：为 2026 年世界杯做准备</title>
       <link>https://securelist.com/wardriving-assessment-in-mexico-fifa-world-cup-2026/119996/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基研究人员分析了最近 Kimsuky 活动中使用的一系列基于 PebbleDash 的新工具，并揭示了它们与 AppleSeed 恶意软件集群的联系。]]></description>
       <guid>https://securelist.com/kimsuky-appleseed-pebbledash-campaigns/119785/</guid>
       <pubDate>Thu, 14 May 2026 11:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年勒索软件状况</title>
-      <link>https://securelist.com/state-of-ransomware-in-2026/119761/</link>
-      <description><![CDATA[卡巴斯基研究人员正在分享对 2026 年主要勒索软件趋势的见解：EDR 杀手的崛起、从数据加密转向数据泄露等等。]]></description>
-      <guid>https://securelist.com/state-of-ransomware-in-2026/119761/</guid>
-      <pubDate>Tue, 12 May 2026 07:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

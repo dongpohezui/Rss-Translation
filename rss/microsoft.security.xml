@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 03 Jun 2026 02:36:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:30:27 GMT</lastBuildDate>
+    <item>
+      <title>预安装到持久性：红帽 npm Miasma 凭证窃取活动内部</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/</link>
+      <description><![CDATA[大规模的 npm 供应链攻击破坏了 90 多个版本的 @redhat-c​​loud-services 软件包，悄然感染 CI/CD 环境和开发人员系统。恶意代码从 GitHub、云平台和本地计算机窃取凭据，然后通过重新发布受信任的包像蠕虫一样传播。了解攻击是如何进行的、哪些数据面临风险以及您可以采取哪些措施来保护您的组织。
+帖子预安装到持久性：Red Hat npm Miasma 凭证窃取活动内部首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/</guid>
+      <pubDate>Wed, 03 Jun 2026 04:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Build 2026：在整个开发生命周期中保护代码、代理和模型的安全</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/</link>
@@ -76,14 +84,6 @@
 帖子Microsoft 安全成功案例：St. Luke’s 和 ManpowerGroup 如何保护 AI 基础首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/</guid>
       <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 安全性的新增功能：2026 年 5 月</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/</link>
-      <description><![CDATA[随着组织加速人工智能的采用，Microsoft Security 的最新更新在不断扩大的生态系统中扩展了可见性、控制和保护。
-这篇文章Microsoft 安全新增内容：2026 年 5 月首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/</guid>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
