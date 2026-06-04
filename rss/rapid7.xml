@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 04 Jun 2026 14:29:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 19:52:23 GMT</lastBuildDate>
+    <item>
+      <title>“瑞士奶酪”模型如何帮助您选择合适的 MDR 提供商</title>
+      <link>https://www.rapid7.com/blog/post/dr-swiss-cheese-model-helps-choose-mdr-providers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/dr-swiss-cheese-model-helps-choose-mdr-providers</guid>
+      <pubDate>Thu, 04 Jun 2026 13:53:41 GMT</pubDate>
+    </item>
     <item>
       <title>MDR 分析师的一天：现代 SOC 内部</title>
       <link>https://www.rapid7.com/blog/post/it-day-in-the-life-mdr-analyst-inside-the-modern-soc</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/c-gold-stevie-award-winning-partner-services-certifications-academy</guid>
       <pubDate>Wed, 13 May 2026 13:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>星期二补丁 - 2026 年 5 月</title>
-      <link>https://www.rapid7.com/blog/post/em-patch-tuesday-may-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-may-2026</guid>
-      <pubDate>Wed, 13 May 2026 00:22:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
