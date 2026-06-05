@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 04 Jun 2026 19:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:06:43 GMT</lastBuildDate>
+    <item>
+      <title>更新代理人工智能系统中故障模式的分类：一年的红队教会了我们什么</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/</link>
+      <description><![CDATA[现实世界中针对代理人工智能系统的攻击激增正在重塑我们对风险的看法。基于 12 个月的红队经验，此更新引入了七种新的故障模式，从供应链妥协到目标劫持，以及团队现在需要的实际缓解措施。
+帖子更新代理 AI 系统中的故障模式分类：红队一年教给我们的内容首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/</guid>
+      <pubDate>Thu, 04 Jun 2026 19:14:42 GMT</pubDate>
+    </item>
     <item>
       <title>预安装到持久性：红帽 npm Miasma 凭证窃取活动内部</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/</link>
@@ -76,14 +84,6 @@
 帖子从边缘设备到企业妥协：通过 F5 和 Confluence 的多阶段 Linux 入侵首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/</guid>
       <pubDate>Fri, 22 May 2026 16:53:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 安全成功案例：St. Luke's 和 ManpowerGroup 如何保护 AI 基础</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/</link>
-      <description><![CDATA[Frontier 公司如何大规模保护 AI：了解 Microsoft 客户如何嵌入治理、身份和云安全，使保护成为 AI 增长的推动者。
-帖子Microsoft 安全成功案例：St. Luke’s 和 ManpowerGroup 如何保护 AI 基础首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/</guid>
-      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
