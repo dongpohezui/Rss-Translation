@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 05 Jun 2026 14:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 19:30:09 GMT</lastBuildDate>
+    <item>
+      <title>在代理世界中保护 CI/CD：Claude Code Github 行动案例</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/</link>
+      <description><![CDATA[Microsoft 威胁情报在 Claude Code GitHub Action 中发现了一个提示注入路径，允许在特定条件下访问工作流机密。这项研究研究了攻击链、负责任的披露流程、Anthropic 的缓解措施以及保护 AI 驱动的 CI/CD 工作流程的指南。
+在代理世界中保护 CI/CD：Claude Code Github 操作案例首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/</guid>
+      <pubDate>Fri, 05 Jun 2026 16:46:47 GMT</pubDate>
+    </item>
     <item>
       <title>更新代理人工智能系统中故障模式的分类：一年的红队教会了我们什么</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/</link>
@@ -73,17 +81,9 @@
       <title>Microsoft 被 Forrester Wave™ 评为劳动力身份安全平台领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/</link>
       <description><![CDATA[Microsoft 被评为 Forrester Wave™：2026 年第 2 季度劳动力身份安全平台的领导者，在当前产品和策略类别中均获得最高分。
-帖子Microsoft 被公认为 Forrester Wave™ 劳动力身份安全平台领导者首先出现在 Microsoft 安全博客。]]></description>
+Microsoft 被公认为 Forrester Wave™ 劳动力身份安全平台领导者首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/</guid>
       <pubDate>Fri, 22 May 2026 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从边缘设备到企业妥协：通过 F5 和 Confluence 的多阶段 Linux 入侵</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/</link>
-      <description><![CDATA[针对 Linux 设备的多阶段攻击从暴露的 F5 BIG-IP 边缘设备开始，并转向内部 Confluence 服务器，以进行凭证盗窃和身份泄露。了解威胁参与者如何尝试 Kerberos 中继和横向移动，以及 Microsoft Defender 如何检测、阻止和破解攻击。
-帖子从边缘设备到企业妥协：通过 F5 和 Confluence 的多阶段 Linux 入侵首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/</guid>
-      <pubDate>Fri, 22 May 2026 16:53:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
