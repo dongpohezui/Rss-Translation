@@ -4,7 +4,7 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Wed, 03 Jun 2026 16:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 14:20:23 GMT</lastBuildDate>
     <item>
       <title>假冒、点击劫持和 TDS：恶意软件分发生态系统内部</title>
       <link>https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/</link>
@@ -86,7 +86,7 @@
       <pubDate>Mon, 04 May 2026 13:49:31 GMT</pubDate>
     </item>
     <item>
-      <title>VECT：勒索软件是有意设计的，雨刮器是意外造成的</title>
+      <title>VECT：勒索软件是故意设计的，雨刮器是意外造成的</title>
       <link>https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/</link>
       <description><![CDATA[关键要点背景 VECT 勒索软件是一种勒索软件即服务 (RaaS) 程序，于 2025 年 12 月首次出现在俄语网络犯罪论坛上。在 2026 年 1 月认领首批两名受害者后，该组织因宣布与 TeamPCP 合作而重新进入公众视野，TeamPCP 是多起供应链攻击的幕后黑手[…]
 帖子VECT：设计勒索软件，意外擦除首先出现在Check Point Research。]]></description>
