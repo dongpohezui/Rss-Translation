@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Sat, 06 Jun 2026 19:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 02:12:37 GMT</lastBuildDate>
     <item>
       <title>Metasploit 每周更新：Apache ActiveMQ RCE、Gogs Rebase RCE 和 Windows 内核指针枚举</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-06-2026</link>
@@ -64,7 +64,7 @@
     <item>
       <title>专家对专家：合规为何变得持续</title>
       <link>https://www.rapid7.com/blog/post/it-cybersecurity-experts-continuous-compliance</link>
-      <description><![CDATA[在本周的专家对专家中，我将与 Rapid7 信任、风险和合规总监 Sergio Alonso 一起讨论合规性正在发生的变化，以及为什么许多安全团队正在重新思考他们处理准备情况、报告和运营风险的方式。对话中最大的主题之一是合规性不再是组织可以将其视为时间点练习的东西。 NIS2 和 DORA 等框架提高了人们对弹性和问责制的期望，而云环境和更快的发布周期使得证明控制措施随着时间的推移始终如一地发挥作用变得更加困难。我们还讨论了安全运营和合规性报告之间日益扩大的差距。安全团队每天都会生成大量运营数据，但将其转化为监管机构、审计人员和领导团队可以实际使用的证据仍然是一个挑战。对话着眼于组织如何努力减少人工工作，自动化可以在哪些方面真正发挥作用，以及为什么随着监管压力的增加，可见性和所有权变得越来越重要。组织仍然将合规性与日常安全操作分开，取得最大进展的团队正在将这两个世界更加紧密地结合在一起，将合规性视为操作工作流程的一部分，而不是报告层观看下面的完整剧集，了解完整的对话以及组织在 2026 年如何应对合规性、风险和弹性。⠀]]></description>
+      <description><![CDATA[在本周的专家对专家中，我将与 Rapid7 的信任、风险和合规总监 Sergio Alonso 一起讨论合规性正在发生的变化，以及为什么许多安全团队正在重新思考他们处理准备情况、报告和运营风险的方式。对话中最大的主题之一是合规性不再是组织可以将其视为时间点练习的东西。 NIS2 和 DORA 等框架提高了人们对弹性和问责制的期望，而云环境和更快的发布周期使得证明控制措施随着时间的推移始终如一地发挥作用变得更加困难。我们还讨论了安全运营和合规性报告之间日益扩大的差距。安全团队每天都会生成大量运营数据，但将其转化为监管机构、审计人员和领导团队可以实际使用的证据仍然是一个挑战。对话着眼于组织如何努力减少人工工作，自动化可以在哪些方面真正发挥作用，以及为什么随着监管压力的增加，可见性和所有权变得越来越重要。组织仍然将合规性与日常安全操作分开，取得最大进展的团队正在将这两个世界更加紧密地结合在一起，将合规性视为操作工作流程的一部分，而不是报告层观看下面的完整剧集，了解完整的对话以及组织在 2026 年如何应对合规性、风险和弹性。⠀]]></description>
       <guid>https://www.rapid7.com/blog/post/it-cybersecurity-experts-continuous-compliance</guid>
       <pubDate>Thu, 28 May 2026 13:00:00 GMT</pubDate>
     </item>
