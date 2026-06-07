@@ -4,7 +4,7 @@
     <title>凯文·博蒙特在 Medium 上的故事</title>
     <link>https://medium.com/@networksecurity?source=rss-7db6d2df42a6------2</link>
     <description>凯文·博蒙特在 Medium 上的故事</description>
-    <lastBuildDate>Sun, 07 Jun 2026 13:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 19:03:59 GMT</lastBuildDate>
     <item>
       <title>微软对零日漏洞的立场是他们自己造成的垃圾箱火灾</title>
       <link>https://doublepulsar.com/microsofts-stance-on-zero-day-exploits-is-a-dumpster-fire-of-their-own-making-0946117940a4?source=rss-7db6d2df42a6------2</link>
@@ -29,7 +29,7 @@
     <item>
       <title>网络安全行业对 React 漏洞反应过度，开始恐慌，再次烧毁自己的房子</title>
       <link>https://doublepulsar.com/cybersecurity-industry-overreacts-to-react-vulnerability-starts-panic-burns-own-house-down-again-e85c10ad1607?source=rss-7db6d2df42a6------2</link>
-      <description><![CDATA[几天前，CVE-2025-55182 与一篇出色的文章一起被披露：https://react.dev/blog/2025/12/03/ritic-security-vulnerability-in-react-server-components披露的文章很棒 — 它充满了事实，并解释了你什么时候是、什么时候不是我认为没有人知道如何解析它，人们甚至在知道自己在做什么之前就开始采取行动。要变得容易受到攻击，你必须运行：React v19 — 去年发布使用 React Server Components — 一个新功能，也是在去年这是一个利基设置。绝大多数组织还没有这种设置，更不用说面向互联网了。该漏洞在维护人员首次在新功能中引入后很快就被发现了，因此如果组织也能快速使用它，就可以修复它。Next.js 的情况也是如此，您需要使用新版本并使用 React Server 组件才能受到攻击 ——这是全新的。如果您像“React Router 有漏洞！”你是对的，但情况是一样的 — 你需要使用新版本，并且也启用了对 React Server 组件的实验性支持。过度反应LinkedIn 绝对挤满了分享世界末日警告和虚假概念证明的人。人们正在互联网上喷洒试图利用这一漏洞这个 — 尝试是关键词 — 所以人们对此也感到崩溃。InfoSecCloudflare通过急于做出改变，成功地在全球范围内关闭了他们的网络，摧毁了每个客户网站和大约四分之一的互联网：实际应该做什么冷静下来。检查。与您的开发人员和供应商联系（如果他们还使用 React v19）。他们很可能不会，在这种情况下你就不会受到攻击。如果他们这样做了，请冷静地查明他们是否使用 React Server 组件。他们很可能不会，这样你就不会受到攻击。然后，如果需要的话，打补丁。末日还没有到来，云还没有塌下来，不要因为网络安全行业的警告而像旅鼠一样从悬崖上逃跑。主要动机是吓唬，这不是一个好的动机。网络安全行业对 React 漏洞反应过度，开始恐慌，再次烧毁自己的房子最初发表在 Medium 上的 DoublePulsar 上，人们在其中通过突出显示并回应这个故事来继续对话。]]></description>
+      <description><![CDATA[几天前，CVE-2025-55182 与一篇出色的文章一起被披露：https://react.dev/blog/2025/12/03/ritic-security-vulnerability-in-react-server-components披露的文章很棒 — 它充满了事实，并解释了你什么时候是、什么时候不是我认为没有人知道如何解析它，人们甚至在知道自己在做什么之前就开始采取行动。要变得容易受到攻击，你必须运行：React v19 — 去年发布使用 React Server Components — 一个新功能，也是在去年这是一个利基设置。绝大多数组织还没有这种设置，更不用说面向互联网了。该漏洞在维护人员首次在新功能中引入后很快就被发现了，因此如果组织也能快速使用它，就可以修复它。Next.js 的情况也是如此，您需要使用新版本并使用 React Server 组件才能受到攻击 ——这是全新的。如果您像“React Router 有漏洞！”你是对的，但情况是一样的 — 你需要使用新版本，并且也启用了对 React Server 组件的实验性支持。过度反应LinkedIn 绝对挤满了分享世界末日警告和虚假概念证明的人。人们正在互联网上喷洒试图利用这一漏洞这个 — 尝试是关键词 — 所以人们对此也感到崩溃。InfoSecCloudflare managed to take down their network globally, felling every customer website and about a quarter of the internet, by rushing out a change:What to actually doCalm down.Check与您的开发人员和供应商联系（如果他们还使用 React v19）。他们很可能不会，在这种情况下你就不会受到攻击。如果他们这样做了，请冷静地查明他们是否使用 React Server 组件。 They most probably don’t, in which case you aren’t vulnerable.Then, if needed, patch.The end isn’t nigh, the cloud isn’t falling, stop running off cliffs like Lemmings because of warnings from the cybersecurity industry over this. The primary incentive being to scare is not a good one.Cybersecurity industry overreacts to React vulnerability, starts panic, burns own house down again was originally published in DoublePulsar on Medium, where people are通过突出显示并回应这个故事来继续对话。]]></description>
       <guid>https://doublepulsar.com/cybersecurity-industry-overreacts-to-react-vulnerability-starts-panic-burns-own-house-down-again-e85c10ad1607?source=rss-7db6d2df42a6------2</guid>
       <pubDate>Fri, 05 Dec 2025 11:21:35 GMT</pubDate>
     </item>
