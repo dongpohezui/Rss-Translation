@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Sat, 06 Jun 2026 08:22:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 15:23:34 GMT</lastBuildDate>
+    <item>
+      <title>6 月 8 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/</link>
+      <description><![CDATA[有关 6 月 1 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 DentaQuest 是 Sun Life 旗下的一家美国牙科福利管理机构，在威胁组织 ShinyHunters 泄露了被窃取的数据后遭受了数据泄露。分析师评估称，有 260 万个帐户遭到泄露，其中包括姓名、电子邮件、[…]
+6 月 8 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/</guid>
+      <pubDate>Mon, 08 Jun 2026 14:47:59 GMT</pubDate>
+    </item>
     <item>
       <title>假冒、点击劫持和 TDS：恶意软件分发生态系统内部</title>
       <link>https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/</link>
@@ -102,7 +110,7 @@
       <pubDate>Mon, 27 Apr 2026 12:07:53 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>4 月 20 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/</link>
       <description><![CDATA[有关 4 月 20 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 总部位于阿姆斯特丹的旅游平台 Booking.com 确认，未经授权的各方访问了与某些客户相关的预订数据后发生了数据泄露事件。暴露的信息包括姓名、电子邮件地址、电话号码、实际地址和预订[…]
 4 月 20 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
@@ -116,14 +124,6 @@
 帖子DFIR 报告 – 先生们和SystemBC：代理背后的先睹为快首先出现在Check Point Research。]]></description>
       <guid>https://research.checkpoint.com/2026/dfir-report-the-gentlemen/</guid>
       <pubDate>Mon, 20 Apr 2026 12:55:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>4 月 13 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/13th-april-threat-intelligence-report/</link>
-      <description><![CDATA[有关 4 月 13 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和泄露洛杉矶警察局报告了一起涉及洛杉矶市检察官办公室使用的数字存储系统的数据泄露事件。此次泄露的数据大小为 7.7 TB，文件数量超过 337,000 个，[…]
-4 月 13 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/13th-april-threat-intelligence-report/</guid>
-      <pubDate>Mon, 13 Apr 2026 13:11:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
