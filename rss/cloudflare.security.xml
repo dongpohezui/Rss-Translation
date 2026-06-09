@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Tue, 09 Jun 2026 14:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 19:54:40 GMT</lastBuildDate>
+    <item>
+      <title>防御前沿网络模型：Cloudflare 的架构作为零客户</title>
+      <link>https://blog.cloudflare.com/frontier-model-defense/</link>
+      <description><![CDATA[在有关 Glasswing 项目的文章中，我们认为围绕漏洞的架构比补丁的速度更重要。在这里，我们将介绍该架构的外观、它防御的威胁，以及我们作为 Cloudflare 的零客户如何运行它。]]></description>
+      <guid>https://blog.cloudflare.com/frontier-model-defense/</guid>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>将 Cloudflare 的威胁指标转化为实时 WAF 规则</title>
       <link>https://blog.cloudflare.com/realtime-threat-intel-waf-rules/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[作为概念验证，我们为 Cloudflare Workers 构建了一个 Matrix 家庭服务器 - 使用自动后量子加密技术在边缘提供加密消息传递。]]></description>
       <guid>https://blog.cloudflare.com/serverless-matrix-homeserver-workers/</guid>
       <pubDate>Tue, 27 Jan 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何缓解 Cloudflare ACME 验证逻辑中的漏洞</title>
-      <link>https://blog.cloudflare.com/acme-path-vulnerability/</link>
-      <description><![CDATA[最近在 Cloudflare 的证书验证自动化中发现了一个漏洞。在这里，我们解释了该漏洞并概述了我们为缓解该漏洞而采取的步骤。]]></description>
-      <guid>https://blog.cloudflare.com/acme-path-vulnerability/</guid>
-      <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

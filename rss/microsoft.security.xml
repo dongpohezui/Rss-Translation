@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 09 Jun 2026 14:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 19:54:55 GMT</lastBuildDate>
+    <item>
+      <title>重建调查中的人工智能活动</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/</link>
+      <description><![CDATA[了解如何使用结构化、遥测驱动的方法调查 Microsoft 365 Copilot 和 Azure AI 服务中的 AI 活动。该手册可帮助安全团队重建事件、评估数据暴露并更快地检测潜在威胁。
+在调查中重建 AI 活动帖子首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/</guid>
+      <pubDate>Tue, 09 Jun 2026 17:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能品牌作为诱饵：威胁行为者如何在社会工程中利用人工智能炒作</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/</link>
@@ -76,14 +84,6 @@
 帖子The Gentlemen 勒索软件：剖析自我传播的 Go 加密器首先出现在 Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/</guid>
       <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从中毒的搜索结果到 GPU 挖掘：滥用 ScreenConnect 和 Microsoft .NET 实用程序的加密劫持活动</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/</link>
-      <description><![CDATA[微软揭露了利用 SEO 中毒和 ScreenConnect 来针对高性能 PC 的加密劫持活动，恶意网站还通过 AI 聊天机器人浮出水面。
-帖子从中毒的搜索结果到 GPU 挖掘：滥用 ScreenConnect 和 Microsoft .NET 实用程序的加密劫持活动首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/</guid>
-      <pubDate>Tue, 26 May 2026 21:35:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
