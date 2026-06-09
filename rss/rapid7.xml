@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 09 Jun 2026 08:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 14:16:14 GMT</lastBuildDate>
     <item>
       <title>Critical Check Point VPN 零日漏洞被广泛利用 (CVE-2026-50751)</title>
       <link>https://www.rapid7.com/blog/post/etr-critical-check-point-vpn-zero-day-exploited-in-the-wild-cve-2026-50751</link>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 28 May 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过 Gogs 中的参数注入验证 RCE（截至 2026 年 6 月 7 日已修复）</title>
+      <title>CVE-2026-52806：通过 Gogs 中的参数注入进行身份验证的 RCE（截至 2026 年 6 月 7 日已修复）</title>
       <link>https://www.rapid7.com/blog/post/ve-authenticated-rce-via-argument-injection-gogs-unfixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ve-authenticated-rce-via-argument-injection-gogs-unfixed</guid>
