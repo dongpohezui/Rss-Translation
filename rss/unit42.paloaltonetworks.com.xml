@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Fri, 05 Jun 2026 19:29:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 01:54:58 GMT</lastBuildDate>
+    <item>
+      <title>当 Microsoft Teams 发出“嗨，这就是 IT”时</title>
+      <link>https://unit42.paloaltonetworks.com/microsoft-teams-phishing/</link>
+      <description><![CDATA[攻击者越来越多地瞄准 Microsoft Teams 等协作平台。了解增强组织安全性的风险和关键步骤。
+帖子当“嗨，这就是 IT”来自 Microsoft Teams 首先出现在Unit 42。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/microsoft-teams-phishing/</guid>
+      <pubDate>Mon, 08 Jun 2026 23:00:45 GMT</pubDate>
+    </item>
     <item>
       <title>威胁简介：主动利用 PAN-OS CVE-2026-0257</title>
       <link>https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</link>
@@ -116,14 +124,6 @@
 帖子那个人工智能扩展可以帮助你写电子邮件？它首先阅读它们首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/</guid>
       <pubDate>Thu, 30 Apr 2026 22:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>TGR-STA-1030：中美洲和南美洲的新活动</title>
-      <link>https://unit42.paloaltonetworks.com/new-activity-central-south-america/</link>
-      <description><![CDATA[Unit 42 研究报告称，TGR-STA-1030 仍然是一个活跃的威胁，特别是在中美洲和南美洲。
-帖子TGR-STA-1030：中美洲和南美洲的新活动首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/new-activity-central-south-america/</guid>
-      <pubDate>Fri, 24 Apr 2026 20:30:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Mon, 08 Jun 2026 19:59:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 01:55:08 GMT</lastBuildDate>
+    <item>
+      <title>将 Cloudflare 的威胁指标转化为实时 WAF 规则</title>
+      <link>https://blog.cloudflare.com/realtime-threat-intel-waf-rules/</link>
+      <description><![CDATA[Cloudflare 客户现在可以直接在 WAF 内使用 Cloudforce One 威胁情报来阻止高风险流量。通过使用新的 cf.intel 字段，安全团队可以实时自动防御特定威胁行为者和目标行业。]]></description>
+      <guid>https://blog.cloudflare.com/realtime-threat-intel-waf-rules/</guid>
+      <pubDate>Mon, 08 Jun 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Glasswing 项目：Mythos 向我们展示了什么</title>
       <link>https://blog.cloudflare.com/cyber-frontier-models/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[最近在 Cloudflare 的证书验证自动化中发现了一个漏洞。在这里，我们解释了该漏洞并概述了我们为缓解该漏洞而采取的步骤。]]></description>
       <guid>https://blog.cloudflare.com/acme-path-vulnerability/</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astro 即将加入 Cloudflare</title>
-      <link>https://blog.cloudflare.com/astro-joins-cloudflare/</link>
-      <description><![CDATA[Astro Technology Company 团队（Astro Web 框架的创建者）即将加入 Cloudflare。我们正在加倍努力，使 Astro 成为当今和未来几年内容驱动网站的最佳框架。]]></description>
-      <guid>https://blog.cloudflare.com/astro-joins-cloudflare/</guid>
-      <pubDate>Fri, 16 Jan 2026 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
