@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 10 Jun 2026 14:48:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 20:06:34 GMT</lastBuildDate>
+    <item>
+      <title>自动威胁搜寻：将威胁情报转化为可执行的搜寻计划</title>
+      <link>https://www.rapid7.com/blog/post/ai-automated-threat-hunting-turns-threat-intelligence-into-executable-hunt-plans</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ai-automated-threat-hunting-turns-threat-intelligence-into-executable-hunt-plans</guid>
+      <pubDate>Wed, 10 Jun 2026 16:26:33 GMT</pubDate>
+    </item>
     <item>
       <title>CVE-2026-10520、CVE-2026-10523 - 影响 Ivanti Sentry 的多个严重漏洞</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-10520-cve-2026-10523-multiple-critical-vulnerabilities-affecting-ivanti-sentry</link>
@@ -118,7 +125,7 @@
       <pubDate>Fri, 22 May 2026 19:10:05 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年第一季度威胁形势报告：零点击、地缘政治紧张局势以及执法方面的一些胜利</title>
+      <title>Rapid7 季度威胁形势报告：零点击、地缘政治紧张局势以及执法部门的一些胜利</title>
       <link>https://www.rapid7.com/blog/post/tr-q1-2026-threat-landscape-report-geopolitics-ransomware</link>
       <description><![CDATA[2026 年第一季度进一步表明，攻击者的行动速度更快，行动更加协调，并且在大多数组织能够有效响应之前就利用了弱点。从不断升级的地缘政治紧张局势到日益激进的勒索软件操作，最新的季度威胁形势报告强调了被动防御策略的安全环境季度威胁态势报告调查结果利用社交工程取代顶级初始访问向量 (IAV)一个其中最大的收获是，漏洞利用超过了社会工程，成为最大的初始访问向量，占总数的 38%。这本身就很有趣，但当所有被利用的漏洞中超过 50% 都是零点击、面向网络的漏洞时，它表明，至少在短期内，攻击者发现利用人工智能的漏洞比利用人类行为更容易完成。这些类型的漏洞不需要身份验证，也不需要用户交互，为攻击者提供了进入暴露系统和边缘基础设施的快速途径。与此同时，利用活动之前，论坛、博客和社交媒体平台上的公众讨论经常会出现大幅激增，这表明一旦漏洞曝光，威胁行为者如何快速地利用公开信息。威胁格局中的地缘政治和 FBI 打击地缘政治不稳定也继续影响整个季度的网络行动，特别是在中东，那里的网络活动与军事升级越来越同步。与伊朗国家结盟的组织以政府基础设施、金融服务和工业系统为目标，而俄罗斯和中国的活动主要集中在情报收集、电信基础设施和旨在长期不被发现的持久访问操作上。其结果是，组织不仅必须为立即破坏做好准备，而且还必须为企业环境中长期存在的威胁做好准备。同时，针对地下犯罪基础设施的执法行动在第一季度扰乱了多个主要勒索软件和凭证市场，包括查获 RAMP 和 LeakBase。这些打击行动给网络犯罪团体带来了运营压力，将威胁行为者推向规模较小、去中心化的社区，并增加了内部不信任。明显转向“纯粹勒索”该报告还强调了勒索软件操作的持续演变，特别是日益转向“纯粹勒索” “纯粹勒索”策略的重点是快速窃取数据，而不是传统的基于加密的攻击。威胁行为者越来越多地利用零点击漏洞来获取初始访问权限、窃取敏感数据，并向受害者施加压力，而无需部署勒索软件负载，从而产生额外的操作风险和可见性。总而言之，2026 年第一季度的调查结果表明，组织不能再仅仅依赖定期评估和反应式工作流程。安全团队需要持续了解其攻击面，更好地确定可利用风险的优先级，并能够在小风险暴露成为大规模事件之前以与现代攻击者相匹配的速度采取行动。下载完整报告在这里。]]></description>
       <guid>https://www.rapid7.com/blog/post/tr-q1-2026-threat-landscape-report-geopolitics-ransomware</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/it-2026-global-cybersecurity-summit-key-takeaways-security-leaders</guid>
       <pubDate>Tue, 19 May 2026 15:22:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 总结 05/15/2026</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-15-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-15-2026</guid>
-      <pubDate>Fri, 15 May 2026 18:54:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
