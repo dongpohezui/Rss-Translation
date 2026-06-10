@@ -4,14 +4,14 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Tue, 09 Jun 2026 01:54:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:06:51 GMT</lastBuildDate>
     <item>
-      <title>当 Microsoft Teams 发出“嗨，这就是 IT”时</title>
-      <link>https://unit42.paloaltonetworks.com/microsoft-teams-phishing/</link>
-      <description><![CDATA[攻击者越来越多地瞄准 Microsoft Teams 等协作平台。了解增强组织安全性的风险和关键步骤。
-帖子当“嗨，这就是 IT”来自 Microsoft Teams 首先出现在Unit 42。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/microsoft-teams-phishing/</guid>
-      <pubDate>Mon, 08 Jun 2026 23:00:45 GMT</pubDate>
+      <title>蒙蔽守望者：滥用云日志服务进行防御规避和可见性</title>
+      <link>https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/</link>
+      <description><![CDATA[Unit 42 研究检查了针对云日志服务的攻击场景。了解如何防御日志操纵和防御规避。
+帖子蒙蔽守望者：滥用云日志服务进行防御规避和可见性首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/</guid>
+      <pubDate>Tue, 09 Jun 2026 22:00:21 GMT</pubDate>
     </item>
     <item>
       <title>威胁简介：主动利用 PAN-OS CVE-2026-0257</title>
@@ -19,7 +19,15 @@
       <description><![CDATA[我们包含 PAN-OS 漏洞 CVE-2026-0257 的活动指标和缓解措施。
 帖子威胁简介：主动利用 PAN-OS CVE-2026-0257 首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</guid>
-      <pubDate>Fri, 05 Jun 2026 14:05:42 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 14:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 Microsoft Teams 发出“嗨，这就是 IT”时</title>
+      <link>https://unit42.paloaltonetworks.com/microsoft-teams-phishing/</link>
+      <description><![CDATA[攻击者越来越多地瞄准 Microsoft Teams 等协作平台。了解增强组织安全性的风险和关键步骤。
+帖子当“嗨，这就是 IT”来自 Microsoft Teams 首先出现在Unit 42。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/microsoft-teams-phishing/</guid>
+      <pubDate>Mon, 08 Jun 2026 23:00:45 GMT</pubDate>
     </item>
     <item>
       <title>npm 威胁形势：攻击面和缓解措施（6 月 2 日更新）</title>
@@ -116,14 +124,6 @@
 帖子端点之外检测的基本数据源首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/detection-beyond-the-endpoint/</guid>
       <pubDate>Fri, 01 May 2026 23:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>那个人工智能扩展可以帮助你写电子邮件吗？首先阅读它们</title>
-      <link>https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/</link>
-      <description><![CDATA[第 42 单元揭示了高风险的 AI 浏览器扩展。它们伪装成生产力工具，窃取数据、拦截提示并窃取密码。保护您的浏览器。
-帖子那个人工智能扩展可以帮助你写电子邮件？它首先阅读它们首先出现在Unit 42。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/</guid>
-      <pubDate>Thu, 30 Apr 2026 22:00:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
