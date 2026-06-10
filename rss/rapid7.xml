@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 10 Jun 2026 09:37:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 14:48:17 GMT</lastBuildDate>
+    <item>
+      <title>CVE-2026-10520、CVE-2026-10523 - 影响 Ivanti Sentry 的多个严重漏洞</title>
+      <link>https://www.rapid7.com/blog/post/etr-cve-2026-10520-cve-2026-10523-multiple-critical-vulnerabilities-affecting-ivanti-sentry</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/etr-cve-2026-10520-cve-2026-10523-multiple-critical-vulnerabilities-affecting-ivanti-sentry</guid>
+      <pubDate>Wed, 10 Jun 2026 10:21:07 GMT</pubDate>
+    </item>
     <item>
       <title>周二补丁 - 2026 年 6 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-june-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-15-2026</guid>
       <pubDate>Fri, 15 May 2026 18:54:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-0265：帕洛阿尔托网络 PAN-OS 中的身份验证绕过</title>
-      <link>https://www.rapid7.com/blog/post/etr-cve-2026-0265-authentication-bypass-in-palo-alto-networks-pan-os</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/etr-cve-2026-0265-authentication-bypass-in-palo-alto-networks-pan-os</guid>
-      <pubDate>Thu, 14 May 2026 19:15:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
