@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 08 Jun 2026 15:23:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 15:31:13 GMT</lastBuildDate>
+    <item>
+      <title>从 SQLi 到 RCE——利用 LangGraph 的检查点</title>
+      <link>https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/</link>
+      <description><![CDATA[作者：Yarden Porat AI 代理需要内存。像 LangGraph 这样的框架通过检查点提供它 –存储执行状态的持久层。但是，当持久层没有锁定时会发生什么？要点 背景 LangGraph 是一个开源框架，用于构建具有内置持久性的有状态、多代理 AI 系统。它是LangChain的延伸，拥有超过[…]
+帖子从 SQLi 到 RCE –利用 LangGraph 的 Checkpointer 首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/</guid>
+      <pubDate>Thu, 11 Jun 2026 13:37:11 GMT</pubDate>
+    </item>
     <item>
       <title>6 月 8 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/</link>
@@ -30,7 +38,7 @@
       <pubDate>Mon, 01 Jun 2026 14:43:11 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年 3 月至 4 月人工智能威胁态势摘要</title>
+      <title>2026 年 3 月至 4 月 AI 威胁态势摘要</title>
       <link>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</link>
       <description><![CDATA[执行摘要 在 2026 年 3 月至 4 月的报告期内，人工智能在进攻性作战中的使用从开发和规划进展到实时作战部署。涉及个人犯罪分子、大规模利用平台、勒索软件团体和国家资助的间谍活动的多个独立案件显示了商业人工智能模型在扩展活动中执行自主攻击工作流程的证据。主要发现：人工智能是实时的[…]
 这篇文章2026 年 3 月至 4 月人工智能威胁形势摘要首先出现在 Check Point Research 上。]]></description>
@@ -40,7 +48,7 @@
     <item>
       <title>5 月 25 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</link>
-      <description><![CDATA[有关 5 月 25 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 全球连锁便利店 7-11 在未经授权访问用于特许经营商文件的系统后确认存在违规行为。 ShinyHunters 声称对此负责，并表示其窃取了超过 600,000 条包含个人 […] 的 Salesforce 记录
+      <description><![CDATA[有关 5 月 25 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 全球连锁便利店 7-11 在未经授权访问用于特许经营商文件的系统后确认存在违规行为。 ShinyHunters 声称对此负责，并称其窃取了超过 600,000 条包含个人 […] 的 Salesforce 记录
 5 月 25 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</guid>
       <pubDate>Mon, 25 May 2026 15:08:40 GMT</pubDate>
@@ -116,14 +124,6 @@
 4 月 20 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/</guid>
       <pubDate>Mon, 20 Apr 2026 14:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>DFIR 报告 – The Gentlemen 和 SystemBC：代理背后的一瞥</title>
-      <link>https://research.checkpoint.com/2026/dfir-report-the-gentlemen/</link>
-      <description><![CDATA[要点 Gentlemen RaaS Gentlemen 勒索软件即服务 (RaaS) 操作是一个相对较新的组织，于 2025 年中期左右出现。运营商在多个地下论坛上宣传他们的服务，宣传他们的勒索软件平台并邀请渗透测试人员（和其他技术熟练的参与者）作为附属机构加入。 RaaS 为附属机构提供适用于 Windows、Linux 的多操作系统储物柜，[…]
-帖子DFIR 报告 – 先生们和SystemBC：代理背后的先睹为快首先出现在Check Point Research。]]></description>
-      <guid>https://research.checkpoint.com/2026/dfir-report-the-gentlemen/</guid>
-      <pubDate>Mon, 20 Apr 2026 12:55:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

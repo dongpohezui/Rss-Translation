@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 10:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 15:29:48 GMT</lastBuildDate>
+    <item>
+      <title>2026 年的犯罪人工智能即服务：地下市场如何实施网络犯罪</title>
+      <link>https://www.rapid7.com/blog/post/tr-criminal-ai-underground-market-operationalizing-cybercrime-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/tr-criminal-ai-underground-market-operationalizing-cybercrime-2026</guid>
+      <pubDate>Thu, 11 Jun 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>自动威胁搜寻：将威胁情报转化为可执行的搜寻计划</title>
       <link>https://www.rapid7.com/blog/post/ai-automated-threat-hunting-turns-threat-intelligence-into-executable-hunt-plans</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-operationalizing-ctem-building-surface-command-dashboards</guid>
       <pubDate>Wed, 20 May 2026 12:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 2026 年全球网络安全峰会：安全领导者的主要收获</title>
-      <link>https://www.rapid7.com/blog/post/it-2026-global-cybersecurity-summit-key-takeaways-security-leaders</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/it-2026-global-cybersecurity-summit-key-takeaways-security-leaders</guid>
-      <pubDate>Tue, 19 May 2026 15:22:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
