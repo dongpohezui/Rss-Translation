@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 11:40:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:51:14 GMT</lastBuildDate>
+    <item>
+      <title>超越分数：利用 AI 将 CVE 转化为现实世界的商业风险</title>
+      <link>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</guid>
+      <pubDate>Mon, 15 Jun 2026 14:44:28 GMT</pubDate>
+    </item>
     <item>
       <title>Metasploit 每周更新：新的 Kerberos/证书跟踪选项和多个新模块</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-13-06-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[安全领导者所处的环境只会变得越来越复杂。不断扩大的攻击面、快速的人工智能采用、不断增长的工具集以及日益增加的更快响应压力，使得保持对风险和优先级的清晰认识变得更加困难。在 Rapid7 全球网络安全峰会上，客户小组清晰性如何战胜复杂性探索领导者如何在实践中驾驭现实。本次会议借鉴了各行业 CISO 和技术领导者的观点，重点讨论团队如何在管理复杂性的同时不忽视重要事项。讨论不是专注于理论，而是围绕一系列反映团队当前正在处理的实际问题进行讨论。其中包括哪些复杂性使安全性更难管理，警报、数据和交接如何减慢决策速度，以及哪些看似取得了进展但无法提供有意义的结果。随着对话的深入，Netscout Systems 副总裁-CISO Debby Briggs 和 Target RWE 首席技术官 Raheem Daya 等发言人分享了他们的团队如何重新思考流程、习惯和假设会增加噪音，但不会提高安全性。重点转向质疑衡量活动而非风险的指标，并关注推动有意义结果的因素。从这里开始，会议着眼于真正产生影响的因素。主题包括领导者如何明确优先级、使安全行动与实际业务影响保持一致，以及可见性和背景在哪些方面比数量更有价值。 Culligan International 信息安全经理 Will Lambert 补充了从业者的观点，强调更清晰的所有权和更好的团队间协调如何有助于减少日常运营中的摩擦。整个会议的重点仍然是实际决策。这包括在不过度简化的情况下管理复杂性、验证 MDR 和整合等领域的投资，以及确保安全团队专注于提高弹性的结果。对于 CISO、安全运营领导者和评估其当前方法的团队来说，本小组提供了有关其他人如何应对相同挑战的扎实观点。观看完整的客户小组了解安全领导者如何消除复杂性并专注于真正改善结果的方法。]]></description>
       <guid>https://www.rapid7.com/blog/post/it-security-leaders-cut-through-complexity-driving-stronger-outcomes-webinar</guid>
       <pubDate>Tue, 26 May 2026 12:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 总结 05/22/2026</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-22-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-22-2026</guid>
-      <pubDate>Fri, 22 May 2026 19:10:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
