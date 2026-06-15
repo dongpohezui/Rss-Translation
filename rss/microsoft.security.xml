@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 15 Jun 2026 16:54:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 20:42:58 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Defender 电子邮件安全基准测试：一年数据的重要见解</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/</link>
+      <description><![CDATA[了解 Microsoft Defender 在针对 SEG 和 ICES 供应商的一年实际电子邮件安全基准测试中的表现。
+Microsoft Defender 电子邮件安全基准测试：一年数据的关键见解首先出现在 Microsoft Security 上博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/</guid>
+      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 ASSERT 将任何代理的规范转换为评估</title>
       <link>https://commandline.microsoft.com/assert-written-intent-executable-evals/</link>
@@ -76,14 +84,6 @@
 微软被评为 2026 年 Gartner® 端点保护魔力象限™ 的领导者一文首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/</guid>
       <pubDate>Fri, 29 May 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>误植的 npm 包用于窃取云和 CI/CD 机密</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/</link>
-      <description><![CDATA[Mini Shai-Hulud 活动使用恶意 npm 包来跨开发人员环境瞄准云和 CI/CD 凭证。本报告详细介绍了攻击链、检测机会和缓解指南，以帮助组织识别和破坏相关活动。
-用于窃取云和 CI/CD 机密的误植 npm 包的帖子首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/</guid>
-      <pubDate>Fri, 29 May 2026 03:04:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

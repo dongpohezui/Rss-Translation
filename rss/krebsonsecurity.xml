@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Mon, 15 Jun 2026 16:52:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 20:42:40 GMT</lastBuildDate>
     <item>
       <title>谁是勒索软件组织“绅士们”的运营者？</title>
       <link>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>2026 年 6 月星期二的破纪录补丁</title>
       <link>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</link>
-      <description><![CDATA[微软今天发布了软件更新，以填补其 Windows 操作系统和支持软件中的近 200 个安全漏洞，这是该公司每月补丁星期二周期的修复数量创纪录的数字。其中近三打漏洞获得了微软最可怕的“严重”评级，并且至少其中三个漏洞的利用代码现已公开。]]></description>
+      <description><![CDATA[微软今天发布了软件更新，以填补其 Windows 操作系统和支持软件中的近 200 个安全漏洞，这是该公司每月补丁星期二周期的修复数量创纪录的。其中近三打漏洞获得了微软最可怕的“严重”评级，并且至少其中三个漏洞的利用代码现已公开。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</guid>
       <pubDate>Tue, 09 Jun 2026 22:07:28 GMT</pubDate>
     </item>
@@ -62,9 +62,9 @@
       <pubDate>Tue, 12 May 2026 21:46:45 GMT</pubDate>
     </item>
     <item>
-      <title>帆布破损扰乱了全国的学校和学院</title>
+      <title>帆布破坏扰乱了全国的学校和学院</title>
       <link>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</link>
-      <description><![CDATA[今天，针对广泛使用的教育技术平台 Canvas 的持续数据勒索攻击扰乱了美国各地学区和大学的课堂和课程，此前一个网络犯罪团伙以勒索赎金的方式破坏了该服务的登录页面，威胁要泄露近 9,000 家教育机构 2.75 亿学生和教师的数据。]]></description>
+      <description><![CDATA[今天，针对广泛使用的教育技术平台 Canvas 的持续数据勒索攻击扰乱了美国各地学区和大学的课程和课程，此前一个网络犯罪团伙以勒索赎金的方式破坏了该服务的登录页面，威胁要泄露近 9,000 家教育机构 2.75 亿学生和教师的数据。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
       <pubDate>Fri, 08 May 2026 02:58:46 GMT</pubDate>
     </item>

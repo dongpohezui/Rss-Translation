@@ -4,7 +4,21 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 16:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 20:42:31 GMT</lastBuildDate>
+    <item>
+      <title>NIS2 正在提高标准。以下是如何将准备状态转变为韧性的方法。</title>
+      <link>https://www.rapid7.com/blog/post/so-nis2-compliance-turn-readiness-into-resilience</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/so-nis2-compliance-turn-readiness-into-resilience</guid>
+      <pubDate>Mon, 15 Jun 2026 17:29:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的安全计划是否符合 NIS2 要求？</title>
+      <link>https://www.rapid7.com/blog/post/so-aligning-security-programmes-with-nis2-requirements</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/so-aligning-security-programmes-with-nis2-requirements</guid>
+      <pubDate>Mon, 15 Jun 2026 17:24:20 GMT</pubDate>
+    </item>
     <item>
       <title>超越分数：利用 AI 将 CVE 转化为现实世界的商业风险</title>
       <link>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[在本周的专家对专家中，我将与 Rapid7 的信任、风险和合规总监 Sergio Alonso 一起讨论合规性正在发生的变化，以及为什么许多安全团队正在重新思考他们处理准备情况、报告和运营风险的方式。对话中最大的主题之一是合规性不再是组织可以将其视为时间点练习的东西。 NIS2 和 DORA 等框架提高了人们对弹性和问责制的期望，而云环境和更快的发布周期使得证明控制措施随着时间的推移始终如一地发挥作用变得更加困难。我们还讨论了安全运营和合规性报告之间日益扩大的差距。安全团队每天都会生成大量运营数据，但将其转化为监管机构、审计人员和领导团队可以实际使用的证据仍然是一个挑战。对话着眼于组织如何努力减少人工工作，自动化可以在哪些方面真正发挥作用，以及为什么随着监管压力的增加，可见性和所有权变得越来越重要。组织仍然将合规性与日常安全操作分开，取得最大进展的团队正在将这两个世界更加紧密地结合在一起，将合规性视为操作工作流程的一部分，而不是报告层观看下面的完整剧集，了解完整的对话以及组织在 2026 年如何应对合规性、风险和弹性。⠀]]></description>
       <guid>https://www.rapid7.com/blog/post/it-cybersecurity-experts-continuous-compliance</guid>
       <pubDate>Thu, 28 May 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-52806：通过 Gogs 中的参数注入进行身份验证的 RCE（截至 2026 年 6 月 7 日已修复）</title>
-      <link>https://www.rapid7.com/blog/post/ve-authenticated-rce-via-argument-injection-gogs-unfixed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ve-authenticated-rce-via-argument-injection-gogs-unfixed</guid>
-      <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全领导者如何消除复杂性以取得更好的成果</title>
-      <link>https://www.rapid7.com/blog/post/it-security-leaders-cut-through-complexity-driving-stronger-outcomes-webinar</link>
-      <description><![CDATA[安全领导者所处的环境只会变得越来越复杂。不断扩大的攻击面、快速的人工智能采用、不断增长的工具集以及日益增加的更快响应压力，使得保持对风险和优先级的清晰认识变得更加困难。在 Rapid7 全球网络安全峰会上，客户小组清晰性如何战胜复杂性探索领导者如何在实践中驾驭现实。本次会议借鉴了各行业 CISO 和技术领导者的观点，重点讨论团队如何在管理复杂性的同时不忽视重要事项。讨论不是专注于理论，而是围绕一系列反映团队当前正在处理的实际问题进行讨论。其中包括哪些复杂性使安全性更难管理，警报、数据和交接如何减慢决策速度，以及哪些看似取得了进展但无法提供有意义的结果。随着对话的深入，Netscout Systems 副总裁-CISO Debby Briggs 和 Target RWE 首席技术官 Raheem Daya 等发言人分享了他们的团队如何重新思考流程、习惯和假设会增加噪音，但不会提高安全性。重点转向质疑衡量活动而非风险的指标，并关注推动有意义结果的因素。从这里开始，会议着眼于真正产生影响的因素。主题包括领导者如何明确优先级、使安全行动与实际业务影响保持一致，以及可见性和背景在哪些方面比数量更有价值。 Culligan International 信息安全经理 Will Lambert 补充了从业者的观点，强调更清晰的所有权和更好的团队间协调如何有助于减少日常运营中的摩擦。整个会议的重点仍然是实际决策。这包括在不过度简化的情况下管理复杂性、验证 MDR 和整合等领域的投资，以及确保安全团队专注于提高弹性的结果。对于 CISO、安全运营领导者和评估其当前方法的团队来说，本小组提供了有关其他人如何应对相同挑战的扎实观点。观看完整的客户小组了解安全领导者如何消除复杂性并专注于真正改善结果的方法。]]></description>
-      <guid>https://www.rapid7.com/blog/post/it-security-leaders-cut-through-complexity-driving-stronger-outcomes-webinar</guid>
-      <pubDate>Tue, 26 May 2026 12:51:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
