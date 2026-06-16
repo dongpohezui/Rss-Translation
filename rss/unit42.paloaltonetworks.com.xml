@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:35:47 GMT</lastBuildDate>
+    <item>
+      <title>现代 SOC 内部：72 分钟比赛</title>
+      <link>https://unit42.paloaltonetworks.com/soc-72-minute-race/</link>
+      <description><![CDATA[攻击者可以在 72 分钟内从访问转移到渗透。了解现代 SOC 团队如何利用 Unit 42 的 AI 驱动自动化、威胁追踪、MDR 和托管 XSIAM 缩小速度差距。
+帖子现代 SOC 内部：72 分钟竞赛首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/soc-72-minute-race/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>追踪数字意图：新 MacOS Tahoe 26 神器被发现</title>
       <link>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</link>
@@ -116,14 +124,6 @@
 帖子Inside AD CS Escalation: Unpacking Advanced Misuse Techniques and Tools首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/active-directory-certificate-services-exploitation/</guid>
       <pubDate>Mon, 11 May 2026 22:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>威胁简介：利用 PAN-OS 强制门户零日漏洞进行未经身份验证的远程代码执行</title>
-      <link>https://unit42.paloaltonetworks.com/captive-portal-zero-day/</link>
-      <description><![CDATA[第 42 单元详细介绍了 CVE-2026-0300，这是 PAN-OS 用户 ID 身份验证门户中的缓冲区溢出漏洞。立即阅读了解详情。 
-帖子威胁简介：利用 PAN-OS 强制门户零日漏洞进行未经身份验证的远程代码执行首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/captive-portal-zero-day/</guid>
-      <pubDate>Thu, 07 May 2026 00:00:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
