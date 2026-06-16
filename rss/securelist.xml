@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Jun 2026 16:51:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:50:13 GMT</lastBuildDate>
+    <item>
+      <title>Steam创意工坊发现数十张恶意壁纸：玩家账户面临风险</title>
+      <link>https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/</link>
+      <description><![CDATA[自 2025 年底以来，恶意软件通过 Steam 创意工坊（该游戏平台的内置服务，供玩家创建和共享自定义内容）迅速传播。攻击者主要针对中国和俄罗斯的游戏玩家。]]></description>
+      <guid>https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/</guid>
+      <pubDate>Tue, 16 Jun 2026 09:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>Argamal：隐藏在无尽游戏中的恶意软件</title>
       <link>https://securelist.com/argamal-rat-distributed-with-hentai-games/119999/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[该报告介绍了 2026 年第一季度针对运行 Windows 和 macOS 的个人电脑以及物联网 (IoT) 设备的恶意软件的主要趋势和统计数据。]]></description>
       <guid>https://securelist.com/malware-report-q1-2026-pc-iot-statistics/119828/</guid>
       <pubDate>Mon, 18 May 2026 12:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kimsuky 使用基于 PebbleDash 的工具瞄准组织</title>
-      <link>https://securelist.com/kimsuky-appleseed-pebbledash-campaigns/119785/</link>
-      <description><![CDATA[卡巴斯基研究人员分析了最近 Kimsuky 活动中使用的一系列基于 PebbleDash 的新工具，并揭示了它们与 AppleSeed 恶意软件集群的联系。]]></description>
-      <guid>https://securelist.com/kimsuky-appleseed-pebbledash-campaigns/119785/</guid>
-      <pubDate>Thu, 14 May 2026 11:00:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
