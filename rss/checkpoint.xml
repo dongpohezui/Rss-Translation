@@ -4,11 +4,19 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 15 Jun 2026 16:52:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 14:47:54 GMT</lastBuildDate>
+    <item>
+      <title>从明星到点赞：虚假声誉助长加密剪贴板劫持者</title>
+      <link>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</link>
+      <description><![CDATA[要点介绍 在这项研究中，我们分析了一个剪贴板劫持者活动，该活动隐藏在一系列声称为用户提供不公平优势的“解决方案”和“工具”中。这些优惠包括 Solana 和 Pump.fun 狙击机器人（尝试比其他交易者更快购买新代币或 meme 硬币的自动化工具）、Aviator Predictor […]
+这篇文章从明星到点赞：虚假声誉助长了加密剪贴板劫持者首先出现在Check Point Research上。]]></description>
+      <guid>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</guid>
+      <pubDate>Wed, 17 Jun 2026 13:38:55 GMT</pubDate>
+    </item>
     <item>
       <title>6 月 15 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 15 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和泄露 英国研究型大学诺丁汉大学在 ShinyHunters 访问其学生记录系统后遭遇数据泄露。该事件影响了约 454,600 名现任和前任学生，并暴露了联系方式，[…]
+      <description><![CDATA[有关 6 月 15 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 英国研究型大学诺丁汉大学在 ShinyHunters 访问其学生记录系统后遭遇数据泄露。该事件影响了约 454,600 名现任和前任学生，并暴露了联系方式，[…]
 6 月 15 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/</guid>
       <pubDate>Mon, 15 Jun 2026 13:40:44 GMT</pubDate>
@@ -48,16 +56,16 @@
     <item>
       <title>2026 年 3 月至 4 月人工智能威胁态势摘要</title>
       <link>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</link>
-      <description><![CDATA[Executive Summary During the March–April 2026 reporting period, AI use in offensive operations advanced from development and planning to real-time operational deployment. Multiple independent cases, involving individual criminal actors, mass exploitation platforms, ransomware groups, and state-sponsored espionage, show evidence of commercial AI models executing autonomous attack workflows across extended campaigns.主要发现：人工智能是实时的[…]
-The post AI Threat Landscape Digest March-April 2026 appeared first on Check Point Research.]]></description>
+      <description><![CDATA[执行摘要 在 2026 年 3 月至 4 月的报告期内，人工智能在进攻性作战中的使用从开发和规划进展到实时作战部署。涉及个人犯罪分子、大规模利用平台、勒索软件团体和国家资助的间谍活动的多个独立案件显示了商业人工智能模型在扩展活动中执行自主攻击工作流程的证据。主要发现：人工智能是实时的[…]
+这篇文章2026 年 3 月至 4 月人工智能威胁形势摘要首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</guid>
       <pubDate>Tue, 26 May 2026 10:09:59 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>5 月 25 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</link>
-      <description><![CDATA[有关 5 月 25 日当周网络研究的最新发现，请下载我们的威胁情报公告。 TOP ATTACKS AND BREACHES 7-Eleven, the global convenience store chain, confirmed a breach after an unauthorized access to systems used for franchisee documents. ShinyHunters 声称对此负责，并称其窃取了超过 600,000 条包含个人 […] 的 Salesforce 记录
-The post 25th May – Threat Intelligence Report appeared first on Check Point Research.]]></description>
+      <description><![CDATA[有关 5 月 25 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 全球连锁便利店 7-11 在未经授权访问用于特许经营商文件的系统后确认存在违规行为。 ShinyHunters 声称对此负责，并表示其窃取了超过 600,000 条包含个人 […] 的 Salesforce 记录
+5 月 25 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</guid>
       <pubDate>Mon, 25 May 2026 15:08:40 GMT</pubDate>
     </item>
@@ -110,20 +118,12 @@ The post 25th May – Threat Intelligence Report appeared first on Check Point R
       <pubDate>Mon, 04 May 2026 13:49:31 GMT</pubDate>
     </item>
     <item>
-      <title>VECT：勒索软件是有意设计的，雨刮器是意外造成的</title>
+      <title>VECT：勒索软件是故意设计的，雨刮器是意外造成的</title>
       <link>https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/</link>
       <description><![CDATA[关键要点背景 VECT 勒索软件是一种勒索软件即服务 (RaaS) 程序，于 2025 年 12 月首次出现在俄语网络犯罪论坛上。在 2026 年 1 月认领首批两名受害者后，该组织因宣布与 TeamPCP 合作而重新进入公众视野，TeamPCP 是多起供应链攻击的幕后黑手[…]
 帖子VECT：设计勒索软件，意外擦除首先出现在Check Point Research。]]></description>
       <guid>https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/</guid>
       <pubDate>Tue, 28 Apr 2026 13:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>4 月 27 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/27th-april-threat-intelligence-report/</link>
-      <description><![CDATA[有关 4 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 前端云平台 Vercel 披露了与 Context.ai 漏洞相关的安全事件，其中被盗的 OAuth 令牌导致通过连接的应用程序进行未经授权的访问。该公司报告了对员工的访问[…]
-4 月 27 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/27th-april-threat-intelligence-report/</guid>
-      <pubDate>Mon, 27 Apr 2026 12:07:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
