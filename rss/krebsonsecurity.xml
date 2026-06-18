@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Thu, 18 Jun 2026 14:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:08:00 GMT</lastBuildDate>
+    <item>
+      <title>“Popa”僵尸网络与以色列上市公司有关</title>
+      <link>https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/</link>
+      <description><![CDATA[在过去的四年里，一个名为 Popa 的庞大的基于 Android 的僵尸网络迫使数以百万计的消费者电视盒转发与广告欺诈、帐户接管和大规模数据抓取活动相关的互联网流量。本周，来自多家安全公司的研究人员得出结论，Popa 僵尸网络与 NetNut 有关，NetNut 是由以色列上市公司 Alarum Technologies Ltd [纳斯达克股票代码：ALAR] 运营的“住宅代理”提供商。]]></description>
+      <guid>https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/</guid>
+      <pubDate>Thu, 18 Jun 2026 17:37:58 GMT</pubDate>
+    </item>
     <item>
       <title>谁是勒索软件组织“绅士们”的运营者？</title>
       <link>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[今天，针对广泛使用的教育技术平台 Canvas 的持续数据勒索攻击扰乱了美国各地学区和大学的课程和课程，此前一个网络犯罪团伙以勒索赎金的方式破坏了该服务的登录页面，威胁要泄露近 9,000 家教育机构 2.75 亿学生和教师的数据。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
       <pubDate>Fri, 08 May 2026 02:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>反 DDoS 公司对巴西 ISP 发起大量攻击</title>
-      <link>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</link>
-      <description><![CDATA[KrebsOnSecurity 获悉，一家专门保护网络免受分布式拒绝服务 (DDoS) 攻击的巴西科技公司一直在启用僵尸网络，对巴西其他网络运营商进行大规模 DDoS 攻击。该公司首席执行官表示，恶意活动是由于安全漏洞造成的，很可能是竞争对手试图玷污公司的公众形象所为。]]></description>
-      <guid>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</guid>
-      <pubDate>Thu, 30 Apr 2026 14:04:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
