@@ -4,7 +4,14 @@
     <title>凯文·博蒙特在 Medium 上的故事</title>
     <link>https://medium.com/@networksecurity?source=rss-7db6d2df42a6------2</link>
     <description>凯文·博蒙特在 Medium 上的故事</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:22:51 GMT</lastBuildDate>
+    <item>
+      <title>FortiBleed  的最新动态 -  受害者组织发生了什么</title>
+      <link>https://doublepulsar.com/an-update-on-fortibleed-whats-happening-with-victim-orgs-c0671a50e7f4?source=rss-7db6d2df42a6------2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://doublepulsar.com/an-update-on-fortibleed-whats-happening-with-victim-orgs-c0671a50e7f4?source=rss-7db6d2df42a6------2</guid>
+      <pubDate>Fri, 19 Jun 2026 19:02:25 GMT</pubDate>
+    </item>
     <item>
       <title>FortiBleed — 75k Fortinet 防火墙的管理员密码被破解</title>
       <link>https://doublepulsar.com/fortibleed-75k-fortinet-firewalls-have-admin-passwords-cracked-60299faa65f8?source=rss-7db6d2df42a6------2</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Microsoft 在 Recall 的基础上构建了 Gaming Copilot  -  未通过基本隐私测试您可能还记得我关于 Microsoft Recall 的博客：回想一下：现在可以窃取您在自己的 Windows PC 上输入或查看过的所有内容。通过 Windows 11，Microsoft 目前正在向所有客户推出 Gaming Copilot。它使用 Copilot Vision（类似于 Recall），基本上使用 AI 检查游戏玩家正在做什么，以便为他们提供提示和技巧等。Microsoft 开始在 Windows 11 上推出 Gaming Copilot PC该软件被标记为测试版，但无论如何都会被推送到现有的 PC，因为..好吧..为什么不在产品中测试一些东西，毕竟已经是 2025 年了。它出现在游戏栏中，可以通过 Windows 键 + G 访问。您可能还没有它，因为他们正在分阶段部署。我不在 Windows 预览体验成员中，但我安装了它  -  所以看起来它的推广正在变得越来越广泛。请注意，我已从电脑上卸载了 Copilot…但 Gaming Copilot 仍然以静默方式安装。用户界面如下所示：没有入门步骤，也没有通知它已安装，并且没有选择隐私选项。我在英国，所以我很惊讶。默认情况下，它会默默地捕获游戏的屏幕截图：其工作原理基本上是 Copilot Vision AI：现在 Microsoft 的 Copilot Vision AI 可以扫描屏幕上的所有内容它与 Recall 类似，只是并非所有处理都在本地完成  - 它依赖于云。它会截取游戏玩法的屏幕截图，然后提取屏幕元素（例如符号和文本）以了解玩家正在做什么。这个想法是它可以帮助你玩游戏，例如您可以询问有关您在特定时刻在游戏中进行的操作的问题。网络流量设置为向 Microsoft 提供关于游戏玩家正在玩什么和做什么的信息，使用 Azure  上托管的当前未记录的端点 —  至少我找不到 Microsoft 网站或 Google 搜索上任何位置列出的端点。默认情况下，它还设置为在文本上训练 Microsoft 的 AI 模型，并记录对话和推断的兴趣“个性化您的体验”，根据链接的 Microsoft 在线隐私政策，该体验可能会用于广告等用途。您可以从游戏栏中禁用 Gaming Copilot 小部件，但从目前的实验来看，网络流量仍然在用户界面未打开的情况下运行 — 我不知道这是一个功能还是一个错误。我的意见是微软需要为此在游戏栏之外添加一个入门向导，默认关闭文本和屏幕截图的模型训练 — 人们应该选择加入 — 并且非常清楚此功能是如何工作的。我仍在关注网络安全影响 — 更多的是，它很时髦，因为它为 Windows 11 PC 增加了新的攻击面。Microsoft 在 Recall 上构建了 Gaming Copilot — 未通过基本隐私测试 最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示和回复来继续对话到这个故事。]]></description>
       <guid>https://doublepulsar.com/microsoft-builds-on-recall-with-gaming-copilot-fails-basic-privacy-tests-52988576bcc8?source=rss-7db6d2df42a6------2</guid>
       <pubDate>Thu, 23 Oct 2025 10:01:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>红帽咨询违规事件使 5000 多家知名企业客户面临风险 — 详细信息</title>
-      <link>https://doublepulsar.com/red-hat-consulting-breach-puts-over-5000-high-profile-enterprise-customers-at-risk-in-detail-90114f18f706?source=rss-7db6d2df42a6------2</link>
-      <description><![CDATA[红帽咨询违规行为使 5000 多家知名企业客户面临风险 — 详情上周，一个名为 Crimson Collective 的鲜为人知的勒索组织引起了我的注意。当时他们在 Telegram 上只有 22 名关注者。红帽当天晚些时候确认了此次泄露，并开始通知受影响的客户。红帽咨询是进入大型企业处理复杂技术问题的顾问。很明显，他们围绕客户的文档和源代码已被盗。Brian Krebs 注意到一些有趣的事情：据称，Miku 是 Thalha Jubair 的 Telegram 用户名，Thalha Jubair 是一位因 LAPSUS$ 闻名的英国青少年。在 NCA 指控塔尔哈是分散蜘蛛组织成员后，塔尔哈应该被还押候审：https://www.nationalcrimeagency.gov.uk/news/two-charged-for-tfl-cyber-attack值得注意的是Crimson Collective 列出的第一个受害者是电信公司 Claro ——2021 年 LAPSUS$ 的第一个受害者。此外，通过 Red Hat Collective 黑客攻击，他们在屏幕截图中突出显示了沃达丰 —— 他们也是 2022 年 LAPSUS$ 的目标。快进到周末，分散的 LAPSUS$ 猎人在他们新成立的门户网站上发布了红帽的条目：该门户具有 LAPSUS$ 活动的所有特征，例如，拼写以前拼写过的单词、HTML 评论中的随意种族主义、笑话和……口袋妖怪曲调。红帽妥协日期列出的时间为 2025 年 9 月 13 日，即 Thalha 被指控参与伦敦交通黑客攻击之前。该数据是合法的。他们发布了一个文件树作为证据，涉及 370,852 个目录、3,438,976 个文件。他们还发布了 7 个组织的 CER 样本 — 咨询参与报告 — ：AIR、AMEX_GBT、Atos_Group（NHS Scotland）、BOC、HSBC 和 Walmart。https://medium.com/media/c619dac5f0d8c1c017f2f63b7579ffec/href今天早些时候，他们又发布了 Red 的 2.2GB 样本数据Hat ——这是一个 ZIP 文件，其中包含我见过的最长的文件树。显示超过 3200 万个文件被盗。文件树表明超过 5000 个企业组织受到影响，其中包括咨询参与报告、源代码和其他与所述客户相关的信息。某些数据显然是敏感的，例如.pfx 文件示例（私有证书，切勿公开） — 在本例中为 ING 银行和达美航空公司：我的感觉 — 红帽不应该支付勒索费用，因为这会鼓励更多此类攻击，如果 Thalha 仍被拘留，有人可能想检查他是否有 Amazon Fire Stick。受影响的组织应联系红帽咨询支持，获取被盗文件 —并采取补救措施，例如：更改证书、存储的凭证等，并假设所有文件将来都会公开，因为很明显它们已经在网上进行了交易。如果需要，您可以在 Mastodon 上关注我以获取有关此主题的更新。红帽咨询违规行为使 5000 多家知名企业客户面临风险 — 详细信息 最初发布于 DoublePulsar 在 Medium 上，人们通过突出显示并回应这个故事来继续对话。]]></description>
-      <guid>https://doublepulsar.com/red-hat-consulting-breach-puts-over-5000-high-profile-enterprise-customers-at-risk-in-detail-90114f18f706?source=rss-7db6d2df42a6------2</guid>
-      <pubDate>Mon, 06 Oct 2025 19:51:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
