@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:07:20 GMT</lastBuildDate>
     <item>
       <title>AutoJack：单页面如何对运行 AI 代理的主机进行 RCE</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/</link>
@@ -22,10 +22,10 @@
       <pubDate>Thu, 18 Jun 2026 19:36:08 GMT</pubDate>
     </item>
     <item>
-      <title>从软件包到安装后有效负载：Mastra npm 供应链妥协的内部</title>
+      <title>从软件包到安装后有效负载：Sapphire Sleet 入侵 Mastra npm 供应链的内部</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/</link>
       <description><![CDATA[有毒的 npm 包感染了 140 多个具有隐藏负载的项目。本报告重点介绍了如何使用 Microsoft Defender 和可操作的威胁情报来检测、追捕和防御供应链攻击。
-这篇文章从软件包到安装后负载：Mastra npm 供应链泄露内部首先出现在微软安全博客上。]]></description>
+帖子从软件包到安装后有效负载：Sapphire Sleet 造成的 Mastra npm 供应链泄露首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/</guid>
       <pubDate>Thu, 18 Jun 2026 03:43:04 GMT</pubDate>
     </item>
