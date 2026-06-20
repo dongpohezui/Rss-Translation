@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Tue, 16 Jun 2026 10:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 08:38:48 GMT</lastBuildDate>
+    <item>
+      <title>威胁简介：缓解大规模凭证攻击</title>
+      <link>https://unit42.paloaltonetworks.com/large-scale-credential-attacks/</link>
+      <description><![CDATA[我们提供了准备和缓解大规模凭据攻击的指南，重点关注最近针对安全供应商设备的活动。 
+帖子威胁简介：缓解大规模凭据攻击首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/large-scale-credential-attacks/</guid>
+      <pubDate>Sat, 20 Jun 2026 02:05:33 GMT</pubDate>
+    </item>
     <item>
       <title>Pickle in the Middle – 劫持 Vertex AI 模型上传以实现跨租户 RCE</title>
       <link>https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/</link>
@@ -116,14 +124,6 @@
 帖子通过证书和代码重用跟踪 TamperedChef 集群首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/tracking-tampered-chef-clusters/</guid>
       <pubDate>Wed, 20 May 2026 10:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gremlin Stealer 的策略演变：利用资源文件隐藏在众目睽睽之下</title>
-      <link>https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/</link>
-      <description><![CDATA[第 42 单元分析了 Gremlin 窃取者的演变。该变体使用高级混淆、加密剪辑和会话劫持来破坏数据。
-帖子Gremlin Stealer的进化策略：利用资源文件隐藏在众目睽睽之下首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/</guid>
-      <pubDate>Fri, 15 May 2026 10:00:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
