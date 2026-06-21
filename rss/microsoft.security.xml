@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sun, 21 Jun 2026 02:30:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:35:56 GMT</lastBuildDate>
     <item>
       <title>AutoJack：单页面如何对运行 AI 代理的主机进行 RCE</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/</link>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 17 Jun 2026 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Defender 电子邮件安全基准测试：一年数据的重要见解</title>
+      <title>Microsoft Defender 电子邮件安全基准测试：一年数据的关键见解</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/</link>
       <description><![CDATA[了解 Microsoft Defender 在针对 SEG 和 ICES 供应商的一年实际电子邮件安全基准测试中的表现。
 Microsoft Defender 电子邮件安全基准测试：一年数据的关键见解首先出现在 Microsoft Security 上博客。]]></description>
