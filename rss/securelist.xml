@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 22 Jun 2026 02:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:30:06 GMT</lastBuildDate>
+    <item>
+      <title>通过 WhatsApp 部署 RMM 软件分发的 VBScript 活动</title>
+      <link>https://securelist.com/whatsapp-vbs-rmm-campaign/120290/</link>
+      <description><![CDATA[卡巴斯基研究人员分析了一个全球恶意活动，该活动通过 WhatsApp 分发 VBS 脚本，通过多阶段感染链提供 UEMS RMM 代理。]]></description>
+      <guid>https://securelist.com/whatsapp-vbs-rmm-campaign/120290/</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:38 GMT</pubDate>
+    </item>
     <item>
       <title>Steam创意工坊发现数十张恶意壁纸：玩家账户面临风险</title>
       <link>https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[该报告包含 2026 年第一季度的移动威胁统计数据，以及值得注意的发现和季度趋势：SparkCat 和 Triada 的新版本。]]></description>
       <guid>https://securelist.com/malware-report-q1-2026-mobile-statistics/119819/</guid>
       <pubDate>Mon, 18 May 2026 12:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年第一季度 IT 威胁演变。非移动统计</title>
-      <link>https://securelist.com/malware-report-q1-2026-pc-iot-statistics/119828/</link>
-      <description><![CDATA[该报告介绍了 2026 年第一季度针对运行 Windows 和 macOS 的个人电脑以及物联网 (IoT) 设备的恶意软件的主要趋势和统计数据。]]></description>
-      <guid>https://securelist.com/malware-report-q1-2026-pc-iot-statistics/119828/</guid>
-      <pubDate>Mon, 18 May 2026 12:00:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
