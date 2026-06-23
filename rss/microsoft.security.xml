@@ -4,11 +4,12 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 23 Jun 2026 02:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:55:21 GMT</lastBuildDate>
     <item>
       <title>守护AI记忆</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[当威胁行为者针对人工智能记忆的内容时会发生什么？ Microsoft 打破了风险和防御措施。
+这篇文章保护人工智能内存首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/</guid>
       <pubDate>Mon, 22 Jun 2026 19:07:28 GMT</pubDate>
     </item>
