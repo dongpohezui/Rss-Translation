@@ -4,7 +4,14 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 22 Jun 2026 20:31:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:01:55 GMT</lastBuildDate>
+    <item>
+      <title>守护AI记忆</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/</guid>
+      <pubDate>Mon, 22 Jun 2026 19:07:28 GMT</pubDate>
+    </item>
     <item>
       <title>一次入侵，两名网络攻击者：发现并行威胁活动</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/</link>
@@ -76,14 +83,6 @@
 Microsoft Defender 电子邮件安全基准测试：一年数据的关键见解首先出现在 Microsoft Security 上博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/</guid>
       <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ASSERT 将任何代理的规范转换为评估</title>
-      <link>https://commandline.microsoft.com/assert-written-intent-executable-evals/</link>
-      <description><![CDATA[用于评估和回归测试的自适应规范驱动评分 (ASSERT) 是一个开源框架，用于将自然语言行为要求转换为人工智能模型和代理的可执行评估。
-使用 ASSERT 将规范转换为任何代理的评估一文首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://commandline.microsoft.com/assert-written-intent-executable-evals/</guid>
-      <pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
