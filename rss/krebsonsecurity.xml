@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Tue, 23 Jun 2026 14:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:47:35 GMT</lastBuildDate>
+    <item>
+      <title>分散的蜘蛛黑客在审判第一天认罪</title>
+      <link>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</link>
+      <description><![CDATA[本周，英国两名男子对 2024 年 8 月网络攻击造成的刑事指控认罪，该攻击导致负责大伦敦地区公共交通网络的伦敦交通局瘫痪。这两人是一个名为“分散蜘蛛”的多产网络犯罪组织的主要成员，他们在预计为期六周的审判的第一天认罪。]]></description>
+      <guid>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</guid>
+      <pubDate>Tue, 23 Jun 2026 16:12:49 GMT</pubDate>
+    </item>
     <item>
       <title>“Popa”僵尸网络与以色列上市公司有关</title>
       <link>https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[人工智能平台可能和人类一样容易受到社会工程的影响，但事实证明，它们非常擅长发现人造计算机代码中的安全漏洞。这一现实在本月得到了充分体现，一些使用更广泛的软件制造商——包括苹果、谷歌、微软、Mozilla 和甲骨文——修复了接近创纪录数量的安全漏洞，和/或加快了补丁发布的速度。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</guid>
       <pubDate>Tue, 12 May 2026 21:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>帆布破损扰乱了全国的学校和学院</title>
-      <link>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</link>
-      <description><![CDATA[今天，针对广泛使用的教育技术平台 Canvas 的持续数据勒索攻击扰乱了美国各地学区和大学的课程和课程，此前一个网络犯罪团伙以勒索赎金的方式破坏了该服务的登录页面，威胁要泄露近 9,000 家教育机构 2.75 亿学生和教师的数据。]]></description>
-      <guid>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
-      <pubDate>Fri, 08 May 2026 02:58:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

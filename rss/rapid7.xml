@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 14:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:47:20 GMT</lastBuildDate>
+    <item>
+      <title>为什么 SIEM 正在转向统一安全运营：Rapid7 被 IDC MarketScape 评为主要参与者</title>
+      <link>https://www.rapid7.com/blog/post/dr-siem-moving-toward-unified-security-operations-rapid7-named-idc-marketscape-major-player</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/dr-siem-moving-toward-unified-security-operations-rapid7-named-idc-marketscape-major-player</guid>
+      <pubDate>Tue, 23 Jun 2026 17:03:34 GMT</pubDate>
+    </item>
     <item>
       <title>Metasploit 每周更新：NTLM Relay Priv Esc、MCP 服务器集成、Paperclip AI RCE 链等</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-19-06-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ve-cve-2026-0826-how-an-old-bug-can-feed-ai-powered-impersonation</guid>
       <pubDate>Mon, 01 Jun 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 和 Exclusive Network 扩大北欧地区的合作伙伴关系</title>
-      <link>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-nordics-partnership-stronger-cybersecurity-outcomes-together</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-nordics-partnership-stronger-cybersecurity-outcomes-together</guid>
-      <pubDate>Mon, 01 Jun 2026 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
