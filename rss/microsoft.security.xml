@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 24 Jun 2026 14:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 19:26:37 GMT</lastBuildDate>
+    <item>
+      <title>CNAPP 演变：Microsoft 如何与领先的云风险管理平台保持一致</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/</link>
+      <description><![CDATA[了解 CNAPP 平台如何帮助组织确定可利用风险的优先级、减少风险并在整个应用程序生命周期中实施安全性。
+CNAPP 演变：Microsoft 如何与领先的云风险管理平台保持一致一文首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/24/cnapp-evolution-how-microsoft-aligns-with-leading-cloud-risk-management-platforms/</guid>
+      <pubDate>Wed, 24 Jun 2026 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>StealC 和 Amadey：打击信息窃取者和提供信息窃取者的网络犯罪服务</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/</link>
@@ -76,14 +84,6 @@
 这篇文章​​Forrester 在 2026 年扩展检测和响应平台 Wave™ 报告中将 Microsoft 评为领导者首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/</guid>
       <pubDate>Wed, 17 Jun 2026 18:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能正在加速网络攻击——以下是保持领先的方法</title>
-      <link>https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592</link>
-      <description><![CDATA[了解 Microsoft 如何统一身份和安全信号，帮助团队更快地预防、检测和响应 AI 加速的攻击。
-帖子人工智能正在加速网络攻击 - 以下是保持领先的方法首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592</guid>
-      <pubDate>Wed, 17 Jun 2026 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
