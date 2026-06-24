@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 24 Jun 2026 08:50:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:02:30 GMT</lastBuildDate>
+    <item>
+      <title>StrikeShark：调查通过 SharkLoader 提供 Cobalt Strike 的新活动</title>
+      <link>https://securelist.com/strikeshark-campaign/120326/</link>
+      <description><![CDATA[卡巴斯基研究人员分析了一项名为 StrikeShark 的新全球活动，该活动通过自定义 SharkLoader 恶意软件提供 Cobalt Strike Beacon。]]></description>
+      <guid>https://securelist.com/strikeshark-campaign/120326/</guid>
+      <pubDate>Wed, 24 Jun 2026 10:00:03 GMT</pubDate>
+    </item>
     <item>
       <title>通过 WhatsApp 部署 RMM 软件分发的 VBScript 活动</title>
       <link>https://securelist.com/whatsapp-vbs-rmm-campaign/120290/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们解释了 ExifTool 中的缺陷如何允许攻击者通过恶意图像 (CVE-2026-3102) 危害 macOS 系统。]]></description>
       <guid>https://securelist.com/exiftool-compromise-mac/119866/</guid>
       <pubDate>Wed, 20 May 2026 09:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年第一季度 IT 威胁演变。移动统计</title>
-      <link>https://securelist.com/malware-report-q1-2026-mobile-statistics/119819/</link>
-      <description><![CDATA[该报告包含 2026 年第一季度的移动威胁统计数据，以及值得注意的发现和季度趋势：SparkCat 和 Triada 的新版本。]]></description>
-      <guid>https://securelist.com/malware-report-q1-2026-mobile-statistics/119819/</guid>
-      <pubDate>Mon, 18 May 2026 12:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 24 Jun 2026 08:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:03:36 GMT</lastBuildDate>
+    <item>
+      <title>StealC 和 Amadey：打击信息窃取者和提供信息窃取者的网络犯罪服务</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/</link>
+      <description><![CDATA[2026 年 6 月 24 日，微软数字犯罪部门 (DCU) 协助拆除、暂停和阻止构成 StealC 和 Amadey 基础设施骨干的域名。本博客是 StealC 和 Amadey 的技术细分。
+帖子StealC 和 Amadey：打击信息窃取者以及提供这些信息的网络犯罪服务首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/</guid>
+      <pubDate>Wed, 24 Jun 2026 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>守护AI记忆</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/</link>
@@ -76,14 +84,6 @@
 帖子人工智能正在加速网络攻击 - 以下是保持领先的方法首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592</guid>
       <pubDate>Wed, 17 Jun 2026 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender 电子邮件安全基准测试：一年数据的重要见解</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/</link>
-      <description><![CDATA[了解 Microsoft Defender 在针对 SEG 和 ICES 供应商的一年实际电子邮件安全基准测试中的表现。
-Microsoft Defender 电子邮件安全基准测试：一年数据的关键见解首先出现在 Microsoft Security 上博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
