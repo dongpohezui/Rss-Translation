@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 02:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:50:35 GMT</lastBuildDate>
     <item>
       <title>为什么 SIEM 正在转向统一安全运营：Rapid7 被 IDC MarketScape 评为主要参与者</title>
       <link>https://www.rapid7.com/blog/post/dr-siem-moving-toward-unified-security-operations-rapid7-named-idc-marketscape-major-player</link>
@@ -127,7 +127,7 @@
     <item>
       <title>MDR 分析师的一天：现代 SOC 内部</title>
       <link>https://www.rapid7.com/blog/post/it-day-in-the-life-mdr-analyst-inside-the-modern-soc</link>
-      <description><![CDATA[当事件发生时，SOC 内部实际上会发生什么？ Most teams see the alerts and the outcomes, but the decision-making in between is often less visible.At the Rapid7 2026 Global Cybersecurity Summit, the signature session 现代 SOC 内部：谁带领您渡过难关采取了不同的方法。它不是专注于工具或仪表板，而是从负责调查和遏制事件的人员的角度来跟踪现实世界的事件。本次会议将介绍现代 MDR 团队如何在压力下运作，并借鉴跨云、身份和本地环境的真实经验。 由 Rapid7 销售工程高级总监 Karl Lankford 主持，讨论引入了整个 SOC 的观点，包括事件响应和检测，以展示团队如何在最重要的时候协同工作。本演练围绕完整的事件生命周期进行构建，从初始信号和移动开始通过分类和调查，遵循影响结果的决策。重点不在于理论，而在于实践中如何处理事件，从背景和背景到最终结果。突出的是过程中有多少取决于判断。警报只是起点。从那里，分析师正在努力了解背景、评估风险并决定当前最重要的事情。 This includes identifying compromised identities, understanding how attackers move across environments, and coordinating response across multiple systems.The session also highlights how quickly these decisions need to be made. As shown in the high-level timeline, attackers can move from initial access to broader compromise across cloud and on-prem systems in a matter of minutes, which leaves little room for hesitation or uncertainty.Throughout the walkthrough, the focus stays on what carries organizations through an incident.检测发挥着一定作用，但结果取决于协调、权衡以及在压力下清晰行动的能力。本次会议还探讨了跨环境的可见性如何与以人为主导的响应相结合，帮助团队在影响发生之前连接信号并采取行动。对于从业者、SOC 领导者和评估 MDR 的团队来说，本次会议提供了有关现代事件响应在实际条件下如何运作的扎实观点。它显示了警报和结果之间发生的情况，以及为什么这种差距才是真正的价值所在。 Watch the full session to follow the investigation step by step and see how MDR teams carry organizations through real incidents.]]></description>
+      <description><![CDATA[当事件发生时，SOC 内部实际上会发生什么？大多数团队都会看到警报和结果，但中间的决策往往不太明显。Rapid7 2026全球网络安全峰会签名会议现代 SOC 内部：谁带领您渡过难关采取了不同的方法。它不是专注于工具或仪表板，而是从负责调查和遏制事件的人员的角度来跟踪现实世界的事件。本次会议将介绍现代 MDR 团队如何在压力下运作，并借鉴跨云、身份和本地环境的真实经验。 由 Rapid7 销售工程高级总监 Karl Lankford 主持，讨论引入了整个 SOC 的观点，包括事件响应和检测，以展示团队如何在最重要的时候协同工作。本演练围绕完整的事件生命周期进行构建，从初始信号和移动开始通过分类和调查，遵循影响结果的决策。重点不在于理论，而在于实践中如何处理事件，从背景和背景到最终结果。突出的是过程中有多少取决于判断。警报只是起点。从那里，分析师正在努力了解背景、评估风险并决定当前最重要的事情。这包括识别受损身份、了解攻击者如何跨环境移动以及协调跨多个系统的响应。会议还强调了需要多快地做出这些决策。如高级时间线所示，攻击者可以在几分钟内从最初的访问转向跨云和本地系统的更广泛的破坏，这几乎没有犹豫或不确定的余地。在整个演练中，重点始终放在如何帮助组织渡过事件。检测发挥着一定作用，但结果取决于协调、权衡以及在压力下清晰行动的能力。本次会议还探讨了跨环境的可见性如何与以人为主导的响应相结合，帮助团队在影响发生之前连接信号并采取行动。对于从业者、SOC 领导者和评估 MDR 的团队来说，本次会议提供了有关现代事件响应在实际条件下如何运作的扎实观点。它显示了警报和结果之间发生的情况，以及为什么这种差距才是真正的价值所在。 观看完整会议逐步跟踪调查，了解 MDR 团队如何带领组织应对真实事件。]]></description>
       <guid>https://www.rapid7.com/blog/post/it-day-in-the-life-mdr-analyst-inside-the-modern-soc</guid>
       <pubDate>Wed, 03 Jun 2026 16:27:08 GMT</pubDate>
     </item>
