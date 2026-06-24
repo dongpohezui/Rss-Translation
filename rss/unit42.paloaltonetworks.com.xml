@@ -3,8 +3,16 @@
   <channel>
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
-    <description></description>
-    <lastBuildDate>Tue, 23 Jun 2026 02:01:39 GMT</lastBuildDate>
+    <description>帕洛阿尔托网络</description>
+    <lastBuildDate>Wed, 24 Jun 2026 02:01:47 GMT</lastBuildDate>
+    <item>
+      <title>OpenClaw 的技能市场和新兴的人工智能供应链威胁</title>
+      <link>https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/</link>
+      <description><![CDATA[Unit 42 对 ClawHub 的分析揭示了绕过自动扫描仪的规避恶意技能，以部署信息窃取程序并执行代理金融欺诈。
+帖子OpenClaw 的技能市场和新兴的人工智能供应链威胁首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/</guid>
+      <pubDate>Tue, 23 Jun 2026 22:00:51 GMT</pubDate>
+    </item>
     <item>
       <title>全局命名空间风险：用于云数据泄露的通用存储桶劫持技术</title>
       <link>https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/</link>
@@ -32,7 +40,7 @@
     <item>
       <title>现代 SOC 内部：72 分钟比赛</title>
       <link>https://unit42.paloaltonetworks.com/soc-72-minute-race/</link>
-      <description><![CDATA[Attackers can move from access to exfiltration in 72 minutes. Learn how modern SOC teams close the speed gap with Unit 42&#39;s AI-driven automation, threat hunting, MDR and Managed XSIAM.
+      <description><![CDATA[攻击者可以在 72 分钟内从访问转移到渗透。了解现代 SOC 团队如何利用 Unit 42 的 AI 驱动自动化、威胁追踪、MDR 和托管 XSIAM 缩小速度差距。
 帖子现代 SOC 内部：72 分钟竞赛首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/soc-72-minute-race/</guid>
       <pubDate>Mon, 15 Jun 2026 23:00:19 GMT</pubDate>
@@ -54,15 +62,15 @@
       <pubDate>Thu, 11 Jun 2026 10:00:24 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>蒙蔽守望者：滥用云日志服务进行防御规避和可见性</title>
       <link>https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/</link>
-      <description><![CDATA[Unit 42 research examines attack scenarios targeting cloud logging services. Learn how to defend against log manipulation and defense evasion.
+      <description><![CDATA[Unit 42 研究检查了针对云日志服务的攻击场景。了解如何防御日志操纵和防御规避。
 帖子蒙蔽守望者：滥用云日志服务进行防御规避和可见性首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/</guid>
       <pubDate>Tue, 09 Jun 2026 22:00:21 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>威胁简介：主动利用 PAN-OS CVE-2026-0257</title>
       <link>https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</link>
       <description><![CDATA[我们包含 PAN-OS 漏洞 CVE-2026-0257 的活动指标和缓解措施。
 帖子威胁简介：主动利用 PAN-OS CVE-2026-0257 首先出现在Unit 42上。]]></description>
@@ -72,12 +80,13 @@
     <item>
       <title>当 Microsoft Teams 发出“嗨，这就是 IT”时</title>
       <link>https://unit42.paloaltonetworks.com/microsoft-teams-phishing/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[攻击者越来越多地瞄准 Microsoft Teams 等协作平台。了解增强组织安全性的风险和关键步骤。
+帖子当“嗨，这就是 IT”来自 Microsoft Teams 首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/microsoft-teams-phishing/</guid>
       <pubDate>Mon, 08 Jun 2026 23:00:45 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>npm 威胁形势：攻击面和缓解措施（6 月 2 日更新）</title>
       <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
       <description><![CDATA[第 42 单元分析了 Shai Hulud 后的 npm 供应链演变。发现可蠕虫恶意软件、CI/CD 持久性、多阶段攻击等。 
 帖子npm 威胁形势：攻击面和缓解措施（6 月 2 日更新）首先出现在Unit 42上。]]></description>
@@ -95,8 +104,8 @@
     <item>
       <title>2026 年世界杯：讨论世界上最大的比赛的攻击面</title>
       <link>https://unit42.paloaltonetworks.com/fifa-world-cup-attack-surface/</link>
-      <description><![CDATA[The 2026 World Cup presents major cyber risks from ransomware groups, state-aligned actors, and other groups targeting critical infrastructure.在这里了解更多。 
-The post 2026 World Cup: Discussing The World’s Biggest Game’s Attack Surface appeared first on Unit 42.]]></description>
+      <description><![CDATA[2026 年世界杯带来了来自勒索软件组织、国家联盟行为者和其他针对关键基础设施的组织的重大网络风险。在这里了解更多。 
+帖子2026 年世界杯：讨论世界上最大的比赛的攻击面首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/fifa-world-cup-attack-surface/</guid>
       <pubDate>Thu, 28 May 2026 10:00:53 GMT</pubDate>
     </item>
@@ -111,17 +120,10 @@ The post 2026 World Cup: Discussing The World’s Biggest Game’s Attack Surfac
     <item>
       <title>追踪伊朗 APT 筛查 Serpens 2026 年间谍活动</title>
       <link>https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[第 42 单元详细介绍了在最近的活动中筛查 Serpens 使用 AppDomainManager 劫持和新的 RAT 变体来瞄准科技和国防部门的情况。
+跟踪伊朗 APT 筛选 Serpens 2026 年间谍活动的帖子首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/</guid>
       <pubDate>Fri, 22 May 2026 13:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有意为之：ROADtools 和云中的民族国家策略</title>
-      <link>https://unit42.paloaltonetworks.com/roadtools-cloud-attacks/</link>
-      <description><![CDATA[开源框架 ROADtools 被威胁行为者滥用进行云入侵。 Learn how to identify its malicious use.
-帖子铺垫意图：云端中的ROADtools和民族国家策略首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/roadtools-cloud-attacks/</guid>
-      <pubDate>Fri, 22 May 2026 10:00:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

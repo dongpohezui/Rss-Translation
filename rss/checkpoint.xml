@@ -4,15 +4,7 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 22 Jun 2026 16:25:20 GMT</lastBuildDate>
-    <item>
-      <title>6 月 22 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 22 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 德克萨斯州公园和野生动物部门受到涉及其许可系统供应商的第三方数据泄露事件的影响。该事件暴露了 […] 的驾驶执照信息、护照号码、电子邮件、电话号码和居住地址
-6 月 22 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</guid>
-      <pubDate>Mon, 22 Jun 2026 16:00:02 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 02:02:15 GMT</lastBuildDate>
     <item>
       <title>从明星到点赞：虚假声誉助长加密剪贴板劫持者</title>
       <link>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</link>
@@ -124,6 +116,14 @@
 5 月 4 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/4th-may-threat-intelligence-report/</guid>
       <pubDate>Mon, 04 May 2026 13:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>VECT：勒索软件是故意设计的，雨刮器是意外造成的</title>
+      <link>https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/</link>
+      <description><![CDATA[关键要点背景 VECT 勒索软件是一种勒索软件即服务 (RaaS) 程序，于 2025 年 12 月首次出现在俄语网络犯罪论坛上。在 2026 年 1 月认领首批两名受害者后，该组织因宣布与 TeamPCP 合作而重新进入公众视野，TeamPCP 是多起供应链攻击的幕后黑手[…]
+帖子VECT：设计勒索软件，意外擦除首先出现在Check Point Research。]]></description>
+      <guid>https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/</guid>
+      <pubDate>Tue, 28 Apr 2026 13:03:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
