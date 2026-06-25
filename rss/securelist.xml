@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jun 2026 08:45:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 13:58:48 GMT</lastBuildDate>
+    <item>
+      <title>2026 年中小企业威胁格局内部：从网络钓鱼和诈骗到虚假 AI 工具</title>
+      <link>https://securelist.com/smb-threat-report-2026/120357/</link>
+      <description><![CDATA[卡巴斯基研究人员分析了 2026 年中小型企业的威胁形势：涉及假冒人工智能工具、网络钓鱼计划和暗网上出售数据的攻击的增加。]]></description>
+      <guid>https://securelist.com/smb-threat-report-2026/120357/</guid>
+      <pubDate>Thu, 25 Jun 2026 10:00:59 GMT</pubDate>
+    </item>
     <item>
       <title>StrikeShark：调查通过 SharkLoader 提供 Cobalt Strike 的新活动</title>
       <link>https://securelist.com/strikeshark-campaign/120326/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Cloud Atlas 使用 ReverseSocks、SSH 和 Tor 来持久保留受感染的系统及其新工具 PowerCloud，攻击俄罗斯和白俄罗斯的公共部门和外交结构。]]></description>
       <guid>https://securelist.com/cloud-atlas-2026/119895/</guid>
       <pubDate>Fri, 22 May 2026 09:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像如何危害您的 Mac：了解 ExifTool 漏洞 (CVE-2026-3102)</title>
-      <link>https://securelist.com/exiftool-compromise-mac/119866/</link>
-      <description><![CDATA[我们解释了 ExifTool 中的缺陷如何允许攻击者通过恶意图像 (CVE-2026-3102) 危害 macOS 系统。]]></description>
-      <guid>https://securelist.com/exiftool-compromise-mac/119866/</guid>
-      <pubDate>Wed, 20 May 2026 09:02:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
