@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 08:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:44:29 GMT</lastBuildDate>
+    <item>
+      <title>通过 OAuth 为所有人解锁 Cloudflare 应用程序生态系统</title>
+      <link>https://blog.cloudflare.com/oauth-for-all/</link>
+      <description><![CDATA[自我管理的 OAuth 现已可供 Cloudflare 上的所有开发人员使用。以下是我们如何对核心 OAuth 引擎执行零停机迁移以实现这一目标。]]></description>
+      <guid>https://blog.cloudflare.com/oauth-for-all/</guid>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>后量子地球观测是一个重要的里程碑。现在该开始工作了</title>
       <link>https://blog.cloudflare.com/post-quantum-eo-2026/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
       <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
-      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和法学硕士相结合，我们将误报率减少了高达 200 倍，同时捕获了复杂的零日漏洞。]]></description>
+      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和 LLM 相结合，我们将误报率减少了 200 倍，同时捕获了复杂的零日漏洞。]]></description>
       <guid>https://blog.cloudflare.com/client-side-security-open-to-everyone/</guid>
       <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>AI 应用安全现已全面推出</title>
+      <title>应用程序的人工智能安全现已普遍可用</title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
       <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[电子邮件安全是一场持续的军备竞赛。就像二战工程师只加固返回的飞机一样，幸存者偏差掩盖了真正的差距。但法学硕士可以帮助我们发现看不见的弱点。]]></description>
       <guid>https://blog.cloudflare.com/email-security-phishing-gap-llm/</guid>
       <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为后量子使用、加密消息传递和路由安全带来更多透明度</title>
-      <link>https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/</link>
-      <description><![CDATA[Cloudflare Radar 添加了用于监控 PQ 采用情况的新工具、用于消息传递的 KT 日志以及 ASPA 路由记录，以跟踪互联网向更安全的加密和路由标准的迁移。]]></description>
-      <guid>https://blog.cloudflare.com/radar-origin-pq-key-transparency-aspa/</guid>
-      <pubDate>Fri, 27 Feb 2026 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
