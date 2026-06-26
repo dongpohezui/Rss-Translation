@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Wed, 24 Jun 2026 14:03:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 02:06:15 GMT</lastBuildDate>
+    <item>
+      <title>CL-STA-1062 针对东南亚政府和关键基础设施</title>
+      <link>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</link>
+      <description><![CDATA[攻击者使用混合工具包（包括定制的 TinyRCT 后门）在东南亚针对政府实体和关键基础设施进行间谍活动。 
+CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</guid>
+      <pubDate>Thu, 25 Jun 2026 22:00:52 GMT</pubDate>
+    </item>
     <item>
       <title>OpenClaw 的技能市场和新兴的人工智能供应链威胁</title>
       <link>https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/</link>
@@ -116,14 +124,6 @@
 帖子走出地穴：不断发展的网络勒索经济首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/cyber-extortion-economy/</guid>
       <pubDate>Wed, 27 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>追踪伊朗 APT 筛查 Serpens 2026 年间谍活动</title>
-      <link>https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/</link>
-      <description><![CDATA[第 42 单元详细介绍了在最近的活动中筛查 Serpens 使用 AppDomainManager 劫持和新的 RAT 变体来瞄准科技和国防部门的情况。
-跟踪伊朗 APT 筛选 Serpens 2026 年间谍活动的帖子首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/</guid>
-      <pubDate>Fri, 22 May 2026 13:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
