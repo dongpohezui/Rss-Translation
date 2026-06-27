@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 19:26:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 01:59:03 GMT</lastBuildDate>
+    <item>
+      <title>Metasploit 每周更新：Audiobookshelf、LiteLLM、Next.js、Dalfox 等模块</title>
+      <link>https://www.rapid7.com/blog/post/pt-weekly-metasploit-update-modules-for-audiobookshelf-litellm-next-js-dalfox-and-more</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-weekly-metasploit-update-modules-for-audiobookshelf-litellm-next-js-dalfox-and-more</guid>
+      <pubDate>Fri, 26 Jun 2026 19:32:52 GMT</pubDate>
+    </item>
     <item>
       <title>专家对专家：为什么人工智能和合规性正在迫使新的安全运营模式</title>
       <link>https://www.rapid7.com/blog/post/it-experts-video-series-ai-compliance-force-new-security-operating-models</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[当事件发生时，SOC 内部实际上会发生什么？大多数团队都会看到警报和结果，但中间的决策往往不太明显。Rapid7 2026全球网络安全峰会签名会议现代 SOC 内部：谁带领您渡过难关采取了不同的方法。它不是专注于工具或仪表板，而是从负责调查和遏制事件的人员的角度来跟踪现实世界的事件。本次会议将介绍现代 MDR 团队如何在压力下运作，并借鉴跨云、身份和本地环境的真实经验。 由 Rapid7 销售工程高级总监 Karl Lankford 主持，讨论引入了整个 SOC 的观点，包括事件响应和检测，以展示团队如何在最重要的时候协同工作。本演练围绕完整的事件生命周期进行构建，从初始信号和移动开始通过分类和调查，遵循影响结果的决策。重点不在于理论，而在于实践中如何处理事件，从背景和背景到最终结果。突出的是过程中有多少取决于判断。警报只是起点。从那里，分析师正在努力了解背景、评估风险并决定当前最重要的事情。这包括识别受损身份、了解攻击者如何跨环境移动以及协调跨多个系统的响应。会议还强调了需要多快地做出这些决策。如高级时间线所示，攻击者可以在几分钟内从最初的访问转向跨云和本地系统的更广泛的破坏，这几乎没有犹豫或不确定的余地。在整个演练中，重点始终放在如何帮助组织渡过事件。检测发挥着一定作用，但结果取决于协调、权衡以及在压力下清晰行动的能力。本次会议还探讨了跨环境的可见性如何与以人为主导的响应相结合，帮助团队在影响发生之前连接信号并采取行动。对于从业者、SOC 领导者和评估 MDR 的团队来说，本次会议提供了有关现代事件响应在实际条件下如何运作的扎实观点。它显示了警报和结果之间发生的情况，以及为什么这种差距才是真正的价值所在。 观看完整会议逐步跟踪调查，了解 MDR 团队如何带领组织应对真实事件。]]></description>
       <guid>https://www.rapid7.com/blog/post/it-day-in-the-life-mdr-analyst-inside-the-modern-soc</guid>
       <pubDate>Wed, 03 Jun 2026 16:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-0826：HP Poly VVX 和 Trio VoIP 电话中存在严重的未经身份验证堆栈缓冲区溢出（已修复）</title>
-      <link>https://www.rapid7.com/blog/post/ve-cve-2026-0826-critical-unauthenticated-stack-buffer-overflow-hp-poly-vvx-trio-voip-phones-fixed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ve-cve-2026-0826-critical-unauthenticated-stack-buffer-overflow-hp-poly-vvx-trio-voip-phones-fixed</guid>
-      <pubDate>Mon, 01 Jun 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
