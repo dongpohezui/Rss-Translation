@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Tue, 30 Jun 2026 02:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:53:03 GMT</lastBuildDate>
     <item>
       <title>先生们正在敲门：定制后门和不断演变的策略</title>
       <link>https://securelist.com/the-gentlemen-raas/120447/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>通过 WhatsApp 部署 RMM 软件分发的 VBScript 活动</title>
       <link>https://securelist.com/whatsapp-vbs-rmm-campaign/120290/</link>
-      <description><![CDATA[卡巴斯基研究人员分析了一个全球恶意活动，该活动通过 WhatsApp 分发 VBS 脚本，通过多阶段感染链提供 UEMS RMM 代理。]]></description>
+      <description><![CDATA[卡巴斯基研究人员分析了一项全球恶意活动，该活动通过 WhatsApp 分发 VBS 脚本，通过多阶段感染链提供 UEMS RMM 代理。]]></description>
       <guid>https://securelist.com/whatsapp-vbs-rmm-campaign/120290/</guid>
       <pubDate>Mon, 22 Jun 2026 10:00:38 GMT</pubDate>
     </item>
