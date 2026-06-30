@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Tue, 30 Jun 2026 08:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:51:18 GMT</lastBuildDate>
+    <item>
+      <title>ToddyCat：您隐藏的电子邮件助手。第2部分</title>
+      <link>https://securelist.com/toddycat-apt-umbrij-tool-and-oauth/120251/</link>
+      <description><![CDATA[对 Umbrij 的深入分析，这是 ToddyCat APT 组织用来破坏 Gmail 中企业电子邮件通信的新工具。该攻击针对 OAuth 授权令牌，允许威胁行为者获得对 Google 服务的访问权限。]]></description>
+      <guid>https://securelist.com/toddycat-apt-umbrij-tool-and-oauth/120251/</guid>
+      <pubDate>Tue, 30 Jun 2026 10:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>先生们正在敲门：定制后门和不断演变的策略</title>
       <link>https://securelist.com/the-gentlemen-raas/120447/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[容器环境的主要风险有哪些：漏洞、供应链攻击、配置错误；如何提高容器安全性以及 Kaspersky Container Security 与 KIRA AI 助手如何提供帮助。]]></description>
       <guid>https://securelist.com/container-security-typical-issues/119974/</guid>
       <pubDate>Fri, 29 May 2026 07:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>十字准线中的海盗：一个网络犯罪团伙如何多年来感染书籍、电影和电视节目的粉丝</title>
-      <link>https://securelist.com/video-books-pirates-miners-rat/119943/</link>
-      <description><![CDATA[我们的专家继续追踪针对盗版内容（包括书籍和电影）消费者的攻击。 2026 年，发现了拥有数千万访问者的新目标站点，同时矿工获得了 RAT 模块。]]></description>
-      <guid>https://securelist.com/video-books-pirates-miners-rat/119943/</guid>
-      <pubDate>Thu, 28 May 2026 06:55:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
