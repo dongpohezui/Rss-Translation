@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Sat, 27 Jun 2026 01:59:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 02:11:43 GMT</lastBuildDate>
+    <item>
+      <title>幻影抢注：人工智能幻觉领域作为软件供应链载体</title>
+      <link>https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/</link>
+      <description><![CDATA[攻击者可以通过幻影抢注来利用 LLM 域幻觉来攻击目标供应链。阅读分析以了解更多信息。 
+帖子幻影抢注：人工智能幻觉域作为软件供应链载体首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/</guid>
+      <pubDate>Wed, 01 Jul 2026 01:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>威胁简介：缓解大规模凭证攻击</title>
       <link>https://unit42.paloaltonetworks.com/large-scale-credential-attacks/</link>
@@ -17,7 +25,7 @@
       <title>CL-STA-1062 针对东南亚政府和关键基础设施</title>
       <link>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</link>
       <description><![CDATA[攻击者使用混合工具包（包括定制的 TinyRCT 后门）在东南亚针对政府实体和关键基础设施进行间谍活动。 
-CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Unit 42上。]]></description>
+帖子CL-STA-1062针对东南亚政府和关键基础设施首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</guid>
       <pubDate>Thu, 25 Jun 2026 22:00:52 GMT</pubDate>
     </item>
@@ -56,7 +64,7 @@ CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Un
     <item>
       <title>追踪数字意图：新 MacOS Tahoe 26 神器被发现</title>
       <link>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</link>
-      <description><![CDATA[Unit 42 发现了一个新的 macOS Tahoe 26 取证工件，可以跟踪整个操作系统的用户菜单选择。在这里了解更多。 
+      <description><![CDATA[Unit 42 发现了一个新的 macOS Tahoe 26 取证工件，可以跟踪整个操作系统中的用户菜单选择。在这里了解更多。 
 帖子追踪数字意图：发现新的 MacOS Tahoe 26 Artifact 首先出现在 Unit 42 上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</guid>
       <pubDate>Fri, 12 Jun 2026 22:00:14 GMT</pubDate>
@@ -116,14 +124,6 @@ CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Un
 帖子2026 年世界杯：讨论世界上最大的比赛的攻击面首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/fifa-world-cup-attack-surface/</guid>
       <pubDate>Thu, 28 May 2026 10:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>走出地穴：不断发展的网络勒索经济</title>
-      <link>https://unit42.paloaltonetworks.com/cyber-extortion-economy/</link>
-      <description><![CDATA[第 42 单元探讨了数据盗窃和勒索的趋势，概述了随着前沿人工智能模型的发展，组织的关键策略。
-帖子走出地穴：不断发展的网络勒索经济首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/cyber-extortion-economy/</guid>
-      <pubDate>Wed, 27 May 2026 22:00:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
