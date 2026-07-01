@@ -4,7 +4,7 @@
     <title>零号计划</title>
     <link>https://projectzero.google/</link>
     <description>让零日变得困难</description>
-    <lastBuildDate>Tue, 23 Jun 2026 08:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:03:18 GMT</lastBuildDate>
     <item>
       <title>Pixel 10 的零点击漏洞利用链：当门关闭时，窗户打开</title>
       <link>https://projectzero.google/2026/05/pixel-10-exploit.html</link>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 14 Jan 2026 09:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pixel 9 的 0-click 漏洞利用链第 2 部分：大波破解沙盒</title>
+      <title>Pixel 9 的 0-click 漏洞利用链第 2 部分：大波破解沙箱</title>
       <link>https://projectzero.google/2026/01/pixel-0-click-part-2.html</link>
       <description><![CDATA[随着潜在的杜比统一解码器 RCE 漏洞的出现，明智的做法是查看可以从生成的用户区上下文（即媒体编解码器上下文）访问哪种 Linux 内核驱动程序。根据 AOSP 文档，mediacodec SELinux 上下文旨在成为使用非安全软件解码器的受限（也称为沙箱）上下文。尽管如此，使用我的 DriverCartographer 工具，我发现了一个有趣的设备驱动程序，/dev/bigwave，可以从 mediacodec SELinux 上下文访问它。 BigWave 是 Pixel SOC 上的硬件，可加速 AV1 解码任务，这解释了为什么可以从媒体编解码器上下文访问它。正如之前的研究充分证实的那样，硬件设备的 Android 驱动程序是发现强大的本地权限升级错误的主要场所。 BigWave 驱动程序也不例外 - 经过几个小时的代码审核，我发现了三个独立的错误，其中一个错误足以逃脱媒体编解码器沙箱并在 Pixel 9 上实现内核任意读/写。]]></description>
       <guid>https://projectzero.google/2026/01/pixel-0-click-part-2.html</guid>
