@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 14:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 19:27:12 GMT</lastBuildDate>
+    <item>
+      <title>SOC 安全团队需要重新思考关于 AI 的 5 个误区</title>
+      <link>https://www.rapid7.com/blog/post/ai-rethinking-5-soc-myths</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ai-rethinking-5-soc-myths</guid>
+      <pubDate>Wed, 01 Jul 2026 15:26:27 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能时代的全球漏洞标准现代化</title>
       <link>https://www.rapid7.com/blog/post/ai-modernizing-global-vulnerability-standards</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-06-2026</guid>
       <pubDate>Fri, 05 Jun 2026 17:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>“瑞士奶酪”模型如何帮助您选择合适的 MDR 提供商</title>
-      <link>https://www.rapid7.com/blog/post/dr-swiss-cheese-model-helps-choose-mdr-providers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/dr-swiss-cheese-model-helps-choose-mdr-providers</guid>
-      <pubDate>Thu, 04 Jun 2026 13:53:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

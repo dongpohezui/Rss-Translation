@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jul 2026 14:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 19:27:22 GMT</lastBuildDate>
     <item>
       <title>SOC 文件：ScreenConnect 伪装成免费软件。大规模活动的内部观察</title>
       <link>https://securelist.com/tr/the-soc-files-screenconnect-campaign-with-asyncrat/120472/</link>
@@ -13,9 +13,9 @@
       <pubDate>Wed, 01 Jul 2026 10:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>OpenClaw：代理用户面临的风险以及如何减轻这些风险</title>
+      <title>OpenClaw：用户面临的风险以及如何减轻这些风险</title>
       <link>https://securelist.com/openclaw-security/120484/</link>
-      <description><![CDATA[使用流行代理研究 OpenClaw 漏洞、恶意技能和其他安全问题，并提供有关如何缓解这些问题的提示。]]></description>
+      <description><![CDATA[研究 OpenClaw 漏洞、恶意技能和流行代理的其他安全问题，并提供有关如何缓解这些问题的提示。]]></description>
       <guid>https://securelist.com/openclaw-security/120484/</guid>
       <pubDate>Wed, 01 Jul 2026 06:42:48 GMT</pubDate>
     </item>

@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 14:03:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 19:27:46 GMT</lastBuildDate>
+    <item>
+      <title>使用归因业务洞察揭开抓取的面纱</title>
+      <link>https://blog.cloudflare.com/attribution-business-insights/</link>
+      <description><![CDATA[Cloudflare 的新 Attribution Business Insights 仪表板可帮助网站所有者了解爬虫行为、偏好和潜在价值，推动围绕爬虫补偿的业务级对话。]]></description>
+      <guid>https://blog.cloudflare.com/attribution-business-insights/</guid>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>通过 OAuth 为所有人解锁 Cloudflare 应用程序生态系统</title>
       <link>https://blog.cloudflare.com/oauth-for-all/</link>
@@ -136,13 +143,6 @@
       <link>https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/</link>
       <description><![CDATA[Cloudy 是由 LLM 支持的解释层，直接内置于 Cloudflare One 中。其解释现已成为 Phishnet 和 API CASB 的一部分，可以改善用户决策和 SOC 效率。]]></description>
       <guid>https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/</guid>
-      <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从被动到主动：缩小与法学硕士的网络钓鱼差距</title>
-      <link>https://blog.cloudflare.com/email-security-phishing-gap-llm/</link>
-      <description><![CDATA[电子邮件安全是一场持续的军备竞赛。就像二战工程师只加固返回的飞机一样，幸存者偏差掩盖了真正的差距。但法学硕士可以帮助我们发现看不见的弱点。]]></description>
-      <guid>https://blog.cloudflare.com/email-security-phishing-gap-llm/</guid>
       <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
     </item>
     </channel>
