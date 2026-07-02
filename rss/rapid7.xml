@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 13:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 19:05:57 GMT</lastBuildDate>
+    <item>
+      <title>将红队进攻方法正式化为多代理人工智能架构</title>
+      <link>https://www.rapid7.com/blog/post/so-red-teaming-offensive-methodology-multi-agent-ai-architecture</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/so-red-teaming-offensive-methodology-multi-agent-ai-architecture</guid>
+      <pubDate>Thu, 02 Jul 2026 13:32:24 GMT</pubDate>
+    </item>
     <item>
       <title>SOC 安全团队需要重新思考关于 AI 的 5 个误区</title>
       <link>https://www.rapid7.com/blog/post/ai-rethinking-5-soc-myths</link>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 15 Jun 2026 17:24:20 GMT</pubDate>
     </item>
     <item>
-      <title>超越分数：利用 AI 将 CVE 转化为现实世界的商业风险</title>
+      <title>超越分数：使用 AI 将 CVE 转化为现实世界的商业风险</title>
       <link>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-critical-check-point-vpn-zero-day-exploited-in-the-wild-cve-2026-50751</guid>
       <pubDate>Mon, 08 Jun 2026 17:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 每周更新：Apache ActiveMQ RCE、Gogs Rebase RCE 和 Windows 内核指针枚举</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-06-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-05-06-2026</guid>
-      <pubDate>Fri, 05 Jun 2026 17:01:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
