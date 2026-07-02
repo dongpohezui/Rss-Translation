@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 Jul 2026 08:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:25:39 GMT</lastBuildDate>
+    <item>
+      <title>错过的事件、持续的威胁和响应差距：妥协评估项目的见解</title>
+      <link>https://securelist.com/compromise-assessment-findings-2025/120542/</link>
+      <description><![CDATA[卡巴斯基危害评估专家分析该服务 2025 年项目的趋势，并提供有关如何增强组织安全性的提示。]]></description>
+      <guid>https://securelist.com/compromise-assessment-findings-2025/120542/</guid>
+      <pubDate>Thu, 02 Jul 2026 09:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>SOC 文件：ScreenConnect 伪装成免费软件。大规模活动的内部观察</title>
       <link>https://securelist.com/tr/the-soc-files-screenconnect-campaign-with-asyncrat/120472/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[自 2025 年底以来，恶意软件通过 Steam 创意工坊（该游戏平台的内置服务，供玩家创建和共享自定义内容）迅速传播。攻击者主要针对中国和俄罗斯的游戏玩家。]]></description>
       <guid>https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/</guid>
       <pubDate>Tue, 16 Jun 2026 09:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>从事业到金钱：黑客活动的跨境观察</title>
-      <link>https://securelist.com/tr/hacktivists-broaden-attack-geography/120115/</link>
-      <description><![CDATA[黑客组织，即 4BID、Hakerskii Kit 和 C.A.S.，目前正在瞄准哈萨克斯坦、阿联酋、埃及和叙利亚的组织。]]></description>
-      <guid>https://securelist.com/tr/hacktivists-broaden-attack-geography/120115/</guid>
-      <pubDate>Mon, 08 Jun 2026 08:00:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
