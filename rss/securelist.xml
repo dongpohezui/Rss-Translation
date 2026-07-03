@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Fri, 03 Jul 2026 08:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 13:30:03 GMT</lastBuildDate>
+    <item>
+      <title>装甲 Likho 挖蛇坑：隐藏的 BusySnake Stealer 活动内部</title>
+      <link>https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/</link>
+      <description><![CDATA[深入了解活跃的 Armored Likho APT 活动。攻击者使用鱼叉式网络钓鱼、人工智能生成的加载程序和基于 Python 的新工具 BusySnake Stealer 来攻击俄罗斯、哈萨克斯坦和巴西的组织。]]></description>
+      <guid>https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/</guid>
+      <pubDate>Fri, 03 Jul 2026 10:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>错过的事件、持续的威胁和响应差距：妥协评估项目的见解</title>
       <link>https://securelist.com/compromise-assessment-findings-2025/120542/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基研究人员分析了一个全球恶意活动，该活动通过 WhatsApp 分发 VBS 脚本，通过多阶段感染链提供 UEMS RMM 代理。]]></description>
       <guid>https://securelist.com/whatsapp-vbs-rmm-campaign/120290/</guid>
       <pubDate>Mon, 22 Jun 2026 10:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam创意工坊发现数十张恶意壁纸：玩家账户面临风险</title>
-      <link>https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/</link>
-      <description><![CDATA[自 2025 年底以来，恶意软件通过 Steam 创意工坊（该游戏平台的内置服务，供玩家创建和共享自定义内容）迅速传播。攻击者主要针对中国和俄罗斯的游戏玩家。]]></description>
-      <guid>https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/</guid>
-      <pubDate>Tue, 16 Jun 2026 09:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
