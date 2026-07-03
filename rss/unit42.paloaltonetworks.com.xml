@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Wed, 01 Jul 2026 02:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 01:46:52 GMT</lastBuildDate>
+    <item>
+      <title>我们如何将 WebAuthn 添加到基于浏览器的 RDP 客户端</title>
+      <link>https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/</link>
+      <description><![CDATA[深入了解在 Windows 之外构建第一个支持 WebAuthn 重定向的 RDP 客户端的逆向工程过程。
+帖子我们如何将 WebAuthn 添加到基于浏览器的 RDP 客户端首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/</guid>
+      <pubDate>Thu, 02 Jul 2026 22:00:39 GMT</pubDate>
+    </item>
     <item>
       <title>幻影抢注：人工智能幻觉领域作为软件供应链载体</title>
       <link>https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/</link>
@@ -57,14 +65,14 @@
       <title>现代 SOC 内部：72 分钟比赛</title>
       <link>https://unit42.paloaltonetworks.com/soc-72-minute-race/</link>
       <description><![CDATA[攻击者可以在 72 分钟内从访问转移到渗透。了解现代 SOC 团队如何利用 Unit 42 的 AI 驱动自动化、威胁追踪、MDR 和托管 XSIAM 缩小速度差距。
-帖子现代 SOC 内部：72 分钟竞赛首先出现在Unit 42上。]]></description>
+帖子现代 SOC 内部：72 分钟比赛首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/soc-72-minute-race/</guid>
       <pubDate>Mon, 15 Jun 2026 23:00:19 GMT</pubDate>
     </item>
     <item>
       <title>追踪数字意图：新 MacOS Tahoe 26 神器被发现</title>
       <link>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</link>
-      <description><![CDATA[Unit 42 发现了一个新的 macOS Tahoe 26 取证工件，可以跟踪整个操作系统中的用户菜单选择。在这里了解更多。 
+      <description><![CDATA[Unit 42 发现了一个新的 macOS Tahoe 26 取证工件，可以跟踪整个操作系统的用户菜单选择。在这里了解更多。 
 帖子追踪数字意图：发现新的 MacOS Tahoe 26 Artifact 首先出现在 Unit 42 上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</guid>
       <pubDate>Fri, 12 Jun 2026 22:00:14 GMT</pubDate>
@@ -116,14 +124,6 @@
 帖子Operation FlutterBridge：macOS 恶意广告活动传播新的 FlutterShell 后门首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/</guid>
       <pubDate>Tue, 02 Jun 2026 10:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年世界杯：讨论世界上最大的比赛的攻击面</title>
-      <link>https://unit42.paloaltonetworks.com/fifa-world-cup-attack-surface/</link>
-      <description><![CDATA[2026 年世界杯带来了来自勒索软件组织、国家联盟行为者和其他针对关键基础设施的组织的重大网络风险。在这里了解更多。 
-帖子2026 年世界杯：讨论世界上最大的比赛的攻击面首先出现在Unit 42。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/fifa-world-cup-attack-surface/</guid>
-      <pubDate>Thu, 28 May 2026 10:00:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

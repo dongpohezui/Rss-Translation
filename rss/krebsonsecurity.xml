@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Thu, 02 Jul 2026 19:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 01:46:24 GMT</lastBuildDate>
+    <item>
+      <title>FBI 查获 NetNut 代理平台、Popa 僵尸网络</title>
+      <link>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</link>
+      <description><![CDATA[美国联邦调查局 (FBI) 今天表示，它与行业合作伙伴合作查获了数百个与 NetNut 相关的域名，NetNut 是一项由以色列上市公司 Alarum Technologies [纳斯达克股票代码：ALAR] 运营的庞大住宅代理服务。大约两周前，KrebsOnSecurity 发布了多家安全公司的调查结果，这些安全公司将 NetNut 连接到 Popa 僵尸网络，该僵尸网络至少有 200 万台设备在未经受害者同意的情况下受到恶意软件的攻击。]]></description>
+      <guid>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</guid>
+      <pubDate>Thu, 02 Jul 2026 19:27:33 GMT</pubDate>
+    </item>
     <item>
       <title>分散的蜘蛛黑客在审判第一天认罪</title>
       <link>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>2026 年 6 月星期二的破纪录补丁</title>
       <link>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</link>
-      <description><![CDATA[微软今天发布了软件更新，以填补其 Windows 操作系统和支持软件中的近 200 个安全漏洞，这是该公司每月补丁星期二周期的修复数量创纪录的。其中近三打漏洞获得了微软最可怕的“严重”评级，并且至少其中三个漏洞的利用代码现已公开。]]></description>
+      <description><![CDATA[微软今天发布了软件更新，以填补其 Windows 操作系统和支持软件中的近 200 个安全漏洞，这是该公司每月补丁星期二周期的修复数量创纪录的数字。其中近三打漏洞获得了微软最可怕的“严重”评级，并且至少其中三个漏洞的利用代码现已公开。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</guid>
       <pubDate>Tue, 09 Jun 2026 22:07:28 GMT</pubDate>
     </item>
     <item>
       <title>黑客利用 Meta 的 AI 支持机器人来夺取 Instagram 帐户</title>
       <link>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</link>
-      <description><![CDATA[上周末，Telegram 上开始流传如何欺骗 Meta 的“人工智能支持助理”机器人重置账户密码的说明后，奥巴马白宫和美国太空军首席军士长的 Instagram 账户被亲伊朗的图片和消息短暂破坏。]]></description>
+      <description><![CDATA[上周末，Telegram 上开始流传有关如何欺骗 Meta 的“人工智能支持助理”机器人重置帐户密码的说明后，奥巴马白宫和美国太空军首席军士长的 Instagram 帐户被亲伊朗的图像和消息短暂破坏。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</guid>
       <pubDate>Mon, 01 Jun 2026 17:32:50 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[直到上周末，网络安全承包商“基础设施安全局 (CISA) 维护着一个公共 GitHub 存储库，该存储库向多个具有高权限的 AWS GovCloud 账户和大量内部 CISA 系统公开了凭证。安全专家表示，公共档案中包含详细说明 CISA 如何在内部构建、测试和部署软件的文件，这是近年来最严重的政府数据泄露事件之一。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</guid>
       <pubDate>Mon, 18 May 2026 20:48:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年 5 月星期二补丁版</title>
-      <link>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</link>
-      <description><![CDATA[人工智能平台可能和人类一样容易受到社会工程的影响，但事实证明，它们非常擅长发现人造计算机代码中的安全漏洞。这一现实在本月得到了充分体现，一些使用更广泛的软件制造商——包括苹果、谷歌、微软、Mozilla 和甲骨文——修复了接近创纪录数量的安全漏洞，和/或加快了补丁发布的速度。]]></description>
-      <guid>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</guid>
-      <pubDate>Tue, 12 May 2026 21:46:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

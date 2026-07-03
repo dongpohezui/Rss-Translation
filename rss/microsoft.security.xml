@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 02 Jul 2026 19:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 01:47:59 GMT</lastBuildDate>
     <item>
       <title>改善整个 Microsoft 合作伙伴生态系统的安全状况</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/</link>
@@ -24,7 +24,7 @@
     <item>
       <title>加快量子安全时间表</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/</link>
-      <description><![CDATA[我们正在加速量子安全准备工作，并分享组织现在可以采取哪些措施来更早、更有信心地进行过渡。
+      <description><![CDATA[我们正在加速量子安全准备工作，并分享组织现在可以采取哪些措施，以便更早、更有信心地进行过渡。
 这篇文章加速量子安全时间表首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/</guid>
       <pubDate>Tue, 30 Jun 2026 19:00:00 GMT</pubDate>
@@ -56,7 +56,7 @@
     <item>
       <title>针对酒店业的照片 ZIP 活动提供 Node.js 植入以实现持久访问</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/</link>
-      <description><![CDATA[Microsoft 威胁情报发现针对欧洲和亚洲的酒店组织的活跃的多阶段入侵活动。该活动使用以照片为主题的 ZIP 存档和虚假图像快捷方式文件来提供持久的 Node.js 植入并逃避检测。
+      <description><![CDATA[Microsoft 威胁情报发现针对欧洲和亚洲酒店组织的活跃多阶段入侵活动。该活动使用以照片为主题的 ZIP 存档和虚假图像快捷方式文件来提供持久的 Node.js 植入并逃避检测。
 针对酒店业的照片 ZIP 活动提供 Node.js 植入以实现持久访问首先出现在 Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/</guid>
       <pubDate>Thu, 25 Jun 2026 22:30:29 GMT</pubDate>
