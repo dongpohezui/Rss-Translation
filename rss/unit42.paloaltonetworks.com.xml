@@ -4,7 +4,7 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Fri, 03 Jul 2026 01:46:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:57:56 GMT</lastBuildDate>
     <item>
       <title>我们如何将 WebAuthn 添加到基于浏览器的 RDP 客户端</title>
       <link>https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/</link>
@@ -33,7 +33,7 @@
       <title>CL-STA-1062 针对东南亚政府和关键基础设施</title>
       <link>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</link>
       <description><![CDATA[攻击者使用混合工具包（包括定制的 TinyRCT 后门）在东南亚针对政府实体和关键基础设施进行间谍活动。 
-帖子CL-STA-1062针对东南亚政府和关键基础设施首先出现在Unit 42上。]]></description>
+CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</guid>
       <pubDate>Thu, 25 Jun 2026 22:00:52 GMT</pubDate>
     </item>
@@ -65,7 +65,7 @@
       <title>现代 SOC 内部：72 分钟比赛</title>
       <link>https://unit42.paloaltonetworks.com/soc-72-minute-race/</link>
       <description><![CDATA[攻击者可以在 72 分钟内从访问转移到渗透。了解现代 SOC 团队如何利用 Unit 42 的 AI 驱动自动化、威胁追踪、MDR 和托管 XSIAM 缩小速度差距。
-帖子现代 SOC 内部：72 分钟比赛首先出现在Unit 42上。]]></description>
+帖子现代 SOC 内部：72 分钟竞赛首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/soc-72-minute-race/</guid>
       <pubDate>Mon, 15 Jun 2026 23:00:19 GMT</pubDate>
     </item>
