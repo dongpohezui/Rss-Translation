@@ -4,7 +4,23 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Wed, 01 Jul 2026 14:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 14:53:29 GMT</lastBuildDate>
+    <item>
+      <title>Cavern Manticore：暴露与伊朗相关的模块化 C2 框架</title>
+      <link>https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/</link>
+      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research (CPR) 一直在跟踪 Cavern Manticore 使用的新模块化命令和控制框架，该组织是一个与伊朗有联系的 APT 组织，主要针对以色列组织，重点关注 IT 提供商和政府部门。 Cavern Manticore 是与伊朗 MOIS（情报和安全部）有联系的演员，与 OilRig 有联系 […]
+帖子Cavern Manticore：暴露与伊朗相关的模块化C2框架首先出现在Check Point Research上。]]></description>
+      <guid>https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/</guid>
+      <pubDate>Mon, 06 Jul 2026 12:25:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>7 月 6 日——威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/</link>
+      <description><![CDATA[有关 7 月 6 日当周网络研究的最新发现，请下载我们的威胁情报公告。河岸的顶级攻击和破坏美国金融机构 Trust 遭遇勒索软件事件，此前未经授权的攻击者于 6 月 16 日访问了母公司 River Financial Corporation 的网络。该银行发现 […]
+7 月 6 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/</guid>
+      <pubDate>Mon, 06 Jul 2026 12:01:54 GMT</pubDate>
+    </item>
     <item>
       <title>6 月 22 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</link>
@@ -88,7 +104,7 @@
     <item>
       <title>5 月 25 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</link>
-      <description><![CDATA[有关 5 月 25 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 全球连锁便利店 7-11 在未经授权访问用于特许经营商文件的系统后确认存在违规行为。 ShinyHunters 声称对此负责，并表示其窃取了超过 600,000 条包含个人 […] 的 Salesforce 记录
+      <description><![CDATA[有关 5 月 25 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 全球连锁便利店 7-11 在未经授权访问用于特许经营商文件的系统后确认存在违规行为。 ShinyHunters 声称对此负责，并称其窃取了超过 600,000 条包含个人 […] 的 Salesforce 记录
 5 月 25 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</guid>
       <pubDate>Mon, 25 May 2026 15:08:40 GMT</pubDate>
@@ -108,22 +124,6 @@
 5 月 18 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/</guid>
       <pubDate>Mon, 18 May 2026 14:58:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如此说……先生们</title>
-      <link>https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/</link>
-      <description><![CDATA[要点简介 Gentlemen 勒索软件即服务 (RaaS) 操作是一个相对较新的组织，于 2025 年中期左右出现。其运营商在多个地下论坛上宣传该服务，宣传其勒索软件平台，并邀请渗透测试人员和其他技术熟练的参与者作为附属机构加入。根据数据泄露网站 (DLS) 上列出的受害者，到 2026 年，[…]
-帖子如是说……先生们首先出现在Check Point Research上。]]></description>
-      <guid>https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/</guid>
-      <pubDate>Wed, 13 May 2026 13:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 月 11 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/</link>
-      <description><![CDATA[有关 5 月 11 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露 Canvas 学习平台背后的美国教育技术公司 Instruct 已确认发生了影响其云托管环境的重大数据泄露事件。据报道，暴露的数据包括学生和教职员工的记录以及私人消息，而[…]
-5 月 11 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/</guid>
-      <pubDate>Mon, 11 May 2026 12:49:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

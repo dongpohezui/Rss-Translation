@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 06 Jul 2026 09:51:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 14:52:48 GMT</lastBuildDate>
+    <item>
+      <title>与您的矢量指挥红队吊舱共度一天</title>
+      <link>https://www.rapid7.com/blog/post/so-ditl-day-with-your-vector-command-red-team-pod</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/so-ditl-day-with-your-vector-command-red-team-pod</guid>
+      <pubDate>Mon, 06 Jul 2026 14:26:46 GMT</pubDate>
+    </item>
     <item>
       <title>Metasploit 每周更新：SMB 到 Meterpreter 模块、Peyara 远程鼠标 RCE 漏洞利用等</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-07-03-2026/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-june-2026</guid>
       <pubDate>Tue, 09 Jun 2026 21:04:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 获得 Anthropic 项目 Glasswing 的访问权，探索网络安全前沿人工智能</title>
-      <link>https://www.rapid7.com/blog/post/ai-rapid7-accesses-anthropics-project-glasswing-exploring-frontier-artificial-cybersecurity-intelligence</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ai-rapid7-accesses-anthropics-project-glasswing-exploring-frontier-artificial-cybersecurity-intelligence</guid>
-      <pubDate>Tue, 09 Jun 2026 13:35:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
