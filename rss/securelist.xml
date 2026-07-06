@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 06 Jul 2026 01:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 09:51:28 GMT</lastBuildDate>
+    <item>
+      <title>当检查 URL 还不够时：通过 Microsoft 网站进行设备代码网络钓鱼攻击</title>
+      <link>https://securelist.com/microsoft-device-code-phishing-attack/120350/</link>
+      <description><![CDATA[OAuth 2.0 设备授权授予规范旨在简化智能电视、物联网设备和打印机的身份验证。如今，威胁行为者正在将其武器化。]]></description>
+      <guid>https://securelist.com/microsoft-device-code-phishing-attack/120350/</guid>
+      <pubDate>Mon, 06 Jul 2026 09:00:43 GMT</pubDate>
+    </item>
     <item>
       <title>装甲 Likho 挖蛇坑：隐藏的 BusySnake Stealer 活动内部</title>
       <link>https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基研究人员分析了一项名为 StrikeShark 的新全球活动，该活动通过自定义 SharkLoader 恶意软件提供 Cobalt Strike Beacon。]]></description>
       <guid>https://securelist.com/strikeshark-campaign/120326/</guid>
       <pubDate>Wed, 24 Jun 2026 10:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 WhatsApp 部署 RMM 软件分发的 VBScript 活动</title>
-      <link>https://securelist.com/whatsapp-vbs-rmm-campaign/120290/</link>
-      <description><![CDATA[卡巴斯基研究人员分析了一个全球恶意活动，该活动通过 WhatsApp 分发 VBS 脚本，通过多阶段感染链提供 UEMS RMM 代理。]]></description>
-      <guid>https://securelist.com/whatsapp-vbs-rmm-campaign/120290/</guid>
-      <pubDate>Mon, 22 Jun 2026 10:00:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
