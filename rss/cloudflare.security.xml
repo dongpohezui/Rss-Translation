@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 14:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 19:30:57 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 自豪地加入英国政府的网络弹性承诺</title>
+      <link>https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/</link>
+      <description><![CDATA[该承诺是一个自愿框架，邀请组织致力于基础网络安全治理、董事会级问责制和供应链严格性。十多年来，Cloudflare 开创了该框架的核心支柱：安全民主化、领导责任和彻底的透明度。]]></description>
+      <guid>https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/</guid>
+      <pubDate>Tue, 07 Jul 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用归因业务洞察揭开抓取的面纱</title>
       <link>https://blog.cloudflare.com/attribution-business-insights/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
       <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
-      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和法学硕士相结合，我们将误报率减少了 200 倍，同时捕获了复杂的零日漏洞。]]></description>
+      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和 LLM 相结合，我们将误报率减少了 200 倍，同时捕获了复杂的零日漏洞。]]></description>
       <guid>https://blog.cloudflare.com/client-side-security-open-to-everyone/</guid>
       <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>应用程序的人工智能安全现已普遍可用</title>
+      <title>AI 应用安全现已全面推出</title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
       <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Cloudflare 的新 Web 和 API 漏洞扫描程序可帮助团队主动发现逻辑缺陷。通过使用 AI 构建 API 调用图，我们可以识别标准防御工具遗漏的漏洞。]]></description>
       <guid>https://blog.cloudflare.com/vulnerability-scanner/</guid>
       <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudy 如何将复杂的安全性转化为人类行动</title>
-      <link>https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/</link>
-      <description><![CDATA[Cloudy 是由 LLM 支持的解释层，直接内置于 Cloudflare One 中。其解释现已成为 Phishnet 和 API CASB 的一部分，可以改善用户决策和 SOC 效率。]]></description>
-      <guid>https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/</guid>
-      <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
