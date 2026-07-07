@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Jul 2026 09:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:02:10 GMT</lastBuildDate>
+    <item>
+      <title>工业自动化系统的威胁格局。 2026 年第一季度</title>
+      <link>https://securelist.com/industrial-threat-report-q1-2026/120643/</link>
+      <description><![CDATA[本报告包含 2026 年第一季度的工业威胁统计数据，包括按类型、来源、地区和行业划分的工业威胁分布。]]></description>
+      <guid>https://securelist.com/industrial-threat-report-q1-2026/120643/</guid>
+      <pubDate>Tue, 07 Jul 2026 10:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>当检查 URL 还不够时：通过 Microsoft 网站进行设备代码网络钓鱼攻击</title>
       <link>https://securelist.com/microsoft-device-code-phishing-attack/120350/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基研究人员分析了 2026 年中小型企业的威胁形势：涉及假冒人工智能工具、网络钓鱼计划和暗网上出售数据的攻击的增加。]]></description>
       <guid>https://securelist.com/smb-threat-report-2026/120357/</guid>
       <pubDate>Thu, 25 Jun 2026 10:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>StrikeShark：调查通过 SharkLoader 提供 Cobalt Strike 的新活动</title>
-      <link>https://securelist.com/strikeshark-campaign/120326/</link>
-      <description><![CDATA[卡巴斯基研究人员分析了一项名为 StrikeShark 的新全球活动，该活动通过自定义 SharkLoader 恶意软件提供 Cobalt Strike Beacon。]]></description>
-      <guid>https://securelist.com/strikeshark-campaign/120326/</guid>
-      <pubDate>Wed, 24 Jun 2026 10:00:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

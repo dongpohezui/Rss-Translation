@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 07 Jul 2026 09:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:02:56 GMT</lastBuildDate>
     <item>
       <title>Frost & Sullivan 2025 年用于云安全态势管理的 Frost Radar™ 的 5 条见解</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>针对酒店业的照片 ZIP 活动提供 Node.js 植入以实现持久访问</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/</link>
-      <description><![CDATA[Microsoft 威胁情报发现针对欧洲和亚洲酒店组织的活跃多阶段入侵活动。该活动使用以照片为主题的 ZIP 存档和虚假图像快捷方式文件来提供持久的 Node.js 植入并逃避检测。
+      <description><![CDATA[Microsoft 威胁情报发现针对欧洲和亚洲的酒店组织的活跃的多阶段入侵活动。该活动使用以照片为主题的 ZIP 存档和虚假图像快捷方式文件来提供持久的 Node.js 植入并逃避检测。
 针对酒店业的照片 ZIP 活动提供 Node.js 植入以实现持久访问首先出现在 Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/</guid>
       <pubDate>Thu, 25 Jun 2026 22:30:29 GMT</pubDate>
