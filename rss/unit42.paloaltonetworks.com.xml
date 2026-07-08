@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Sun, 05 Jul 2026 18:57:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 01:24:23 GMT</lastBuildDate>
+    <item>
+      <title>Vidar Stealer 揭秘：代码签名滥用、Go 加载程序和文件膨胀</title>
+      <link>https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/</link>
+      <description><![CDATA[网络犯罪活动通过 Go 编译的假 MpClient.dll（一种新颖的逃避层组合）将加载程序即服务框架和 DLL 侧载结合起来。
+帖子Vidar Stealer Unmasked：代码签名滥用、Go 加载器和文件膨胀首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/</guid>
+      <pubDate>Tue, 07 Jul 2026 22:00:21 GMT</pubDate>
+    </item>
     <item>
       <title>我们如何将 WebAuthn 添加到基于浏览器的 RDP 客户端</title>
       <link>https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/</link>
@@ -116,14 +124,6 @@ CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Un
 帖子npm 威胁形势：攻击面和缓解措施（6 月 2 日更新）首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</guid>
       <pubDate>Tue, 02 Jun 2026 17:30:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>FlutterBridge 行动：macOS 恶意广告活动传播新的 FlutterShell 后门</title>
-      <link>https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/</link>
-      <description><![CDATA[Operation FlutterBridge 是针对 macOS 用户的恶意广告活动。它分发了使用 Flutter 框架构建的新后门 FlutterShell。
-帖子Operation FlutterBridge：macOS 恶意广告活动传播新的 FlutterShell 后门首先出现在Unit 42。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/</guid>
-      <pubDate>Tue, 02 Jun 2026 10:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
