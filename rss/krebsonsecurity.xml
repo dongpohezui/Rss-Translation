@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Wed, 08 Jul 2026 08:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 13:25:21 GMT</lastBuildDate>
+    <item>
+      <title>重罪犯、诈骗犯殴打进攻性网络安全初创公司</title>
+      <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
+      <description><![CDATA[一家网络安全初创公司花费数百万美元收购流行软件中的零日安全漏洞，该公司由一对极右翼阴谋论者和被定罪的重罪犯经营，他们最近的企业包括假情报公司和一个现已解散的基于人工智能的游说平台，他们以化名运营。]]></description>
+      <guid>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
+      <pubDate>Wed, 08 Jul 2026 12:31:39 GMT</pubDate>
+    </item>
     <item>
       <title>FBI 查获 NetNut 代理平台、Popa 僵尸网络</title>
       <link>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[加拿大当局周三逮捕了一名 23 岁的渥太华男子，罪名是他涉嫌构建和运营 Kimwolf，这是一个快速传播的物联网僵尸网络，该僵尸网络在过去六个月中奴役了数百万台设备，用于一系列大规模分布式拒绝服务 (DDoS) 攻击。在被告针对作者和一名安全研究员发起一系列 DDoS、人肉搜索和打击活动后，KrebsOnSecurity 于 2026 年 2 月公开点名了嫌疑人。他现在在加拿大和美国面临刑事黑客指控。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</guid>
       <pubDate>Thu, 21 May 2026 21:50:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>CISA 管理员在 Github 上泄露了 AWS GovCloud 密钥</title>
-      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
-      <description><![CDATA[直到上周末，网络安全承包商“基础设施安全局 (CISA) 维护着一个公共 GitHub 存储库，该存储库向多个具有高权限的 AWS GovCloud 账户和大量内部 CISA 系统公开了凭证。安全专家表示，公共档案中包含详细说明 CISA 如何在内部构建、测试和部署软件的文件，这是近年来最严重的政府数据泄露事件之一。]]></description>
-      <guid>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</guid>
-      <pubDate>Mon, 18 May 2026 20:48:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

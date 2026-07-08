@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 08:04:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 13:24:58 GMT</lastBuildDate>
+    <item>
+      <title>安全团队已准备好变得更加先发制人。是什么阻碍了他们？</title>
+      <link>https://www.rapid7.com/blog/post/dr-teams-ready-for-preemptive-security-mdr-survey</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/dr-teams-ready-for-preemptive-security-mdr-survey</guid>
+      <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>与您的矢量指挥红队吊舱共度一天</title>
       <link>https://www.rapid7.com/blog/post/so-ditl-day-with-your-vector-command-red-team-pod</link>
@@ -97,7 +104,7 @@
       <pubDate>Mon, 15 Jun 2026 17:24:20 GMT</pubDate>
     </item>
     <item>
-      <title>超越分数：利用 AI 将 CVE 转化为现实世界的商业风险</title>
+      <title>超越分数：使用 AI 将 CVE 转化为现实世界的商业风险</title>
       <link>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-10520-cve-2026-10523-multiple-critical-vulnerabilities-affecting-ivanti-sentry</guid>
       <pubDate>Wed, 10 Jun 2026 10:21:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>周二补丁 - 2026 年 6 月</title>
-      <link>https://www.rapid7.com/blog/post/em-patch-tuesday-june-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-june-2026</guid>
-      <pubDate>Tue, 09 Jun 2026 21:04:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
