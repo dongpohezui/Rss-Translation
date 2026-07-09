@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 09:03:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 14:26:04 GMT</lastBuildDate>
+    <item>
+      <title>为什么我们不能等待更好的后量子签名算法</title>
+      <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
+      <description><![CDATA[NIST 正在推进九种新的后量子签名算法，作为未来标准化的潜在候选算法。我们仔细研究了所有这些，并认为虽然它们正在开发中并显示出巨大的潜力，但我们现在应该使用 ML-DSA——目前可用的最好的一种。]]></description>
+      <guid>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</guid>
+      <pubDate>Thu, 09 Jul 2026 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare 自豪地加入英国政府的网络弹性承诺</title>
       <link>https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/</link>
@@ -104,16 +111,16 @@
       <pubDate>Tue, 07 Apr 2026 21:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
       <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和法学硕士相结合，我们将误报率减少了高达 200 倍，同时捕获了复杂的零日漏洞。]]></description>
       <guid>https://blog.cloudflare.com/client-side-security-open-to-everyone/</guid>
       <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
       <title>宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
       <link>https://blog.cloudflare.com/account-abuse-protection/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。]]></description>
       <guid>https://blog.cloudflare.com/account-abuse-protection/</guid>
       <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
     </item>
@@ -136,13 +143,6 @@
       <link>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</link>
       <description><![CDATA[今天，我们将披露当我们的开源 Pingora 服务部署为入口代理时存在的请求走私漏洞，以及我们如何在 Pingora 0.8.0 中修复这些漏洞。]]></description>
       <guid>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</guid>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>主动防御：引入 API 状态漏洞扫描器</title>
-      <link>https://blog.cloudflare.com/vulnerability-scanner/</link>
-      <description><![CDATA[Cloudflare 的新 Web 和 API 漏洞扫描程序可帮助团队主动发现逻辑缺陷。通过使用 AI 构建 API 调用图，我们可以识别标准防御工具遗漏的漏洞。]]></description>
-      <guid>https://blog.cloudflare.com/vulnerability-scanner/</guid>
       <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
     </item>
     </channel>

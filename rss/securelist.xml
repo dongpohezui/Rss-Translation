@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 09 Jul 2026 09:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 14:25:48 GMT</lastBuildDate>
     <item>
       <title>工业自动化系统的威胁格局。 2026 年第一季度</title>
       <link>https://securelist.com/industrial-threat-report-q1-2026/120643/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>OpenClaw：用户面临的风险以及如何减轻这些风险</title>
       <link>https://securelist.com/openclaw-security/120484/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[研究 OpenClaw 漏洞、恶意技能和流行代理的其他安全问题，并提供有关如何缓解这些问题的提示。]]></description>
       <guid>https://securelist.com/openclaw-security/120484/</guid>
       <pubDate>Wed, 01 Jul 2026 06:42:48 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>当心许可证管理器：施耐德电气软件漏洞如何使工业设施面临风险</title>
       <link>https://securelist.com/tr/schneider-electric-cve-2024-2658-vulnerability/120436/</link>
-      <description><![CDATA[Analysis of CVE-2024-2658 as found in Schneider Electric&#39;s Floating License Manager. Discover how this FlexNet Publisher vulnerability potentially allows attackers to escalate to NT AUTHORITY\SYSTEM privileges and expand their foothold;了解如何降低风险。]]></description>
+      <description><![CDATA[对 Schneider Electric 浮动许可证管理器中发现的 CVE-2024-2658 的分析。了解 FlexNet Publisher 漏洞如何可能允许攻击者升级到 NT AUTHORITY\SYSTEM 权限并扩大他们的立足点；了解如何降低风险。]]></description>
       <guid>https://securelist.com/tr/schneider-electric-cve-2024-2658-vulnerability/120436/</guid>
       <pubDate>Fri, 26 Jun 2026 13:00:14 GMT</pubDate>
     </item>
