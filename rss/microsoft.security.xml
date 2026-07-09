@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 09 Jul 2026 14:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 19:19:20 GMT</lastBuildDate>
+    <item>
+      <title>GigaWiper：剖析由多个恶意软件组装而成的破坏性后门</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/</link>
+      <description><![CDATA[GigaWiper 是一个破坏性后门，它将多种擦除和类似勒索软件的功能组合到一个操作平台中。本博客分析了该恶意软件如何合并来自多个先前独立恶意软件系列的代码，并提供指导以帮助防御者检测和防御类似的威胁。
+帖子GigaWiper：剖析由多个恶意软件组装而成的破坏性后门首先出现在Microsoft Security博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/</guid>
+      <pubDate>Thu, 09 Jul 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>以 AI 速度保护 Microsoft：SFI 如何主动强化我们的云</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/</link>
@@ -14,7 +22,7 @@
       <pubDate>Wed, 08 Jul 2026 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Frost & Sullivan 2025 年用于云安全态势管理的 Frost Radar™ 的 5 条见解</title>
+      <title>Frost & Sullivan 2025 年 Frost Radar™ 云安全态势管理的 5 条见解</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/</link>
       <description><![CDATA[阅读 Frost 的五个重要经验教训Sullivan 2025 Frost Radar™ for CSPM，了解 CSPM 如何从时间点合规性发展到持续风险管理。
 这篇文章来自 Frost &amp; 的 5 个见解Sullivan 的 2025 年用于云安全态势管理的 Frost Radar™ 首先出现在 Microsoft 安全博客。]]></description>
@@ -76,14 +84,6 @@
 针对酒店业的照片 ZIP 活动提供 Node.js 植入以实现持久访问首先出现在 Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/</guid>
       <pubDate>Thu, 25 Jun 2026 22:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 被 Forrester Wave™ 端点管理平台评为领导者</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/</link>
-      <description><![CDATA[Microsoft 在 Forrester Wave™：2026 年第 2 季度端点管理平台中被评为领导者，在当前产品和策略类别中得分最高。
-Microsoft 是 Forrester Wave™ for Endpoint Management Platforms 的领导者一文首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/</guid>
-      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
