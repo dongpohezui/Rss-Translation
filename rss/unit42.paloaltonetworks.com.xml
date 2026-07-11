@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Thu, 09 Jul 2026 01:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 01:23:26 GMT</lastBuildDate>
+    <item>
+      <title>这里没有礼貌：绅士勒索软件的无情崛起</title>
+      <link>https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/</link>
+      <description><![CDATA[Unit 42 探索了 The Gentlemen 勒索软件操作，揭示了推动其快速增长的联盟模式。在此了解更多信息。
+帖子这里没有礼貌：绅士勒索软件的无情崛起首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/</guid>
+      <pubDate>Fri, 10 Jul 2026 22:00:39 GMT</pubDate>
+    </item>
     <item>
       <title>Vidar Stealer 揭秘：代码签名滥用、Go 加载程序和文件膨胀</title>
       <link>https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/</link>
@@ -116,14 +124,6 @@ CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Un
 帖子当“嗨，这就是 IT”来自 Microsoft Teams 首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/microsoft-teams-phishing/</guid>
       <pubDate>Mon, 08 Jun 2026 23:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>npm 威胁形势：攻击面和缓解措施（6 月 2 日更新）</title>
-      <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
-      <description><![CDATA[第 42 单元分析了 Shai Hulud 后的 npm 供应链演变。发现可蠕虫恶意软件、CI/CD 持久性、多阶段攻击等。 
-帖子npm 威胁形势：攻击面和缓解措施（6 月 2 日更新）首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</guid>
-      <pubDate>Tue, 02 Jun 2026 17:30:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
