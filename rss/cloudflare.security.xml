@@ -4,7 +4,14 @@
     <title>Cloudflare 博客</title>
     <link>https://blog.cloudflare.com</link>
     <description>了解有关 Cloudflare 产品如何构建、使用技术的最新消息，并加入团队帮助构建更好的互联网。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 08:43:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 13:58:35 GMT</lastBuildDate>
+    <item>
+      <title>Precursor 简介：通过连续的客户端信号检测代理行为</title>
+      <link>https://blog.cloudflare.com/introducing-precursor/</link>
+      <description><![CDATA[Precursor 是我们用于机器人管理的新型持续行为验证引擎，可让您了解人类和机器人在整个用户旅程中如何实际交互。通过将会话级行为转化为机器人检测信号，它可以更高精度地识别高级自动化，同时减少合法用户的摩擦。]]></description>
+      <guid>https://blog.cloudflare.com/introducing-precursor/</guid>
+      <pubDate>Mon, 13 Jul 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我们不能等待更好的后量子签名算法</title>
       <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。]]></description>
       <guid>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</guid>
       <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复 Pingora OSS 部署中的请求走私漏洞</title>
-      <link>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</link>
-      <description><![CDATA[今天，我们将披露当我们的开源 Pingora 服务部署为入口代理时存在的请求走私漏洞，以及我们如何在 Pingora 0.8.0 中修复这些漏洞。]]></description>
-      <guid>https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/</guid>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

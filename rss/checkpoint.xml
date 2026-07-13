@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Tue, 07 Jul 2026 14:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 13:58:27 GMT</lastBuildDate>
+    <item>
+      <title>7 月 13 日——威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</link>
+      <description><![CDATA[有关 7 月 13 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 美国汽车保险公司 AssuranceAmerica 披露了一起影响约 700 万人的数据泄露事件。攻击者以一名员工为目标，并使用受损的凭据访问公司系统，窃取姓名、联系信息、驾驶执照 […]
+7 月 13 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</guid>
+      <pubDate>Mon, 13 Jul 2026 13:06:08 GMT</pubDate>
+    </item>
     <item>
       <title>Cavern Manticore：暴露与伊朗相关的模块化 C2 框架</title>
       <link>https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/</link>
@@ -94,7 +102,7 @@
       <pubDate>Mon, 01 Jun 2026 14:43:11 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年 3 月至 4 月 AI 威胁态势摘要</title>
+      <title>2026 年 3 月至 4 月人工智能威胁态势摘要</title>
       <link>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</link>
       <description><![CDATA[执行摘要 在 2026 年 3 月至 4 月的报告期内，人工智能在进攻性作战中的使用从开发和规划进展到实时作战部署。涉及个人犯罪分子、大规模利用平台、勒索软件团体和国家资助的间谍活动的多个独立案件显示了商业人工智能模型在扩展活动中执行自主攻击工作流程的证据。主要发现：人工智能是实时的[…]
 这篇文章2026 年 3 月至 4 月人工智能威胁形势摘要首先出现在 Check Point Research 上。]]></description>
@@ -104,7 +112,7 @@
     <item>
       <title>5 月 25 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</link>
-      <description><![CDATA[有关 5 月 25 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 全球连锁便利店 7-11 在未经授权访问用于特许经营商文件的系统后确认存在违规行为。 ShinyHunters 声称对此负责，并称其窃取了超过 600,000 条包含个人 […] 的 Salesforce 记录
+      <description><![CDATA[有关 5 月 25 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 全球连锁便利店 7-11 在未经授权访问用于特许经营商文件的系统后确认存在违规行为。 ShinyHunters 声称对此负责，并表示其窃取了超过 600,000 条包含个人 […] 的 Salesforce 记录
 5 月 25 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</guid>
       <pubDate>Mon, 25 May 2026 15:08:40 GMT</pubDate>
@@ -116,14 +124,6 @@
 帖子速度与激情–伊朗冲突期间的 Nimbus Manticore 行动首先出现在 Check Point Research。]]></description>
       <guid>https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/</guid>
       <pubDate>Fri, 22 May 2026 15:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 月 18 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/</link>
-      <description><![CDATA[有关 5 月 18 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 大型国际电信公司沃达丰 (Vodafone) 遭受了 Lapsus$ 勒索组织声称的源代码泄露。该公司确认通过受感染的第三方开发软件对 GitHub 文件的访问受到限制，同时指出[…]
-5 月 18 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/</guid>
-      <pubDate>Mon, 18 May 2026 14:58:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
