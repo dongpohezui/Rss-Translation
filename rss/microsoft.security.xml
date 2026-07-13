@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 13 Jul 2026 13:58:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 19:09:04 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Entra ID 安全更新：密钥是 Entra ID 中的默认身份验证方法</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</link>
+      <description><![CDATA[Microsoft Entra ID 使密钥成为默认登录体验，并引入了 SMS 和语音身份验证的新模型。了解如何准备。
+帖子Microsoft Entra ID 安全更新：密码是 Entra ID 中的默认身份验证方法首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</guid>
+      <pubDate>Mon, 13 Jul 2026 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>确保我们的未来：2026 年 7 月 Microsoft 安全未来计划进度报告</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/</link>
@@ -76,14 +84,6 @@
 保护 AI 代理：当 AI 工具从读取转向执行时一文首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/</guid>
       <pubDate>Tue, 30 Jun 2026 15:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chromium 扩展使用 AI 相关品牌来重定向浏览器搜索</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/</link>
-      <description><![CDATA[基于 Chromium 的恶意扩展程序，会欺骗 AI 驱动的应答引擎 Perplexity AI，使用 MV3 API 和中间基础设施重定向浏览器搜索流量。
-这篇文章Chromium 扩展程序使用 AI 相关品牌来重定向浏览器搜索首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/</guid>
-      <pubDate>Mon, 29 Jun 2026 16:27:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

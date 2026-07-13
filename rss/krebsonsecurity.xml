@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Mon, 13 Jul 2026 13:58:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 19:08:46 GMT</lastBuildDate>
+    <item>
+      <title>从 CISA 最近的 GitHub 泄露事件中吸取的教训</title>
+      <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
+      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后分析报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
+      <guid>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</guid>
+      <pubDate>Mon, 13 Jul 2026 15:03:28 GMT</pubDate>
+    </item>
     <item>
       <title>重罪犯、诈骗犯殴打进攻性网络安全初创公司</title>
       <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[国会两院议员要求美国网络安全部门给出答案基础设施安全局 (CISA) 此前 KrebsOnSecurity 本周报道称，一名 CISA 承包商故意在公共 GitHub 帐户上发布了 AWS GovCloud 密钥和大量其他机构机密。此次调查正值 CISA 仍在努力遏制违规行为并使泄露的凭证失效之际。]]></description>
       <guid>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</guid>
       <pubDate>Fri, 22 May 2026 16:34:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>据称 Kimwolf Botmaster “Dort” 在美国和加拿大被捕并受到指控</title>
-      <link>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</link>
-      <description><![CDATA[加拿大当局周三逮捕了一名 23 岁的渥太华男子，罪名是他涉嫌构建和运营 Kimwolf，这是一个快速传播的物联网僵尸网络，该僵尸网络在过去六个月中奴役了数百万台设备，用于一系列大规模分布式拒绝服务 (DDoS) 攻击。在被告针对作者和一名安全研究员发起一系列 DDoS、人肉搜索和打击活动后，KrebsOnSecurity 于 2026 年 2 月公开点名了嫌疑人。他现在在加拿大和美国面临刑事黑客指控。]]></description>
-      <guid>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</guid>
-      <pubDate>Thu, 21 May 2026 21:50:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
