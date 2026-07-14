@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 13:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 18:59:14 GMT</lastBuildDate>
+    <item>
+      <title>CVE-2026-55040：Microsoft SharePoint JWT 令牌身份验证绕过（已修复）</title>
+      <link>https://www.rapid7.com/blog/post/ve-cve-2026-55040-microsoft-sharepoint-jwt-token-authentication-bypass-fixed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ve-cve-2026-55040-microsoft-sharepoint-jwt-token-authentication-bypass-fixed</guid>
+      <pubDate>Tue, 14 Jul 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 和 Mindshare 合作加速整个中东地区的网络弹性</title>
       <link>https://www.rapid7.com/blog/post/c-rapid7-mindware-middle-east-cybersecurity-partnership</link>
@@ -118,7 +125,7 @@
       <pubDate>Mon, 15 Jun 2026 17:24:20 GMT</pubDate>
     </item>
     <item>
-      <title>超越分数：使用 AI 将 CVE 转化为现实世界的商业风险</title>
+      <title>超越分数：利用 AI 将 CVE 转化为现实世界的商业风险</title>
       <link>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-active-exploitation-of-oracle-peoplesoft-zero-day-cve-2026-35273</guid>
       <pubDate>Fri, 12 Jun 2026 13:43:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年的犯罪人工智能即服务：地下市场如何实施网络犯罪</title>
-      <link>https://www.rapid7.com/blog/post/tr-criminal-ai-underground-market-operationalizing-cybercrime-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/tr-criminal-ai-underground-market-operationalizing-cybercrime-2026</guid>
-      <pubDate>Thu, 11 Jun 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
