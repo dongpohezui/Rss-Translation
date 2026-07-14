@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 13 Jul 2026 19:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 01:18:48 GMT</lastBuildDate>
+    <item>
+      <title>保护基于 SaaS 的应用程序免受 ShinyHunters OAuth 滥用</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/</link>
+      <description><![CDATA[Microsoft 威胁情报发现，威胁行为者的活动涉及与 ShinyHunters 相关的重叠技术，包括语音网络钓鱼、供应链泄露以及针对基于 SaaS 的应用程序的来宾访问配置错误。
+这篇文章保护基于 SaaS 的应用程序免受 ShinyHunters OAuth 滥用首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/</guid>
+      <pubDate>Mon, 13 Jul 2026 22:02:41 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Entra ID 安全更新：密钥是 Entra ID 中的默认身份验证方法</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</link>
@@ -76,14 +84,6 @@
 帖子​​Microsoft 安全新增功能：2026 年 6 月首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/</guid>
       <pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护人工智能代理：当人工智能工具从阅读转向行动时</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/</link>
-      <description><![CDATA[MCP 工具中毒将可信 AI 代理变成数据丢失的控制平面。了解威胁行为者如何操纵工具描述来触发未经授权的操作，以及如何检测、遏制和阻止它。
-保护 AI 代理：当 AI 工具从读取转向执行时一文首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/</guid>
-      <pubDate>Tue, 30 Jun 2026 15:57:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

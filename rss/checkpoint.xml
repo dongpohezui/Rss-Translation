@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 13 Jul 2026 13:58:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 01:18:31 GMT</lastBuildDate>
+    <item>
+      <title>2026 年人工智能安全报告</title>
+      <link>https://research.checkpoint.com/2026/ai-security-report-2026/</link>
+      <description><![CDATA[多年来，网络安全行业一直将人工智能视为力量倍增器：它使现有的攻击技术更快、更便宜、更容易获得。这个框架是准确的。 但 Check Point Research 的《2026 年年度人工智能安全报告》记录了更进一步的转变。 人工智能已经从助手跨越到了操作员。它曾经帮助攻击者做好准备，现在它运行[…]
+这篇文章2026年人工智能安全报告首先出现在Check Point Research上。]]></description>
+      <guid>https://research.checkpoint.com/2026/ai-security-report-2026/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:51:31 GMT</pubDate>
+    </item>
     <item>
       <title>7 月 13 日——威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</link>
@@ -116,14 +124,6 @@
 5 月 25 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</guid>
       <pubDate>Mon, 25 May 2026 15:08:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>速度与激情——伊朗冲突期间的 Nimbus Manticore 行动</title>
-      <link>https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/</link>
-      <description><![CDATA[主要调查结果简介在最近中东地缘政治紧张局势期间，我们报道了多个与伊朗有联系的威胁行为体通过网络行动推进伊朗的战略目标。这些活动包括针对联网摄像头、针对美国和以色列实体进行破坏性攻击，以及从云环境中“窃取数据”以支持更广泛的动态和情报收集工作。 Nimbus Manticore（也被追踪为“UNC1549”）是一种隶属于 IRGC 的威胁 […]
-帖子速度与激情–伊朗冲突期间的 Nimbus Manticore 行动首先出现在 Check Point Research。]]></description>
-      <guid>https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/</guid>
-      <pubDate>Fri, 22 May 2026 15:09:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
