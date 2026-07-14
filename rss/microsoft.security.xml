@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 14 Jul 2026 01:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:43:52 GMT</lastBuildDate>
     <item>
       <title>保护基于 SaaS 的应用程序免受 ShinyHunters OAuth 滥用</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/</link>
@@ -16,7 +16,7 @@
     <item>
       <title>Microsoft Entra ID 安全更新：密钥是 Entra ID 中的默认身份验证方法</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</link>
-      <description><![CDATA[Microsoft Entra ID 使密钥成为默认登录体验，并引入了 SMS 和语音身份验证的新模型。了解如何准备。
+      <description><![CDATA[Microsoft Entra ID 使密钥成为默认登录体验，并引入了 SMS 和语音身份验证的新模型。 Read about how to prepare.
 帖子Microsoft Entra ID 安全更新：密码是 Entra ID 中的默认身份验证方法首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</guid>
       <pubDate>Mon, 13 Jul 2026 17:00:00 GMT</pubDate>
