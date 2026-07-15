@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Jul 2026 07:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:05:24 GMT</lastBuildDate>
+    <item>
+      <title>OkoBot：新的复杂恶意软件框架针对加密货币用户</title>
+      <link>https://securelist.com/okobot-framework-targets-cryptocurrency-wallets/120660/</link>
+      <description><![CDATA[卡巴斯基 GReAT 专家剖析了针对加密货币用户的新 OkoBot 活动。这个复杂的框架采用 TakePS，窃取种子短语，监控基于 Chromium 的浏览器，并安装各种恶意软件，包括 Rilide 窃取程序。]]></description>
+      <guid>https://securelist.com/okobot-framework-targets-cryptocurrency-wallets/120660/</guid>
+      <pubDate>Wed, 15 Jul 2026 10:00:26 GMT</pubDate>
+    </item>
     <item>
       <title>工业自动化系统的威胁格局。 2026 年第一季度</title>
       <link>https://securelist.com/industrial-threat-report-q1-2026/120643/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[对 Schneider Electric 浮动许可证管理器中发现的 CVE-2024-2658 的分析。了解 FlexNet Publisher 漏洞如何可能允许攻击者升级到 NT AUTHORITY\SYSTEM 权限并扩大他们的立足点；了解如何降低风险。]]></description>
       <guid>https://securelist.com/tr/schneider-electric-cve-2024-2658-vulnerability/120436/</guid>
       <pubDate>Fri, 26 Jun 2026 13:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年中小企业威胁格局内部：从网络钓鱼和诈骗到虚假 AI 工具</title>
-      <link>https://securelist.com/smb-threat-report-2026/120357/</link>
-      <description><![CDATA[卡巴斯基研究人员分析了 2026 年中小型企业的威胁形势：涉及假冒人工智能工具、网络钓鱼计划和暗网上出售数据的攻击的增加。]]></description>
-      <guid>https://securelist.com/smb-threat-report-2026/120357/</guid>
-      <pubDate>Thu, 25 Jun 2026 10:00:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
