@@ -4,7 +4,7 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Wed, 15 Jul 2026 13:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 18:52:50 GMT</lastBuildDate>
     <item>
       <title>TuxBot v3：采用 LLM 辅助开发的 IoT 僵尸网络框架内部</title>
       <link>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</link>
@@ -96,7 +96,7 @@ CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Un
     <item>
       <title>追踪数字意图：新 MacOS Tahoe 26 神器被发现</title>
       <link>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</link>
-      <description><![CDATA[Unit 42 发现了一个新的 macOS Tahoe 26 取证工件，可以跟踪整个操作系统的用户菜单选择。在这里了解更多。 
+      <description><![CDATA[Unit 42 发现了一个新的 macOS Tahoe 26 取证工件，可以跟踪整个操作系统中的用户菜单选择。在这里了解更多。 
 帖子追踪数字意图：发现新的 MacOS Tahoe 26 Artifact 首先出现在 Unit 42 上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</guid>
       <pubDate>Fri, 12 Jun 2026 22:00:14 GMT</pubDate>

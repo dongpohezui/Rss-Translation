@@ -4,7 +4,21 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 13:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 18:51:49 GMT</lastBuildDate>
+    <item>
+      <title>Rapid7 MDR 团队发现新的 SonicWall SMA1000 零日漏洞正在被积极利用（CVE-2026-15409、CVE-2026-15410）</title>
+      <link>https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410</guid>
+      <pubDate>Wed, 15 Jul 2026 16:19:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究 AWS 中的持久性机制</title>
+      <link>https://www.rapid7.com/blog/post/dr-investigating-aws-persistence-mechanisms</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/dr-investigating-aws-persistence-mechanisms</guid>
+      <pubDate>Wed, 15 Jul 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>周二补丁 - 2026 年 7 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-july-2026</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/so-aligning-security-programmes-with-nis2-requirements</guid>
       <pubDate>Mon, 15 Jun 2026 17:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越分数：使用 AI 将 CVE 转化为现实世界的商业风险</title>
-      <link>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ai-beyond-the-score-translating-cves-into-real-business-risk</guid>
-      <pubDate>Mon, 15 Jun 2026 14:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 每周更新：新的 Kerberos/证书跟踪选项和多个新模块</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-13-06-2026</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-13-06-2026</guid>
-      <pubDate>Sat, 13 Jun 2026 00:22:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
