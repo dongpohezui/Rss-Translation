@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 16 Jul 2026 13:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:53:29 GMT</lastBuildDate>
+    <item>
+      <title>AI 代理的最低权限：身份、访问和工具绑定</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/</link>
+      <description><![CDATA[随着人工智能代理变得更加自主，强大的身份、访问和审核控制对于确保其安全至关重要。
+AI 代理的最低权限：身份、访问和工具绑定一文首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/</guid>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>解开 AsyncAPI npm 供应链妥协和导入时有效负载交付</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/</link>
@@ -76,14 +84,6 @@
 这篇文章改善整个 Microsoft 合作伙伴生态系统的安全状况首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/</guid>
       <pubDate>Thu, 02 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软将 Frost Radar 评为云和应用程序运行时安全领域的领导者</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/</link>
-      <description><![CDATA[弗罗斯特&amp;随着云和应用程序安全性融合到统一的运行时风险降低中，沙利文将 Microsoft 评为领导者。
-微软将 Frost Radar 评为云和应用程序运行时安全领域的领导者一文首先出现在Microsoft Security博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/</guid>
-      <pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

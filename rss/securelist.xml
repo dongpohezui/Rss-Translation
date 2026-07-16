@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 16 Jul 2026 13:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:52:54 GMT</lastBuildDate>
+    <item>
+      <title>HelloNet 活动——通过 ViPNet 更新系统启动新的恶意模块</title>
+      <link>https://securelist.com/tr/hellonet-vipnet/120700/</link>
+      <description><![CDATA[我们发现了使用 ViPNet 更新系统（用于创建安全网络的软件套件）针对俄罗斯大型组织的有针对性的感染尝试。]]></description>
+      <guid>https://securelist.com/tr/hellonet-vipnet/120700/</guid>
+      <pubDate>Thu, 16 Jul 2026 13:05:56 GMT</pubDate>
+    </item>
     <item>
       <title>GoSerpent：随着复杂的数据收集和泄露，持续的威胁不断演变</title>
       <link>https://securelist.com/goserpent-backdoor-in-southeast-asia/120687/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[对 Umbrij 的深入分析，这是 ToddyCat APT 组织用来破坏 Gmail 中企业电子邮件通信的新工具。该攻击针对 OAuth 授权令牌，允许威胁行为者获得对 Google 服务的访问权限。]]></description>
       <guid>https://securelist.com/toddycat-apt-umbrij-tool-and-oauth/120251/</guid>
       <pubDate>Tue, 30 Jun 2026 10:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>先生们正在敲门：定制后门和不断演变的策略</title>
-      <link>https://securelist.com/the-gentlemen-raas/120447/</link>
-      <description><![CDATA[卡巴斯基研究人员分析了与 The Gentlemen RaaS 组织相关的事件，公开了他们的工具和 TTP，并发现了一种新的勒索软件变体。]]></description>
-      <guid>https://securelist.com/the-gentlemen-raas/120447/</guid>
-      <pubDate>Mon, 29 Jun 2026 10:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 13:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:52:45 GMT</lastBuildDate>
+    <item>
+      <title>废弃公共 AttackerKB 平台</title>
+      <link>https://www.rapid7.com/blog/post/ve-sunsetting-public-attackerkb-platform</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ve-sunsetting-public-attackerkb-platform</guid>
+      <pubDate>Thu, 16 Jul 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 MDR 团队发现新的 SonicWall SMA1000 零日漏洞正在被积极利用（CVE-2026-15409、CVE-2026-15410）</title>
       <link>https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/so-nis2-compliance-turn-readiness-into-resilience</guid>
       <pubDate>Mon, 15 Jun 2026 17:29:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的安全计划是否符合 NIS2 要求？</title>
-      <link>https://www.rapid7.com/blog/post/so-aligning-security-programmes-with-nis2-requirements</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/so-aligning-security-programmes-with-nis2-requirements</guid>
-      <pubDate>Mon, 15 Jun 2026 17:24:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
