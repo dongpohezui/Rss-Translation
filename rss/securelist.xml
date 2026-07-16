@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 16 Jul 2026 07:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:14:14 GMT</lastBuildDate>
+    <item>
+      <title>GoSerpent：随着复杂的数据收集和泄露，持续的威胁不断演变</title>
+      <link>https://securelist.com/goserpent-backdoor-in-southeast-asia/120687/</link>
+      <description><![CDATA[利用 GoSerpent 后门、Stowaway RAT、ThumbcacheService 和其他工具进行的两阶段攻击旨在窃取东南亚政府实体的数据。]]></description>
+      <guid>https://securelist.com/goserpent-backdoor-in-southeast-asia/120687/</guid>
+      <pubDate>Thu, 16 Jul 2026 12:00:27 GMT</pubDate>
+    </item>
     <item>
       <title>OkoBot：新的复杂恶意软件框架针对加密货币用户</title>
       <link>https://securelist.com/okobot-framework-targets-cryptocurrency-wallets/120660/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基研究人员分析了与 The Gentlemen RaaS 组织相关的事件，公开了他们的工具和 TTP，并发现了一种新的勒索软件变体。]]></description>
       <guid>https://securelist.com/the-gentlemen-raas/120447/</guid>
       <pubDate>Mon, 29 Jun 2026 10:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>当心许可证管理器：施耐德电气软件漏洞如何使工业设施面临风险</title>
-      <link>https://securelist.com/tr/schneider-electric-cve-2024-2658-vulnerability/120436/</link>
-      <description><![CDATA[对 Schneider Electric 浮动许可证管理器中发现的 CVE-2024-2658 的分析。了解 FlexNet Publisher 漏洞如何可能允许攻击者升级到 NT AUTHORITY\SYSTEM 权限并扩大他们的立足点；了解如何降低风险。]]></description>
-      <guid>https://securelist.com/tr/schneider-electric-cve-2024-2658-vulnerability/120436/</guid>
-      <pubDate>Fri, 26 Jun 2026 13:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
