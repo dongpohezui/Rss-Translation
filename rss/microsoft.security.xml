@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 15 Jul 2026 18:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:52:37 GMT</lastBuildDate>
+    <item>
+      <title>解开 AsyncAPI npm 供应链妥协和导入时有效负载交付</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/</link>
+      <description><![CDATA[威胁参与者破坏了 AsyncAPI 包并将受信任的 CI/CD 工作流程武器化，以通过 npm 分发恶意软件。此分析分解了攻击链、有效负载传递和建议的防御措施。
+这篇文章解压 AsyncAPI npm 供应链泄露和导入时有效负载传送首先出现在 Microsoft Security博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/</guid>
+      <pubDate>Thu, 16 Jul 2026 01:36:21 GMT</pubDate>
+    </item>
     <item>
       <title>与 Defender 专家一起将威胁情报转化为果断行动</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/</link>
@@ -76,14 +84,6 @@
 微软将 Frost Radar 评为云和应用程序运行时安全领域的领导者一文首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/01/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/</guid>
       <pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>加快量子安全时间表</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/</link>
-      <description><![CDATA[我们正在加速量子安全准备工作，并分享组织现在可以采取哪些措施来更早、更有信心地进行过渡。
-这篇文章加速量子安全时间表首先出现在微软安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/</guid>
-      <pubDate>Tue, 30 Jun 2026 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
