@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 16 Jul 2026 18:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 01:25:50 GMT</lastBuildDate>
+    <item>
+      <title>ACR Stealer：在威胁活动增加的情况下观察到两条入侵链</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</link>
+      <description><![CDATA[从 2026 年 4 月下旬到 2026 年 6 月中旬，Microsoft Defender 专家观察到整个客户环境中的 ACR Stealer 活动有所增加。这些活动成功地使用 ClickFix 诱饵从企业环境中窃取浏览器凭据、身份验证令牌和敏感文档。
+ACR Stealer：在威胁活动增加中发现两条观察到的入侵链首先出现在Microsoft Security博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</guid>
+      <pubDate>Thu, 16 Jul 2026 23:12:02 GMT</pubDate>
+    </item>
     <item>
       <title>AI 代理的最低权限：身份、访问和工具绑定</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/</link>
@@ -70,20 +78,12 @@ AI 代理的最低权限：身份、访问和工具绑定一文首先出现在 M
       <pubDate>Wed, 08 Jul 2026 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Frost & Sullivan 2025 年用于云安全态势管理的 Frost Radar™ 的 5 条见解</title>
+      <title>Frost & Sullivan 2025 年 Frost Radar™ 云安全态势管理的 5 条见解</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/</link>
       <description><![CDATA[阅读 Frost 的五个重要经验教训Sullivan 2025 Frost Radar™ for CSPM，了解 CSPM 如何从时间点合规性发展到持续风险管理。
 这篇文章来自 Frost &amp; 的 5 个见解Sullivan 的 2025 年用于云安全态势管理的 Frost Radar™ 首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/</guid>
       <pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>改善整个 Microsoft 合作伙伴生态系统的安全状况</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/</link>
-      <description><![CDATA[了解 Microsoft 如何通过 CSP 审查、最小权限访问、监控和风险管理最佳实践来增强合作伙伴生态系统的安全性。
-这篇文章改善整个 Microsoft 合作伙伴生态系统的安全状况首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/</guid>
-      <pubDate>Thu, 02 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

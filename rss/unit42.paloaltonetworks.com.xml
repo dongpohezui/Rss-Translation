@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Thu, 16 Jul 2026 01:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 01:25:36 GMT</lastBuildDate>
+    <item>
+      <title>人工智能、自动化和攻击：解读 Unit 42 2026 年全球事件响应报告</title>
+      <link>https://unit42.paloaltonetworks.com/ai-incident-response-report/</link>
+      <description><![CDATA[探索 Unit 42 关于人工智能对网络安全影响的观点，包括自 2026 年事件响应报告以来的重要更新。
+帖子人工智能、自动化和攻击：解析 Unit 42 2026 年全球事件响应报告首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/ai-incident-response-report/</guid>
+      <pubDate>Thu, 16 Jul 2026 23:00:59 GMT</pubDate>
+    </item>
     <item>
       <title>npm 威胁形势：攻击面和缓解措施（7 月 15 日更新）</title>
       <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
@@ -116,14 +124,6 @@ CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Un
 帖子不要相信技能：人工智能代理供应链的完整性验证首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/</guid>
       <pubDate>Thu, 11 Jun 2026 10:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>蒙蔽守望者：滥用云日志服务进行防御规避和可见性</title>
-      <link>https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/</link>
-      <description><![CDATA[Unit 42 研究检查了针对云日志服务的攻击场景。了解如何防御日志操纵和防御规避。
-帖子蒙蔽守望者：滥用云日志服务进行防御规避和可见性首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/</guid>
-      <pubDate>Tue, 09 Jun 2026 22:00:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
