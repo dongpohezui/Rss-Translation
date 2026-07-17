@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 17 Jul 2026 01:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 18:51:29 GMT</lastBuildDate>
+    <item>
+      <title>微软参加 Black Hat USA 2026：在人工智能和供应链攻击时代捍卫信任</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/</link>
+      <description><![CDATA[参加 2026 年 Black Hat USA 的 Microsoft Security，了解供应链研究、实践安全体验、专家对话和我们的招待会。
+帖子微软在 Black Hat USA 2026：在人工智能和供应链攻击时代捍卫信任首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/</guid>
+      <pubDate>Fri, 17 Jul 2026 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>ACR Stealer：在威胁活动增加的情况下观察到两条入侵链</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</link>
@@ -76,14 +84,6 @@ AI 代理的最低权限：身份、访问和工具绑定一文首先出现在 M
 帖子以 AI 速度保护 Microsoft：SFI 如何主动强化我们的云首先出现在 Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/</guid>
       <pubDate>Wed, 08 Jul 2026 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frost & Sullivan 2025 年 Frost Radar™ 云安全态势管理的 5 条见解</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/</link>
-      <description><![CDATA[阅读 Frost 的五个重要经验教训Sullivan 2025 Frost Radar™ for CSPM，了解 CSPM 如何从时间点合规性发展到持续风险管理。
-这篇文章来自 Frost &amp; 的 5 个见解Sullivan 的 2025 年用于云安全态势管理的 Frost Radar™ 首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/</guid>
-      <pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
