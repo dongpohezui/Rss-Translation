@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Fri, 17 Jul 2026 01:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 12:58:47 GMT</lastBuildDate>
+    <item>
+      <title>到达终点站的三个步骤：西门子 ROX II 零日三部曲</title>
+      <link>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</link>
+      <description><![CDATA[对西门子 ROX II OT 交换机中允许权限升级和持久根访问的三个链式零日漏洞进行技术分析。
+帖子通往终端的三个步骤：西门子 ROX II 零日三部曲首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</guid>
+      <pubDate>Fri, 17 Jul 2026 10:00:24 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能、自动化和攻击：解读 Unit 42 2026 年全球事件响应报告</title>
       <link>https://unit42.paloaltonetworks.com/ai-incident-response-report/</link>
@@ -116,14 +124,6 @@ CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Un
 帖子追踪数字意图：发现新的 MacOS Tahoe 26 Artifact 首先出现在 Unit 42 上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</guid>
       <pubDate>Fri, 12 Jun 2026 22:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>不信任任何技能：人工智能代理供应链的完整性验证</title>
-      <link>https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/</link>
-      <description><![CDATA[通过审核第三方技能是否存在隐藏漏洞和多阶段攻击链，保护企业人工智能代理免受供应链风险。
-帖子不要相信技能：人工智能代理供应链的完整性验证首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/</guid>
-      <pubDate>Thu, 11 Jun 2026 10:00:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
