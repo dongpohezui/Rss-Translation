@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sat, 18 Jul 2026 01:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:25:50 GMT</lastBuildDate>
     <item>
       <title>微软参加 Black Hat USA 2026：在人工智能和供应链攻击时代捍卫信任</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/</link>
@@ -17,7 +17,7 @@
       <title>ACR Stealer：在威胁活动增加的情况下观察到两条入侵链</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</link>
       <description><![CDATA[从 2026 年 4 月下旬到 2026 年 6 月中旬，Microsoft Defender 专家观察到整个客户环境中的 ACR Stealer 活动有所增加。这些活动成功地使用 ClickFix 诱饵从企业环境中窃取浏览器凭据、身份验证令牌和敏感文档。
-ACR Stealer：在威胁活动增加中发现两条观察到的入侵链首先出现在Microsoft Security博客。]]></description>
+ACR Stealer：在威胁活动增加中观察到的两条入侵链首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</guid>
       <pubDate>Thu, 16 Jul 2026 23:12:02 GMT</pubDate>
     </item>
