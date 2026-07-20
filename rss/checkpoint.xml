@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Tue, 14 Jul 2026 01:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:44:07 GMT</lastBuildDate>
+    <item>
+      <title>7 月 20 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/</link>
+      <description><![CDATA[有关 7 月 20 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和违规 Ernst &amp; Young 是一家全球会计和专业服务公司，披露了一起涉及第三方 IT 支持平台受损的数据泄露事件。暴露的支持票可能包含客户文件、税务信息、[…]
+7 月 20 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/</guid>
+      <pubDate>Mon, 20 Jul 2026 12:18:41 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年人工智能安全报告</title>
       <link>https://research.checkpoint.com/2026/ai-security-report-2026/</link>
@@ -116,14 +124,6 @@
 这篇文章2026 年 3 月至 4 月人工智能威胁形势摘要首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</guid>
       <pubDate>Tue, 26 May 2026 10:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 月 25 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</link>
-      <description><![CDATA[有关 5 月 25 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 全球连锁便利店 7-11 在未经授权访问用于特许经营商文件的系统后确认存在违规行为。 ShinyHunters 声称对此负责，并表示其窃取了超过 600,000 条包含个人 […] 的 Salesforce 记录
-5 月 25 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/</guid>
-      <pubDate>Mon, 25 May 2026 15:08:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
