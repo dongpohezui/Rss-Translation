@@ -4,7 +4,7 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Fri, 17 Jul 2026 18:50:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 01:23:36 GMT</lastBuildDate>
     <item>
       <title>到达终点站的三个步骤：西门子 ROX II 零日三部曲</title>
       <link>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</link>
@@ -15,10 +15,10 @@
     </item>
     <item>
       <title>人工智能、自动化和攻击：解读 Unit 42 2026 年全球事件响应报告</title>
-      <link>https://unit42.paloaltonetworks.com/ai-incident-response-report/</link>
+      <link>https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/</link>
       <description><![CDATA[探索 Unit 42 关于人工智能对网络安全影响的观点，包括自 2026 年事件响应报告以来的重要更新。
 帖子人工智能、自动化和攻击：解析 Unit 42 2026 年全球事件响应报告首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/ai-incident-response-report/</guid>
+      <guid>https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/</guid>
       <pubDate>Thu, 16 Jul 2026 23:00:59 GMT</pubDate>
     </item>
     <item>
@@ -33,7 +33,7 @@
       <title>TuxBot v3：采用 LLM 辅助开发的 IoT 僵尸网络框架内部</title>
       <link>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</link>
       <description><![CDATA[TuxBot v3 Evolution，一个使用 LLM 构建的 IoT 僵尸网络框架。阅读我们对其交叉编译的二进制文件、C2 架构和错误的分析。
-帖子TuxBot v3：采用LLM辅助开发的物联网僵尸网络框架内部首先出现在Unit 42上。]]></description>
+帖子TuxBot v3：采用 LLM 辅助开发的物联网僵尸网络框架内部首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</guid>
       <pubDate>Wed, 15 Jul 2026 10:00:54 GMT</pubDate>
     </item>

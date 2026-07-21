@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Mon, 20 Jul 2026 19:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 01:23:08 GMT</lastBuildDate>
     <item>
       <title>微软修复了创纪录的 570 个安全漏洞</title>
       <link>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>从 CISA 最近的 GitHub 泄露事件中吸取的教训</title>
       <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后分析报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
+      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞为所有安全团队提供了重要的教训。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</guid>
       <pubDate>Mon, 13 Jul 2026 15:03:28 GMT</pubDate>
     </item>
     <item>
       <title>重罪犯、诈骗犯殴打进攻性网络安全初创公司</title>
       <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
-      <description><![CDATA[一家网络安全初创公司花费数百万美元收购流行软件中的零日安全漏洞，该公司由一对极右翼阴谋论者和被定罪的重罪犯经营，他们最近的企业包括假情报公司和一个现已解散的基于人工智能的游说平台，他们以化名运营。]]></description>
+      <description><![CDATA[一家网络安全初创公司花费数百万美元收购流行软件中的零日安全漏洞，该公司由一对极右翼阴谋论者和被定罪的重罪犯经营，他们最近的企业包括假情报公司和一个现已解散的基于人工智能的游说平台，他们以假名运营。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
       <pubDate>Wed, 08 Jul 2026 12:31:39 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>黑客利用 Meta 的 AI 支持机器人来夺取 Instagram 帐户</title>
       <link>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</link>
-      <description><![CDATA[上周末，Telegram 上开始流传如何欺骗 Meta 的“人工智能支持助理”机器人重置账户密码的说明后，奥巴马白宫和美国太空军首席军士长的 Instagram 账户被亲伊朗的图片和消息短暂破坏。]]></description>
+      <description><![CDATA[上周末，Telegram 上开始流传有关如何欺骗 Meta 的“人工智能支持助理”机器人重置帐户密码的说明后，奥巴马白宫和美国太空军首席军士长的 Instagram 帐户被亲伊朗的图像和消息短暂破坏。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</guid>
       <pubDate>Mon, 01 Jun 2026 17:32:50 GMT</pubDate>
     </item>
