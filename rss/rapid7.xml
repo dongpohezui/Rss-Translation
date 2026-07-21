@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 01:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:04:18 GMT</lastBuildDate>
     <item>
       <title>从单个警报到 1,000 个文件：暴露的 WebDAV 恶意软件交付实验室内部</title>
       <link>https://www.rapid7.com/blog/post/tr-exposed-webdav-malware-delivery-lab-analysis</link>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 15 Jul 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>星期二补丁 - 2026 年 7 月</title>
+      <title>周二补丁 - 2026 年 7 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-july-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-july-2026</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>Metasploit 每周更新：SMB 到 Meterpreter 模块、Peyara 远程鼠标 RCE 漏洞利用等</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-07-03-2026</link>
-      <description><![CDATA[是时候升级您的 SMB 会话了本周，Metasploit 贡献者 Dean Welch 向 Meterpreter 会话升级模块添加了 SMB。它使用 PsExec 来促进升级。用户可以使用 windows/manage/smb_to_meterpreter 加载模块并指定他们想要升级的会话编号。此功能也可通过命令 sessions -u  使用。这项工作是一项总体工作的一部分，旨在尽可能将各种会话类型升级到 Meterpreter。新模块内容 (3)Peyara Remote Mouse 1.0.1 未经身份验证的远程代码执行作者：tmrswrr类型：利用拉取请求：#21491 贡献者：capture0x路径：windows/misc/peyara_remote_mouse_rce描述：添加漏洞利用模块Peyara Remote Mouse v1.0.1 未经身份验证的 RCE。Linux 执行命令作者：bcoles bcoles@gmail.com 和 modexp类型：有效负载（单个）拉取请求：#21239 贡献者：bcoles路径：linux/loongarch64/exec说明：添加新的 linux/loongarch64/exec 命令通过 PsExec 将 SMB 升级到 Meterpreter作者：Dean Welch类型：Post拉取请求：#21581 贡献者：dwelch-r7路径：windows/manage/smb_to_meterpreter描述：添加使用 PsExec 技术将经过身份验证的 SMB 会话升级到 Meterpreter 会话的功能。增强功能和功能 (1)#21527 来自 zeroSteiner - 默认情况下向 MCP 服务器的 HTTP 传输添加身份验证支持。修复的错误 (2)#21618来自zeroSteiner - 修复了在 Windows 环境中运行scanner/discovery/udp_sweep模块时发生的崩溃问题。#21624 来自 adfoster-r7 - 修复了 SSH 会话的调试信息显示错误值 localuser @ 而不是 ssh_user @ 的错误ssh_ip。文档您可以在我们的文档网站上找到最新的 Metasploit 文档：docs.metasploit.com。获取与往常一样，您可以使用 msfupdate 更新到最新的 Metasploit 框架，并且可以获得更多详细信息自 GitHub 上一篇博客文章以来的更改：拉取请求6.4.141...6.4.142完整 diff 6.4.141...6.4.142如果您是 git 用户，您可以克隆Metasploit Framework 存储库（主分支）了解最新信息。要不使用 git 进行全新安装，您可以使用开源版夜间安装程序或商业版Metasploit Pro]]></description>
+      <description><![CDATA[是时候升级您的 SMB 会话了本周，Metasploit 贡献者 Dean Welch 向 Meterpreter 会话升级模块添加了 SMB。它使用 PsExec 来促进升级。用户可以使用 windows/manage/smb_to_meterpreter 加载模块并指定他们想要升级的会话编号。此功能也可通过命令 sessions -u  使用。这项工作是一项总体工作的一部分，旨在尽可能将各种会话类型升级到 Meterpreter。新模块内容 (3)Peyara Remote Mouse 1.0.1 未经身份验证的远程代码执行作者：tmrswrr类型：利用拉取请求：#21491 贡献者：capture0x路径：windows/misc/peyara_remote_mouse_rce描述：添加漏洞利用模块Peyara Remote Mouse v1.0.1 未经身份验证的 RCE。Linux 执行命令作者：bcoles bcoles@gmail.com 和 modexp类型：有效负载（单个）拉取请求：#21239 贡献者：bcoles路径：linux/loongarch64/exec说明：添加新的 linux/loongarch64/exec 命令通过 PsExec 将 SMB 升级到 Meterpreter作者：Dean Welch类型：Post拉取请求：#21581 贡献者：dwelch-r7路径：windows/manage/smb_to_meterpreter描述：添加使用 PsExec 技术将经过身份验证的 SMB 会话升级到 Meterpreter 会话的功能。增强功能和功能 (1)#21527 来自 zeroSteiner - 默认情况下向 MCP 服务器的 HTTP 传输添加身份验证支持。修复的错误 (2)#21618来自zeroSteiner - 修复了在 Windows 环境中运行scanner/discovery/udp_sweep模块时发生的崩溃问题。#21624 来自 adfoster-r7 - 修复了 SSH 会话的调试信息显示错误值 localuser @ 而不是 ssh_user @ 的错误ssh_ip。文档您可以在我们的文档网站上找到最新的 Metasploit 文档：docs.metasploit.com。获取与往常一样，您可以使用 msfupdate 更新到最新的 Metasploit 框架，并且可以获得更多详细信息自 GitHub 上一篇博客文章以来的更改：拉取请求6.4.141...6.4.142完整 diff 6.4.141...6.4.142如果您是 git 用户，您可以克隆Metasploit Framework 存储库（主分支）了解最新版本。要不使用 git 进行全新安装，您可以使用开源版夜间安装程序或商业版Metasploit Pro]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-07-03-2026</guid>
       <pubDate>Fri, 03 Jul 2026 22:11:22 GMT</pubDate>
     </item>
