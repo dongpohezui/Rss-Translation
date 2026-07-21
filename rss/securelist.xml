@@ -4,7 +4,21 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jul 2026 08:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:11:54 GMT</lastBuildDate>
+    <item>
+      <title>新的勒索鸡尾酒：办公室打印机、小额赎金和 BitLocker</title>
+      <link>https://securelist.com/new-extortion-scheme-printers-bitlocker/120718/</link>
+      <description><![CDATA[我们介绍了最近两个使用 RDP、MSSQL、RMM 工具、Web shell 和打印机进行 BitLocker 勒索的案例。该故事包括 TTP 和建议。]]></description>
+      <guid>https://securelist.com/new-extortion-scheme-printers-bitlocker/120718/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>新项目 CAV3RN 模块滥用 Outlook 日历事件获取 C2 和 DNS AAAA 记录以进行配置恢复</title>
+      <link>https://securelist.com/project-cav3rn-cyberespionage-framework-using-outlook-and-dns/120757/</link>
+      <description><![CDATA[卡巴斯基 GReAT 专家描述了新的 Project CAV3RN C2 模块。它使用 Outlook 日历通过 Microsoft Graph 进行通信，并通过 DNS AAAA 响应建立备份连接。]]></description>
+      <guid>https://securelist.com/project-cav3rn-cyberespionage-framework-using-outlook-and-dns/120757/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:40:47 GMT</pubDate>
+    </item>
     <item>
       <title>HelloNet 活动——通过 ViPNet 更新系统启动新的恶意模块</title>
       <link>https://securelist.com/tr/hellonet-vipnet/120700/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[卡巴斯基专家发现了用于传送 AsyncRAT 的恶意网络基础设施。该特洛伊木马是通过受损的 ScreenConnect 软件删除的。在这篇文章中，我们将分解感染链并分析 C2 基础设施。]]></description>
       <guid>https://securelist.com/tr/the-soc-files-screenconnect-campaign-with-asyncrat/120472/</guid>
       <pubDate>Wed, 01 Jul 2026 10:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw：用户面临的风险以及如何减轻这些风险</title>
-      <link>https://securelist.com/openclaw-security/120484/</link>
-      <description><![CDATA[研究 OpenClaw 漏洞、恶意技能和流行代理的其他安全问题，并提供有关如何缓解这些问题的提示。]]></description>
-      <guid>https://securelist.com/openclaw-security/120484/</guid>
-      <pubDate>Wed, 01 Jul 2026 06:42:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>ToddyCat：您隐藏的电子邮件助手。第2部分</title>
-      <link>https://securelist.com/toddycat-apt-umbrij-tool-and-oauth/120251/</link>
-      <description><![CDATA[对 Umbrij 的深入分析，这是 ToddyCat APT 组织用来破坏 Gmail 中企业电子邮件通信的新工具。该攻击针对 OAuth 授权令牌，允许威胁行为者获得对 Google 服务的访问权限。]]></description>
-      <guid>https://securelist.com/toddycat-apt-umbrij-tool-and-oauth/120251/</guid>
-      <pubDate>Tue, 30 Jun 2026 10:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
