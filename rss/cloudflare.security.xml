@@ -4,11 +4,18 @@
     <title>贴有“安全”标签的帖子</title>
     <link>https://blog.cloudflare.com/tag/security/</link>
     <description>所有带有安全标签的帖子</description>
-    <lastBuildDate>Wed, 22 Jul 2026 08:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:17:34 GMT</lastBuildDate>
+    <item>
+      <title>为什么我们不能等待更好的后量子签名算法</title>
+      <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
+      <description><![CDATA[NIST 正在推进九种新的后量子签名算法，作为未来标准化的潜在候选算法。我们仔细研究了所有这些，并认为虽然它们正在开发中并显示出巨大的潜力，但我们现在应该使用 ML-DSA——目前可用的最好的一种。]]></description>
+      <guid>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</guid>
+      <pubDate>Thu, 09 Jul 2026 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用归因业务洞察揭开抓取的面纱</title>
       <link>https://blog.cloudflare.com/attribution-business-insights/</link>
-      <description><![CDATA[Cloudflare 的新 Attribution Business Insights 仪表板可帮助网站所有者了解爬虫行为、兴趣和潜在价值，推动围绕爬虫补偿的业务级对话。]]></description>
+      <description><![CDATA[Cloudflare 的新 Attribution Business Insights 仪表板可帮助网站所有者了解爬虫行为、偏好和潜在价值，推动围绕爬虫补偿的业务级对话。]]></description>
       <guid>https://blog.cloudflare.com/attribution-business-insights/</guid>
       <pubDate>Wed, 01 Jul 2026 06:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。]]></description>
       <guid>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</guid>
       <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>主动防御：引入 API 状态漏洞扫描器</title>
-      <link>https://blog.cloudflare.com/vulnerability-scanner/</link>
-      <description><![CDATA[Cloudflare 的新 Web 和 API 漏洞扫描程序可帮助团队主动发现逻辑缺陷。通过使用 AI 构建 API 调用图，我们可以识别标准防御工具遗漏的漏洞。]]></description>
-      <guid>https://blog.cloudflare.com/vulnerability-scanner/</guid>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
