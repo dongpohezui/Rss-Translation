@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 22 Jul 2026 01:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:05:17 GMT</lastBuildDate>
     <item>
       <title>新的勒索鸡尾酒：办公室打印机、小额赎金和 BitLocker</title>
       <link>https://securelist.com/new-extortion-scheme-printers-bitlocker/120718/</link>
@@ -13,7 +13,7 @@
       <pubDate>Tue, 21 Jul 2026 13:00:29 GMT</pubDate>
     </item>
     <item>
-      <title>新项目 CAV3RN 模块滥用 Outlook 日历事件获取 C2 和 DNS AAAA 记录以进行配置恢复</title>
+      <title></title>
       <link>https://securelist.com/project-cav3rn-cyberespionage-framework-using-outlook-and-dns/120757/</link>
       <description><![CDATA[卡巴斯基 GReAT 专家描述了新的 Project CAV3RN C2 模块。它使用 Outlook 日历通过 Microsoft Graph 进行通信，并通过 DNS AAAA 响应建立备份连接。]]></description>
       <guid>https://securelist.com/project-cav3rn-cyberespionage-framework-using-outlook-and-dns/120757/</guid>
