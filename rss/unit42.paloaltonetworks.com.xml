@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Tue, 21 Jul 2026 01:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:56:46 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯全球网络邮件间谍活动</title>
+      <link>https://unit42.paloaltonetworks.com/russian-webmail-espionage/</link>
+      <description><![CDATA[第 42 单元详细介绍了针对 Zimbra 网络邮件服务器的俄罗斯网络间谍活动，该活动使用 JavaScript 注入来窃取凭据。
+帖子俄罗斯全球网络邮件间谍活动首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/russian-webmail-espionage/</guid>
+      <pubDate>Thu, 23 Jul 2026 14:10:53 GMT</pubDate>
+    </item>
     <item>
       <title>到达终点站的三个步骤：西门子 ROX II 零日三部曲</title>
       <link>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</link>
@@ -33,7 +41,7 @@
       <title>TuxBot v3：采用 LLM 辅助开发的 IoT 僵尸网络框架内部</title>
       <link>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</link>
       <description><![CDATA[TuxBot v3 Evolution，一个使用 LLM 构建的 IoT 僵尸网络框架。阅读我们对其交叉编译的二进制文件、C2 架构和错误的分析。
-帖子TuxBot v3：采用 LLM 辅助开发的物联网僵尸网络框架内部首先出现在Unit 42上。]]></description>
+帖子TuxBot v3：采用LLM辅助开发的物联网僵尸网络框架内部首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</guid>
       <pubDate>Wed, 15 Jul 2026 10:00:54 GMT</pubDate>
     </item>
@@ -81,7 +89,7 @@
       <title>CL-STA-1062 针对东南亚政府和关键基础设施</title>
       <link>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</link>
       <description><![CDATA[攻击者使用混合工具包（包括定制的 TinyRCT 后门）在东南亚针对政府实体和关键基础设施进行间谍活动。 
-CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Unit 42上。]]></description>
+帖子CL-STA-1062 针对东南亚政府和关键基础设施首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</guid>
       <pubDate>Thu, 25 Jun 2026 22:00:52 GMT</pubDate>
     </item>
@@ -116,14 +124,6 @@ CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Un
 帖子现代 SOC 内部：72 分钟竞赛首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/soc-72-minute-race/</guid>
       <pubDate>Mon, 15 Jun 2026 23:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>追踪数字意图：新 MacOS Tahoe 26 神器被发现</title>
-      <link>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</link>
-      <description><![CDATA[Unit 42 发现了一个新的 macOS Tahoe 26 取证工件，可以跟踪整个操作系统的用户菜单选择。在这里了解更多。 
-帖子追踪数字意图：发现新的 MacOS Tahoe 26 Artifact 首先出现在 Unit 42 上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/</guid>
-      <pubDate>Fri, 12 Jun 2026 22:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
