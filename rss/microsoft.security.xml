@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sat, 25 Jul 2026 07:48:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 12:56:22 GMT</lastBuildDate>
     <item>
       <title>电子邮件威胁形势：2026 年第二季度趋势和见解</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/</link>
@@ -16,7 +16,7 @@
     <item>
       <title>现实世界的事件响应：Microsoft 和 AXA XL 增强网络弹性</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/</link>
-      <description><![CDATA[我们与 AXA XL 的合作将 Microsoft 事件响应服务直接提供给网络保险投保人，帮助组织协调技术、业务和保险决策。
+      <description><![CDATA[我们与 AXA XL 的合作将 Microsoft 事件响应服务直接提供给网络保险保单持有人，帮助组织协调技术、业务和保险决策。
 帖子现实世界事件响应：Microsoft 和 AXA XL 加强网络弹性首先出现在 Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/</guid>
       <pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
@@ -33,7 +33,7 @@
       <title>ACR Stealer：在威胁活动增加的情况下观察到两条入侵链</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</link>
       <description><![CDATA[从 2026 年 4 月下旬到 2026 年 6 月中旬，Microsoft Defender 专家观察到整个客户环境中的 ACR Stealer 活动有所增加。这些活动成功地使用 ClickFix 诱饵从企业环境中窃取浏览器凭据、身份验证令牌和敏感文档。
-帖子ACR Stealer：威胁活动增加中发现两条入侵链首先出现在Microsoft Security博客。]]></description>
+ACR Stealer：在威胁活动增加中发现两条观察到的入侵链首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</guid>
       <pubDate>Thu, 16 Jul 2026 23:12:02 GMT</pubDate>
     </item>
