@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Sat, 25 Jul 2026 01:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:47:58 GMT</lastBuildDate>
     <item>
       <title>LG 将禁止智能电视应用程序使用住宅代理</title>
       <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>重罪犯、诈骗犯殴打进攻性网络安全初创公司</title>
       <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
-      <description><![CDATA[一家网络安全初创公司花费数百万美元收购流行软件中的零日安全漏洞，该公司由一对极右翼阴谋论者和被定罪的重罪犯经营，他们最近的企业包括假情报公司和一个现已解散的基于人工智能的游说平台，他们以化名运营。]]></description>
+      <description><![CDATA[一家网络安全初创公司花费数百万美元收购流行软件中的零日安全漏洞，该公司由一对极右翼阴谋论者和被定罪的重罪犯经营，他们最近的企业包括假情报公司和一个现已解散的基于人工智能的游说平台，他们以假名运营。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
       <pubDate>Wed, 08 Jul 2026 12:31:39 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>分散的蜘蛛黑客在审判第一天认罪</title>
       <link>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</link>
-      <description><![CDATA[本周，英国两名男子对 2024 年 8 月网络攻击造成的刑事指控认罪，该攻击导致负责大伦敦地区公共交通网络的伦敦交通局瘫痪。这两人是一个名为“分散蜘蛛”的多产网络犯罪组织的主要成员，他们在预计为期六周的审判的第一天认罪。]]></description>
+      <description><![CDATA[本周，英国两名男子对 2024 年 8 月网络攻击造成的刑事指控认罪，该攻击导致负责大伦敦地区公共交通网络的伦敦交通局瘫痪。这两人是一个多产的网络犯罪组织“分散蜘蛛”的主要成员，他们在预计为期六周的审判的第一天认罪。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</guid>
       <pubDate>Tue, 23 Jun 2026 16:12:49 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>2026 年 6 月星期二的破纪录补丁</title>
       <link>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</link>
-      <description><![CDATA[微软今天发布了软件更新，以填补其 Windows 操作系统和支持的软件中近 200 个安全漏洞，这是该公司每月补丁星期二周期的修复数量创纪录的。其中近三打漏洞获得了微软最可怕的“严重”评级，并且至少其中三个漏洞的利用代码现已公开。]]></description>
+      <description><![CDATA[微软今天发布了软件更新，以填补其 Windows 操作系统和支持软件中的近 200 个安全漏洞，这是该公司每月补丁星期二周期的修复数量创纪录的。其中近三打漏洞获得了微软最可怕的“严重”评级，并且至少其中三个漏洞的利用代码现已公开。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</guid>
       <pubDate>Tue, 09 Jun 2026 22:07:28 GMT</pubDate>
     </item>
