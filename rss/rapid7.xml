@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Sun, 26 Jul 2026 12:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 18:52:40 GMT</lastBuildDate>
     <item>
       <title>OpenAI和抱脸之间发生了什么？</title>
       <link>https://www.rapid7.com/blog/post/ai-openai-hugging-face-what-happened</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 23 Jul 2026 12:47:05 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-16232：关键检查点 SmartConsole 身份验证绕过在野被利用</title>
+      <title>CVE-2026-16232：关键检查点 SmartConsole 身份验证绕过被广泛利用</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-16232-critical-check-point-smartconsole-authentication-bypass-exploited-in-the-wild</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-16232-critical-check-point-smartconsole-authentication-bypass-exploited-in-the-wild</guid>
