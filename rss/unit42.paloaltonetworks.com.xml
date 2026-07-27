@@ -4,7 +4,7 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Mon, 27 Jul 2026 14:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:09:15 GMT</lastBuildDate>
     <item>
       <title>俄罗斯全球网络邮件间谍活动</title>
       <link>https://unit42.paloaltonetworks.com/russian-webmail-espionage/</link>
@@ -41,7 +41,7 @@
       <title>TuxBot v3：采用 LLM 辅助开发的 IoT 僵尸网络框架内部</title>
       <link>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</link>
       <description><![CDATA[TuxBot v3 Evolution，一个使用 LLM 构建的 IoT 僵尸网络框架。阅读我们对其交叉编译的二进制文件、C2 架构和错误的分析。
-帖子TuxBot v3：采用 LLM 辅助开发的物联网僵尸网络框架内部首先出现在Unit 42上。]]></description>
+帖子TuxBot v3：采用LLM辅助开发的物联网僵尸网络框架内部首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</guid>
       <pubDate>Wed, 15 Jul 2026 10:00:54 GMT</pubDate>
     </item>
@@ -89,7 +89,7 @@
       <title>CL-STA-1062 针对东南亚政府和关键基础设施</title>
       <link>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</link>
       <description><![CDATA[攻击者使用混合工具包（包括定制的 TinyRCT 后门）在东南亚针对政府实体和关键基础设施进行间谍活动。 
-CL-STA-1062 针对东南亚政府和关键基础设施的帖子首先出现在Unit 42上。]]></description>
+帖子CL-STA-1062 针对东南亚政府和关键基础设施首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</guid>
       <pubDate>Thu, 25 Jun 2026 22:00:52 GMT</pubDate>
     </item>

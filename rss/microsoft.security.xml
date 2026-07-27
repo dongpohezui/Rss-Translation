@@ -4,18 +4,35 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 27 Jul 2026 14:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:10:05 GMT</lastBuildDate>
+    <item>
+      <title>重新思考人工智能时代的安全</title>
+      <link>https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/</link>
+      <description><![CDATA[为什么安全需要新的网络堆栈——“引入项目感知网络安全的物理原理正在发生变化。”自治系统现在可以连续推理、适应和运行。与此同时，攻击成本正在下降，而必须保护的内容的数量、速度和复杂性却在持续增长。
+这篇文章重新思考人工智能时代的安全首先出现在微软安全博客上。]]></description>
+      <guid>https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/</guid>
+      <pubDate>Mon, 27 Jul 2026 16:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过全球人工智能红队增强人工智能安全</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/</link>
+      <description><![CDATA[微软的外部红队联盟 (EXTRA) 是一项全球人工智能安全计划，旨在推进人工智能安全研究和红队合作。通过与大学、研究人员和地区专家合作，EXTRA 帮助识别新兴人工智能风险、改进安全测试并增强前沿人工智能系统的弹性。
+这篇文章通过全球人工智能红队增强人工智能安全首先出现在微软安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/</guid>
+      <pubDate>Mon, 27 Jul 2026 16:25:00 GMT</pubDate>
+    </item>
     <item>
       <title>电子邮件威胁形势：2026 年第二季度趋势和见解</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[2026 年第二季度，微软对 Tycoon2FA 网络钓鱼平台的破坏造成的持续影响导致几种主要网络钓鱼技术持续下降，而威胁行为者则扩展到基于 Teams 的社会工程领域，并采用了日益自动化的多阶段攻击链。
+这篇文章电子邮件威胁形势：2026 年第 2 季度趋势和见解首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/</guid>
       <pubDate>Thu, 23 Jul 2026 15:00:00 GMT</pubDate>
     </item>
     <item>
       <title>现实世界的事件响应：Microsoft 和 AXA XL 增强网络弹性</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/</link>
-      <description><![CDATA[我们与 AXA XL 的合作将 Microsoft 事件响应服务直接提供给网络保险保单持有人，帮助组织协调技术、业务和保险决策。
+      <description><![CDATA[我们与 AXA XL 的合作将 Microsoft 事件响应服务直接提供给网络保险投保人，帮助组织协调技术、业务和保险决策。
 帖子现实世界事件响应：Microsoft 和 AXA XL 加强网络弹性首先出现在 Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/</guid>
       <pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
@@ -67,22 +84,6 @@ AI 代理的最低权限：身份、访问和工具绑定一文首先出现在 M
 这篇文章保护基于SaaS的应用程序免受ShinyHunters OAuth滥用首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/</guid>
       <pubDate>Mon, 13 Jul 2026 22:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Entra ID 安全更新：密钥是 Entra ID 中的默认身份验证方法</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</link>
-      <description><![CDATA[Microsoft Entra ID 使密钥成为默认登录体验，并引入了短信和语音身份验证的新模型。了解如何准备。
-帖子Microsoft Entra ID 安全更新：密码是 Entra ID 中的默认身份验证方法首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</guid>
-      <pubDate>Mon, 13 Jul 2026 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>确保我们的未来：2026 年 7 月 Microsoft 安全未来计划进度报告</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/</link>
-      <description><![CDATA[微软最新的《安全未来计划》报告概述了安全基础、人工智能驱动的防御和面向未来的网络安全方面的进展。
-保障我们的未来：Microsoft 安全未来计划 2026 年 7 月进度报告首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/</guid>
-      <pubDate>Fri, 10 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

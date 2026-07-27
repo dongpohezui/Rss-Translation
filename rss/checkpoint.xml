@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 20 Jul 2026 13:44:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:09:30 GMT</lastBuildDate>
+    <item>
+      <title>7 月 27 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/</link>
+      <description><![CDATA[有关 7 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 Nichirei 是一家总部位于日本的冷冻食品供应商和物流公司，遭遇勒索软件攻击，导致运输业务中断并影响了大约 5,000 名客户。肯德基日本警告可能出现短缺。 Nichirei 确认个人数据被盗，[…]
+7 月 27 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/</guid>
+      <pubDate>Mon, 27 Jul 2026 16:00:39 GMT</pubDate>
+    </item>
     <item>
       <title>7 月 20 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/</link>
@@ -24,7 +32,7 @@
     <item>
       <title>7 月 13 日——威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</link>
-      <description><![CDATA[有关 7 月 13 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 美国汽车保险公司 AssuranceAmerica 披露了一起影响约 700 万人的数据泄露事件。攻击者以一名员工为目标，并使用受损的凭据访问公司系统，窃取姓名、联系信息、驾驶执照 […]
+      <description><![CDATA[有关 7 月 13 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 美国汽车保险公司 AssuranceAmerica 披露了一起影响约 700 万人的数据泄露事件。攻击者以一名员工为目标，并使用受损的凭据访问公司系统，窃取姓名、联系信息、驾照 […]
 7 月 13 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</guid>
       <pubDate>Mon, 13 Jul 2026 13:06:08 GMT</pubDate>
@@ -72,7 +80,7 @@
     <item>
       <title>从明星到点赞：虚假声誉助长加密剪贴板劫持者</title>
       <link>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</link>
-      <description><![CDATA[要点介绍 在这项研究中，我们分析了一个剪贴板劫持者活动，该活动隐藏在一系列声称为用户提供不公平优势的“解决方案”和“工具”中。这些优惠包括 Solana 和 Pump.fun 狙击机器人（尝试比其他交易者更快购买新代币或 meme 硬币的自动化工具）、Aviator Predictor […]
+      <description><![CDATA[要点介绍 在这项研究中，我们分析了一个剪贴板劫持者活动，该活动隐藏在一系列声称为用户提供不公平优势的“解决方案”和“工具”中。这些优惠包括 Solana 和 Pump.fun 狙击机器人（尝试比其他交易者更快购买新代币或模因币的自动化工具）、Aviator Predictor […]
 这篇文章从明星到点赞：虚假声誉助长了加密剪贴板劫持者首先出现在Check Point Research上。]]></description>
       <guid>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</guid>
       <pubDate>Wed, 17 Jun 2026 13:38:55 GMT</pubDate>
@@ -80,7 +88,7 @@
     <item>
       <title>6 月 15 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 15 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 英国研究型大学诺丁汉大学在 ShinyHunters 访问其学生记录系统后遭遇数据泄露。该事件影响了约 454,600 名现任和前任学生，并暴露了联系方式，[…]
+      <description><![CDATA[有关 6 月 15 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和泄露 英国研究型大学诺丁汉大学在 ShinyHunters 访问其学生记录系统后遭遇数据泄露。该事件影响了约 454,600 名现任和前任学生，并暴露了联系方式，[…]
 6 月 15 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/</guid>
       <pubDate>Mon, 15 Jun 2026 13:40:44 GMT</pubDate>
@@ -112,18 +120,10 @@
     <item>
       <title>6 月 1 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 1 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 全球邮轮运营商嘉年华公司 (Carnival Corporation) 确认，攻击者利用社交工程入侵员工帐户后，数据泄露事件影响到近 600 万人。暴露的信息可能包括姓名、联系方式[…]
+      <description><![CDATA[有关 6 月 1 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 全球邮轮运营商嘉年华公司 (Carnival Corporation) 已确认，在攻击者使用社交工程入侵员工帐户后，数据泄露事件影响到近 600 万人。暴露的信息可能包括姓名、联系方式[…]
 6 月 1 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/</guid>
       <pubDate>Mon, 01 Jun 2026 14:43:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年 3 月至 4 月人工智能威胁态势摘要</title>
-      <link>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</link>
-      <description><![CDATA[执行摘要 在 2026 年 3 月至 4 月的报告期内，人工智能在进攻性作战中的使用从开发和规划进展到实时作战部署。涉及个人犯罪分子、大规模利用平台、勒索软件团体和国家资助的间谍活动的多个独立案件显示了商业人工智能模型在扩展活动中执行自主攻击工作流程的证据。主要发现：人工智能是实时的[…]
-这篇文章2026 年 3 月至 4 月人工智能威胁形势摘要首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/</guid>
-      <pubDate>Tue, 26 May 2026 10:09:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
