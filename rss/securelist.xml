@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Tue, 28 Jul 2026 01:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:11:24 GMT</lastBuildDate>
+    <item>
+      <title>Mirage Kitten 利用新恶意软件瞄准中东和非洲地区</title>
+      <link>https://securelist.com/mirage-kitten-new-tools/120811/</link>
+      <description><![CDATA[卡巴斯基研究人员揭示了 Mirage Kitten（UNC1549、Smoke Sandstorm、Nimbus Manticore）之前未记录的恶意软件：NightLedger 后门、ArcBridge 和 BridgeHead 隧道工具。]]></description>
+      <guid>https://securelist.com/mirage-kitten-new-tools/120811/</guid>
+      <pubDate>Tue, 28 Jul 2026 08:00:20 GMT</pubDate>
+    </item>
     <item>
       <title>新的勒索鸡尾酒：办公室打印机、小额赎金和 BitLocker</title>
       <link>https://securelist.com/new-extortion-scheme-printers-bitlocker/120718/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基危害评估专家分析该服务 2025 年项目的趋势，并提供有关如何增强组织安全性的提示。]]></description>
       <guid>https://securelist.com/compromise-assessment-findings-2025/120542/</guid>
       <pubDate>Thu, 02 Jul 2026 09:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>SOC 文件：ScreenConnect 伪装成免费软件。大规模活动的内部观察</title>
-      <link>https://securelist.com/tr/the-soc-files-screenconnect-campaign-with-asyncrat/120472/</link>
-      <description><![CDATA[卡巴斯基专家发现了用于传送 AsyncRAT 的恶意网络基础设施。该特洛伊木马是通过受损的 ScreenConnect 软件删除的。在这篇文章中，我们将分解感染链并分析 C2 基础设施。]]></description>
-      <guid>https://securelist.com/tr/the-soc-files-screenconnect-campaign-with-asyncrat/120472/</guid>
-      <pubDate>Wed, 01 Jul 2026 10:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
