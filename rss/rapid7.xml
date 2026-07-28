@@ -4,13 +4,20 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 28 Jul 2026 13:26:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 19:02:33 GMT</lastBuildDate>
     <item>
       <title>人工智能如何重写零日策略以实现先发制人的安全</title>
       <link>https://www.rapid7.com/blog/post/ai-rewriting-zero-day-playbook-for-preemptive-security</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ai-rewriting-zero-day-playbook-for-preemptive-security</guid>
       <pubDate>Wed, 29 Jul 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Check Point SmartConsole 身份验证绕过技术分析 (CVE-2026-16232)</title>
+      <link>https://www.rapid7.com/blog/post/ra-check-point-smartconsole-authentication-bypass-technical-analysis-cve-2026-16232</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ra-check-point-smartconsole-authentication-bypass-technical-analysis-cve-2026-16232</guid>
+      <pubDate>Tue, 28 Jul 2026 18:32:03 GMT</pubDate>
     </item>
     <item>
       <title>Rapid7 Cyber​​ GRC 现已推出：将安全行动转化为合规性证明</title>
@@ -118,7 +125,7 @@
       <pubDate>Tue, 14 Jul 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Rapid7 和 Mindshare 合作加速整个中东地区的网络弹性</title>
+      <title>Rapid7 和 Mindware 合作加速整个中东地区的网络弹性</title>
       <link>https://www.rapid7.com/blog/post/c-rapid7-mindware-middle-east-cybersecurity-partnership</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/c-rapid7-mindware-middle-east-cybersecurity-partnership</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/dr-teams-ready-for-preemptive-security-mdr-survey</guid>
       <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>与您的矢量指挥红队吊舱共度一天</title>
-      <link>https://www.rapid7.com/blog/post/so-ditl-day-with-your-vector-command-red-team-pod</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/so-ditl-day-with-your-vector-command-red-team-pod</guid>
-      <pubDate>Mon, 06 Jul 2026 14:26:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
