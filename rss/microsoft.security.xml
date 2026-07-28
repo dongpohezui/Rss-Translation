@@ -4,11 +4,11 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 27 Jul 2026 19:10:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 01:21:23 GMT</lastBuildDate>
     <item>
       <title>重新思考人工智能时代的安全</title>
       <link>https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/</link>
-      <description><![CDATA[为什么安全需要新的网络堆栈——“引入项目感知网络安全的物理原理正在发生变化。”自治系统现在可以连续推理、适应和运行。与此同时，攻击成本正在下降，而必须保护的内容的数量、速度和复杂性却在持续增长。
+      <description><![CDATA[网络安全的物理原理正在发生变化。介绍安全性的新网络堆栈：Project Perception。
 这篇文章重新思考人工智能时代的安全首先出现在微软安全博客上。]]></description>
       <guid>https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/</guid>
       <pubDate>Mon, 27 Jul 2026 16:40:00 GMT</pubDate>
