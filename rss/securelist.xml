@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 30 Jul 2026 01:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:04:01 GMT</lastBuildDate>
+    <item>
+      <title>Toy Ghouls 的新玩具：GenieLocker 勒索软件</title>
+      <link>https://securelist.com/genielocker-ransomware-for-windows-linux-and-esxi/120843/</link>
+      <description><![CDATA[卡巴斯基专家剖析 GenieLocker：适用于 Windows、Linux 和 ESXi 系统的新自定义勒索软件变种。我们发现这个家庭遭到玩具食尸鬼（Toy Ghouls）的袭击，这是一个出于经济动机的勒索组织。]]></description>
+      <guid>https://securelist.com/genielocker-ransomware-for-windows-linux-and-esxi/120843/</guid>
+      <pubDate>Thu, 30 Jul 2026 08:00:57 GMT</pubDate>
+    </item>
     <item>
       <title>Mirage Kitten 利用新恶意软件瞄准中东和非洲地区</title>
       <link>https://securelist.com/mirage-kitten-new-tools/120811/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[深入了解活跃的 Armored Likho APT 活动。攻击者使用鱼叉式网络钓鱼、人工智能生成的加载程序和基于 Python 的新工具 BusySnake Stealer 来攻击俄罗斯、哈萨克斯坦和巴西的组织。]]></description>
       <guid>https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/</guid>
       <pubDate>Fri, 03 Jul 2026 10:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>错过的事件、持续的威胁和响应差距：妥协评估项目的见解</title>
-      <link>https://securelist.com/compromise-assessment-findings-2025/120542/</link>
-      <description><![CDATA[卡巴斯基危害评估专家分析该服务 2025 年项目的趋势，并提供有关如何增强组织安全性的提示。]]></description>
-      <guid>https://securelist.com/compromise-assessment-findings-2025/120542/</guid>
-      <pubDate>Thu, 02 Jul 2026 09:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
