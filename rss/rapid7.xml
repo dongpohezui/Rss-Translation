@@ -4,11 +4,18 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 30 Jul 2026 08:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:22:17 GMT</lastBuildDate>
+    <item>
+      <title>严重的 VMware vCenter 漏洞允许绕过身份验证和远程执行代码（CVE-2026-59309、CVE-2026-59310）</title>
+      <link>https://www.rapid7.com/blog/post/etr-critical-vmware-vcenter-vulnerabilities-allow-authentication-bypass-and-remote-code-execution-cve-2026-59309-cve-2026-59310</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/etr-critical-vmware-vcenter-vulnerabilities-allow-authentication-bypass-and-remote-code-execution-cve-2026-59309-cve-2026-59310</guid>
+      <pubDate>Thu, 30 Jul 2026 10:35:21 GMT</pubDate>
+    </item>
     <item>
       <title>CVE-2026-63077：JetBrains TeamCity 中存在严重的未经身份验证的远程代码执行问题</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</link>
-      <description><![CDATA[概述2026 年 7 月 27 日，JetBrains 发布了安全公告针对CVE-2026-63077，影响 TeamCity On-Premises 所有版本的严重未经身份验证的漏洞。该问题被归类为不受信任数据的反序列化，CVSS 评分为 9.8。通过 HTTP(S) 访问 TeamCity 服务器的未经身份验证的远程攻击者可以利用代理轮询协议绕过身份验证检查，并使用 TeamCity 服务器进程的权限执行任意操作系统命令。在博客文章 JetBrains 与 CVE 出版物一起共享，他们表示利用该漏洞的攻击者可以读取存储的凭据并损害 CI/CD 管道的完整性。成功利用该漏洞的影响取决于授予 TeamCity 服务器进程的操作系统权限。截至披露时，JetBrains 表示他们并不知道存在积极的利用行为。缓解指南运行 TeamCity On-Premises 的组织应紧急优先考虑通过 TeamCity UI 更新到固定版本更新工作流程或通过下载并安装以下固定版本之一：TeamCity 2025.11.7TeamCity 2026.1.3所有版本的 TeamCity On-Premises 都会受到影响。无法升级的组织可以将 JetBrains 的 安全补丁插件应用到 TeamCity 2017.1 及更高版本。该插件仅解决 CVE-2026-63077； JetBrains 建议升级到固定版本以接收其他安全更新。 TeamCity Cloud 客户无需采取任何行动。除了修补之外，作为纵深防御措施，Rapid7 建议将对 TeamCity 服务器的网络访问限制为只有必须拥有该网络访问权限的用户和系统。有关最新的缓解指南，请参阅JetBrains 安全公告。Rapid7 客户Exposure Command、InsightVM 和 Nexpose 客户可以通过 7 月 28 日内容发布中提供的漏洞检查来评估 CVE-2026-63077 的暴露情况。更新2026 年 7 月 29 日：首次发布。]]></description>
+      <description><![CDATA[概述2026 年 7 月 27 日，JetBrains 发布了安全公告针对CVE-2026-63077，影响 TeamCity On-Premises 所有版本的严重未经身份验证的漏洞。该问题被归类为不受信任数据的反序列化，CVSS 评分为 9.8。通过 HTTP(S) 访问 TeamCity 服务器的未经身份验证的远程攻击者可以利用代理轮询协议绕过身份验证检查，并使用 TeamCity 服务器进程的权限执行任意操作系统命令。在博客文章 JetBrains 与 CVE 出版物一起共享，他们表示利用该漏洞的攻击者可以读取存储的凭据并损害 CI/CD 管道的完整性。成功利用的影响取决于授予 TeamCity 服务器进程的操作系统权限。截至披露时，JetBrains 表示他们并不知道存在积极的利用行为。缓解指南运行 TeamCity On-Premises 的组织应紧急优先考虑通过 TeamCity UI 更新到固定版本更新工作流程或通过下载并安装以下固定版本之一：TeamCity 2025.11.7TeamCity 2026.1.3所有版本的 TeamCity On-Premises 都会受到影响。无法升级的组织可以将 JetBrains 的 安全补丁插件应用到 TeamCity 2017.1 及更高版本。该插件仅解决 CVE-2026-63077； JetBrains 建议升级到固定版本以接收其他安全更新。 TeamCity Cloud 客户无需采取任何行动。除了修补之外，作为纵深防御措施，Rapid7 建议将对 TeamCity 服务器的网络访问限制为只有必须拥有该网络访问权限的用户和系统。有关最新的缓解指南，请参阅JetBrains 安全公告。Rapid7 客户Exposure Command、InsightVM 和 Nexpose 客户可以通过 7 月 28 日内容发布中提供的漏洞检查来评估 CVE-2026-63077 的暴露情况。更新2026 年 7 月 29 日：首次发布。]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</guid>
       <pubDate>Wed, 29 Jul 2026 16:16:48 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/c-rapid7-mindware-middle-east-cybersecurity-partnership</guid>
       <pubDate>Tue, 14 Jul 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 每周更新：FlowiseAI CSV 代理和 MacOS 软件包套件的利用</title>
-      <link>https://www.rapid7.com/blog/post/pt-weekly-metasploit-update-exploits-for-flowiseai-csv-agent-and-macos-package-kit</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-weekly-metasploit-update-exploits-for-flowiseai-csv-agent-and-macos-package-kit</guid>
-      <pubDate>Sat, 11 Jul 2026 00:32:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

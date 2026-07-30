@@ -4,12 +4,19 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Mon, 27 Jul 2026 19:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:23:01 GMT</lastBuildDate>
+    <item>
+      <title>中文威胁行为者利用人工智能模型进行自主网络攻击</title>
+      <link>https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/</link>
+      <description><![CDATA[第 42 单元详细介绍了一个讲中文的威胁行为者，将自动人工智能扫描七个漏洞与手动利用相结合。了解更多。
+这篇文章中文威胁参与者利用人工智能模型进行自主网络攻击首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/</guid>
+      <pubDate>Thu, 30 Jul 2026 10:00:52 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯全球网络邮件间谍活动</title>
       <link>https://unit42.paloaltonetworks.com/russian-webmail-espionage/</link>
-      <description><![CDATA[第 42 单元详细介绍了针对 Zimbra 网络邮件服务器的俄罗斯网络间谍活动，该活动使用 JavaScript 注入来窃取凭据。
-帖子俄罗斯全球网络邮件间谍活动首先出现在Unit 42上。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://unit42.paloaltonetworks.com/russian-webmail-espionage/</guid>
       <pubDate>Thu, 23 Jul 2026 14:10:53 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <title>TuxBot v3：采用 LLM 辅助开发的 IoT 僵尸网络框架内部</title>
       <link>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</link>
       <description><![CDATA[TuxBot v3 Evolution，一个使用 LLM 构建的 IoT 僵尸网络框架。阅读我们对其交叉编译的二进制文件、C2 架构和错误的分析。
-帖子TuxBot v3：采用LLM辅助开发的物联网僵尸网络框架内部首先出现在Unit 42上。]]></description>
+帖子TuxBot v3：采用 LLM 辅助开发的物联网僵尸网络框架内部首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</guid>
       <pubDate>Wed, 15 Jul 2026 10:00:54 GMT</pubDate>
     </item>
@@ -116,14 +123,6 @@
 帖子Pickle in the Middle – 劫持Vertex AI模型上传以进行跨租户RCE首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/</guid>
       <pubDate>Tue, 16 Jun 2026 10:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代 SOC 内部：72 分钟比赛</title>
-      <link>https://unit42.paloaltonetworks.com/soc-72-minute-race/</link>
-      <description><![CDATA[攻击者可以在 72 分钟内从访问转移到渗透。了解现代 SOC 团队如何利用 Unit 42 的 AI 驱动自动化、威胁追踪、MDR 和托管 XSIAM 缩小速度差距。
-帖子现代 SOC 内部：72 分钟竞赛首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/soc-72-minute-race/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:00:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

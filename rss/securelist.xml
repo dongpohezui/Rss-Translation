@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 30 Jul 2026 08:04:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:22:26 GMT</lastBuildDate>
+    <item>
+      <title>OctLurk 和 SilkLurk：新发现的中亚网络间谍活动中的定制后门</title>
+      <link>https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/</link>
+      <description><![CDATA[我们的专家发现了 OctLurk 和 SilkLurk，这两种后门主要在内存中运行，针对中亚。他们注入插件来启动 shell、扫描网络、转储凭据和键盘记录。]]></description>
+      <guid>https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/</guid>
+      <pubDate>Thu, 30 Jul 2026 11:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>Toy Ghouls 的新玩具：GenieLocker 勒索软件</title>
       <link>https://securelist.com/genielocker-ransomware-for-windows-linux-and-esxi/120843/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[OAuth 2.0 设备授权授予规范旨在简化智能电视、物联网设备和打印机的身份验证。如今，威胁行为者正在将其武器化。]]></description>
       <guid>https://securelist.com/microsoft-device-code-phishing-attack/120350/</guid>
       <pubDate>Mon, 06 Jul 2026 09:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>装甲 Likho 挖蛇坑：隐藏的 BusySnake Stealer 活动内部</title>
-      <link>https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/</link>
-      <description><![CDATA[深入了解活跃的 Armored Likho APT 活动。攻击者使用鱼叉式网络钓鱼、人工智能生成的加载程序和基于 Python 的新工具 BusySnake Stealer 来攻击俄罗斯、哈萨克斯坦和巴西的组织。]]></description>
-      <guid>https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/</guid>
-      <pubDate>Fri, 03 Jul 2026 10:00:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
