@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Thu, 30 Jul 2026 13:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:06:26 GMT</lastBuildDate>
+    <item>
+      <title>在购买电视流媒体棒之前请先阅读此内容</title>
+      <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
+      <description><![CDATA[多年来，安全专家一直对使用承诺一次性付费提供无限内容流的通用电视盒的风险发出警告，并警告称它们会秘密地将用户的互联网连接出租给陌生人。但一项突破性的新分析发现，这些设备还经常将自己伪装成手机，点击人工智能生成的网站上的广告，作为旨在欺骗在线商家和广告网络的庞大行动的一部分。]]></description>
+      <guid>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</guid>
+      <pubDate>Thu, 30 Jul 2026 16:49:00 GMT</pubDate>
+    </item>
     <item>
       <title>LG 将禁止智能电视应用程序使用住宅代理</title>
       <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[微软今天发布了软件更新，以填补其 Windows 操作系统和支持的软件中近 200 个安全漏洞，这是该公司每月补丁星期二周期的修复数量创纪录的。其中近三打漏洞获得了微软最可怕的“严重”评级，并且至少其中三个漏洞的利用代码现已公开。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</guid>
       <pubDate>Tue, 09 Jun 2026 22:07:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客利用 Meta 的 AI 支持机器人来夺取 Instagram 帐户</title>
-      <link>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</link>
-      <description><![CDATA[上周末，Telegram 上开始流传如何欺骗 Meta 的“人工智能支持助理”机器人重置账户密码的说明后，奥巴马白宫和美国太空部队首席军士长的 Instagram 账户被亲伊朗的图片和消息短暂破坏。]]></description>
-      <guid>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</guid>
-      <pubDate>Mon, 01 Jun 2026 17:32:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
