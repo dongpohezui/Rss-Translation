@@ -4,7 +4,7 @@
     <title>贴有“安全”标签的帖子</title>
     <link>https://blog.cloudflare.com/tag/security/</link>
     <description>所有带有安全标签的帖子</description>
-    <lastBuildDate>Wed, 29 Jul 2026 18:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 01:16:25 GMT</lastBuildDate>
     <item>
       <title>为什么我们不能等待更好的后量子签名算法</title>
       <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>防御前沿网络模型：Cloudflare 的架构作为零客户</title>
       <link>https://blog.cloudflare.com/frontier-model-defense/</link>
-      <description><![CDATA[在有关 Glasswing 项目的文章中，我们认为围绕漏洞的架构比补丁的速度更重要。在这里，我们将介绍该架构的外观、它防御的威胁，以及我们作为 Cloudflare 的零客户如何运行它。]]></description>
+      <description><![CDATA[在我们关于 Glasswing 项目的文章中，我们提出了这样的论点：围绕漏洞的架构比补丁的速度更重要。在这里，我们将介绍该架构的外观、它防御的威胁，以及我们作为 Cloudflare 的零客户如何运行它。]]></description>
       <guid>https://blog.cloudflare.com/frontier-model-defense/</guid>
       <pubDate>Tue, 09 Jun 2026 06:00:00 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>保护非人类身份：自动撤销、OAuth 和范围权限</title>
       <link>https://blog.cloudflare.com/improved-developer-security/</link>
-      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最低权限架构，同时防止凭证泄漏。]]></description>
+      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最小权限架构，同时防止凭证泄漏。]]></description>
       <guid>https://blog.cloudflare.com/improved-developer-security/</guid>
       <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>在 Log Explorer 中调查多向量攻击</title>
       <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
-      <description><![CDATA[Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度了解其网络。]]></description>
+      <description><![CDATA[Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。]]></description>
       <guid>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</guid>
       <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
     </item>
