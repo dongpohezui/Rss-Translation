@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Fri, 31 Jul 2026 08:29:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 13:26:59 GMT</lastBuildDate>
+    <item>
+      <title>KATA 中的网络异常检测</title>
+      <link>https://securelist.com/tr/network-anomaly-detection-in-kata/120892/</link>
+      <description><![CDATA[以 Kerberoasting 和 DNS 隧道攻击为例，分析网络异常检测 (NAD) 规则在卡巴斯基反针对性攻击中的工作原理。]]></description>
+      <guid>https://securelist.com/tr/network-anomaly-detection-in-kata/120892/</guid>
+      <pubDate>Fri, 31 Jul 2026 10:00:25 GMT</pubDate>
+    </item>
     <item>
       <title>OctLurk 和 SilkLurk：新发现的中亚网络间谍活动中的定制后门</title>
       <link>https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[本报告包含 2026 年第一季度的工业威胁统计数据，包括按类型、来源、地区和行业划分的工业威胁分布。]]></description>
       <guid>https://securelist.com/industrial-threat-report-q1-2026/120643/</guid>
       <pubDate>Tue, 07 Jul 2026 10:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>当检查 URL 还不够时：通过 Microsoft 网站进行设备代码网络钓鱼攻击</title>
-      <link>https://securelist.com/microsoft-device-code-phishing-attack/120350/</link>
-      <description><![CDATA[OAuth 2.0 设备授权授予规范旨在简化智能电视、物联网设备和打印机的身份验证。如今，威胁行为者正在将其武器化。]]></description>
-      <guid>https://securelist.com/microsoft-device-code-phishing-attack/120350/</guid>
-      <pubDate>Mon, 06 Jul 2026 09:00:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

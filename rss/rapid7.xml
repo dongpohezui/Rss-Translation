@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 31 Jul 2026 08:29:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 13:26:52 GMT</lastBuildDate>
+    <item>
+      <title>Rapid7 at Black Hat USA 2026：了解抢先式安全的实际应用</title>
+      <link>https://www.rapid7.com/blog/post/dr-black-hat-usa-2026-preemptive-security-in-action</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/dr-black-hat-usa-2026-preemptive-security-in-action</guid>
+      <pubDate>Fri, 31 Jul 2026 11:53:26 GMT</pubDate>
+    </item>
     <item>
       <title>KindaRails2Shell：CVE-2026-66066，Ruby on Rails 中的关键任意文件读取和可能的远程代码执行</title>
       <link>https://www.rapid7.com/blog/post/etr-kindarails2shell-cve-2026-66066-critical-arbitrary-file-read-and-possible-remote-code-execution-in-ruby-on-rails</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410</guid>
       <pubDate>Wed, 15 Jul 2026 16:19:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究 AWS 中的持久性机制</title>
-      <link>https://www.rapid7.com/blog/post/dr-investigating-aws-persistence-mechanisms</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/dr-investigating-aws-persistence-mechanisms</guid>
-      <pubDate>Wed, 15 Jul 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
