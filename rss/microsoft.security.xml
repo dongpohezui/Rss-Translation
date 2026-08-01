@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 31 Jul 2026 19:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 01:31:30 GMT</lastBuildDate>
+    <item>
+      <title>CaptiveCrunch：午夜暴雪针对全球旅行者传播恶意软件和窃取凭证</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/</link>
+      <description><![CDATA[Storm-2945 是俄罗斯威胁攻击者 Midnight Blizzard 的一个子集群，自 2026 年 5 月以来，人们观察到它会破坏酒店等酒店相关组织的登录门户，以便向旅行者传播恶意软件并在我们称为 CaptiveCrunch 的行动中窃取凭证。
+帖子CaptiveCrunch：午夜暴雪以全球旅行者为目标进行恶意软件传播和凭据盗窃首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/</guid>
+      <pubDate>Fri, 31 Jul 2026 21:01:37 GMT</pubDate>
+    </item>
     <item>
       <title>​​​​Microsoft 安全性新增内容：2026 年 7 月</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/</link>
@@ -76,14 +84,6 @@
 AI 代理的最低权限：身份、访问和工具绑定一文首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/</guid>
       <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>解开 AsyncAPI npm 供应链妥协和导入时有效负载交付</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/</link>
-      <description><![CDATA[威胁参与者破坏了 AsyncAPI 包并将受信任的 CI/CD 工作流程武器化，以通过 npm 分发恶意软件。此分析分解了攻击链、有效负载传递和建议的防御措施。
-解压 AsyncAPI npm 供应链泄露和导入时负载交付首先出现在 Microsoft Security博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/</guid>
-      <pubDate>Thu, 16 Jul 2026 01:36:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
