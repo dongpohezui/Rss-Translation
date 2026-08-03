@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 03 Aug 2026 01:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 08:57:10 GMT</lastBuildDate>
+    <item>
+      <title>Rapid7 通过与独家网络的战略合作伙伴关系扩大英国和爱尔兰的渠道影响力</title>
+      <link>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-uk-ireland-partnership</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-uk-ireland-partnership</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 at Black Hat USA 2026：了解抢先式安全的实际应用</title>
       <link>https://www.rapid7.com/blog/post/dr-black-hat-usa-2026-preemptive-security-in-action</link>
@@ -90,7 +97,7 @@
       <pubDate>Thu, 23 Jul 2026 12:47:05 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-16232：关键检查点 SmartConsole 身份验证绕过在野被利用</title>
+      <title>CVE-2026-16232：关键检查点 SmartConsole 身份验证绕过被广泛利用</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-16232-critical-check-point-smartconsole-authentication-bypass-exploited-in-the-wild</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-16232-critical-check-point-smartconsole-authentication-bypass-exploited-in-the-wild</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ve-sunsetting-public-attackerkb-platform</guid>
       <pubDate>Thu, 16 Jul 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 MDR 团队发现新的 SonicWall SMA1000 零日漏洞正在被积极利用（CVE-2026-15409、CVE-2026-15410）</title>
-      <link>https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410</guid>
-      <pubDate>Wed, 15 Jul 2026 16:19:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
