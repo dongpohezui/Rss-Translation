@@ -4,11 +4,19 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 27 Jul 2026 19:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 14:11:46 GMT</lastBuildDate>
+    <item>
+      <title>8 月 3 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/</link>
+      <description><![CDATA[有关 7 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 明尼苏达州 IT 服务部门已确认协调一致的网络攻击影响了全州 30 多个社区供水公司。这些事件短暂扰乱了布拉汉姆的一家处理厂，并影响了工业控制系统。官员报告[…]
+8 月 3 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/</guid>
+      <pubDate>Mon, 03 Aug 2026 13:15:55 GMT</pubDate>
+    </item>
     <item>
       <title>7 月 27 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/</link>
-      <description><![CDATA[有关 7 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 Nichirei 是一家总部位于日本的冷冻食品供应商和物流公司，遭遇勒索软件攻击，导致运输业务中断并影响了大约 5,000 名客户。肯德基日本警告可能出现短缺。 Nichirei 确认个人数据被盗，[…]
+      <description><![CDATA[有关 7 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 Nichirei 是一家日本冷冻食品供应商和物流公司，遭遇勒索软件攻击，导致运输业务中断并影响了大约 5,000 名客户。肯德基日本警告可能出现短缺。 Nichirei 确认个人数据被盗，[…]
 7 月 27 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/</guid>
       <pubDate>Mon, 27 Jul 2026 16:00:39 GMT</pubDate>
@@ -24,7 +32,7 @@
     <item>
       <title>2026 年人工智能安全报告</title>
       <link>https://research.checkpoint.com/2026/ai-security-report-2026/</link>
-      <description><![CDATA[多年来，网络安全行业一直将人工智能视为力量倍增器：它使现有的攻击技术更快、更便宜、更容易获得。这个框架是准确的。 但 Check Point Research 的《2026 年年度人工智能安全报告》记录了更进一步的转变。 人工智能已经从助手跨越到了操作员。它曾经帮助攻击者做好准备，现在它运行[…]
+      <description><![CDATA[多年来，网络安全行业一直将人工智能视为一种力量倍增器：它可以使现有的攻击技术更快、更便宜、更容易获得。这个框架是准确的。 但 Check Point Research 的《2026 年年度人工智能安全报告》记录了更进一步的转变。 人工智能已经从助手跨越到了操作员。它曾经帮助攻击者做好准备，现在它运行[…]
 这篇文章2026年人工智能安全报告首先出现在Check Point Research上。]]></description>
       <guid>https://research.checkpoint.com/2026/ai-security-report-2026/</guid>
       <pubDate>Tue, 14 Jul 2026 00:51:31 GMT</pubDate>
@@ -56,7 +64,7 @@
     <item>
       <title>6 月 22 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 22 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 德克萨斯州公园和野生动物部门受到涉及其许可系统供应商的第三方数据泄露事件的影响。该事件暴露了 […] 的驾驶执照信息、护照号码、电子邮件、电话号码和居住地址
+      <description><![CDATA[For the latest discoveries in cyber research for the week of 22nd June, please download our Threat Intelligence Bulletin.主要攻击和泄露事件 德克萨斯州公园和野生动物部门受到涉及其许可系统供应商的第三方数据泄露事件的影响。 The incident exposed driver’s license information, passport numbers, emails, phone numbers, and residential addresses for […]
 6 月 22 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</guid>
       <pubDate>Wed, 01 Jul 2026 11:29:38 GMT</pubDate>
@@ -65,7 +73,7 @@
       <title>仅浏览器勒索软件：从 LLM 幻觉到实用攻击技术</title>
       <link>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</link>
       <description><![CDATA[研究作者：Alexey Bukhteyev 主要要点简介 在过去的几年里，大型语言模型重塑了软件开发，恶意软件开发也遵循了同样的道路。 Check Point Research 记录了这一趋势，从显示人工智能系统可以生成攻击性组件的早期实验，到网络犯罪分子使用 ChatGPT 创建恶意工具的案例，以及 […]
-仅限浏览器的勒索软件：从 LLM 幻觉到实用攻击技术首先出现在 Check Point Research 上。]]></description>
+浏览器专用勒索软件：从 LLM 幻觉到实用攻击技术首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</guid>
       <pubDate>Wed, 01 Jul 2026 10:05:35 GMT</pubDate>
     </item>
@@ -112,18 +120,10 @@
     <item>
       <title>假冒、点击劫持和 TDS：恶意软件分发生态系统内部</title>
       <link>https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/</link>
-      <description><![CDATA[研究：Alexey Bukhteyev 主要要点简介 当我们在 Google 上搜索一款流行软件时，我们通常会点击第一个结果，有时甚至不看其余结果，因为官方项目网站往往排名最高，并且出现在结果的顶部附近。登陆具有专业设计和[…]的网站后
+      <description><![CDATA[研究作者：Alexey Bukhteyev 主要要点简介 当我们在 Google 上搜索一款流行软件时，我们通常会点击第一个结果，有时甚至不看其余结果，因为官方项目网站往往排名最高，并且出现在结果的顶部附近。登陆具有专业设计和[…]的网站后
 假冒、点击劫持和 TDS：恶意软件分发生态系统内部一文首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/</guid>
       <pubDate>Wed, 03 Jun 2026 13:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>6 月 1 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 1 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 全球邮轮运营商嘉年华公司 (Carnival Corporation) 已确认，在攻击者使用社交工程入侵员工帐户后，数据泄露事件影响到近 600 万人。暴露的信息可能包括姓名、联系方式[…]
-6 月 1 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/</guid>
-      <pubDate>Mon, 01 Jun 2026 14:43:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

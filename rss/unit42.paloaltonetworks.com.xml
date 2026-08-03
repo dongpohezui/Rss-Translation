@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Fri, 31 Jul 2026 19:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 14:11:25 GMT</lastBuildDate>
+    <item>
+      <title>传递密钥：无密码身份验证中的新型攻击面</title>
+      <link>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</link>
+      <description><![CDATA[探索当依赖方无法验证“用户验证”标志时，密钥实施差距如何破坏安全性，从而将 MFA 减少到单一因素。
+帖子传递密钥：无密码身份验证中的新型攻击面首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</guid>
+      <pubDate>Mon, 03 Aug 2026 10:00:35 GMT</pubDate>
+    </item>
     <item>
       <title>Xcode 刺客归来：深入了解最新的 XCSSET 版本</title>
       <link>https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/</link>
@@ -116,14 +124,6 @@
 帖子OpenClaw 的技能市场和新兴的人工智能供应链威胁首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/</guid>
       <pubDate>Tue, 23 Jun 2026 22:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>全局命名空间风险：用于云数据泄露的通用存储桶劫持技术</title>
-      <link>https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/</link>
-      <description><![CDATA[Unit 42 研究详细介绍了攻击者如何利用存储桶劫持中的全局名称唯一性来跨主要 CSP 重定向云数据流。
-帖子全局命名空间风险：用于云数据渗漏的通用存储桶劫持技术首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/</guid>
-      <pubDate>Mon, 22 Jun 2026 22:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
