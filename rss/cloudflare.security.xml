@@ -4,7 +4,7 @@
     <title>贴有“安全”标签的帖子</title>
     <link>https://blog.cloudflare.com/tag/security/</link>
     <description>所有带有安全标签的帖子</description>
-    <lastBuildDate>Tue, 04 Aug 2026 13:41:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 19:16:38 GMT</lastBuildDate>
     <item>
       <title>为什么我们不能等待更好的后量子签名算法</title>
       <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
@@ -97,7 +97,7 @@
       <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Cloudflare 的目标是 2029 年实现全面的后量子安全</title>
       <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
       <description><![CDATA[量子硬件和软件的最新进展加快了量子攻击可能发生的时间。 Cloudflare 的回应是将我们的全面后量子安全目标推迟到 2029 年。]]></description>
       <guid>https://blog.cloudflare.com/post-quantum-roadmap/</guid>

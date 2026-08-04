@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 04 Aug 2026 13:42:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 19:16:47 GMT</lastBuildDate>
+    <item>
+      <title>128 秒即可中断：Microsoft Defender 在 QNET 上阻止勒索软件</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/</link>
+      <description><![CDATA[Microsoft Defender 在 128 秒内自动隔离受感染的 QNET 端点，在有效负载持续存在或传播之前阻止多阶段攻击。
+帖子128 秒中断：Microsoft Defender 在 QNET 停止勒索软件首先出现在 Microsoft Security博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/</guid>
+      <pubDate>Tue, 04 Aug 2026 17:54:04 GMT</pubDate>
+    </item>
     <item>
       <title>CaptiveCrunch：午夜暴雪针对全球旅行者传播恶意软件和窃取凭证</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/</link>
@@ -76,14 +84,6 @@
 帖子ACR Stealer：威胁活动增加中发现两条入侵链首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/</guid>
       <pubDate>Thu, 16 Jul 2026 23:12:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 代理的最低权限：身份、访问和工具绑定</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/</link>
-      <description><![CDATA[随着人工智能代理变得更加自主，强大的身份、访问和审核控制对于确保其安全至关重要。
-AI 代理的最低权限：身份、访问和工具绑定一文首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

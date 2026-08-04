@@ -4,19 +4,36 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Mon, 03 Aug 2026 19:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 19:16:33 GMT</lastBuildDate>
+    <item>
+      <title>前沿人工智能漏洞爆发：开源软件自主零日发现产业化</title>
+      <link>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</link>
+      <description><![CDATA[Frontier AI 正在重塑漏洞发现。了解我们的 NOVA 系统如何在开源软件供应链中发现 14,000 多个未知漏洞。
+帖子前沿人工智能漏洞爆发：开源软件中的自主零日发现工业化首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</guid>
+      <pubDate>Tue, 04 Aug 2026 13:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>近一半的恶意软件样本直接与 IP 通信</title>
+      <link>https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/</link>
+      <description><![CDATA[近一半的 C2 恶意软件通过直接连接到 IP 地址来绕过 DNS。零信任 IP 实施可保护网络免受这些威胁。
+帖子几乎一半的恶意软件样本直接与 IP 通信首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/</guid>
+      <pubDate>Tue, 04 Aug 2026 12:50:53 GMT</pubDate>
+    </item>
     <item>
       <title>传递密钥：无密码身份验证中的新型攻击面</title>
       <link>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[探索当依赖方无法验证“用户验证”标志时，密钥实施差距如何破坏安全性，从而将 MFA 减少到单一因素。
+帖子传递密钥：无密码身份验证中的新型攻击面首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</guid>
       <pubDate>Mon, 03 Aug 2026 10:00:35 GMT</pubDate>
     </item>
     <item>
       <title>Xcode 刺客归来：深入了解最新的 XCSSET 版本</title>
       <link>https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/</link>
-      <description><![CDATA[Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode. Unit 42 使用高级模式匹配和人工智能来解码其逻辑。
-The post The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version appeared first on Unit 42.]]></description>
+      <description><![CDATA[对 XCSSET v40 的分析揭示了一种通过 Xcode 针对开发人员的 macOS 恶意软件。 Unit 42 使用高级模式匹配和人工智能来解码其逻辑。
+帖子Xcode 刺客归来：深入了解最新的 XCSSET 版本首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/</guid>
       <pubDate>Fri, 31 Jul 2026 10:00:18 GMT</pubDate>
     </item>
@@ -24,7 +41,7 @@ The post The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version 
       <title>中文威胁行为者利用人工智能模型进行自主网络攻击</title>
       <link>https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/</link>
       <description><![CDATA[第 42 单元详细介绍了一个讲中文的威胁行为者，将自动人工智能扫描七个漏洞与手动利用相结合。了解更多。
-The post Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks appeared first on Unit 42.]]></description>
+这篇文章中文威胁参与者利用人工智能模型进行自主网络攻击首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/</guid>
       <pubDate>Thu, 30 Jul 2026 10:00:52 GMT</pubDate>
     </item>
@@ -39,22 +56,24 @@ The post Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cybera
     <item>
       <title>到达终点站的三个步骤：西门子 ROX II 零日三部曲</title>
       <link>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[对西门子 ROX II OT 交换机中允许权限升级和持久 root 访问的三个链式零日漏洞进行技术分析。
+帖子通往终端的三个步骤：西门子 ROX II 零日三部曲首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</guid>
       <pubDate>Fri, 17 Jul 2026 10:00:24 GMT</pubDate>
     </item>
     <item>
       <title>人工智能、自动化和攻击：解读 Unit 42 2026 年全球事件响应报告</title>
       <link>https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[探索 Unit 42 关于人工智能对网络安全影响的观点，包括自 2026 年事件响应报告以来的重要更新。
+帖子人工智能、自动化和攻击：解析 Unit 42 2026 年全球事件响应报告首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/</guid>
       <pubDate>Thu, 16 Jul 2026 23:00:59 GMT</pubDate>
     </item>
     <item>
       <title>npm 威胁形势：攻击面和缓解措施（7 月 15 日更新）</title>
       <link>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</link>
-      <description><![CDATA[Unit 42 analyzes npm supply chain evolution post-Shai Hulud.发现可蠕虫恶意软件、CI/CD 持久性、多阶段攻击等。 
-The post The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15) appeared first on Unit 42.]]></description>
+      <description><![CDATA[第 42 单元分析了 Shai Hulud 后的 npm 供应链演变。发现可蠕虫恶意软件、CI/CD 持久性、多阶段攻击等。 
+帖子npm 威胁形势：攻击面和缓解措施（7 月 15 日更新）首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/</guid>
       <pubDate>Wed, 15 Jul 2026 23:00:33 GMT</pubDate>
     </item>
@@ -91,9 +110,9 @@ The post The npm Threat Landscape: Attack Surface and Mitigations (Updated July 
       <pubDate>Thu, 02 Jul 2026 22:00:39 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>幻影抢注：人工智能幻觉领域作为软件供应链载体</title>
       <link>https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/</link>
-      <description><![CDATA[攻击者可以通过幻影抢注来利用 LLM 域幻觉来攻击目标供应链。 Read the analysis to learn more. 
+      <description><![CDATA[攻击者可以通过幻影抢注来利用 LLM 域幻觉来攻击目标供应链。阅读分析以了解更多信息。 
 帖子幻影抢注：人工智能幻觉域作为软件供应链载体首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/</guid>
       <pubDate>Wed, 01 Jul 2026 01:00:11 GMT</pubDate>
@@ -105,22 +124,6 @@ The post The npm Threat Landscape: Attack Surface and Mitigations (Updated July 
 帖子威胁简介：缓解大规模凭据攻击首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/large-scale-credential-attacks/</guid>
       <pubDate>Fri, 26 Jun 2026 19:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</link>
-      <description><![CDATA[攻击者使用混合工具包（包括定制的 TinyRCT 后门）在东南亚针对政府实体和关键基础设施进行间谍活动。 
-帖子CL-STA-1062 针对东南亚政府和关键基础设施首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/</guid>
-      <pubDate>Thu, 25 Jun 2026 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw 的技能市场和新兴的人工智能供应链威胁</title>
-      <link>https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/</link>
-      <description><![CDATA[Unit 42 对 ClawHub 的分析揭示了绕过自动扫描仪的规避恶意技能，以部署信息窃取程序并执行代理金融欺诈。
-帖子OpenClaw 的技能市场和新兴的人工智能供应链威胁首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/</guid>
-      <pubDate>Tue, 23 Jun 2026 22:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
