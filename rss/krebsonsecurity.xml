@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Mon, 03 Aug 2026 19:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 01:18:54 GMT</lastBuildDate>
     <item>
       <title>在购买电视流媒体棒之前请先阅读此内容</title>
       <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>分散的蜘蛛黑客在审判第一天认罪</title>
       <link>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</link>
-      <description><![CDATA[本周，英国两名男子对 2024 年 8 月网络攻击造成的刑事指控认罪，该攻击导致负责大伦敦地区公共交通网络的伦敦交通局瘫痪。 The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.]]></description>
+      <description><![CDATA[本周，英国两名男子对 2024 年 8 月网络攻击造成的刑事指控认罪，该攻击导致负责大伦敦地区公共交通网络的伦敦交通局瘫痪。这两人是一个多产的网络犯罪组织“分散蜘蛛”的主要成员，他们在预计为期六周的审判的第一天认罪。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</guid>
       <pubDate>Tue, 23 Jun 2026 16:12:49 GMT</pubDate>
     </item>
@@ -64,14 +64,14 @@
     <item>
       <title>谁是勒索软件组织“绅士们”的运营者？</title>
       <link>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</link>
-      <description><![CDATA[A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims.这篇文章探讨了指向 The Gentlemen 勒索软件组织管理员真实身份的线索。]]></description>
+      <description><![CDATA[一个名为 The Gentlemen 的网络犯罪组织已成为按受害者数量计算第二大活跃的勒索软件团伙，该团伙通过积极的招募策略迅速吸引了一批才华横溢的黑客，该策略承诺其附属机构将支付受害者支付的 90% 的赎金。这篇文章探讨了指向 The Gentlemen 勒索软件组织管理员真实身份的线索。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</guid>
       <pubDate>Wed, 10 Jun 2026 14:03:44 GMT</pubDate>
     </item>
     <item>
       <title>2026 年 6 月星期二的破纪录补丁</title>
       <link>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[微软今天发布了软件更新，以填补其 Windows 操作系统和支持的软件中近 200 个安全漏洞，这是该公司每月补丁星期二周期的修复数量创纪录的。其中近三打漏洞获得了微软最可怕的“严重”评级，并且至少其中三个漏洞的利用代码现已公开。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</guid>
       <pubDate>Tue, 09 Jun 2026 22:07:28 GMT</pubDate>
     </item>
