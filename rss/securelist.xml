@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Aug 2026 01:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:41:28 GMT</lastBuildDate>
+    <item>
+      <title>合法的云平台如何让网络钓鱼者绕过 MFA</title>
+      <link>https://securelist.com/cloud-platforms-in-phishing/120832/</link>
+      <description><![CDATA[我们介绍了利用 Service Worker 和 Ultraviolet 的基于云的 AitM 攻击场景，并提供跨 Cloudflare Workers、Vercel、Netlify、GitHub Pages 和 IPFS 等平台的详细网络钓鱼托管统计数据。]]></description>
+      <guid>https://securelist.com/cloud-platforms-in-phishing/120832/</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>巴西教育机构事件分析</title>
       <link>https://securelist.com/incidents-at-brazilian-educational-institutions/120803/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[利用 GoSerpent 后门、Stowaway RAT、ThumbcacheService 和其他工具进行的两阶段攻击旨在窃取东南亚政府实体的数据。]]></description>
       <guid>https://securelist.com/goserpent-backdoor-in-southeast-asia/120687/</guid>
       <pubDate>Thu, 16 Jul 2026 12:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>OkoBot：新的复杂恶意软件框架针对加密货币用户</title>
-      <link>https://securelist.com/okobot-framework-targets-cryptocurrency-wallets/120660/</link>
-      <description><![CDATA[卡巴斯基 GReAT 专家剖析了针对加密货币用户的新 OkoBot 活动。这个复杂的框架采用 TakePS，窃取种子短语，监控基于 Chromium 的浏览器，并安装各种恶意软件，包括 Rilide 窃取程序。]]></description>
-      <guid>https://securelist.com/okobot-framework-targets-cryptocurrency-wallets/120660/</guid>
-      <pubDate>Wed, 15 Jul 2026 10:00:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
