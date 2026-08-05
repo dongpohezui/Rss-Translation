@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 05 Aug 2026 01:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 08:13:36 GMT</lastBuildDate>
+    <item>
+      <title>ChainDrop 供应链妥协：自我传播蠕虫的剖析</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</link>
+      <description><![CDATA[隐藏在 400 多个受感染的 npm 软件包中的凭据窃取蠕虫通过重新发布恶意更新自动在软件生态系统中传播。此分析详细介绍了攻击链、受影响的环境以及检测、搜寻和修复的实用指南。
+帖子ChainDrop供应链妥协：自我传播蠕虫剖析首先出现在Microsoft Security博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</guid>
+      <pubDate>Tue, 04 Aug 2026 23:46:41 GMT</pubDate>
+    </item>
     <item>
       <title>推进人工智能零信任：保护人工智能代理和 DevSecOps 的新工具和指南</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/</link>
@@ -76,14 +84,6 @@
 帖子现实世界事件响应：Microsoft 和 AXA XL 加强网络弹性首先出现在 Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/</guid>
       <pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软参加 Black Hat USA 2026：在人工智能和供应链攻击时代捍卫信任</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/</link>
-      <description><![CDATA[参加 2026 年 Black Hat USA 的 Microsoft Security，了解供应链研究、实践安全体验、专家对话和我们的招待会。
-帖子微软在 Black Hat USA 2026：在人工智能和供应链攻击时代捍卫信任首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/</guid>
-      <pubDate>Fri, 17 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
