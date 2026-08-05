@@ -4,7 +4,23 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 05 Aug 2026 08:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:11:22 GMT</lastBuildDate>
+    <item>
+      <title>​​Microsoft 在 KuppingerCole 云原生应用程序保护平台领导指南 (CNAPP) 中被评为领导者</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</link>
+      <description><![CDATA[了解为什么 KuppingerCole 在其《领导力指南针：云原生应用程序保护平台》报告中将 Microsoft 评为领导者。
+这篇文章​​Microsoft 在云原生应用程序保护平台 (CNAPP) 的 KuppingerCole 领导指南中被评为领导者 首先出现在Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</guid>
+      <pubDate>Wed, 05 Aug 2026 16:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从开放的诱饵到隐蔽的大门：macOS ClickFix 活动如何学会隐藏</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/</link>
+      <description><![CDATA[macOS ClickFix 活动将策略从公开提供信息窃取者诱饵转变为将其隐藏在浏览器指纹门后面。这一变化使得恶意基础设施更难以检测，同时为防御者提供了新的狩猎机会。
+这篇文章从开放的诱饵到隐蔽的大门：macOS ClickFix 活动如何学会隐藏首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/</guid>
+      <pubDate>Wed, 05 Aug 2026 15:48:39 GMT</pubDate>
+    </item>
     <item>
       <title>ChainDrop 供应链妥协：自我传播蠕虫的剖析</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</link>
@@ -68,22 +84,6 @@
 这篇文章通过全球人工智能红队增强人工智能安全首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/</guid>
       <pubDate>Mon, 27 Jul 2026 16:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件威胁形势：2026 年第二季度趋势和见解</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/</link>
-      <description><![CDATA[2026 年第二季度，微软对 Tycoon2FA 网络钓鱼平台的破坏造成的持续影响导致几种主要网络钓鱼技术持续下降，而威胁行为者则扩展到基于 Teams 的社会工程领域，并采用了日益自动化的多阶段攻击链。
-这篇文章电子邮件威胁形势：2026 年第 2 季度趋势和见解首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/</guid>
-      <pubDate>Thu, 23 Jul 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>现实世界的事件响应：Microsoft 和 AXA XL 增强网络弹性</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/</link>
-      <description><![CDATA[我们与 AXA XL 的合作将 Microsoft 事件响应服务直接提供给网络保险投保人，帮助组织协调技术、业务和保险决策。
-帖子现实世界事件响应：Microsoft 和 AXA XL 加强网络弹性首先出现在 Microsoft Security博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/</guid>
-      <pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
