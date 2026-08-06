@@ -4,7 +4,7 @@
     <title>贴有“安全”标签的帖子</title>
     <link>https://blog.cloudflare.com/tag/security/</link>
     <description>所有带有安全标签的帖子</description>
-    <lastBuildDate>Thu, 06 Aug 2026 08:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:30:43 GMT</lastBuildDate>
     <item>
       <title>为什么我们不能等待更好的后量子签名算法</title>
       <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>白宫的后量子行政命令是一个重要的里程碑。是时候去上班了</title>
       <link>https://blog.cloudflare.com/post-quantum-eo-2026/</link>
-      <description><![CDATA[新的行政命令设定了 2030 年的迁移期限，并为后量子复原力奠定了坚实的基础。我们着眼于哪些方面是正确的，哪些方面可以进一步发展，以及我们为政府和行业提供的迁移手册。]]></description>
+      <description><![CDATA[新的行政命令设定了 2030 年的迁移期限，并为后量子复原力奠定了强大的基础。我们着眼于哪些方面是正确的，哪些方面可以进一步发展，以及我们为政府和行业提供的迁移手册。]]></description>
       <guid>https://blog.cloudflare.com/post-quantum-eo-2026/</guid>
       <pubDate>Tue, 23 Jun 2026 18:25:18 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>Glasswing 项目：Mythos 向我们展示了什么</title>
       <link>https://blog.cloudflare.com/cyber-frontier-models/</link>
-      <description><![CDATA[最近几周，我们向 Mythos 和其他专注于安全的法学硕士指出了我们基础设施关键部分的实时代码。我们分享我们的观察结果、模型的优点和缺点，以及围绕它们的工作在规模化之前需要是什么样子。]]></description>
+      <description><![CDATA[最近几周，我们向 Mythos 和其他专注于安全的法学硕士指出了我们基础设施关键部分的实时代码。我们分享我们观察到的情况、模型的优点和缺点，以及围绕它们的工作在规模化之前需要是什么样子。]]></description>
       <guid>https://blog.cloudflare.com/cyber-frontier-models/</guid>
       <pubDate>Mon, 18 May 2026 06:00:00 GMT</pubDate>
     </item>
