@@ -4,7 +4,7 @@
     <title>零号计划</title>
     <link>https://projectzero.google/</link>
     <description>让零日变得困难</description>
-    <lastBuildDate>Mon, 03 Aug 2026 01:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:20:07 GMT</lastBuildDate>
     <item>
       <title>Pixel 10 的零点击漏洞利用链：当门关闭时，窗户打开</title>
       <link>https://projectzero.google/2026/05/pixel-10-exploit.html</link>
@@ -48,7 +48,7 @@
       <pubDate>Mon, 26 Jan 2026 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pixel 9 的零点击漏洞利用链第 3 部分：我们下一步该何去何从？</title>
+      <title>Pixel 9 的零点击漏洞利用链第 3 部分：我们该何去何从？</title>
       <link>https://projectzero.google/2026/01/pixel-0-click-part-3.html</link>
       <description><![CDATA[虽然我们的前两篇博客文章提供了技术建议，以增加攻击者开发 0 点击漏洞利用链所需的努力，但我们发现、报告和利用这些漏洞的经验凸显了 Android 生态系统中的一些更广泛的问题。这篇文章描述了我们遇到的问题以及改进的建议。音频攻击面 由于 Google Messages 应用程序中的音频转录，杜比 UDC 是大多数 Android 设备的 0-click 攻击面的一部分。传入的音频消息在用户与消息交互之前被转录。在 Pixel 9 上，第二个进程 com.google.android.tts 也会解码传入的音频。其目的尚不完全清楚，但似乎与使传入消息可搜索有关。]]></description>
       <guid>https://projectzero.google/2026/01/pixel-0-click-part-3.html</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>欢迎来到新的零计划博客</title>
       <link>https://projectzero.google/2025/12/welcome.html</link>
-      <description><![CDATA[在“零号计划”中，我们的目标是让我们的研究处于领先地位，但我们的博客设计……并不是那么重要。我们欢迎读者来到我们闪亮的新博客！值此之际，我们要求零计划的成员掸掉从未见过面的旧博客文章。虽然我们希望可以说它们所涵盖的技术不再相关，但仍然需要做很多工作来保护用户免受零日攻击。我们的新博客将继续揭示攻击者的能力以及防御攻击者的许多机会。 2016 年起：Windows 漏洞利用技术：路径查找的竞争条件，作者：James Forshaw 2017 年起：跳出框框思考，作者：Jann Horn]]></description>
+      <description><![CDATA[在“零号计划”中，我们的目标是让我们的研究处于领先地位，但我们的博客设计……并不是那么重要。我们欢迎读者来到我们闪亮的新博客！值此之际，我们要求零计划的成员掸掉从未见过面的旧博客文章。虽然我们希望可以说它们所涵盖的技术不再相关，但仍然需要做很多工作来保护用户免受零日攻击。我们的新博客将继续揭示攻击者的能力以及防御攻击者的许多机会。从 2016 年开始：Windows 漏洞利用技术：詹姆斯·福肖 (James Forshaw) 的路径查找竞争条件 从 2017 年开始：跳出框框思考，作者：Jann Horn]]></description>
       <guid>https://projectzero.google/2025/12/welcome.html</guid>
       <pubDate>Tue, 16 Dec 2025 10:00:00 GMT</pubDate>
     </item>

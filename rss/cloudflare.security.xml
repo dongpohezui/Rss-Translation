@@ -4,7 +4,7 @@
     <title>贴有“安全”标签的帖子</title>
     <link>https://blog.cloudflare.com/tag/security/</link>
     <description>所有带有安全标签的帖子</description>
-    <lastBuildDate>Wed, 05 Aug 2026 19:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:20:28 GMT</lastBuildDate>
     <item>
       <title>为什么我们不能等待更好的后量子签名算法</title>
       <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>使用归因业务洞察揭开抓取的面纱</title>
       <link>https://blog.cloudflare.com/attribution-business-insights/</link>
-      <description><![CDATA[Cloudflare 的新归因业务洞察仪表板可帮助网站所有者了解爬虫行为、偏好和潜在价值，从而推动围绕爬虫补偿的业务级对话。]]></description>
+      <description><![CDATA[Cloudflare 的新 Attribution Business Insights 仪表板可帮助网站所有者了解爬虫行为、偏好和潜在价值，推动围绕爬虫补偿的业务级对话。]]></description>
       <guid>https://blog.cloudflare.com/attribution-business-insights/</guid>
       <pubDate>Wed, 01 Jul 2026 06:00:00 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>防御前沿网络模型：Cloudflare 的架构作为零客户</title>
       <link>https://blog.cloudflare.com/frontier-model-defense/</link>
-      <description><![CDATA[在我们关于 Glasswing 项目的文章中，我们提出了这样的论点：围绕漏洞的架构比补丁的速度更重要。在这里，我们将介绍该架构的外观、它防御的威胁，以及我们作为 Cloudflare 的零客户如何运行它。]]></description>
+      <description><![CDATA[在有关 Glasswing 项目的文章中，我们认为围绕漏洞的架构比补丁的速度更重要。在这里，我们将介绍该架构的外观、它防御的威胁，以及我们作为 Cloudflare 的零客户如何运行它。]]></description>
       <guid>https://blog.cloudflare.com/frontier-model-defense/</guid>
       <pubDate>Tue, 09 Jun 2026 06:00:00 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>Glasswing 项目：Mythos 向我们展示了什么</title>
       <link>https://blog.cloudflare.com/cyber-frontier-models/</link>
-      <description><![CDATA[最近几周，我们向 Mythos 和其他专注于安全的法学硕士指出了我们基础设施关键部分的实时代码。我们分享我们的观察结果、模型的优点和缺点，以及围绕它们的工作在规模化之前需要是什么样子。]]></description>
+      <description><![CDATA[最近几周，我们向 Mythos 和其他专注于安全的法学硕士指出了我们基础设施关键部分的实时代码。我们分享我们观察到的情况、模型的优点和缺点，以及围绕它们的工作在规模化之前需要是什么样子。]]></description>
       <guid>https://blog.cloudflare.com/cyber-frontier-models/</guid>
       <pubDate>Mon, 18 May 2026 06:00:00 GMT</pubDate>
     </item>
