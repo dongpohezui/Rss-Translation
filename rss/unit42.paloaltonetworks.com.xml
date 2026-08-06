@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Thu, 06 Aug 2026 13:30:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:48:20 GMT</lastBuildDate>
+    <item>
+      <title>ChainDrop：自我传播的 npm 蠕虫内部</title>
+      <link>https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/</link>
+      <description><![CDATA[对 ChainDrop 的分析，这是一种提取 GitHub Actions 运行者秘密并使用以太坊智能合约进行 C2 路由的 npm 供应链蠕虫。
+帖子ChainDrop：内部自传播 npm 蠕虫首先出现在Unit 42。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/</guid>
+      <pubDate>Thu, 06 Aug 2026 22:26:39 GMT</pubDate>
+    </item>
     <item>
       <title>令牌劫持：网络犯罪分子可能会窃取您的人工智能资源</title>
       <link>https://unit42.paloaltonetworks.com/ai-token-jacking/</link>
@@ -116,14 +124,6 @@
 帖子我们如何将 WebAuthn 添加到基于浏览器的 RDP 客户端首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/</guid>
       <pubDate>Thu, 02 Jul 2026 22:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>幻影抢注：人工智能幻觉领域作为软件供应链载体</title>
-      <link>https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/</link>
-      <description><![CDATA[攻击者可以通过幻影抢注来利用 LLM 域幻觉来攻击目标供应链。阅读分析以了解更多信息。 
-帖子幻影抢注：人工智能幻觉域作为软件供应链载体首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/</guid>
-      <pubDate>Wed, 01 Jul 2026 01:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Thu, 06 Aug 2026 13:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:48:05 GMT</lastBuildDate>
+    <item>
+      <title>加拿大男子承认雪花勒索罪</title>
+      <link>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</link>
+      <description><![CDATA[一名曾被描述为 2024 年影响最大的网络犯罪威胁者之一的 26 岁加拿大男子承认犯有计算机欺诈罪，并共谋对超过 165 个使用云数据存储提供商 Snowflake 的组织进行黑客攻击和勒索。安大略省基奇纳市的康纳·赖利·莫卡 (Connor Riley Moucka) 也承认窃取了超过 1 亿 AT&amp;T 客户的通话和短信历史记录。]]></description>
+      <guid>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</guid>
+      <pubDate>Thu, 06 Aug 2026 17:00:56 GMT</pubDate>
+    </item>
     <item>
       <title>在购买电视流媒体棒之前请先阅读此内容</title>
       <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一个名为 The Gentlemen 的网络犯罪组织已成为按受害者数量计算第二大活跃的勒索软件团伙，该团伙通过积极的招募策略迅速吸引了一批才华横溢的黑客，该策略承诺其附属机构将支付受害者支付的 90% 的赎金。这篇文章探讨了指向 The Gentlemen 勒索软件组织管理员真实身份的线索。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</guid>
       <pubDate>Wed, 10 Jun 2026 14:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年 6 月星期二的破纪录补丁</title>
-      <link>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</link>
-      <description><![CDATA[微软今天发布了软件更新，以填补其 Windows 操作系统和支持的软件中近 200 个安全漏洞，这是该公司每月补丁星期二周期的修复数量创纪录的。其中近三打漏洞获得了微软最可怕的“严重”评级，并且至少其中三个漏洞的利用代码现已公开。]]></description>
-      <guid>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</guid>
-      <pubDate>Tue, 09 Jun 2026 22:07:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
