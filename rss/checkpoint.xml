@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 03 Aug 2026 14:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 12:36:25 GMT</lastBuildDate>
+    <item>
+      <title>当代理胶融化时：利用 Cloudflare 代码模式和 Workers</title>
+      <link>https://research.checkpoint.com/2026/when-agentic-glue-melts/</link>
+      <description><![CDATA[作者：Yarden Porat，Check Point 研究要点 简短版本 我们着手打破“Cloudflare 代码模式”，最终也打破了“Cloudflare Workers”。我们通过定位workerd（两者之下的运行时）来完成这两项工作：一个完全依赖V8来隔离不可信代码的进程内沙箱。我们在workerd的本机C++中发现了五个内存损坏错误（“粘合剂”[…]
+这篇文章当 Agentic Glue 融化时：利用 Cloudflare 代码模式和工作线程首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/when-agentic-glue-melts/</guid>
+      <pubDate>Thu, 06 Aug 2026 22:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>8 月 3 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/</link>
@@ -30,7 +38,7 @@
       <pubDate>Mon, 20 Jul 2026 12:18:41 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年人工智能安全报告</title>
+      <title></title>
       <link>https://research.checkpoint.com/2026/ai-security-report-2026/</link>
       <description><![CDATA[多年来，网络安全行业一直将人工智能视为一种力量倍增器：它可以使现有的攻击技术更快、更便宜、更容易获得。这个框架是准确的。 但 Check Point Research 的《2026 年年度人工智能安全报告》记录了更进一步的转变。 人工智能已经从助手跨越到了操作员。它曾经帮助攻击者做好准备，现在它运行[…]
 这篇文章2026年人工智能安全报告首先出现在Check Point Research上。]]></description>
@@ -54,7 +62,7 @@
       <pubDate>Mon, 06 Jul 2026 12:25:02 GMT</pubDate>
     </item>
     <item>
-      <title>7 月 6 日——威胁情报报告</title>
+      <title></title>
       <link>https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/</link>
       <description><![CDATA[有关 7 月 6 日当周网络研究的最新发现，请下载我们的威胁情报公告。河岸的顶级攻击和破坏美国金融机构 Trust 遭遇勒索软件事件，此前未经授权的攻击者于 6 月 16 日访问了母公司 River Financial Corporation 的网络。该银行发现 […]
 7 月 6 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
@@ -64,7 +72,7 @@
     <item>
       <title>6 月 22 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</link>
-      <description><![CDATA[For the latest discoveries in cyber research for the week of 22nd June, please download our Threat Intelligence Bulletin.主要攻击和泄露事件 德克萨斯州公园和野生动物部门受到涉及其许可系统供应商的第三方数据泄露事件的影响。 The incident exposed driver’s license information, passport numbers, emails, phone numbers, and residential addresses for […]
+      <description><![CDATA[有关 6 月 22 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 德克萨斯州公园和野生动物部门受到涉及其许可系统供应商的第三方数据泄露事件的影响。该事件暴露了 […] 的驾驶执照信息、护照号码、电子邮件、电话号码和居住地址
 6 月 22 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</guid>
       <pubDate>Wed, 01 Jul 2026 11:29:38 GMT</pubDate>
@@ -112,18 +120,10 @@
     <item>
       <title>6 月 8 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 8 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 DentaQuest 是 Sun Life 旗下的一家美国牙科福利管理机构，在威胁组织 ShinyHunters 泄露了被窃取的数据后遭受了数据泄露。分析师评估称，有 260 万个帐户遭到泄露，其中包括姓名、电子邮件、[…]
+      <description><![CDATA[For the latest discoveries in cyber research for the week of 8th June, please download our Threat Intelligence Bulletin.主要攻击和泄露事件 DentaQuest 是 Sun Life 旗下的一家美国牙科福利管理机构，在威胁组织 ShinyHunters 泄露了被窃取的数据后遭受了数据泄露。 Analysts assessed that 2.6 million accounts were exposed, including names, emails, […]
 6 月 8 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/</guid>
       <pubDate>Mon, 08 Jun 2026 14:47:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>假冒、点击劫持和 TDS：恶意软件分发生态系统内部</title>
-      <link>https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/</link>
-      <description><![CDATA[研究作者：Alexey Bukhteyev 主要要点简介 当我们在 Google 上搜索一款流行软件时，我们通常会点击第一个结果，有时甚至不看其余结果，因为官方项目网站往往排名最高，并且出现在结果的顶部附近。登陆具有专业设计和[…]的网站后
-假冒、点击劫持和 TDS：恶意软件分发生态系统内部一文首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/</guid>
-      <pubDate>Wed, 03 Jun 2026 13:21:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
