@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 07 Aug 2026 02:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:58:09 GMT</lastBuildDate>
     <item>
       <title>​​Microsoft 在 KuppingerCole 云原生应用程序保护平台领导指南 (CNAPP) 中被评为领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</link>
@@ -38,7 +38,7 @@
       <pubDate>Tue, 04 Aug 2026 18:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>128 秒即可中断：Microsoft Defender 在 QNET 上阻止勒索软件</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/</link>
       <description><![CDATA[Microsoft Defender 在 128 秒内自动隔离受感染的 QNET 端点，在有效负载持续存在或传播之前阻止多阶段攻击。
 帖子128 秒中断：Microsoft Defender 在 QNET 停止勒索软件首先出现在 Microsoft Security博客。]]></description>
