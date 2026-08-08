@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Thu, 06 Aug 2026 23:48:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 00:43:16 GMT</lastBuildDate>
+    <item>
+      <title>现代 SOC 内部：身份前门</title>
+      <link>https://unit42.paloaltonetworks.com/soc-identity-front-door/</link>
+      <description><![CDATA[90% 的事件都是基于身份的攻击造成的。了解现代攻击者如何利用身份以及 SOC 领导者可以采取哪些应对措施。
+帖子现代 SOC 内部：身份前门首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/soc-identity-front-door/</guid>
+      <pubDate>Fri, 07 Aug 2026 23:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>ChainDrop：自我传播的 npm 蠕虫内部</title>
       <link>https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/</link>
@@ -116,14 +124,6 @@
 帖子Vidar Stealer Unmasked：代码签名滥用、Go 加载器和文件膨胀首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/</guid>
       <pubDate>Tue, 07 Jul 2026 22:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何将 WebAuthn 添加到基于浏览器的 RDP 客户端</title>
-      <link>https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/</link>
-      <description><![CDATA[深入了解在 Windows 之外构建第一个支持 WebAuthn 重定向的 RDP 客户端的逆向工程过程。
-帖子我们如何将 WebAuthn 添加到基于浏览器的 RDP 客户端首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/</guid>
-      <pubDate>Thu, 02 Jul 2026 22:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
