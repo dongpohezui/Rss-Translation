@@ -4,7 +4,21 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Aug 2026 07:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:39:56 GMT</lastBuildDate>
+    <item>
+      <title>2026 年第二季度 IT 威胁演变。非移动统计</title>
+      <link>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</link>
+      <description><![CDATA[该报告介绍了 2026 年第二季度针对运行 Windows 和 macOS 的个人电脑以及物联网 (IoT) 设备的恶意软件的主要趋势和统计数据。]]></description>
+      <guid>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年第二季度 IT 威胁演变。移动统计</title>
+      <link>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</link>
+      <description><![CDATA[该报告包含 2026 年第二季度的移动威胁统计数据，以及值得注意的发现和季度趋势：Anatsa 银行家和向 Dropper 的过渡。]]></description>
+      <guid>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>合法的云平台如何让网络钓鱼者绕过 MFA</title>
       <link>https://securelist.com/cloud-platforms-in-phishing/120832/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[卡巴斯基 GReAT 专家描述了新的 Project CAV3RN C2 模块。它使用 Outlook 日历通过 Microsoft Graph 进行通信，并通过 DNS AAAA 响应建立备份连接。]]></description>
       <guid>https://securelist.com/project-cav3rn-cyberespionage-framework-using-outlook-and-dns/120757/</guid>
       <pubDate>Tue, 21 Jul 2026 08:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>HelloNet 活动：通过 ViPNet 更新系统启动新的恶意模块</title>
-      <link>https://securelist.com/tr/hellonet-vipnet/120700/</link>
-      <description><![CDATA[我们发现了使用 ViPNet 更新系统（用于创建安全网络的软件套件）针对俄罗斯大型组织的有针对性的感染尝试。]]></description>
-      <guid>https://securelist.com/tr/hellonet-vipnet/120700/</guid>
-      <pubDate>Thu, 16 Jul 2026 13:05:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoSerpent：随着复杂的数据收集和泄露，持续的威胁不断演变</title>
-      <link>https://securelist.com/goserpent-backdoor-in-southeast-asia/120687/</link>
-      <description><![CDATA[利用 GoSerpent 后门、Stowaway RAT、ThumbcacheService 和其他工具进行的两阶段攻击旨在窃取东南亚政府实体的数据。]]></description>
-      <guid>https://securelist.com/goserpent-backdoor-in-southeast-asia/120687/</guid>
-      <pubDate>Thu, 16 Jul 2026 12:00:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
