@@ -4,7 +4,23 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 10 Aug 2026 12:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:40:39 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</link>
+      <description><![CDATA[Microsoft 在 2026 年 IDC MarketScape 中被评为 MDR 服务领导者。了解 Microsoft Defender 专家 MDR 如何结合人工智能、威胁情报和人类专业知识。
+Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</guid>
+      <pubDate>Mon, 10 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeadLock 勒索软件：利用去中心化恢复基础设施破坏基于 Rust 的加密器</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/</link>
+      <description><![CDATA[Microsoft 威胁情报研究了 DeadLock 勒索软件，这是一种新兴的经济动机操作，其特点是使用去中心化基础设施来支持受害者通信、谈判和数据泄露操作，以及用于向受害者施压的双重勒索策略。
+帖子DeadLock 勒索软件：使用去中心化恢复基础架构破解基于 Rust 的加密器首先出现在 Microsoft 安全博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>​​Microsoft 在 KuppingerCole 云原生应用程序保护平台领导指南 (CNAPP) 中被评为领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</link>
@@ -68,22 +84,6 @@
 这篇文章​​更好的安全性始于更好的问题首先出现在Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/</guid>
       <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新思考人工智能时代的安全</title>
-      <link>https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/</link>
-      <description><![CDATA[网络安全的物理原理正在发生变化。介绍安全性的新网络堆栈：Project Perception。
-这篇文章重新思考人工智能时代的安全首先出现在微软安全博客上。]]></description>
-      <guid>https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/</guid>
-      <pubDate>Mon, 27 Jul 2026 16:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过全球人工智能红队增强人工智能安全</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/</link>
-      <description><![CDATA[微软的外部红队联盟 (EXTRA) 是一项全球人工智能安全计划，旨在推进人工智能安全研究和红队合作。通过与大学、研究人员和地区专家合作，EXTRA 帮助识别新兴人工智能风险、改进安全测试并增强前沿人工智能系统的弹性。
-这篇文章通过全球人工智能红队增强人工智能安全首先出现在微软安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming/</guid>
-      <pubDate>Mon, 27 Jul 2026 16:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
