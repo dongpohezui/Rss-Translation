@@ -4,7 +4,21 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 11 Aug 2026 12:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:43:28 GMT</lastBuildDate>
+    <item>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
+      <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rapid7 分析：Microsoft SharePoint JWT 令牌身份验证绕过 (CVE-2026-55040)</title>
+      <link>https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-jwt-token-authentication-bypass-cve-2026-55040</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-jwt-token-authentication-bypass-cve-2026-55040</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 分析：JetBrains TeamCity 中未经身份验证的远程代码执行 (CVE-2026-63077)</title>
       <link>https://www.rapid7.com/blog/post/ra-unauthenticated-rce-in-jetbrains-teamcity-cve-2026-63077</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-16232-critical-check-point-smartconsole-authentication-bypass-exploited-in-the-wild</guid>
       <pubDate>Thu, 23 Jul 2026 11:57:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 产品和服务的新增功能：2026 年第 2 季度回顾</title>
-      <link>https://www.rapid7.com/blog/post/pt-new-products-services-q2-2026-mdr</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-new-products-services-q2-2026-mdr</guid>
-      <pubDate>Wed, 22 Jul 2026 13:28:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>从单个警报到 1,000 个文件：暴露的 WebDAV 恶意软件交付实验室内部</title>
-      <link>https://www.rapid7.com/blog/post/tr-exposed-webdav-malware-delivery-lab-analysis</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/tr-exposed-webdav-malware-delivery-lab-analysis</guid>
-      <pubDate>Mon, 20 Jul 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 10 Aug 2026 18:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:43:46 GMT</lastBuildDate>
+    <item>
+      <title>梦想破灭——当工作机会变成零日攻击</title>
+      <link>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</link>
+      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research 追踪了一波“梦想工作行动”活动。这波浪潮主要针对全球国防部门，特别是航空航天业的公司。我们观察到威胁行为者分发了经过修改的 PDF 查看器，旨在执行嵌入在特殊 […] 中的恶意有效负载
+帖子粉碎梦想–当工作机会变成零日攻击首先出现在Check Point Research。]]></description>
+      <guid>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</guid>
+      <pubDate>Tue, 11 Aug 2026 17:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>8 月 10 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/</link>
@@ -116,14 +124,6 @@
 6 月 15 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/</guid>
       <pubDate>Mon, 15 Jun 2026 13:40:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 SQLi 到 RCE——利用 LangGraph 的检查点</title>
-      <link>https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/</link>
-      <description><![CDATA[作者：Yarden Porat AI 代理需要内存。像 LangGraph 这样的框架通过检查点提供它 –存储执行状态的持久层。但是，当持久层没有锁定时会发生什么？要点 背景 LangGraph 是一个开源框架，用于构建具有内置持久性的有状态、多代理 AI 系统。它是LangChain的延伸，拥有超过[…]
-帖子从 SQLi 到 RCE –利用 LangGraph 的 Checkpointer 首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/</guid>
-      <pubDate>Thu, 11 Jun 2026 13:37:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
