@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Tue, 11 Aug 2026 00:47:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:37:06 GMT</lastBuildDate>
+    <item>
+      <title>Kimwolf v7：Kimwolf 僵尸网络的演变</title>
+      <link>https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/</link>
+      <description><![CDATA[了解 Kimwolf v7 如何通过 HTTP/2 DDoS 指纹识别、以太坊 ENS C2 解析和 Tor 备份路由来定位 Android IoT 设备。
+帖子Kimwolf v7：Kimwolf 僵尸网络的演变首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>永久威胁：分析 Aeternum 基于区块链的 C2 操作和通信</title>
       <link>https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/</link>
@@ -116,14 +124,6 @@
 帖子TuxBot v3：采用 LLM 辅助开发的物联网僵尸网络框架内部首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/</guid>
       <pubDate>Wed, 15 Jul 2026 10:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里没有礼貌：绅士勒索软件的无情崛起</title>
-      <link>https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/</link>
-      <description><![CDATA[Unit 42 探索了 The Gentlemen 勒索软件操作，揭示了推动其快速增长的联盟模式。在此了解更多信息。
-帖子这里没有礼貌：绅士勒索软件的无情崛起首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/</guid>
-      <pubDate>Fri, 10 Jul 2026 22:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

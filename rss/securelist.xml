@@ -4,7 +4,21 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Aug 2026 18:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:36:47 GMT</lastBuildDate>
+    <item>
+      <title>Head Mare APT 正在利用未修补的 TrueConf 服务器中的漏洞向视频会议参与者提供 PhantomCore 和 PhantomGraph</title>
+      <link>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</link>
+      <description><![CDATA[卡巴斯基专家发现了恶意的 TrueConf 软件安装程序。 Head Mare APT 组织利用它们，通过利用未修补的 TrueConf 服务器中的漏洞，向目标系统提供 PhantomCore 和 PhantomGraph 后门。]]></description>
+      <guid>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAV3RN 项目仍在继续：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
+      <link>https://securelist.com/project-cav3rn-continues/120991/</link>
+      <description><![CDATA[CAV3RN 项目以以色列为目标，提供 Google Apps Script C2 中继和基于 DNS 的路由。模块化 .NET NativeAOT 框架将 C2 流量与合法的 Google 服务混合在一起以逃避检测。]]></description>
+      <guid>https://securelist.com/project-cav3rn-continues/120991/</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年第二季度 IT 威胁演变。非移动统计</title>
       <link>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[卡巴斯基研究人员揭示了 Mirage Kitten（UNC1549、Smoke Sandstorm、Nimbus Manticore）之前未记录的恶意软件：NightLedger 后门、ArcBridge 和 BridgeHead 隧道工具。]]></description>
       <guid>https://securelist.com/mirage-kitten-new-tools/120811/</guid>
       <pubDate>Tue, 28 Jul 2026 08:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的勒索鸡尾酒：办公室打印机、小额赎金和 BitLocker</title>
-      <link>https://securelist.com/new-extortion-scheme-printers-bitlocker/120718/</link>
-      <description><![CDATA[我们介绍了最近两个使用 RDP、MSSQL、RMM 工具、Web shell 和打印机进行 BitLocker 勒索的案例。该故事包括 TTP 和建议。]]></description>
-      <guid>https://securelist.com/new-extortion-scheme-printers-bitlocker/120718/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>新项目 CAV3RN 模块滥用 Outlook 日历事件获取 C2 和 DNS AAAA 记录以进行配置恢复</title>
-      <link>https://securelist.com/project-cav3rn-cyberespionage-framework-using-outlook-and-dns/120757/</link>
-      <description><![CDATA[卡巴斯基 GReAT 专家描述了新的 Project CAV3RN C2 模块。它使用 Outlook 日历通过 Microsoft Graph 进行通信，并通过 DNS AAAA 响应建立备份连接。]]></description>
-      <guid>https://securelist.com/project-cav3rn-cyberespionage-framework-using-outlook-and-dns/120757/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:40:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
