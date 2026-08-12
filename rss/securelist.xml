@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 12 Aug 2026 00:55:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:04:07 GMT</lastBuildDate>
     <item>
       <title>Head Mare APT 正在利用未修补的 TrueConf 服务器中的漏洞向视频会议参与者提供 PhantomCore 和 PhantomGraph</title>
       <link>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</link>
@@ -55,7 +55,7 @@
       <pubDate>Fri, 31 Jul 2026 10:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>OctLurk 和 SilkLurk：新发现的中亚网络间谍活动中的定制后门</title>
+      <title></title>
       <link>https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/</link>
       <description><![CDATA[我们的专家发现了 OctLurk 和 SilkLurk，这两种后门主要在内存中运行，针对中亚。他们注入插件来启动 shell、扫描网络、转储凭据和键盘记录。]]></description>
       <guid>https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/</guid>

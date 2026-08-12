@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 12 Aug 2026 00:55:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:04:35 GMT</lastBuildDate>
     <item>
       <title>Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</link>
@@ -40,7 +40,7 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
     <item>
       <title>ChainDrop 供应链妥协：自我传播蠕虫的剖析</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</link>
-      <description><![CDATA[隐藏在 400 多个受感染的 npm 软件包中的凭据窃取蠕虫通过重新发布恶意更新自动在软件生态系统中传播。此分析详细介绍了攻击链、受影响的环境以及检测、搜寻和修复的实用指南。
+      <description><![CDATA[隐藏在 400 多个受感染的 npm 软件包中的凭证窃取蠕虫通过重新发布恶意更新自动在软件生态系统中传播。 This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation.
 帖子ChainDrop供应链妥协：自我传播蠕虫剖析首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</guid>
       <pubDate>Tue, 04 Aug 2026 23:46:41 GMT</pubDate>
@@ -80,7 +80,7 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
     <item>
       <title>​​更好的安全始于更好的问题</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/</link>
-      <description><![CDATA[了解更好的问题、可信的人工智能和人类判断如何帮助安全领导者做出自信的决策并构建弹性系统。
+      <description><![CDATA[Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.
 这篇文章​​更好的安全性始于更好的问题首先出现在Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/</guid>
       <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
