@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 12 Aug 2026 12:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 18:44:15 GMT</lastBuildDate>
+    <item>
+      <title>AI 正在 SOC 中工作。那么，为什么安全主管比以往更加担心呢？</title>
+      <link>https://www.rapid7.com/blog/post/ai-report-500-security-leaders-reveal-security-operations-transformation</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ai-report-500-security-leaders-reveal-security-operations-transformation</guid>
+      <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>周二补丁 - 2026 年 8 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/c-exclusive-networks-partnership-accelerating-customer-success</guid>
       <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI和抱脸之间发生了什么？</title>
-      <link>https://www.rapid7.com/blog/post/ai-openai-hugging-face-what-happened</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ai-openai-hugging-face-what-happened</guid>
-      <pubDate>Thu, 23 Jul 2026 12:47:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

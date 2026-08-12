@@ -4,7 +4,7 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Tue, 11 Aug 2026 18:43:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 18:45:24 GMT</lastBuildDate>
     <item>
       <title>梦想破灭——当工作机会变成零日攻击</title>
       <link>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</link>
@@ -88,7 +88,7 @@
     <item>
       <title>6 月 22 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 22 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 德克萨斯州公园和野生动物部门受到涉及其许可系统供应商的第三方数据泄露事件的影响。该事件暴露了 […] 的驾驶执照信息、护照号码、电子邮件、电话号码和居住地址
+      <description><![CDATA[有关 6 月 22 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 德克萨斯州公园和野生动物管理局受到涉及其许可系统供应商的第三方数据泄露事件的影响。该事件暴露了 […] 的驾驶执照信息、护照号码、电子邮件、电话号码和居住地址
 6 月 22 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</guid>
       <pubDate>Wed, 01 Jul 2026 11:29:38 GMT</pubDate>
@@ -97,7 +97,7 @@
       <title>仅浏览器勒索软件：从 LLM 幻觉到实用攻击技术</title>
       <link>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</link>
       <description><![CDATA[研究作者：Alexey Bukhteyev 主要要点简介 在过去的几年里，大型语言模型重塑了软件开发，恶意软件开发也遵循了同样的道路。 Check Point Research 记录了这一趋势，从显示人工智能系统可以生成攻击性组件的早期实验，到网络犯罪分子使用 ChatGPT 创建恶意工具的案例，以及 […]
-浏览器专用勒索软件：从 LLM 幻觉到实用攻击技术首先出现在 Check Point Research 上。]]></description>
+浏览器勒索软件：从 LLM 幻觉到实用攻击技术首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</guid>
       <pubDate>Wed, 01 Jul 2026 10:05:35 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
       <title>从明星到点赞：虚假声誉助长加密剪贴板劫持者</title>
       <link>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</link>
       <description><![CDATA[要点介绍 在这项研究中，我们分析了一个剪贴板劫持者活动，该活动隐藏在一系列声称为用户提供不公平优势的“解决方案”和“工具”中。这些优惠包括 Solana 和 Pump.fun 狙击机器人（尝试比其他交易者更快购买新代币或模因币的自动化工具）、Aviator Predictor […]
-这篇文章从明星到点赞：虚假声誉助长了加密剪贴板劫持者首先出现在Check Point Research上。]]></description>
+这篇文章从明星到点赞：虚假声誉助长加密剪贴板劫持者首先出现在Check Point Research上。]]></description>
       <guid>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</guid>
       <pubDate>Wed, 17 Jun 2026 13:38:55 GMT</pubDate>
     </item>
