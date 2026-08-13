@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Wed, 12 Aug 2026 18:45:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:46:08 GMT</lastBuildDate>
+    <item>
+      <title>2026 年第二季度勒索软件状况</title>
+      <link>https://research.checkpoint.com/2026/the-state-of-ransomware-q2-2026/</link>
+      <description><![CDATA[在过去的一年里，勒索软件的讨论集中在集中度上：少数占主导地位的 RaaS 操作控制了大部分损害，而争夺同一领域的活跃组织数量不断减少。 Check Point Research 的 2026 年第二季度勒索软件状况报告显示，情况“开始”发生变化。领先者仍然获胜，但是[…]
+帖子2026 年第二季度勒索软件状况首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/the-state-of-ransomware-q2-2026/</guid>
+      <pubDate>Thu, 13 Aug 2026 12:54:35 GMT</pubDate>
+    </item>
     <item>
       <title>梦想破灭——当工作机会变成零日攻击</title>
       <link>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</link>
@@ -72,7 +80,7 @@
     <item>
       <title>Cavern Manticore：暴露与伊朗相关的模块化 C2 框架</title>
       <link>https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/</link>
-      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research (CPR) 一直在跟踪 Cavern Manticore 使用的新模块化命令和控制框架，该组织是一个与伊朗有联系的 APT 组织，主要针对以色列组织，重点关注 IT 提供商和政府部门。 Cavern Manticore 是与伊朗 MOIS（情报和安全部）有联系的演员，与 OilRig 有联系 […]
+      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research (CPR) 一直在跟踪 Cavern Manticore 使用的新模块化命令和控制框架，该组织是一个与伊朗有联系的 APT 组织，主要针对以色列组织，重点关注 IT 提供商和政府部门。 Cavern Manticore 是与伊朗 MOIS（情报与安全部）有联系的演员，与 OilRig 有联系 […]
 帖子Cavern Manticore：暴露与伊朗相关的模块化C2框架首先出现在Check Point Research上。]]></description>
       <guid>https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/</guid>
       <pubDate>Mon, 06 Jul 2026 12:25:02 GMT</pubDate>
@@ -97,15 +105,15 @@
       <title>仅浏览器勒索软件：从 LLM 幻觉到实用攻击技术</title>
       <link>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</link>
       <description><![CDATA[研究作者：Alexey Bukhteyev 主要要点简介 在过去的几年里，大型语言模型重塑了软件开发，恶意软件开发也遵循了同样的道路。 Check Point Research 记录了这一趋势，从显示人工智能系统可以生成攻击性组件的早期实验，到网络犯罪分子使用 ChatGPT 创建恶意工具的案例，以及 […]
-浏览器勒索软件：从 LLM 幻觉到实用攻击技术首先出现在 Check Point Research 上。]]></description>
+浏览器专用勒索软件：从 LLM 幻觉到实用攻击技术首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</guid>
       <pubDate>Wed, 01 Jul 2026 10:05:35 GMT</pubDate>
     </item>
     <item>
       <title>6 月 29 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/29th-june-threat-intelligence-report-2/</link>
-      <description><![CDATA[有关 6 月 29 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规事件 Polymarket 是一个基于加密货币的大型预测市场，在第三方前端供应商违规导致恶意 JavaScript 被注入其网站后，Polymarket 确认发生了供应链攻击。攻击者诱骗用户批准欺诈性的[…]
-6 月 29 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <description><![CDATA[有关 6 月 29 日当周网络研究的最新发现，请下载我们的威胁情报公告。 TOP ATTACKS AND BREACHES Polymarket, a large cryptocurrency-based prediction market, has confirmed a supply chain attack after a third-party frontend vendor breach led to malicious JavaScript being injected into its website.攻击者诱骗用户批准欺诈性的[…]
+The post 29th June – Threat Intelligence Report appeared first on Check Point Research.]]></description>
       <guid>https://research.checkpoint.com/2026/29th-june-threat-intelligence-report-2/</guid>
       <pubDate>Mon, 29 Jun 2026 14:06:59 GMT</pubDate>
     </item>
@@ -116,14 +124,6 @@
 这篇文章从明星到点赞：虚假声誉助长加密剪贴板劫持者首先出现在Check Point Research上。]]></description>
       <guid>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</guid>
       <pubDate>Wed, 17 Jun 2026 13:38:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>6 月 15 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 15 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和泄露 英国研究型大学诺丁汉大学在 ShinyHunters 访问其学生记录系统后遭遇数据泄露。该事件影响了约 454,600 名现任和前任学生，并暴露了联系方式，[…]
-6 月 15 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/</guid>
-      <pubDate>Mon, 15 Jun 2026 13:40:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
