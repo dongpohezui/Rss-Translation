@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Aug 2026 07:08:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:40:26 GMT</lastBuildDate>
+    <item>
+      <title>Armored Likho 扩展其网络间谍工具包</title>
+      <link>https://securelist.com/armored-likho-still-toolkit/121033/</link>
+      <description><![CDATA[卡巴斯基专家分解了一个新的 Armored Likho 活动，该活动伪装成筹款活动，并提供了一个新的 Still Toolkit，旨在窃取 Telegram 数据并窃听受害者。]]></description>
+      <guid>https://securelist.com/armored-likho-still-toolkit/121033/</guid>
+      <pubDate>Thu, 13 Aug 2026 08:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>Head Mare APT 正在利用未修补的 TrueConf 服务器中的漏洞向视频会议参与者提供 PhantomCore 和 PhantomGraph</title>
       <link>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[卡巴斯基专家剖析 GenieLocker：适用于 Windows、Linux 和 ESXi 系统的新自定义勒索软件变种。我们发现这个家庭遭到玩具食尸鬼（Toy Ghouls）的袭击，这是一个出于经济动机的勒索组织。]]></description>
       <guid>https://securelist.com/genielocker-ransomware-for-windows-linux-and-esxi/120843/</guid>
       <pubDate>Thu, 30 Jul 2026 08:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mirage Kitten 利用新恶意软件瞄准中东和非洲地区</title>
-      <link>https://securelist.com/mirage-kitten-new-tools/120811/</link>
-      <description><![CDATA[卡巴斯基研究人员揭示了 Mirage Kitten（UNC1549、Smoke Sandstorm、Nimbus Manticore）之前未记录的恶意软件：NightLedger 后门、ArcBridge 和 BridgeHead 隧道工具。]]></description>
-      <guid>https://securelist.com/mirage-kitten-new-tools/120811/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:00:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
