@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 14 Aug 2026 12:36:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:38:51 GMT</lastBuildDate>
     <item>
       <title>AI 正在 SOC 中工作。那么，为什么安全主管比以往更加担心呢？</title>
       <link>https://www.rapid7.com/blog/post/ai-report-500-security-leaders-reveal-security-operations-transformation</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 30 Jul 2026 10:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63077：JetBrains TeamCity 中存在严重的未经身份验证的远程代码执行问题</title>
+      <title>CVE-2026-63077：JetBrains TeamCity 中严重的未经身份验证的远程代码执行</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</guid>
