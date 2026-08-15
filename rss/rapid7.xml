@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 14 Aug 2026 18:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:32:44 GMT</lastBuildDate>
+    <item>
+      <title>Metasploit 总结：大量夏季 shell 和适合的 http 配置文件</title>
+      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-lot-of-summer-shells-and-fit-http-profiles</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-lot-of-summer-shells-and-fit-http-profiles</guid>
+      <pubDate>Fri, 14 Aug 2026 21:27:45 GMT</pubDate>
+    </item>
     <item>
       <title>AI 正在 SOC 中工作。那么，为什么安全主管比以往更加担心呢？</title>
       <link>https://www.rapid7.com/blog/post/ai-report-500-security-leaders-reveal-security-operations-transformation</link>
@@ -104,7 +111,7 @@
       <pubDate>Thu, 30 Jul 2026 10:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63077：JetBrains TeamCity 中严重的未经身份验证的远程代码执行</title>
+      <title>CVE-2026-63077：JetBrains TeamCity 中存在严重的未经身份验证的远程代码执行问题</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/dr-the-next-evolution-mdr-preemptive-defense-agentic-investigation</guid>
       <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 和 Exclusive Networks 扩大合作伙伴关系，实现安全运营现代化并加速客户成功</title>
-      <link>https://www.rapid7.com/blog/post/c-exclusive-networks-partnership-accelerating-customer-success</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/c-exclusive-networks-partnership-accelerating-customer-success</guid>
-      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
