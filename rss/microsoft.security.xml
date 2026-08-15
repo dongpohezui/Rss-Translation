@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sat, 15 Aug 2026 06:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:11:39 GMT</lastBuildDate>
     <item>
       <title>Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</link>
@@ -40,7 +40,7 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
     <item>
       <title>ChainDrop 供应链妥协：自我传播蠕虫的剖析</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</link>
-      <description><![CDATA[隐藏在 400 多个受感染的 npm 软件包中的凭证窃取蠕虫通过重新发布恶意更新自动在软件生态系统中传播。此分析详细介绍了攻击链、受影响的环境以及检测、搜寻和修复的实用指南。
+      <description><![CDATA[隐藏在 400 多个受感染的 npm 软件包中的凭据窃取蠕虫通过重新发布恶意更新自动在软件生态系统中传播。此分析详细介绍了攻击链、受影响的环境以及检测、搜寻和修复的实用指南。
 帖子ChainDrop供应链妥协：自我传播蠕虫剖析首先出现在Microsoft Security博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</guid>
       <pubDate>Tue, 04 Aug 2026 23:46:41 GMT</pubDate>
