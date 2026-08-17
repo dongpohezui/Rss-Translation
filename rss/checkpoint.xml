@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Thu, 13 Aug 2026 18:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 18:21:03 GMT</lastBuildDate>
+    <item>
+      <title>8 月 17 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/</link>
+      <description><![CDATA[有关 8 月 17 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规事件哥伦比亚司法部遭遇勒索软件攻击，影响了其部分技术基础设施，并扰乱了与非法药物监控和法律程序相关的公共服务。官员确认一些文件[…]
+8 月 17 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/</guid>
+      <pubDate>Mon, 17 Aug 2026 13:37:34 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年第二季度勒索软件状况</title>
       <link>https://research.checkpoint.com/2026/the-state-of-ransomware-q2-2026/</link>
@@ -80,7 +88,7 @@
     <item>
       <title>Cavern Manticore：暴露与伊朗相关的模块化 C2 框架</title>
       <link>https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/</link>
-      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research (CPR) 一直在跟踪 Cavern Manticore 使用的新模块化命令和控制框架，该组织是一个与伊朗有联系的 APT 组织，主要针对以色列组织，重点关注 IT 提供商和政府部门。 Cavern Manticore 是与伊朗 MOIS（情报与安全部）有联系的演员，与 OilRig 有联系 […]
+      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research (CPR) 一直在跟踪 Cavern Manticore 使用的新模块化命令和控制框架，该组织是一个与伊朗有联系的 APT 组织，主要针对以色列组织，重点关注 IT 提供商和政府部门。 Cavern Manticore 是与伊朗 MOIS（情报和安全部）有联系的演员，与 OilRig 有联系 […]
 帖子Cavern Manticore：暴露与伊朗相关的模块化C2框架首先出现在Check Point Research上。]]></description>
       <guid>https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/</guid>
       <pubDate>Mon, 06 Jul 2026 12:25:02 GMT</pubDate>
@@ -96,7 +104,7 @@
     <item>
       <title>6 月 22 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 22 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 德克萨斯州公园和野生动物管理局受到涉及其许可系统供应商的第三方数据泄露事件的影响。该事件暴露了 […] 的驾驶执照信息、护照号码、电子邮件、电话号码和居住地址
+      <description><![CDATA[有关 6 月 22 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 德克萨斯州公园和野生动物部门受到涉及其许可系统供应商的第三方数据泄露事件的影响。该事件暴露了 […] 的驾驶执照信息、护照号码、电子邮件、电话号码和居住地址
 6 月 22 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</guid>
       <pubDate>Wed, 01 Jul 2026 11:29:38 GMT</pubDate>
@@ -112,18 +120,10 @@
     <item>
       <title>6 月 29 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/29th-june-threat-intelligence-report-2/</link>
-      <description><![CDATA[有关 6 月 29 日当周网络研究的最新发现，请下载我们的威胁情报公告。 TOP ATTACKS AND BREACHES Polymarket, a large cryptocurrency-based prediction market, has confirmed a supply chain attack after a third-party frontend vendor breach led to malicious JavaScript being injected into its website.攻击者诱骗用户批准欺诈性的[…]
-The post 29th June – Threat Intelligence Report appeared first on Check Point Research.]]></description>
+      <description><![CDATA[有关 6 月 29 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规事件 Polymarket 是一个基于加密货币的大型预测市场，在第三方前端供应商违规导致恶意 JavaScript 被注入其网站后，Polymarket 确认发生了供应链攻击。攻击者诱骗用户批准欺诈性的[…]
+6 月 29 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/29th-june-threat-intelligence-report-2/</guid>
       <pubDate>Mon, 29 Jun 2026 14:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>从明星到点赞：虚假声誉助长加密剪贴板劫持者</title>
-      <link>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</link>
-      <description><![CDATA[要点介绍 在这项研究中，我们分析了一个剪贴板劫持者活动，该活动隐藏在一系列声称为用户提供不公平优势的“解决方案”和“工具”中。这些优惠包括 Solana 和 Pump.fun 狙击机器人（尝试比其他交易者更快购买新代币或模因币的自动化工具）、Aviator Predictor […]
-这篇文章从明星到点赞：虚假声誉助长加密剪贴板劫持者首先出现在Check Point Research上。]]></description>
-      <guid>https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/</guid>
-      <pubDate>Wed, 17 Jun 2026 13:38:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
