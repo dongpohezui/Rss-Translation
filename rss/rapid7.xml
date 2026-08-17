@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 17 Aug 2026 06:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:18:07 GMT</lastBuildDate>
+    <item>
+      <title>非洲的网络安全挑战比获取技术更严峻</title>
+      <link>https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa</guid>
+      <pubDate>Mon, 17 Aug 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Metasploit 总结：大量夏季 shell 和适合的 http 配置文件</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-lot-of-summer-shells-and-fit-http-profiles</link>
@@ -20,14 +27,14 @@
       <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>星期二补丁 - 2026 年 8 月</title>
+      <title>周二补丁 - 2026 年 8 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</guid>
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 30 Jul 2026 10:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63077：JetBrains TeamCity 中严重的未经身份验证的远程代码执行</title>
+      <title>CVE-2026-63077：JetBrains TeamCity 中存在严重的未经身份验证的远程代码执行问题</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</guid>
@@ -136,13 +143,6 @@
       <link>https://www.rapid7.com/blog/post/pt-cyber-grc-available-prove-compliance-security</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-cyber-grc-available-prove-compliance-security</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MDR 的下一步演变：先发制人的防御和代理调查</title>
-      <link>https://www.rapid7.com/blog/post/dr-the-next-evolution-mdr-preemptive-defense-agentic-investigation</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/dr-the-next-evolution-mdr-preemptive-defense-agentic-investigation</guid>
       <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
     </item>
     </channel>
