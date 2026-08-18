@@ -4,7 +4,7 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Mon, 17 Aug 2026 18:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:22:32 GMT</lastBuildDate>
     <item>
       <title>Kimwolf v7：Kimwolf 僵尸网络的演变</title>
       <link>https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/</link>
@@ -32,7 +32,8 @@
     <item>
       <title>ChainDrop：自我传播的 npm 蠕虫内部</title>
       <link>https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[对 ChainDrop 的分析，这是一种提取 GitHub Actions 运行者秘密并使用以太坊智能合约进行 C2 路由的 npm 供应链蠕虫。
+帖子ChainDrop：内部自传播 npm 蠕虫首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/</guid>
       <pubDate>Thu, 06 Aug 2026 22:26:39 GMT</pubDate>
     </item>
