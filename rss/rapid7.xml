@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 18 Aug 2026 12:19:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:19:57 GMT</lastBuildDate>
+    <item>
+      <title>新报告：人工智能威胁就在这里。为什么 2026 年第二季度标志着传统补丁周期的结束</title>
+      <link>https://www.rapid7.com/blog/post/tr-new-report-ai-threats-q2-2026-ends-traditional-patch-cycles</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/tr-new-report-ai-threats-q2-2026-ends-traditional-patch-cycles</guid>
+      <pubDate>Tue, 18 Aug 2026 12:49:46 GMT</pubDate>
+    </item>
     <item>
       <title>ASTERIX 行动：加密货币欺诈管道剖析</title>
       <link>https://www.rapid7.com/blog/post/tr-operation-asterix-crypto-fraud-vishing-phishing</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
@@ -125,7 +132,7 @@
       <pubDate>Thu, 30 Jul 2026 10:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63077：JetBrains TeamCity 中严重的未经身份验证的远程代码执行</title>
+      <title>CVE-2026-63077：JetBrains TeamCity 中存在严重的未经身份验证的远程代码执行问题</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ai-rewriting-zero-day-playbook-for-preemptive-security</guid>
       <pubDate>Wed, 29 Jul 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 分析：Check Point SmartConsole 身份验证绕过 (CVE-2026-16232)</title>
-      <link>https://www.rapid7.com/blog/post/ra-check-point-smartconsole-authentication-bypass-technical-analysis-cve-2026-16232</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ra-check-point-smartconsole-authentication-bypass-technical-analysis-cve-2026-16232</guid>
-      <pubDate>Tue, 28 Jul 2026 18:32:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
