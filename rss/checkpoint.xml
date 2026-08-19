@@ -4,9 +4,9 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Tue, 18 Aug 2026 18:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:16:49 GMT</lastBuildDate>
     <item>
-      <title>数千个被黑的 WordPress 网站，一项行动：揭开 StopAndProtect 的面纱</title>
+      <title>数以千计的 WordPress 网站被黑，一项行动：揭开 StopAndProtect 的面纱</title>
       <link>https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/</link>
       <description><![CDATA[研究作者：Jaromír Hořejší (@JaromirHorejsi) 要点介绍 我们在 2026 年 5 月中旬首次注意到一个名为 StopAndProtect 的勒索软件家族。对基础设施的进一步分析表明，感染链始于 ClickFix 社交工程技术，该技术提示受害者执行 PowerShell 命令。这导致额外的下载器和[…]的两个阶段
 数千个被黑的 WordPress 网站，一次操作：揭开 StopAndProtect 的帖子首先出现在 Check Point Research 上。]]></description>
@@ -32,7 +32,7 @@
     <item>
       <title>梦想破灭——当工作机会变成零日攻击</title>
       <link>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</link>
-      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research 追踪了一波“梦想工作行动”活动。这波浪潮主要针对全球国防部门，特别是航空航天业的公司。我们观察到威胁行为者分发了经过修改的 PDF 查看器，旨在执行嵌入在特殊 […] 中的恶意有效负载
+      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research 追踪了一波“梦想工作行动”活动。这波浪潮主要针对全球国防部门，特别是航空航天业的公司。我们观察到威胁行为者分发了经过修改的 PDF 查看器，这些查看器旨在执行嵌入在特殊 […] 中的恶意负载
 帖子粉碎梦想–当工作机会变成零日攻击首先出现在Check Point Research。]]></description>
       <guid>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</guid>
       <pubDate>Tue, 11 Aug 2026 17:30:00 GMT</pubDate>
@@ -86,7 +86,7 @@
       <pubDate>Tue, 14 Jul 2026 00:51:31 GMT</pubDate>
     </item>
     <item>
-      <title>7 月 13 日 – 威胁情报报告</title>
+      <title>7 月 13 日——威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</link>
       <description><![CDATA[有关 7 月 13 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 美国汽车保险公司 AssuranceAmerica 披露了一起影响约 700 万人的数据泄露事件。攻击者以一名员工为目标，并使用受损的凭据访问公司系统，窃取姓名、联系信息、驾照 […]
 7 月 13 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
@@ -121,7 +121,7 @@
       <title>仅浏览器勒索软件：从 LLM 幻觉到实用攻击技术</title>
       <link>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</link>
       <description><![CDATA[研究作者：Alexey Bukhteyev 主要要点简介 在过去的几年里，大型语言模型重塑了软件开发，恶意软件开发也遵循了同样的道路。 Check Point Research 记录了这一趋势，从显示人工智能系统可以生成攻击性组件的早期实验，到网络犯罪分子使用 ChatGPT 创建恶意工具的案例，以及 […]
-浏览器勒索软件：从 LLM 幻觉到实用攻击技术首先出现在 Check Point Research 上。]]></description>
+浏览器专用勒索软件：从 LLM 幻觉到实用攻击技术首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</guid>
       <pubDate>Wed, 01 Jul 2026 10:05:35 GMT</pubDate>
     </item>
