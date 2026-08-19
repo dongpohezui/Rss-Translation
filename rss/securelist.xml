@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Wed, 19 Aug 2026 00:32:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:23:28 GMT</lastBuildDate>
     <item>
       <title>APT组织HoneyMyte升级CoolClient：后门获得内核级Windows rootkit</title>
       <link>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</link>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>CAV3RN 项目继续进行：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
+      <title>CAV3RN 项目仍在继续：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
       <link>https://securelist.com/project-cav3rn-continues/120991/</link>
       <description><![CDATA[CAV3RN 项目以以色列为目标，提供 Google Apps Script C2 中继和基于 DNS 的路由。模块化 .NET NativeAOT 框架将 C2 流量与合法的 Google 服务混合在一起以逃避检测。]]></description>
       <guid>https://securelist.com/project-cav3rn-continues/120991/</guid>
