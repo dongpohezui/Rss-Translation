@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Wed, 19 Aug 2026 18:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:20:36 GMT</lastBuildDate>
+    <item>
+      <title>BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语</title>
+      <link>https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/</link>
+      <description><![CDATA[研究人员：Jiří Vinopal (@vinopaljiri) 摘要 如果可信安全组件可以重新用于攻击者控制的内核原语会怎样？如果可以指示已签名的 Microsoft 修复驱动程序从 Ring 0 执行任意文件和注册表操作会怎样？没有漏洞、漏洞或内存损坏？在本出版物中，我们展示了第一个完整的[…]
+BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/</guid>
+      <pubDate>Thu, 20 Aug 2026 13:07:13 GMT</pubDate>
+    </item>
     <item>
       <title>数以千计的 WordPress 网站被黑，一项行动：揭开 StopAndProtect 的面纱</title>
       <link>https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/</link>
@@ -116,14 +124,6 @@
 6 月 22 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</guid>
       <pubDate>Wed, 01 Jul 2026 11:29:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅浏览器勒索软件：从 LLM 幻觉到实用攻击技术</title>
-      <link>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</link>
-      <description><![CDATA[研究作者：Alexey Bukhteyev 主要要点简介 在过去的几年里，大型语言模型重塑了软件开发，恶意软件开发也遵循了同样的道路。 Check Point Research 记录了这一趋势，从显示人工智能系统可以生成攻击性组件的早期实验，到网络犯罪分子使用 ChatGPT 创建恶意工具的案例，以及 […]
-浏览器专用勒索软件：从 LLM 幻觉到实用攻击技术首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/</guid>
-      <pubDate>Wed, 01 Jul 2026 10:05:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
