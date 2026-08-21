@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Fri, 21 Aug 2026 00:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:21:30 GMT</lastBuildDate>
+    <item>
+      <title>你车里看不见的乘客</title>
+      <link>https://securelist.com/android-head-unit-malware/121106/</link>
+      <description><![CDATA[卡巴斯基专家发现了新的 Android 恶意软件，旨在投放广告并构建代理僵尸网络。它通过 DoFun 主机的合法软件提供。]]></description>
+      <guid>https://securelist.com/android-head-unit-malware/121106/</guid>
+      <pubDate>Fri, 21 Aug 2026 08:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>APT组织HoneyMyte升级CoolClient：后门获得内核级Windows rootkit</title>
       <link>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Armored Likho 扩展其网络间谍工具包</title>
       <link>https://securelist.com/armored-likho-still-toolkit/121033/</link>
-      <description><![CDATA[卡巴斯基专家分解了一项新的 Armored Likho 活动，该活动伪装成筹款活动，并提供了一个新的 Still Toolkit，旨在窃取 Telegram 数据并窃听受害者。]]></description>
+      <description><![CDATA[卡巴斯基专家分解了一个新的 Armored Likho 活动，该活动伪装成筹款活动，并提供了一个新的 Still Toolkit，旨在窃取 Telegram 数据并窃听受害者。]]></description>
       <guid>https://securelist.com/armored-likho-still-toolkit/121033/</guid>
       <pubDate>Thu, 13 Aug 2026 08:00:15 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>CAV3RN 项目继续进行：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
+      <title>CAV3RN 项目仍在继续：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
       <link>https://securelist.com/project-cav3rn-continues/120991/</link>
       <description><![CDATA[CAV3RN 项目以以色列为目标，提供 Google Apps Script C2 中继和基于 DNS 的路由。模块化 .NET NativeAOT 框架将 C2 流量与合法的 Google 服务混合在一起以逃避检测。]]></description>
       <guid>https://securelist.com/project-cav3rn-continues/120991/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[以 Kerberoasting 和 DNS 隧道攻击为例，分析网络异常检测 (NAD) 规则在卡巴斯基反针对性攻击中的工作原理。]]></description>
       <guid>https://securelist.com/tr/network-anomaly-detection-in-kata/120892/</guid>
       <pubDate>Fri, 31 Jul 2026 10:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>OctLurk 和 SilkLurk：新发现的中亚网络间谍活动中的定制后门</title>
-      <link>https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/</link>
-      <description><![CDATA[我们的专家发现了 OctLurk 和 SilkLurk，这两种后门主要在内存中运行，针对中亚。他们注入插件来启动 shell、扫描网络、转储凭据和键盘记录。]]></description>
-      <guid>https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/</guid>
-      <pubDate>Thu, 30 Jul 2026 11:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
