@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Thu, 20 Aug 2026 12:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:32:16 GMT</lastBuildDate>
+    <item>
+      <title>连接点：保护软件开发生命周期 (SDLC) 供应链中被忽视的角落</title>
+      <link>https://unit42.paloaltonetworks.com/sdlc-supply-chain/</link>
+      <description><![CDATA[攻击者的目标是 CI/CD 管道和开发人员工具，而不是应用程序代码，需要全面的 SDLC 可见性和严格的安全控制
+帖子连接点：保护软件开发生命周期 (SDLC) 供应链中被忽视的角落首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/sdlc-supply-chain/</guid>
+      <pubDate>Fri, 21 Aug 2026 23:00:21 GMT</pubDate>
+    </item>
     <item>
       <title>通过可信通信渠道进行身份滥用</title>
       <link>https://unit42.paloaltonetworks.com/communication-channel-identity-risks/</link>
@@ -116,14 +124,6 @@
 帖子通往终端的三个步骤：西门子 ROX II 零日三部曲首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</guid>
       <pubDate>Fri, 17 Jul 2026 10:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能、自动化和攻击：解读 Unit 42 2026 年全球事件响应报告</title>
-      <link>https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/</link>
-      <description><![CDATA[探索 Unit 42 关于人工智能对网络安全影响的观点，包括自 2026 年事件响应报告以来的重要更新。
-帖子人工智能、自动化和攻击：解析 Unit 42 2026 年全球事件响应报告首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/</guid>
-      <pubDate>Thu, 16 Jul 2026 23:00:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
