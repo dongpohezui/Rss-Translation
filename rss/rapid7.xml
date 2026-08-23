@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:12:03 GMT</lastBuildDate>
     <item>
       <title>CVE-2026-19490：影响 Citrix NetScaler ADC 和 NetScaler Gateway 的严重漏洞</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-19490-critical-vulnerability-affecting-citrix-netscaler-adc-and-netscaler-gateway</link>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
