@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 06:33:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:21:49 GMT</lastBuildDate>
     <item>
       <title>CVE-2026-19490：影响 Citrix NetScaler ADC 和 NetScaler Gateway 的严重漏洞</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-19490-critical-vulnerability-affecting-citrix-netscaler-adc-and-netscaler-gateway</link>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>星期二补丁 - 2026 年 8 月</title>
+      <title>周二补丁 - 2026 年 8 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</guid>
