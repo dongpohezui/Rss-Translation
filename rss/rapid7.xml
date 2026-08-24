@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 12:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:21:46 GMT</lastBuildDate>
+    <item>
+      <title>Rapid7 分析：Microsoft SharePoint 远程代码执行 (CVE-2026-63520)</title>
+      <link>https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-remote-code-execution-cve-2026-63520</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-remote-code-execution-cve-2026-63520</guid>
+      <pubDate>Mon, 24 Aug 2026 16:18:05 GMT</pubDate>
+    </item>
     <item>
       <title>CVE-2026-19490：影响 Citrix NetScaler ADC 和 NetScaler Gateway 的严重漏洞</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-19490-critical-vulnerability-affecting-citrix-netscaler-adc-and-netscaler-gateway</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-framework-6-5-released</guid>
       <pubDate>Thu, 30 Jul 2026 14:29:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>严重的 VMware vCenter 漏洞允许绕过身份验证和远程执行代码（CVE-2026-59309、CVE-2026-59310）</title>
-      <link>https://www.rapid7.com/blog/post/etr-critical-vmware-vcenter-vulnerabilities-allow-authentication-bypass-and-remote-code-execution-cve-2026-59309-cve-2026-59310</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/etr-critical-vmware-vcenter-vulnerabilities-allow-authentication-bypass-and-remote-code-execution-cve-2026-59309-cve-2026-59310</guid>
-      <pubDate>Thu, 30 Jul 2026 10:35:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

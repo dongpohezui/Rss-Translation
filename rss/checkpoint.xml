@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Thu, 20 Aug 2026 18:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:22:15 GMT</lastBuildDate>
+    <item>
+      <title>8 月 24 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/</link>
+      <description><![CDATA[有关 8 月 24 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露拉脱维亚道路交通安全局 (CSDD) 已确认此次数据泄露事件影响了超过 120 万人的付款记录该国大约三分之二的人口以及 200,000 个组织。 […]
+8 月 24 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/</guid>
+      <pubDate>Mon, 24 Aug 2026 14:07:53 GMT</pubDate>
+    </item>
     <item>
       <title>BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语</title>
       <link>https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/</link>
@@ -14,7 +22,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
       <pubDate>Thu, 20 Aug 2026 13:07:13 GMT</pubDate>
     </item>
     <item>
-      <title>数以千计的 WordPress 网站被黑，一项行动：揭开 StopAndProtect 的面纱</title>
+      <title>数千个被黑的 WordPress 网站，一项行动：揭开 StopAndProtect 的面纱</title>
       <link>https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/</link>
       <description><![CDATA[研究作者：Jaromír Hořejší (@JaromirHorejsi) 要点介绍 我们在 2026 年 5 月中旬首次注意到一个名为 StopAndProtect 的勒索软件家族。对基础设施的进一步分析表明，感染链始于 ClickFix 社交工程技术，该技术提示受害者执行 PowerShell 命令。这导致额外的下载器和[…]的两个阶段
 数千个被黑的 WordPress 网站，一次操作：揭开 StopAndProtect 的帖子首先出现在 Check Point Research 上。]]></description>
@@ -116,14 +124,6 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
 7 月 6 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/</guid>
       <pubDate>Mon, 06 Jul 2026 12:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>6 月 22 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</link>
-      <description><![CDATA[有关 6 月 22 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和泄露事件 德克萨斯州公园和野生动物部门受到涉及其许可系统供应商的第三方数据泄露事件的影响。该事件暴露了 […] 的驾驶执照信息、护照号码、电子邮件、电话号码和居住地址
-6 月 22 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/</guid>
-      <pubDate>Wed, 01 Jul 2026 11:29:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
