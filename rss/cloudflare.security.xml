@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>贴有“安全”标签的帖子</title>
+    <title></title>
     <link>https://blog.cloudflare.com/tag/security/</link>
-    <description>所有带有安全标签的帖子</description>
-    <lastBuildDate>Sun, 23 Aug 2026 18:12:19 GMT</lastBuildDate>
+    <description></description>
+    <lastBuildDate>Mon, 24 Aug 2026 00:34:03 GMT</lastBuildDate>
     <item>
       <title>为什么我们不能等待更好的后量子签名算法</title>
       <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
@@ -20,30 +20,30 @@
       <pubDate>Wed, 01 Jul 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过 OAuth 为所有人解锁 Cloudflare 应用程序生态系统</title>
+      <title></title>
       <link>https://blog.cloudflare.com/oauth-for-all/</link>
-      <description><![CDATA[自我管理的 OAuth 现已可供 Cloudflare 上的所有开发人员使用。以下是我们如何对核心 OAuth 引擎执行零停机迁移以实现这一目标。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://blog.cloudflare.com/oauth-for-all/</guid>
       <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
       <title>白宫的后量子行政命令是一个重要的里程碑。是时候去上班了</title>
       <link>https://blog.cloudflare.com/post-quantum-eo-2026/</link>
-      <description><![CDATA[新的行政命令设定了 2030 年的迁移期限，并为后量子复原力奠定了坚实的基础。我们着眼于哪些方面是正确的，哪些方面可以进一步发展，以及我们为政府和行业提供的迁移手册。]]></description>
+      <description><![CDATA[新的行政命令设定了 2030 年的迁移期限，并为后量子复原力奠定了强大的基础。我们着眼于哪些方面是正确的，哪些方面可以进一步发展，以及我们为政府和行业提供的迁移手册。]]></description>
       <guid>https://blog.cloudflare.com/post-quantum-eo-2026/</guid>
       <pubDate>Tue, 23 Jun 2026 18:25:18 GMT</pubDate>
     </item>
     <item>
-      <title>构建您自己的漏洞利用工具</title>
+      <title></title>
       <link>https://blog.cloudflare.com/build-your-own-vulnerability-harness/</link>
       <description><![CDATA[我们分解了多阶段漏洞发现工具和自动分类循环背后的技术架构。了解我们如何管理状态控制、通过对抗性审查消除误报以及绕过法学硕士背景限制。]]></description>
       <guid>https://blog.cloudflare.com/build-your-own-vulnerability-harness/</guid>
       <pubDate>Thu, 18 Jun 2026 17:59:40 GMT</pubDate>
     </item>
     <item>
-      <title>防御前沿网络模型：Cloudflare 的架构作为零客户</title>
+      <title></title>
       <link>https://blog.cloudflare.com/frontier-model-defense/</link>
-      <description><![CDATA[在有关 Glasswing 项目的文章中，我们认为围绕漏洞的架构比补丁的速度更重要。在这里，我们将介绍该架构的外观、它防御的威胁，以及我们作为 Cloudflare 的零客户如何运行它。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://blog.cloudflare.com/frontier-model-defense/</guid>
       <pubDate>Tue, 09 Jun 2026 06:00:00 GMT</pubDate>
     </item>
@@ -57,12 +57,12 @@
     <item>
       <title>Glasswing 项目：Mythos 向我们展示了什么</title>
       <link>https://blog.cloudflare.com/cyber-frontier-models/</link>
-      <description><![CDATA[最近几周，我们向 Mythos 和其他专注于安全的法学硕士指出了我们基础设施关键部分的实时代码。我们分享我们观察到的情况、模型的优点和缺点，以及围绕它们的工作在规模化之前需要是什么样子。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://blog.cloudflare.com/cyber-frontier-models/</guid>
       <pubDate>Mon, 18 May 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare 如何应对“复制失败”Linux 漏洞</title>
+      <title></title>
       <link>https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/</link>
       <description><![CDATA[当关键的 Linux 内核权限升级被公开披露时，Cloudflare 的安全和工程团队检测、调查并缓解了我们全球机群中的威胁，确认客户影响为零且没有恶意利用。]]></description>
       <guid>https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/</guid>
@@ -71,14 +71,14 @@
     <item>
       <title>Cloudflare IPsec 的后量子加密已普遍可用</title>
       <link>https://blog.cloudflare.com/post-quantum-ipsec/</link>
-      <description><![CDATA[Cloudflare IPsec 现在普遍支持通过混合 ML-KEM 进行后量子加密。我们已确认与 Cisco 和 Fortinet 的互操作性。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://blog.cloudflare.com/post-quantum-ipsec/</guid>
       <pubDate>Thu, 30 Apr 2026 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>保护非人类身份：自动撤销、OAuth 和范围权限</title>
+      <title></title>
       <link>https://blog.cloudflare.com/improved-developer-security/</link>
-      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最低权限架构，同时防止凭证泄漏。]]></description>
+      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最小权限架构，同时防止凭证泄漏。]]></description>
       <guid>https://blog.cloudflare.com/improved-developer-security/</guid>
       <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
     </item>
@@ -97,16 +97,16 @@
       <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare 的目标是 2029 年实现全面的后量子安全</title>
+      <title></title>
       <link>https://blog.cloudflare.com/post-quantum-roadmap/</link>
-      <description><![CDATA[量子硬件和软件的最新进展加快了量子攻击可能发生的时间。 Cloudflare 的回应是将我们的全面后量子安全目标推迟到 2029 年。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://blog.cloudflare.com/post-quantum-roadmap/</guid>
       <pubDate>Tue, 07 Apr 2026 21:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Cloudflare 客户端安全：更智能的检测，现已向所有人开放</title>
       <link>https://blog.cloudflare.com/client-side-security-open-to-everyone/</link>
-      <description><![CDATA[我们向所有用户开放先进的客户端安全工具，其中包括新的级联人工智能检测系统。通过将图神经网络和法学硕士相结合，我们将误报率减少了 200 倍，同时捕获了复杂的零日漏洞。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://blog.cloudflare.com/client-side-security-open-to-everyone/</guid>
       <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
     </item>
@@ -125,14 +125,14 @@
       <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>应用程序的人工智能安全现已普遍可用</title>
+      <title></title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
       <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga/</guid>
       <pubDate>Wed, 11 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>应用程序的人工智能安全现已普遍可用</title>
+      <title>AI 应用安全现已全面推出</title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga-uk-ua/</link>
       <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga-uk-ua/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>在 Log Explorer 中调查多向量攻击</title>
       <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
-      <description><![CDATA[Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。]]></description>
+      <description><![CDATA[Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度了解其网络。]]></description>
       <guid>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</guid>
       <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
     </item>

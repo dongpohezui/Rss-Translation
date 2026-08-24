@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 18:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:33:45 GMT</lastBuildDate>
     <item>
       <title>CVE-2026-19490：影响 Citrix NetScaler ADC 和 NetScaler Gateway 的严重漏洞</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-19490-critical-vulnerability-affecting-citrix-netscaler-adc-and-netscaler-gateway</link>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 17 Aug 2026 11:29:31 GMT</pubDate>
     </item>
     <item>
-      <title>非洲的网络安全挑战比获取技术更严峻</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa</guid>
@@ -48,21 +48,21 @@
       <pubDate>Fri, 14 Aug 2026 21:27:45 GMT</pubDate>
     </item>
     <item>
-      <title>AI 正在 SOC 中工作。那么，为什么安全主管比以往更加担心呢？</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/ai-report-500-security-leaders-reveal-security-operations-transformation</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ai-report-500-security-leaders-reveal-security-operations-transformation</guid>
       <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>星期二补丁 - 2026 年 8 月</title>
+      <title>周二补丁 - 2026 年 8 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</guid>
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
@@ -83,7 +83,7 @@
       <pubDate>Fri, 07 Aug 2026 14:32:47 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-18577：N-able N-central 身份验证绕过在野被利用</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-18577-n-able-n-central-authentication-bypass-exploited-in-the-wild</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-18577-n-able-n-central-authentication-bypass-exploited-in-the-wild</guid>
@@ -104,14 +104,14 @@
       <pubDate>Mon, 03 Aug 2026 14:48:13 GMT</pubDate>
     </item>
     <item>
-      <title>Rapid7 通过与独家网络的战略合作伙伴关系扩大英国和爱尔兰的渠道影响力</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-uk-ireland-partnership</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-uk-ireland-partnership</guid>
       <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Rapid7 at Black Hat USA 2026：了解抢先式安全的实际应用</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/dr-black-hat-usa-2026-preemptive-security-in-action</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/dr-black-hat-usa-2026-preemptive-security-in-action</guid>
@@ -125,7 +125,7 @@
       <pubDate>Thu, 30 Jul 2026 16:11:10 GMT</pubDate>
     </item>
     <item>
-      <title>Rapid7 在 IDC MarketScape：2026 年中端市场供应商评估全球 MDR 服务中被评为领导者</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/dr-idc-marketscape-leader-worldwide-mdr-service-midmarket-2026-vendor-assessment</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/dr-idc-marketscape-leader-worldwide-mdr-service-midmarket-2026-vendor-assessment</guid>
@@ -139,7 +139,7 @@
       <pubDate>Thu, 30 Jul 2026 14:29:54 GMT</pubDate>
     </item>
     <item>
-      <title>严重的 VMware vCenter 漏洞允许绕过身份验证和远程执行代码（CVE-2026-59309、CVE-2026-59310）</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/etr-critical-vmware-vcenter-vulnerabilities-allow-authentication-bypass-and-remote-code-execution-cve-2026-59309-cve-2026-59310</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-critical-vmware-vcenter-vulnerabilities-allow-authentication-bypass-and-remote-code-execution-cve-2026-59309-cve-2026-59310</guid>

@@ -4,9 +4,9 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Sun, 23 Aug 2026 18:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:33:58 GMT</lastBuildDate>
     <item>
-      <title>谁在追踪你？使用这项新服务来找出答案</title>
+      <title></title>
       <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
       <description><![CDATA[确定谁负责在我们访问的网站上展示广告，或者谁负责从我们每天使用的移动应用程序中收集数据可能是一项艰巨的任务。这些信息已经是半公开的，但不容易解析，而且传统上大部分信息仍然被封锁在大型广告平台手中。不再是了：名为 DecryptAds 的强大且免费的新服务会抓取并关联这些广告技术数据，让您可以轻松快速地了解有关跟踪您的实体的大量信息。]]></description>
       <guid>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</guid>
@@ -15,19 +15,19 @@
     <item>
       <title>微软堵塞近 400 个安全漏洞</title>
       <link>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</link>
-      <description><![CDATA[Microsoft 今天发布了更新，以修复其 Windows 操作系统和支持的软件中的至少 398 个安全漏洞，其中一个漏洞已被积极利用，另外两个漏洞在今天之前已公开详细说明。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</guid>
       <pubDate>Tue, 11 Aug 2026 21:28:35 GMT</pubDate>
     </item>
     <item>
       <title>加拿大男子承认雪花勒索罪</title>
       <link>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</link>
-      <description><![CDATA[一名曾被描述为 2024 年影响最大的网络犯罪威胁者之一的 26 岁加拿大男子承认犯有计算机欺诈罪，并共谋对超过 165 个使用云数据存储提供商 Snowflake 的组织进行黑客攻击和勒索。安大略省基奇纳市的康纳·赖利·莫卡 (Connor Riley Moucka) 也承认窃取了超过 1 亿 AT&amp;T 客户的通话和短信历史记录。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</guid>
       <pubDate>Thu, 06 Aug 2026 17:00:56 GMT</pubDate>
     </item>
     <item>
-      <title>在购买电视流媒体棒之前请先阅读此内容</title>
+      <title></title>
       <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
       <description><![CDATA[多年来，安全专家一直对使用承诺一次性付费提供无限内容流的通用电视盒的风险发出警告，并警告称它们会秘密地将用户的互联网连接出租给陌生人。但一项突破性的新分析发现，这些设备还经常将自己伪装成手机，点击人工智能生成的网站上的广告，作为旨在欺骗在线商家和广告网络的庞大行动的一部分。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</guid>
@@ -41,14 +41,14 @@
       <pubDate>Wed, 22 Jul 2026 01:10:38 GMT</pubDate>
     </item>
     <item>
-      <title>微软修复了创纪录的 570 个安全漏洞</title>
+      <title></title>
       <link>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</link>
       <description><![CDATA[微软公司今天发布了软件更新，以堵塞其 Windows 操作系统和其他软件中的至少 570 个安全漏洞，几乎是该软件巨头上个月在创纪录的星期二补丁中修复的漏洞数量的三倍。微软将补丁数量的激增归因于人工智能辅助的漏洞发现。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</guid>
       <pubDate>Tue, 14 Jul 2026 19:22:42 GMT</pubDate>
     </item>
     <item>
-      <title>从 CISA 最近的 GitHub 泄露事件中吸取的教训</title>
+      <title></title>
       <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
       <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后分析报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</guid>
