@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 00:32:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:23:49 GMT</lastBuildDate>
     <item>
-      <title>你车里看不见的乘客</title>
+      <title></title>
       <link>https://securelist.com/android-head-unit-malware/121106/</link>
       <description><![CDATA[卡巴斯基专家发现了新的 Android 恶意软件，旨在投放广告并构建代理僵尸网络。它通过 DoFun 主机的合法软件提供。]]></description>
       <guid>https://securelist.com/android-head-unit-malware/121106/</guid>
       <pubDate>Fri, 21 Aug 2026 08:00:29 GMT</pubDate>
     </item>
     <item>
-      <title>APT组织HoneyMyte升级CoolClient：后门获得内核级Windows rootkit</title>
+      <title></title>
       <link>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</link>
-      <description><![CDATA[我们的专家发现了一个新的 CoolClient 后门变体，带有内核模式 rootkit 驱动程序，可以向安全工具和威胁分析师隐藏恶意进程、文件和网络连接。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</guid>
       <pubDate>Fri, 14 Aug 2026 09:00:14 GMT</pubDate>
     </item>
     <item>
       <title></title>
       <link>https://securelist.com/armored-likho-still-toolkit/121033/</link>
-      <description><![CDATA[卡巴斯基专家分解了一个新的 Armored Likho 活动，该活动伪装成筹款活动，并提供了一个新的 Still Toolkit，旨在窃取 Telegram 数据并窃听受害者。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/armored-likho-still-toolkit/121033/</guid>
       <pubDate>Thu, 13 Aug 2026 08:00:15 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Head Mare APT 正在利用未修补的 TrueConf 服务器中的漏洞向视频会议参与者提供 PhantomCore 和 PhantomGraph</title>
       <link>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</link>
       <description><![CDATA[]]></description>
       <guid>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</guid>
       <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>CAV3RN 项目仍在继续：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
+      <title></title>
       <link>https://securelist.com/project-cav3rn-continues/120991/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[CAV3RN 项目以以色列为目标，提供 Google Apps Script C2 中继和基于 DNS 的路由。模块化 .NET NativeAOT 框架将 C2 流量与合法的 Google 服务混合在一起以逃避检测。]]></description>
       <guid>https://securelist.com/project-cav3rn-continues/120991/</guid>
       <pubDate>Tue, 11 Aug 2026 10:00:19 GMT</pubDate>
     </item>
     <item>
       <title>2026 年第二季度 IT 威胁演变。非移动统计</title>
       <link>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</link>
-      <description><![CDATA[该报告介绍了 2026 年第二季度针对运行 Windows 和 macOS 的个人电脑以及物联网 (IoT) 设备的恶意软件的主要趋势和统计数据。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</guid>
       <pubDate>Mon, 10 Aug 2026 10:00:37 GMT</pubDate>
     </item>
     <item>
       <title></title>
       <link>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[该报告包含 2026 年第二季度的移动威胁统计数据，以及值得注意的发现和季度趋势：Anatsa 银行家和向 Dropper 的过渡。]]></description>
       <guid>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</guid>
       <pubDate>Mon, 10 Aug 2026 10:00:09 GMT</pubDate>
     </item>
     <item>
       <title>合法的云平台如何让网络钓鱼者绕过 MFA</title>
       <link>https://securelist.com/cloud-platforms-in-phishing/120832/</link>
-      <description><![CDATA[我们介绍了利用 Service Worker 和 Ultraviolet 的基于云的 AitM 攻击场景，并提供跨 Cloudflare Workers、Vercel、Netlify、GitHub Pages 和 IPFS 等平台的详细网络钓鱼托管统计数据。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/cloud-platforms-in-phishing/120832/</guid>
       <pubDate>Tue, 04 Aug 2026 12:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>巴西教育机构事件分析</title>
+      <title></title>
       <link>https://securelist.com/incidents-at-brazilian-educational-institutions/120803/</link>
-      <description><![CDATA[卡巴斯基专家提供了巴西教育机构多个事件响应案例的统计数据和详细信息，以及为学校和大学提供如何保持安全的提示。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/incidents-at-brazilian-educational-institutions/120803/</guid>
       <pubDate>Mon, 03 Aug 2026 13:00:17 GMT</pubDate>
     </item>

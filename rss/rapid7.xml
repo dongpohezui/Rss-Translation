@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Rapid7 网络安全博客</title>
+    <title></title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 00:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:23:45 GMT</lastBuildDate>
     <item>
       <title>Rapid7 分析：Microsoft SharePoint 远程代码执行 (CVE-2026-63520)</title>
       <link>https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-remote-code-execution-cve-2026-63520</link>
@@ -13,14 +13,14 @@
       <pubDate>Mon, 24 Aug 2026 16:18:05 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-19490：影响 Citrix NetScaler ADC 和 NetScaler Gateway 的严重漏洞</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-19490-critical-vulnerability-affecting-citrix-netscaler-adc-and-netscaler-gateway</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-19490-critical-vulnerability-affecting-citrix-netscaler-adc-and-netscaler-gateway</guid>
       <pubDate>Wed, 19 Aug 2026 16:46:06 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Rapid7 与 Licencias OnLine 合作加速拉丁美洲网络安全成熟度</title>
       <link>https://www.rapid7.com/blog/post/c-licencias-online-partnership-accelerates-latam-cybersecurity-maturity-latin-america</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/c-licencias-online-partnership-accelerates-latam-cybersecurity-maturity-latin-america</guid>
@@ -41,35 +41,35 @@
       <pubDate>Mon, 17 Aug 2026 11:29:31 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>非洲的网络安全挑战比获取技术更严峻</title>
       <link>https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa</guid>
       <pubDate>Mon, 17 Aug 2026 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Metasploit 总结：大量夏季 shell 和适合的 http 配置文件</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-lot-of-summer-shells-and-fit-http-profiles</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-lot-of-summer-shells-and-fit-http-profiles</guid>
       <pubDate>Fri, 14 Aug 2026 21:27:45 GMT</pubDate>
     </item>
     <item>
-      <title>AI 正在 SOC 中工作。那么，为什么安全主管比以往更加担心呢？</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/ai-report-500-security-leaders-reveal-security-operations-transformation</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ai-report-500-security-leaders-reveal-security-operations-transformation</guid>
       <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>周二补丁 - 2026 年 8 月</title>
+      <title>星期二补丁 - 2026 年 8 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</guid>
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 07 Aug 2026 14:32:47 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-18577：N-able N-central 身份验证绕过在野被利用</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-18577-n-able-n-central-authentication-bypass-exploited-in-the-wild</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-18577-n-able-n-central-authentication-bypass-exploited-in-the-wild</guid>
@@ -104,14 +104,14 @@
       <pubDate>Mon, 03 Aug 2026 17:11:25 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Metasploit Pro 5.1 发布</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-pro-5-1-released</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-pro-5-1-released</guid>
       <pubDate>Mon, 03 Aug 2026 14:48:13 GMT</pubDate>
     </item>
     <item>
-      <title>Rapid7 通过与独家网络的战略合作伙伴关系扩大英国和爱尔兰的渠道影响力</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-uk-ireland-partnership</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/c-rapid7-exclusive-networks-expand-uk-ireland-partnership</guid>
@@ -132,7 +132,7 @@
       <pubDate>Thu, 30 Jul 2026 16:11:10 GMT</pubDate>
     </item>
     <item>
-      <title>Rapid7 在 IDC MarketScape：2026 年中端市场供应商评估全球 MDR 服务中被评为领导者</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/dr-idc-marketscape-leader-worldwide-mdr-service-midmarket-2026-vendor-assessment</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/dr-idc-marketscape-leader-worldwide-mdr-service-midmarket-2026-vendor-assessment</guid>
