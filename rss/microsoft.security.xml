@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>微软安全博客</title>
+    <title></title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
-    <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 24 Aug 2026 18:22:30 GMT</lastBuildDate>
+    <description></description>
+    <lastBuildDate>Tue, 25 Aug 2026 00:33:07 GMT</lastBuildDate>
     <item>
-      <title>Microsoft 被评为 2026 年 Frost Radar™ 云工作负载保护平台领导者</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
       <description><![CDATA[Microsoft 在 2026 年 Frost Radar for Cloud Workload Protection Platforms 中被评为远见卓识的领导者，凭借 Microsoft Defender for Cloud 的统一运行时安全性而受到认可。
 微软将 2026 年 Frost Radar™ 评为领导者：云工作负载保护平台首先出现在 Microsoft 安全博客。]]></description>
@@ -14,7 +14,7 @@
       <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过行为枢轴寻找 MacSync Stealer 基础设施</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</link>
       <description><![CDATA[MacSync Stealer 快速旋转域以逃避检测，但其行为保持一致。了解 Microsoft 如何使用持久的搜索枢纽发现 30 多个相关域。
 这篇文章通过行为枢轴追捕 MacSync Stealer 基础设施首先出现在 Microsoft 安全博客上。]]></description>
@@ -30,10 +30,9 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
       <pubDate>Mon, 10 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DeadLock 勒索软件：利用去中心化恢复基础设施破坏基于 Rust 的加密器</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/</link>
-      <description><![CDATA[Microsoft 威胁情报研究了 DeadLock 勒索软件，这是一种新兴的经济动机操作，其特点是使用去中心化基础设施来支持受害者通信、谈判和数据泄露操作，以及用于向受害者施压的双重勒索策略。
-帖子DeadLock 勒索软件：使用去中心化恢复基础架构破解基于 Rust 的加密器首先出现在 Microsoft 安全博客。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/</guid>
       <pubDate>Mon, 10 Aug 2026 15:00:00 GMT</pubDate>
     </item>
@@ -48,8 +47,7 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
     <item>
       <title>从开放的诱饵到隐蔽的大门：macOS ClickFix 活动如何学会隐藏</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/</link>
-      <description><![CDATA[macOS ClickFix 活动将策略从公开提供信息窃取者诱饵转变为将其隐藏在浏览器指纹门后面。这一变化使得恶意基础设施更难以检测，同时为防御者提供了新的狩猎机会。
-这篇文章从开放的诱饵到隐蔽的大门：macOS ClickFix 活动如何学会隐藏首先出现在 Microsoft 安全博客上。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/</guid>
       <pubDate>Wed, 05 Aug 2026 15:48:39 GMT</pubDate>
     </item>
@@ -72,16 +70,14 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
     <item>
       <title>128 秒即可中断：Microsoft Defender 在 QNET 上阻止勒索软件</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/</link>
-      <description><![CDATA[Microsoft Defender 在 128 秒内自动隔离受感染的 QNET 端点，在有效负载持续存在或传播之前阻止多阶段攻击。
-帖子128 秒中断：Microsoft Defender 在 QNET 停止勒索软件首先出现在 Microsoft Security博客。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/</guid>
       <pubDate>Tue, 04 Aug 2026 17:54:04 GMT</pubDate>
     </item>
     <item>
-      <title>CaptiveCrunch：午夜暴雪针对全球旅行者传播恶意软件和窃取凭证</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/</link>
-      <description><![CDATA[Storm-2945 是俄罗斯威胁攻击者 Midnight Blizzard 的一个子集群，自 2026 年 5 月以来，人们观察到它会破坏酒店等酒店相关组织的登录门户，以便向旅行者传播恶意软件并在我们称为 CaptiveCrunch 的行动中窃取凭证。
-帖子CaptiveCrunch：午夜暴雪以全球旅行者为目标进行恶意软件传播和凭据盗窃首先出现在 Microsoft 安全博客。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/</guid>
       <pubDate>Fri, 31 Jul 2026 21:01:37 GMT</pubDate>
     </item>

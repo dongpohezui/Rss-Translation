@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>安全列表</title>
+    <title></title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 24 Aug 2026 18:21:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:32:49 GMT</lastBuildDate>
     <item>
       <title>你车里看不见的乘客</title>
       <link>https://securelist.com/android-head-unit-malware/121106/</link>
@@ -20,23 +20,23 @@
       <pubDate>Fri, 14 Aug 2026 09:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>Armored Likho 扩展其网络间谍工具包</title>
+      <title></title>
       <link>https://securelist.com/armored-likho-still-toolkit/121033/</link>
       <description><![CDATA[卡巴斯基专家分解了一个新的 Armored Likho 活动，该活动伪装成筹款活动，并提供了一个新的 Still Toolkit，旨在窃取 Telegram 数据并窃听受害者。]]></description>
       <guid>https://securelist.com/armored-likho-still-toolkit/121033/</guid>
       <pubDate>Thu, 13 Aug 2026 08:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>Head Mare APT 正在利用未修补的 TrueConf 服务器中的漏洞向视频会议参与者提供 PhantomCore 和 PhantomGraph</title>
+      <title></title>
       <link>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</link>
-      <description><![CDATA[卡巴斯基专家发现了恶意的 TrueConf 软件安装程序。 Head Mare APT 组织利用它们，通过利用未修补的 TrueConf 服务器中的漏洞，向目标系统提供 PhantomCore 和 PhantomGraph 后门。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</guid>
       <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
     </item>
     <item>
       <title>CAV3RN 项目仍在继续：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
       <link>https://securelist.com/project-cav3rn-continues/120991/</link>
-      <description><![CDATA[CAV3RN 项目以以色列为目标，提供 Google Apps Script C2 中继和基于 DNS 的路由。模块化 .NET NativeAOT 框架将 C2 流量与合法的 Google 服务混合在一起以逃避检测。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/project-cav3rn-continues/120991/</guid>
       <pubDate>Tue, 11 Aug 2026 10:00:19 GMT</pubDate>
     </item>
@@ -48,9 +48,9 @@
       <pubDate>Mon, 10 Aug 2026 10:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年第二季度 IT 威胁演变。移动统计</title>
+      <title></title>
       <link>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</link>
-      <description><![CDATA[该报告包含 2026 年第二季度的移动威胁统计数据，以及值得注意的发现和季度趋势：Anatsa 银行家和向 Dropper 的过渡。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</guid>
       <pubDate>Mon, 10 Aug 2026 10:00:09 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>KATA 中的网络异常检测</title>
       <link>https://securelist.com/tr/network-anomaly-detection-in-kata/120892/</link>
-      <description><![CDATA[以 Kerberoasting 和 DNS 隧道攻击为例，分析网络异常检测 (NAD) 规则在卡巴斯基反针对性攻击中的工作原理。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/tr/network-anomaly-detection-in-kata/120892/</guid>
       <pubDate>Fri, 31 Jul 2026 10:00:25 GMT</pubDate>
     </item>
