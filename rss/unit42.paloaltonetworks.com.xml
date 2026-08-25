@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Sat, 22 Aug 2026 00:32:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:24:29 GMT</lastBuildDate>
+    <item>
+      <title>2026 年 8 月人工智能恶意软件现状：从品牌滥用到代理执行</title>
+      <link>https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/</link>
+      <description><![CDATA[探索 Unit 42 关于人工智能恶意软件的研究。了解现有的行为检测和端点分析如何在执行之前阻止人工智能编写的代码。
+帖子2026 年 8 月人工智能恶意软件的现状：从品牌滥用到代理执行首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:57 GMT</pubDate>
+    </item>
     <item>
       <title>连接点：保护软件开发生命周期 (SDLC) 供应链中被忽视的角落</title>
       <link>https://unit42.paloaltonetworks.com/sdlc-supply-chain/</link>
@@ -116,14 +124,6 @@
 帖子俄罗斯全球网络邮件间谍活动首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/russian-webmail-espionage/</guid>
       <pubDate>Thu, 23 Jul 2026 14:10:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>到达终点站的三个步骤：西门子 ROX II 零日三部曲</title>
-      <link>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</link>
-      <description><![CDATA[对西门子 ROX II OT 交换机中允许权限升级和持久 root 访问的三个链式零日漏洞进行技术分析。
-帖子通往终端的三个步骤：西门子 ROX II 零日三部曲首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/</guid>
-      <pubDate>Fri, 17 Jul 2026 10:00:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

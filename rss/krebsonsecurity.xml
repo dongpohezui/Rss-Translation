@@ -3,8 +3,8 @@
   <channel>
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
-    <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 06:24:01 GMT</lastBuildDate>
+    <description>深入的安全新闻和调查</description>
+    <lastBuildDate>Tue, 25 Aug 2026 12:23:59 GMT</lastBuildDate>
     <item>
       <title>谁在追踪你？使用这项新服务来找出答案</title>
       <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
@@ -15,26 +15,26 @@
     <item>
       <title>微软堵塞近 400 个安全漏洞</title>
       <link>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Microsoft 今天发布了更新，以修复其 Windows 操作系统和支持的软件中的至少 398 个安全漏洞，其中一个漏洞已被积极利用，另外两个漏洞在今天之前已公开详细说明。]]></description>
       <guid>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</guid>
       <pubDate>Tue, 11 Aug 2026 21:28:35 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>加拿大男子承认雪花勒索罪</title>
       <link>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[一名曾被描述为 2024 年影响最大的网络犯罪威胁者之一的 26 岁加拿大男子承认犯有计算机欺诈罪，并共谋对超过 165 个使用云数据存储提供商 Snowflake 的组织进行黑客攻击和勒索。安大略省基奇纳市的康纳·赖利·莫卡 (Connor Riley Moucka) 也承认窃取了超过 1 亿 AT&amp;T 客户的通话和短信历史记录。]]></description>
       <guid>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</guid>
       <pubDate>Thu, 06 Aug 2026 17:00:56 GMT</pubDate>
     </item>
     <item>
       <title>在购买电视流媒体棒之前请先阅读此内容</title>
       <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[多年来，安全专家一直对使用承诺一次性付费提供无限内容流的通用电视盒的风险发出警告，并警告称它们会秘密地将用户的互联网连接出租给陌生人。但一项突破性的新分析发现，这些设备还经常将自己伪装成手机，点击人工智能生成的网站上的广告，作为旨在欺骗在线商家和广告网络的庞大行动的一部分。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</guid>
       <pubDate>Thu, 30 Jul 2026 16:49:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>LG 将禁止智能电视应用程序使用住宅代理</title>
       <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
       <description><![CDATA[家电巨头 LG 电子美国公司本周表示，计划暂停任何为其智能电视构建的应用程序，这些应用程序会将电视变成永远在线的住宅代理节点。不到一个月前，研究人员发现 LG webOS 商店中可供下载的超过 42% 的游戏和其他应用程序允许未知第三方通过用户的电视传输互联网流量。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</guid>
@@ -50,12 +50,12 @@
     <item>
       <title>从 CISA 最近的 GitHub 泄露事件中吸取的教训</title>
       <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后分析报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</guid>
       <pubDate>Mon, 13 Jul 2026 15:03:28 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>重罪犯、诈骗犯殴打进攻性网络安全初创公司</title>
       <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
       <description><![CDATA[一家网络安全初创公司花费数百万美元收购流行软件中的零日安全漏洞，该公司由一对极右翼阴谋论者和被定罪的重罪犯经营，他们最近的企业包括假情报公司和一个现已解散的基于人工智能的游说平台，他们以假名运营。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
@@ -69,9 +69,9 @@
       <pubDate>Thu, 02 Jul 2026 19:27:33 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>分散的蜘蛛黑客在审判第一天认罪</title>
       <link>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[本周，英国两名男子对 2024 年 8 月网络攻击造成的刑事指控认罪，该攻击导致负责大伦敦地区公共交通网络的伦敦交通局瘫痪。这两人是一个多产的网络犯罪组织“分散蜘蛛”的主要成员，他们在预计为期六周的审判的第一天认罪。]]></description>
       <guid>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</guid>
       <pubDate>Tue, 23 Jun 2026 16:12:49 GMT</pubDate>
     </item>
