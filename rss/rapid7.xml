@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 27 Aug 2026 05:26:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:58:53 GMT</lastBuildDate>
+    <item>
+      <title>身份即服务：揭露暗网市场交易主管 SSN</title>
+      <link>https://www.rapid7.com/blog/post/tr-identity-as-a-service-dark-web-marketplaces-executive-ssn</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/tr-identity-as-a-service-dark-web-marketplaces-executive-ssn</guid>
+      <pubDate>Thu, 27 Aug 2026 13:51:55 GMT</pubDate>
+    </item>
     <item>
       <title>Rapid7 分析：Microsoft SharePoint 远程代码执行 (CVE-2026-63520)</title>
       <link>https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-remote-code-execution-cve-2026-63520</link>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/dr-idc-marketscape-leader-worldwide-mdr-service-midmarket-2026-vendor-assessment</guid>
       <pubDate>Thu, 30 Jul 2026 15:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit 框架 6.5 发布</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-framework-6-5-released</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-framework-6-5-released</guid>
-      <pubDate>Thu, 30 Jul 2026 14:29:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

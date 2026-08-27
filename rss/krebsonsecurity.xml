@@ -4,7 +4,18 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Thu, 27 Aug 2026 05:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:59:10 GMT</lastBuildDate>
+    <item>
+      <title>两名涉嫌“TeamPCP”黑客在澳大利亚被捕</title>
+      <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
+      <description><![CDATA[澳大利亚当局逮捕了两名据信是 TeamPCP 成员的男子，TeamPCP 是一个多发的网络犯罪和数据勒索组织，被指责发动了有史以来持续时间最长的软件供应链攻击。
+
+澳大利亚联邦警察局 (AFP) 在今天发布的一份声明中表示，两名来自西澳大利亚州的未透露姓名的嫌疑人（年龄分别为 21 岁和 23 岁）因涉嫌“复杂的网络犯罪集团”而被捕，该集团涉嫌创建恶意开源软件以抢劫数千家全球企业。
+
+法新社没有透露被告的名字，但 KrebsOnSecurity 在 6 月份得知了这名 21 岁嫌疑人的真实身份，并一直与他保持联系。这篇报道包括对 TeamPCP 自称发言人的采访，并探讨了 TeamPCP 领导人留下的可能导致他覆灭的线索。]]></description>
+      <guid>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</guid>
+      <pubDate>Thu, 27 Aug 2026 11:04:15 GMT</pubDate>
+    </item>
     <item>
       <title>谁在追踪你？使用这项新服务来找出答案</title>
       <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
@@ -67,13 +78,6 @@
       <description><![CDATA[美国联邦调查局 (FBI) 今天表示，它与行业合作伙伴合作查获了数百个与 NetNut 相关的域名，NetNut 是一项由以色列上市公司 Alarum Technologies [纳斯达克股票代码：ALAR] 运营的庞大住宅代理服务。大约两周前，KrebsOnSecurity 发布了多家安全公司的调查结果，这些安全公司将 NetNut 连接到 Popa 僵尸网络，该僵尸网络至少有 200 万台设备在未经受害者同意的情况下受到恶意软件的攻击。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</guid>
       <pubDate>Thu, 02 Jul 2026 19:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>分散的蜘蛛黑客在审判第一天认罪</title>
-      <link>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</link>
-      <description><![CDATA[本周，英国两名男子对 2024 年 8 月网络攻击造成的刑事指控认罪，该攻击导致负责大伦敦地区公共交通网络的伦敦交通局瘫痪。这两人是一个多产的网络犯罪组织“分散蜘蛛”的主要成员，他们在预计为期六周的审判的第一天认罪。]]></description>
-      <guid>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</guid>
-      <pubDate>Tue, 23 Jun 2026 16:12:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

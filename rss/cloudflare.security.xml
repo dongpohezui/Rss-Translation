@@ -4,7 +4,7 @@
     <title>贴有“安全”标签的帖子</title>
     <link>https://blog.cloudflare.com/tag/security/</link>
     <description>所有带有安全标签的帖子</description>
-    <lastBuildDate>Thu, 27 Aug 2026 05:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:59:22 GMT</lastBuildDate>
     <item>
       <title>为什么我们不能等待更好的后量子签名算法</title>
       <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>使用归因业务洞察揭开抓取的面纱</title>
       <link>https://blog.cloudflare.com/attribution-business-insights/</link>
-      <description><![CDATA[Cloudflare 的新归因业务洞察仪表板可帮助网站所有者了解爬虫行为、偏好和潜在价值，从而推动围绕爬虫补偿的业务级对话。]]></description>
+      <description><![CDATA[Cloudflare 的新 Attribution Business Insights 仪表板可帮助网站所有者了解爬虫行为、偏好和潜在价值，推动围绕爬虫补偿的业务级对话。]]></description>
       <guid>https://blog.cloudflare.com/attribution-business-insights/</guid>
       <pubDate>Wed, 01 Jul 2026 06:00:00 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>白宫的后量子行政命令是一个重要的里程碑。是时候去上班了</title>
       <link>https://blog.cloudflare.com/post-quantum-eo-2026/</link>
-      <description><![CDATA[新的行政命令设定了 2030 年的迁移期限，并为后量子复原力奠定了坚实的基础。我们着眼于哪些方面是正确的，哪些方面可以进一步发展，以及我们为政府和行业提供的迁移手册。]]></description>
+      <description><![CDATA[新的行政命令设定了 2030 年的迁移期限，并为后量子复原力奠定了强大的基础。我们着眼于哪些方面是正确的，哪些方面可以进一步发展，以及我们为政府和行业提供的迁移手册。]]></description>
       <guid>https://blog.cloudflare.com/post-quantum-eo-2026/</guid>
       <pubDate>Tue, 23 Jun 2026 18:25:18 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>Glasswing 项目：Mythos 向我们展示了什么</title>
       <link>https://blog.cloudflare.com/cyber-frontier-models/</link>
-      <description><![CDATA[最近几周，我们向 Mythos 和其他专注于安全的法学硕士指出了我们基础设施关键部分的实时代码。我们分享我们的观察结果、模型的优点和缺点，以及围绕它们的工作在规模化之前需要是什么样子。]]></description>
+      <description><![CDATA[最近几周，我们向 Mythos 和其他专注于安全的法学硕士指出了我们基础设施关键部分的实时代码。我们分享我们观察到的情况、模型的优点和缺点，以及围绕它们的工作在规模化之前需要是什么样子。]]></description>
       <guid>https://blog.cloudflare.com/cyber-frontier-models/</guid>
       <pubDate>Mon, 18 May 2026 06:00:00 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>保护非人类身份：自动撤销、OAuth 和范围权限</title>
       <link>https://blog.cloudflare.com/improved-developer-security/</link>
-      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最低权限架构，同时防止凭证泄漏。]]></description>
+      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最小权限架构，同时防止凭证泄漏。]]></description>
       <guid>https://blog.cloudflare.com/improved-developer-security/</guid>
       <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
     </item>
@@ -125,14 +125,14 @@
       <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>应用程序的人工智能安全现已普遍可用</title>
+      <title>AI 应用安全现已全面推出</title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
-      <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
+      <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供 AI 发现，以帮助团队找到并保护影子 AI 部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga/</guid>
       <pubDate>Wed, 11 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>应用程序的人工智能安全现已普遍可用</title>
+      <title>AI 应用安全现已全面推出</title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga-uk-ua/</link>
       <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga-uk-ua/</guid>
