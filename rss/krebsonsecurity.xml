@@ -4,7 +4,7 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Fri, 28 Aug 2026 01:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:49:51 GMT</lastBuildDate>
     <item>
       <title>两名涉嫌“TeamPCP”黑客在澳大利亚被捕</title>
       <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
@@ -61,7 +61,7 @@
     <item>
       <title>从 CISA 最近的 GitHub 泄露事件中吸取的教训</title>
       <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后分析报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
+      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</guid>
       <pubDate>Mon, 13 Jul 2026 15:03:28 GMT</pubDate>
     </item>

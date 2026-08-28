@@ -4,7 +4,21 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 01:51:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:48:59 GMT</lastBuildDate>
+    <item>
+      <title>Metasploit 总结：有效负载和漏洞利用以及扫描仪，天哪！</title>
+      <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners</guid>
+      <pubDate>Fri, 28 Aug 2026 14:57:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>PaperCut NG/MF 严重零日漏洞被广泛利用</title>
+      <link>https://www.rapid7.com/blog/post/etr-papercut-ng-mf-critical-zero-day-exploited-in-the-wild</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/etr-papercut-ng-mf-critical-zero-day-exploited-in-the-wild</guid>
+      <pubDate>Fri, 28 Aug 2026 10:09:12 GMT</pubDate>
+    </item>
     <item>
       <title>身份即服务：揭露暗网市场交易主管 SSN</title>
       <link>https://www.rapid7.com/blog/post/tr-identity-as-a-service-dark-web-marketplaces-executive-ssn</link>
@@ -69,14 +83,14 @@
       <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>星期二补丁 - 2026 年 8 月</title>
+      <title>周二补丁 - 2026 年 8 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</guid>
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/dr-black-hat-usa-2026-preemptive-security-in-action</guid>
       <pubDate>Fri, 31 Jul 2026 11:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>KindaRails2Shell：CVE-2026-66066，Ruby on Rails 中的关键任意文件读取和可能的远程代码执行</title>
-      <link>https://www.rapid7.com/blog/post/etr-kindarails2shell-cve-2026-66066-critical-arbitrary-file-read-and-possible-remote-code-execution-in-ruby-on-rails</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/etr-kindarails2shell-cve-2026-66066-critical-arbitrary-file-read-and-possible-remote-code-execution-in-ruby-on-rails</guid>
-      <pubDate>Thu, 30 Jul 2026 16:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 在 IDC MarketScape：2026 年中端市场供应商评估全球 MDR 服务中被评为领导者</title>
-      <link>https://www.rapid7.com/blog/post/dr-idc-marketscape-leader-worldwide-mdr-service-midmarket-2026-vendor-assessment</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/dr-idc-marketscape-leader-worldwide-mdr-service-midmarket-2026-vendor-assessment</guid>
-      <pubDate>Thu, 30 Jul 2026 15:14:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,9 +4,9 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 28 Aug 2026 01:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:50:50 GMT</lastBuildDate>
     <item>
-      <title>​​​​​​Microsoft 安全更新：2026 年 8 月</title>
+      <title>​​​​​​Microsoft 安全性新增内容：2026 年 8 月</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/</link>
       <description><![CDATA[本月的更新提供了新功能，可帮助组织深入了解代理活动、扩大受支持环境的安全覆盖范围，并增强跨环境的安全管理。
 ​​​​​​Microsoft 安全新增功能：2026 年 8 月 帖子首先出现在 Microsoft 安全博客上。]]></description>
@@ -17,7 +17,7 @@
       <title>当人工智能基础设施成为目标时：保护网关和控制点</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</link>
       <description><![CDATA[Microsoft 威胁情报检查对暴露的 AI 工作负载的攻击，包括 LiteLLM 网关利用、凭据收集、持久性和加密挖掘活动。
-当人工智能基础设施成为目标时：保护网关和控制点首先出现在微软安全博客上。]]></description>
+帖子当人工智能基础设施成为目标：保护网关和控制点首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</guid>
       <pubDate>Wed, 26 Aug 2026 16:43:53 GMT</pubDate>
     </item>
@@ -32,7 +32,7 @@
     <item>
       <title>Microsoft 被评为 2026 年 Frost Radar™ 云工作负载保护平台领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
-      <description><![CDATA[Microsoft 在 2026 年 Frost Radar for Cloud Workload Protection Platforms 中被评为远见卓识的领导者，凭借 Microsoft Defender for Cloud 的统一运行时安全性而受到认可。
+      <description><![CDATA[Microsoft 在 2026 年 Frost Radar 云工作负载保护平台中被评为远见卓识的领导者，凭借 Microsoft Defender for Cloud 的统一运行时安全性而受到认可。
 微软将 2026 年 Frost Radar™ 评为领导者：云工作负载保护平台首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</guid>
       <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
@@ -48,7 +48,7 @@
     <item>
       <title>Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</link>
-      <description><![CDATA[Microsoft 在 2026 年 IDC MarketScape 中被评为 MDR 服务领导者。了解 Microsoft Defender 专家 MDR 如何将人工智能、威胁情报和人类专业知识结合起来。
+      <description><![CDATA[Microsoft 在 2026 年 IDC MarketScape 中被评为 MDR 服务领导者。了解 Microsoft Defender 专家 MDR 如何结合人工智能、威胁情报和人类专业知识。
 Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</guid>
       <pubDate>Mon, 10 Aug 2026 16:00:00 GMT</pubDate>
@@ -65,7 +65,7 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
       <title>​​Microsoft 在 KuppingerCole 云原生应用程序保护平台领导指南 (CNAPP) 中被评为领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</link>
       <description><![CDATA[了解为什么 KuppingerCole 在其《领导力指南针：云原生应用程序保护平台》报告中将 Microsoft 评为领导者。
-这篇文章​​Microsoft 在云原生应用程序保护平台 (CNAPP) 的 KuppingerCole 领导指南中被评为领导者 首先出现在Microsoft 安全博客。]]></description>
+这篇文章​​Microsoft 在云原生应用程序保护平台 (CNAPP) 的 KuppingerCole 领导指南针中被评为领导者首先出现在Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</guid>
       <pubDate>Wed, 05 Aug 2026 16:30:00 GMT</pubDate>
     </item>

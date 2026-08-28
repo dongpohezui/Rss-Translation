@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Aug 2026 01:51:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:49:16 GMT</lastBuildDate>
     <item>
       <title>工业自动化系统的威胁格局。 2026 年第二季度</title>
       <link>https://securelist.com/industrial-threat-report-q2-2026/121159/</link>
@@ -71,7 +71,7 @@
     <item>
       <title>合法的云平台如何让网络钓鱼者绕过 MFA</title>
       <link>https://securelist.com/cloud-platforms-in-phishing/120832/</link>
-      <description><![CDATA[我们介绍了利用 Service Worker 和 Ultraviolet 的基于云的 AitM 攻击场景，并提供跨 Cloudflare Workers、Vercel、Netlify、GitHub Pages 和 IPFS 等平台的详细网络钓鱼托管统计数据。]]></description>
+      <description><![CDATA[我们介绍了利用 Service Workers 和 Ultraviolet 的基于云的 AitM 攻击场景，并跨 Cloudflare Workers、Vercel、Netlify、GitHub Pages 和 IPFS 等平台提供详细的网络钓鱼托管统计数据。]]></description>
       <guid>https://securelist.com/cloud-platforms-in-phishing/120832/</guid>
       <pubDate>Tue, 04 Aug 2026 12:00:12 GMT</pubDate>
     </item>
