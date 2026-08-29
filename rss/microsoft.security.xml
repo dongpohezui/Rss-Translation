@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sat, 29 Aug 2026 01:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:53:51 GMT</lastBuildDate>
+    <item>
+      <title>TerminalFix 活动通过多级入侵部署反向隧道</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</link>
+      <description><![CDATA[Microsoft 威胁情报提供对使用虚假 CAPTCHA 提示、DLL 侧载和反向隧道的 ClickFix 活动的分析，以及检测和搜寻指导。
+TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</guid>
+      <pubDate>Sat, 29 Aug 2026 03:43:27 GMT</pubDate>
+    </item>
     <item>
       <title>​​​​​​Microsoft 安全性新增内容：2026 年 8 月</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/</link>
@@ -76,14 +84,6 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
 这篇文章从开放的诱饵到隐蔽的大门：macOS ClickFix 活动如何学会隐藏首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/</guid>
       <pubDate>Wed, 05 Aug 2026 15:48:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChainDrop 供应链妥协：自我传播蠕虫的剖析</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</link>
-      <description><![CDATA[隐藏在 400 多个受感染的 npm 软件包中的凭据窃取蠕虫通过重新发布恶意更新自动在软件生态系统中传播。此分析详细介绍了攻击链、受影响的环境以及检测、搜寻和修复的实用指南。
-帖子ChainDrop供应链妥协：自我传播蠕虫剖析首先出现在Microsoft Security博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/</guid>
-      <pubDate>Tue, 04 Aug 2026 23:46:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
