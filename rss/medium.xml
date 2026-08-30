@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>凯文·博蒙特在 Medium 上的故事</title>
     <link>https://medium.com/@networksecurity?source=rss-7db6d2df42a6------2</link>
-    <description></description>
-    <lastBuildDate>Sat, 29 Aug 2026 20:05:44 GMT</lastBuildDate>
+    <description>凯文·博蒙特在 Medium 上的故事</description>
+    <lastBuildDate>Sun, 30 Aug 2026 02:03:49 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>Adform 遭到入侵，通过供应链攻击为加密货币窃取者提供服务</title>
       <link>https://doublepulsar.com/adform-compromised-to-serve-crypto-stealer-via-supply-chain-attack-2f1ec024f33e?source=rss-7db6d2df42a6------2</link>
-      <description><![CDATA[Adform 是一家广告公司，约有 14,000 家公司使用，在需求方类别中拥有约 30% 的份额。他们通过以下 URL 为网站提供 Javascript 嵌入来运营：hxxps://s2.adform.net/banners/scripts/st/trackpoint-async.js该脚本遭到破坏，旨在为加密货币窃取者提供服务。 Adform 已被黑客攻击。据我所知，Adform 还没有告诉人们。这使得下游网站的最终用户设备受到加密窃取恶意软件的攻击。这意味着，如果您访问 example.com 并且他们使用 Adform，example.com 将会危害您的设备。s2.adform.net 提供的服务示例：文件哈希02ff86c7f9fe609a753ff15bda90baa3c3e0d4a2e559ec4fcf8a3de0954b7c55该文件在 Virustotal 上的供应商中标记为良好（所有 URL、文件、域和 IP 在所有安全供应商中都标记为干净）。实际提供的文件 trackpoint-async.js 从此函数开始包含恶意代码：此示例中的代码与剪贴板中有效的比特币、以太坊和 TRX 钱包匹配：然后将剪贴板中的所述地址替换为钱包值被交换为攻击者控制的钱包。地址似乎有所不同。它通过每 3 秒轮询一次，然后交换剪贴板中的地址来实现此目的：即使您发现地址错误并重新复制钱包，它不断替换它。Adform 直接提供的其他脚本包括向攻击者轮询的脚本：除了加密欺诈之外，它们还记录用户的 IP 地址，即他们来自的网站（即妥协的供应链位）和 URL 路径。攻击者服务器为端口 7744 上的 84.32.102.230请求示例：hxxp://84.32.102.230:7744/p?h=example.com&amp;u=/test看来 Adform 可能知道，或者攻击者也知道已经意识到他们已经受到干扰，因为当我输入此内容时，恶意代码似乎正在消失。我可以看到过去一周通过 Adform 进行的恶意活动，而安全行业似乎完全错过了它。Adform 为逆向工程师提供的完整脚本示例：https://pastebin.com/mc7psaNFIoC84.32.102.230 — 信标s2.adform.nethxxps://s2.adform.net/banners/scripts/st/trackpoint-async.jsAdform 被攻破，通过供应链攻击为加密货币窃取者提供服务最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示并回应这个故事来继续对话。]]></description>
+      <description><![CDATA[Adform 是一家广告公司，约有 14,000 家公司使用，在需求方类别中拥有约 30% 的份额。他们通过以下 URL 为网站提供 Javascript 嵌入来运营：hxxps://s2.adform.net/banners/scripts/st/trackpoint-async.js该脚本遭到破坏，旨在为加密货币窃取者提供服务。 Adform 已被黑客攻击。据我所知，Adform 还没有告诉人们。这使得下游网站的最终用户设备受到加密窃取恶意软件的攻击。这意味着，如果您访问 example.com 并且他们使用 Adform，example.com 将会危害您的设备。s2.adform.net 提供的服务示例：文件哈希02ff86c7f9fe609a753ff15bda90baa3c3e0d4a2e559ec4fcf8a3de0954b7c55该文件在 Virustotal 上的供应商中标记为良好（所有安全供应商中的所有 URL、文件、域和 IP 都标记为干净）。实际提供的文件 trackpoint-async.js 从此函数开始包含恶意代码：此示例中的代码与剪贴板中的有效比特币、以太坊和 TRX 钱包匹配：然后将剪贴板中的所述地址替换为钱包值被交换为攻击者控制的钱包。地址似乎有所不同。它通过每 3 秒轮询一次，然后在剪贴板中交换地址来实现此目的：即使您发现地址错误并重新复制钱包，它不断替换它。Adform 直接提供的其他脚本包括向攻击者轮询的脚本：除了加密欺诈之外，它们还记录用户的 IP 地址，即他们来自的网站（即妥协的供应链位）和 URL 路径。攻击者服务器为端口 7744 上的 84.32.102.230请求示例：hxxp://84.32.102.230:7744/p?h=example.com&amp;u=/test看来 Adform 可能知道，或者攻击者也知道已经意识到他们已经受到干扰，因为当我输入此内容时，恶意代码似乎正在消失。我可以看到过去一周通过 Adform 进行的恶意活动，而安全行业似乎完全错过了它。Adform 为逆向工程师提供的完整脚本示例：https://pastebin.com/mc7psaNFIoC84.32.102.230 — 信标s2.adform.nethxxps://s2.adform.net/banners/scripts/st/trackpoint-async.jsAdform 被攻破，通过供应链攻击为加密货币窃取者提供服务最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示和回应这个故事来继续对话。]]></description>
       <guid>https://doublepulsar.com/adform-compromised-to-serve-crypto-stealer-via-supply-chain-attack-2f1ec024f33e?source=rss-7db6d2df42a6------2</guid>
       <pubDate>Thu, 30 Jul 2026 13:36:19 GMT</pubDate>
     </item>
@@ -22,12 +22,12 @@
     <item>
       <title>FortiBleed — 75k Fortinet 防火墙的管理员密码被破解</title>
       <link>https://doublepulsar.com/fortibleed-75k-fortinet-firewalls-have-admin-passwords-cracked-60299faa65f8?source=rss-7db6d2df42a6------2</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[FortiBleed — 75k Fortinet 防火墙的管理员密码被破解周末，Voldymyr Diachenko 在 LinkedIn 上弹出了一篇有趣的帖子，称 Hunt Intelligence Inc 在野外发现了 Fortinet 防火墙的纯文本密码：这与我去年披露的贝尔森集团事件类似：2022 零日被用来袭击 Fortigate 防火墙配置。有人刚刚发布了它们。在 Hudson Rock 人员的帮助下，我查看了这些数据，并且可以确认：这些数据是合法的。大约有 75k 台设备。几乎所有的 Fortinet 设备仍然在线。这似乎是最近的数据。这些数据似乎来自设备的配置导出，因为它包含仅从设备本身可见的内容。IP 地址与 Belsen Group 泄露的数据有很大不同，后者泄露了 15000 台设备。其中包括贝尔森集团泄露事件之外的大部分设备，在这种情况下，大多数设备仍然在线  - 这不是 2022 年的数据。我曾与列出的多个组织合作过，可以确认登录名和密码是真实的。许多采样的设备都安装了相当新的补丁。根据 Shodan 的轮询，这些数据包含面向互联网的所有 Fortinet 防火墙设备的大约 50%。在大多数情况下，受影响设备上的 Fortigate 管理界面会暴露在互联网上。攻击者可以利用这些信息做什么？他们可以远程登录并远程访问防火墙 — 网络等。他们还可以更改设置，包括安全控制并创建后门用户。这是如何发生的？目前尚不清楚。在贝尔森集团事件中，使用 2022 年零日来转储配置，并在 2025 年晚些时候发布数据。因此，目前尚不清楚配置是如何导出的或设备是如何访问的。它可能来自 Fortinet 防火墙的众多已知 CVE 之一 — 或者它可能是一个新漏洞 — 请继续关注更新。在我之前的博客之后，Fortinet 试图在 2025 年初强化管理员凭据的存储：您会注意到凭证已迁移到 PBKDF2 存储。这种情况发生在过去 12 个月左右应用的最新固件更新中 — 并且仅当管理员在应用更新后登录时才发生。因此，许多设备将使用 Salt   将凭据存储在 SHA-256 中— 很容易通过暴力破解从被盗的配置文件中获取密码。组织应该做什么？检查您是否受到影响。在此执行此操作：https://www.hudsonrock.com/fortinet输入您的域名。如果您受到影响：立即轮换管理员凭据并查找上述用户之前的登录情况如果您发现管理员用户的登录可疑，我建议您更换设备，因为他们可能更改了设置以对设备进行后门升级到最新的 FortiOS 版本，并让管理员重新登录以更改密码不要将 FortiOS 管理界面暴露给除非绝对必要，否则不要访问互联网对所有管理员用户实施多重身份验证假设妥协。目前尚不清楚 Hunt Intelligence 从何处获取这些数据以及这些数据已流通多久，但其格式看起来像是一个网络犯罪团伙——例如它列出了公司类型、收入和国家/地区。这是电子犯罪圈子中出售初始访问信息时非常常见的格式。更新如果您愿意（我猜会受苦），可以在 Mastodon 上关注我：Kevin Beaumont (@GossiTheDog@cyberplace.social)FortiBleed — 75k Fortinet 防火墙的管理员密码被破解最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示和回复来继续对话到这个故事。]]></description>
       <guid>https://doublepulsar.com/fortibleed-75k-fortinet-firewalls-have-admin-passwords-cracked-60299faa65f8?source=rss-7db6d2df42a6------2</guid>
       <pubDate>Wed, 17 Jun 2026 14:13:44 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>微软对零日漏洞的立场是他们自己造成的垃圾箱火灾</title>
       <link>https://doublepulsar.com/microsofts-stance-on-zero-day-exploits-is-a-dumpster-fire-of-their-own-making-0946117940a4?source=rss-7db6d2df42a6------2</link>
       <description><![CDATA[]]></description>
       <guid>https://doublepulsar.com/microsofts-stance-on-zero-day-exploits-is-a-dumpster-fire-of-their-own-making-0946117940a4?source=rss-7db6d2df42a6------2</guid>
@@ -43,14 +43,14 @@
     <item>
       <title>圣诞节快乐！发生 MongoDB 安全事件。</title>
       <link>https://doublepulsar.com/merry-christmas-day-have-a-mongodb-security-incident-9537f54289eb?source=rss-7db6d2df42a6------2</link>
-      <description><![CDATA[Elastic Security 的某人决定在圣诞节那天发布 CVE-2025-14847 漏洞。这里是所说的漏洞：GitHub - joe-desimone/mongobleed该漏洞在圣诞节前夕发布，理论上允许内存读取而无需认证。补丁可用。它影响了大约十年前的 MongoDB 的每个版本。另一家供应商认为在平安夜发布技术细节是个好主意：https://www.ox.security/blog/attackers-could-exploit-zlib-to-exfiltrate-data-cve-2025-14847/该漏洞已于昨天发布，现已发布第一次公开利用。它被称为 MongoBleed，类似于 CitrixBleed。我已经验证了所说的漏洞是真实的，您只需提供 MongoDB 实例的 IP 地址，它就会开始在内存中搜索数据库密码（纯文本）、AWS 密钥等内容。该漏洞也专门寻找这些类别的凭证和机密。MongoDB 的互联网足迹非常大，超过 20 万个实例。由于现在利用这一点非常简单 — 该栏已被删除 — 预计大规模利用和相关安全事件的可能性很高。漏洞利用作者没有提供有关如何通过 Elastic 等产品检测日志中的漏洞利用的详细信息。建议保持冷静并修补面向互联网的资产。圣诞节快乐！发生了 MongoDB 安全事件。 最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示并回应这个故事来继续对话。]]></description>
+      <description><![CDATA[Elastic Security 的某人决定在圣诞节那天发布 CVE-2025-14847 漏洞。这里是所说的漏洞：GitHub - joe-desimone/mongobleed该漏洞在圣诞节前夕发布，理论上允许内存读取而无需认证。补丁可用。它影响了大约十年前的 MongoDB 的每个版本。另一家供应商认为在平安夜发布技术细节是个好主意：https://www.ox.security/blog/attackers-could-exploit-zlib-to-exfiltrate-data-cve-2025-14847/该漏洞已于昨天发布，现已发布第一次公开利用。它被称为 MongoBleed，类似于 CitrixBleed。我已经验证了该漏洞是真实的，您只需提供 MongoDB 实例的 IP 地址，它就会开始在内存中查找数据库密码（纯文本）、AWS 密钥等内容。该漏洞也专门查找这些类别的凭证和机密。MongoDB 的互联网足迹非常大，超过 20 万个实例。由于现在利用这一点非常简单 — 该栏已被删除 — 预计大规模利用和相关安全事件的可能性很高。漏洞利用作者没有提供有关如何通过 Elastic 等产品检测日志中的漏洞利用的详细信息。建议保持冷静并修补面向互联网的资产。圣诞节快乐！发生了 MongoDB 安全事件。 最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示并回应这个故事来继续对话。]]></description>
       <guid>https://doublepulsar.com/merry-christmas-day-have-a-mongodb-security-incident-9537f54289eb?source=rss-7db6d2df42a6------2</guid>
       <pubDate>Fri, 26 Dec 2025 16:52:33 GMT</pubDate>
     </item>
     <item>
       <title>网络安全行业对 React 漏洞反应过度，开始恐慌，再次烧毁自己的房子</title>
       <link>https://doublepulsar.com/cybersecurity-industry-overreacts-to-react-vulnerability-starts-panic-burns-own-house-down-again-e85c10ad1607?source=rss-7db6d2df42a6------2</link>
-      <description><![CDATA[几天前，CVE-2025-55182 与一篇出色的文章一起被披露：https://react.dev/blog/2025/12/03/ritic-security-vulnerability-in-react-server-components披露的文章很棒 — 它充满了事实，并解释了你何时是和不是我认为没有人知道如何解析它，人们甚至在知道自己在做什么之前就开始采取行动。要变得容易受到攻击，你必须运行：React v19 — 去年发布使用 React Server 组件 — 也是一个新功能去年这是一个利基设置。绝大多数组织还没有这种设置，更不用说面向互联网了。该漏洞在维护者首次在新功能中引入后很快就被发现了，因此如果组织也能快速使用它，就可以修复它。Next.js 的情况也是如此，您需要使用新版本并使用 React Server 组件才能受到攻击 ——这是全新的。如果您像“React Router 有漏洞！”你是对的，但情况是一样的 — 你需要使用新版本，并启用对 React Server 组件的实验性支持。过度反应LinkedIn 绝对挤满了分享世界末日警告和虚假概念证明的人。人们正在互联网上喷洒试图利用的漏洞。这个 — 尝试是关键词 — 所以人们对此也感到崩溃。InfoSecCloudflare通过急于做出改变，成功地在全球范围内关闭了他们的网络，摧毁了每个客户网站和大约四分之一的互联网：实际应该做什么冷静下来。检查。与您的开发人员和供应商联系（如果他们还使用 React v19）。他们很可能不会，在这种情况下你就不会受到攻击。如果他们这样做了，请冷静地查明他们是否使用 React Server 组件。他们很可能不会，在这种情况下，您就不会受到攻击。然后，如果需要，请打补丁。末日还没有到来，云还没有塌下来，不要因为网络安全行业的警告而像旅鼠一样从悬崖上逃跑。主要动机是吓唬，这不是一个好的动机。网络安全行业对 React 漏洞反应过度，开始恐慌，再次烧毁自己的房子最初发表在 Medium 上的 DoublePulsar 上，人们在其中通过突出显示并回应这个故事来继续对话。]]></description>
+      <description><![CDATA[几天前，CVE-2025-55182 与一篇出色的文章一起被披露：https://react.dev/blog/2025/12/03/ritic-security-vulnerability-in-react-server-components披露的文章很棒 — 它充满了事实，并解释了你何时是和不是我认为没有人知道如何解析它，人们甚至在知道自己在做什么之前就开始采取行动。要变得容易受到攻击，你必须运行：React v19 — 去年发布使用 React Server 组件 — 也是一个新功能去年这是一个利基设置。绝大多数组织还没有这种设置，更不用说面向互联网了。该漏洞在维护者首次在新功能中引入后很快就被发现了，因此如果组织也能快速使用它，就可以修复它。Next.js 的情况也是如此，您需要使用新版本并使用 React Server 组件才能受到攻击 ——这是全新的。如果您像“React Router 有漏洞！”你是对的，但情况是一样的 — 你需要使用新版本，并且也启用了对 React Server 组件的实验性支持。过度反应LinkedIn 绝对挤满了分享世界末日警告和虚假概念证明的人。人们正在互联网上喷洒试图利用这一漏洞这个 — 尝试是关键词 — 所以人们对此也感到崩溃。InfoSecCloudflare通过急于做出改变，成功地在全球范围内关闭了他们的网络，摧毁了每个客户网站和大约四分之一的互联网：实际应该做什么冷静下来。检查。与您的开发人员和供应商联系（如果他们还使用 React v19）。他们很可能不会，在这种情况下你就不会受到攻击。如果他们这样做了，请冷静地查明他们是否使用 React Server 组件。他们很可能不会，在这种情况下，您就不会受到攻击。然后，如果需要，请打补丁。末日还没有到来，云还没有塌下来，不要因为网络安全行业的警告而像旅鼠一样从悬崖上逃跑。主要动机是吓唬，这不是一个好的动机。网络安全行业对 React 漏洞反应过度，开始恐慌，再次烧毁自己的房子最初发表在 Medium 上的 DoublePulsar 上，人们在其中通过突出显示并回应这个故事来继续对话。]]></description>
       <guid>https://doublepulsar.com/cybersecurity-industry-overreacts-to-react-vulnerability-starts-panic-burns-own-house-down-again-e85c10ad1607?source=rss-7db6d2df42a6------2</guid>
       <pubDate>Fri, 05 Dec 2025 11:21:35 GMT</pubDate>
     </item>

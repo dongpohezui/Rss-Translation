@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 20:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:03:40 GMT</lastBuildDate>
     <item>
       <title>Metasploit 总结：有效负载和漏洞利用以及扫描仪，天哪！</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners</link>
@@ -64,7 +64,7 @@
     <item>
       <title>非洲的网络安全挑战比获取技术更严峻</title>
       <link>https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa</link>
-      <description><![CDATA[Gopan Sivasankaran 是 Rapid7 的中东和非洲区域总监。在埃及、尼日利亚和肯尼亚，组织正在扩大对云基础设施、人工智能、数字服务和互联运营的使用。但更多的技术并不会自动带来更强大的安全操作；许多安全团队并不缺乏数据，而是缺乏时间、环境和专业能力。随着环境的扩展，挑战不再是寻找另一种安全产品。它将现有技术和新投资转化为更清晰的风险决策、更快的调查和更一致的响应，而这需要的不仅仅是软件。Rapid7 和 StarLink：从获取运营能力非洲多年来一直是 Rapid7 的重要地区，我们为我们在其中发挥的作用感到自豪保护整个非洲大陆的组织。我们看到了未来的巨大机遇，并继续致力于投资于我们在该地区的业务、合作伙伴生态系统和客户关系。这种持续投资是 Rapid7 在埃及、尼日利亚和肯尼亚扩大与 StarLink 合作伙伴关系的原因。安全团队经常管理跨地区的数据端点、云环境、身份和第三方系统。添加另一个断开连接的工具可能会增加而不是减少工作量。现代安全运营需要更加互联的方法。暴露数据应帮助团队了解哪里存在风险。检测应识别主动威胁。响应和自动化应帮助团队在问题成为更大的业务事件之前采取行动。但是，即使是设计良好的平台也需要熟练的合作伙伴来帮助客户部署、集成并使其适应本地运营需求。为什么区域合作伙伴的能力很重要网络安全成熟度因国家、行业和组织而异。非洲的一家银行、肯尼亚的数字服务提供商、埃及的一家公共部门组织和尼日利亚的一家企业可能会面临一些安全挑战，但它们的运营环境并不相同。合作伙伴在全球技术和本地客户现实之间架起桥梁。通过此次合作，Rapid7 和 StarLink 打算为经销商、系统集成商和托管安全服务提供商提供技术支持、解决方案专业知识和联合上市支持。目标是帮助合作伙伴构建可持续的安全实践，而不仅仅是完成单个产品交易。连接暴露、检测和响应Rapid7 的安全运营方法将暴露管理、威胁检测和响应、托管服务和自动化结合在一起。这可以帮助团队将两个经常单独处理的问题联系起来：我们在哪里最容易暴露？攻击者在哪里活跃现在？当合作伙伴可以使用共享安全上下文帮助客户回答这两个问题时，他们可以支持更明智的优先级划分、更快的调查和更清晰的补救决策。展望未来非洲的数字增长将继续创造新的安全需求。满足这些目标不仅需要技术，还需要技能、服务、对当地的了解和长期合作。 Rapid7 和 StarLink 正在共同努力，帮助在整个地区构建这种能力。准备好使用 Rapid7 构建您的安全实践了吗？请联系您的 Rapid7 或 StarLink 代表，了解即将推出的培训、技术支持和联合上市机会，或探索 Rapid7 PACT 合作伙伴计划.]]></description>
+      <description><![CDATA[Gopan Sivasankaran 是 Rapid7 的中东和非洲区域总监。在埃及、尼日利亚和肯尼亚，组织正在扩大对云基础设施、人工智能、数字服务和互联运营的使用。但更多的技术并不会自动带来更强大的安全操作；许多安全团队并不缺乏数据，而是缺乏时间、环境和专业能力。随着环境的扩展，挑战不再是寻找另一种安全产品。它将现有技术和新投资转化为更清晰的风险决策、更快的调查和更一致的响应，而这需要的不仅仅是软件。Rapid7 和 StarLink：从获取运营能力非洲多年来一直是 Rapid7 的重要地区，我们为我们在其中发挥的作用感到自豪保护整个非洲大陆的组织。我们看到了未来的巨大机遇，并继续致力于投资于我们在该地区的业务、合作伙伴生态系统和客户关系。这种持续投资是 Rapid7 在埃及、尼日利亚和肯尼亚扩大与 StarLink 合作伙伴关系的原因。安全团队经常管理跨地区的数据端点、云环境、身份和第三方系统。添加另一个断开连接的工具可能会增加而不是减少工作量。现代安全运营需要更加互联的方法。暴露数据应帮助团队了解哪里存在风险。检测应识别主动威胁。响应和自动化应帮助团队在问题成为更大的业务事件之前采取行动。但即使是设计良好的平台也需要熟练的合作伙伴来帮助客户部署、集成并使其适应本地运营需求。为什么区域合作伙伴的能力很重要网络安全成熟度因国家、行业和组织而异。非洲的一家银行、肯尼亚的数字服务提供商、埃及的一家公共部门组织和尼日利亚的一家企业可能会面临一些安全挑战，但它们的运营环境并不相同。合作伙伴在全球技术和本地客户现实之间架起桥梁。通过此次合作，Rapid7 和 StarLink 打算为经销商、系统集成商和托管安全服务提供商提供技术支持、解决方案专业知识和联合上市支持。目标是帮助合作伙伴建立可持续的安全实践，而不仅仅是完成单个产品交易。连接暴露、检测和响应Rapid7 的安全运营方法将暴露管理、威胁检测和响应、托管服务和自动化结合在一起。这可以帮助团队将两个经常单独处理的问题联系起来：我们在哪里最容易暴露？攻击者在哪里活跃现在？当合作伙伴可以使用共享安全上下文帮助客户回答这两个问题时，他们可以支持更明智的优先级划分、更快的调查和更清晰的补救决策。展望未来非洲的数字增长将继续创造新的安全需求。满足这些目标不仅需要技术，还需要技能、服务、对当地的了解和长期合作。 Rapid7 和 StarLink 正在共同努力帮助在整个地区建立这种能力。准备好使用 Rapid7 构建您的安全实践了吗？请联系您的 Rapid7 或 StarLink 代表，了解即将推出的培训、技术支持和联合上市机会，或探索 Rapid7 PACT 合作伙伴计划.]]></description>
       <guid>https://www.rapid7.com/blog/post/c-starlink-distribution-partnership-africa</guid>
       <pubDate>Mon, 17 Aug 2026 08:00:00 GMT</pubDate>
     </item>
@@ -83,14 +83,14 @@
       <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>星期二补丁 - 2026 年 8 月</title>
+      <title>周二补丁 - 2026 年 8 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</guid>
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>

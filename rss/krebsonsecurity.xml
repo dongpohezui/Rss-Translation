@@ -4,9 +4,9 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Sat, 29 Aug 2026 20:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:03:53 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>两名涉嫌“TeamPCP”黑客在澳大利亚被捕</title>
       <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
       <description><![CDATA[澳大利亚当局逮捕了两名据信是 TeamPCP 成员的男子，TeamPCP 是一个多发的网络犯罪和数据勒索组织，被指责发动了有史以来持续时间最长的软件供应链攻击。
 
@@ -40,19 +40,19 @@
     <item>
       <title>在购买电视流媒体棒之前请先阅读此内容</title>
       <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[多年来，安全专家一直对使用承诺一次性付费提供无限内容流的通用电视盒的风险发出警告，并警告称它们会秘密地将用户的互联网连接出租给陌生人。但一项突破性的新分析发现，这些设备还经常将自己伪装成手机，点击人工智能生成的网站上的广告，作为旨在欺骗在线商家和广告网络的庞大行动的一部分。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</guid>
       <pubDate>Thu, 30 Jul 2026 16:49:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>LG 将禁止智能电视应用程序使用住宅代理</title>
       <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
       <description><![CDATA[家电巨头 LG 电子美国公司本周表示，计划暂停任何为其智能电视构建的应用程序，这些应用程序会将电视变成永远在线的住宅代理节点。不到一个月前，研究人员发现 LG webOS 商店中可供下载的超过 42% 的游戏和其他应用程序允许未知第三方通过用户的电视传输互联网流量。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</guid>
       <pubDate>Wed, 22 Jul 2026 01:10:38 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>微软修复了创纪录的 570 个安全漏洞</title>
       <link>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</link>
       <description><![CDATA[微软公司今天发布了软件更新，以堵塞其 Windows 操作系统和其他软件中的至少 570 个安全漏洞，几乎是该软件巨头上个月在创纪录的星期二补丁中修复的漏洞数量的三倍。微软将补丁数量的激增归因于人工智能辅助的漏洞发现。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</guid>

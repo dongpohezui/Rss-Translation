@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Sat, 29 Aug 2026 20:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:03:46 GMT</lastBuildDate>
     <item>
       <title>工业自动化系统的威胁格局。 2026 年第二季度</title>
       <link>https://securelist.com/industrial-threat-report-q2-2026/121159/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>你车里看不见的乘客</title>
       <link>https://securelist.com/android-head-unit-malware/121106/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[卡巴斯基专家发现了新的 Android 恶意软件，旨在投放广告并构建代理僵尸网络。它通过 DoFun 主机的合法软件提供。]]></description>
       <guid>https://securelist.com/android-head-unit-malware/121106/</guid>
       <pubDate>Fri, 21 Aug 2026 08:00:29 GMT</pubDate>
     </item>
@@ -50,28 +50,28 @@
     <item>
       <title>CAV3RN 项目继续进行：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
       <link>https://securelist.com/project-cav3rn-continues/120991/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[CAV3RN 项目以以色列为目标，提供 Google Apps Script C2 中继和基于 DNS 的路由。模块化 .NET NativeAOT 框架将 C2 流量与合法的 Google 服务混合在一起以逃避检测。]]></description>
       <guid>https://securelist.com/project-cav3rn-continues/120991/</guid>
       <pubDate>Tue, 11 Aug 2026 10:00:19 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>2026 年第二季度 IT 威胁演变。非移动统计</title>
       <link>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</link>
       <description><![CDATA[该报告介绍了 2026 年第二季度针对运行 Windows 和 macOS 的个人电脑以及物联网 (IoT) 设备的恶意软件的主要趋势和统计数据。]]></description>
       <guid>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</guid>
       <pubDate>Mon, 10 Aug 2026 10:00:37 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>2026 年第二季度 IT 威胁演变。移动统计</title>
       <link>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[该报告包含 2026 年第二季度的移动威胁统计数据，以及值得注意的发现和季度趋势：Anatsa 银行家和向 Dropper 的过渡。]]></description>
       <guid>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</guid>
       <pubDate>Mon, 10 Aug 2026 10:00:09 GMT</pubDate>
     </item>
     <item>
       <title>合法的云平台如何让网络钓鱼者绕过 MFA</title>
       <link>https://securelist.com/cloud-platforms-in-phishing/120832/</link>
-      <description><![CDATA[我们介绍了利用 Service Worker 和 Ultraviolet 的基于云的 AitM 攻击场景，并提供跨 Cloudflare Workers、Vercel、Netlify、GitHub Pages 和 IPFS 等平台的详细网络钓鱼托管统计数据。]]></description>
+      <description><![CDATA[我们介绍了利用 Service Workers 和 Ultraviolet 的基于云的 AitM 攻击场景，并跨 Cloudflare Workers、Vercel、Netlify、GitHub Pages 和 IPFS 等平台提供详细的网络钓鱼托管统计数据。]]></description>
       <guid>https://securelist.com/cloud-platforms-in-phishing/120832/</guid>
       <pubDate>Tue, 04 Aug 2026 12:00:12 GMT</pubDate>
     </item>
