@@ -4,7 +4,7 @@
     <title>贴有“安全”标签的帖子</title>
     <link>https://blog.cloudflare.com/tag/security/</link>
     <description>所有带有安全标签的帖子</description>
-    <lastBuildDate>Sat, 29 Aug 2026 20:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:11:27 GMT</lastBuildDate>
     <item>
       <title>为什么我们不能等待更好的后量子签名算法</title>
       <link>https://blog.cloudflare.com/ml-dsa-will-have-to-do/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>使用归因业务洞察揭开抓取的面纱</title>
       <link>https://blog.cloudflare.com/attribution-business-insights/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Cloudflare 的新 Attribution Business Insights 仪表板可帮助网站所有者了解爬虫行为、偏好和潜在价值，推动围绕爬虫补偿的业务级对话。]]></description>
       <guid>https://blog.cloudflare.com/attribution-business-insights/</guid>
       <pubDate>Wed, 01 Jul 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
       <title>通过 OAuth 为所有人解锁 Cloudflare 应用程序生态系统</title>
       <link>https://blog.cloudflare.com/oauth-for-all/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[自我管理的 OAuth 现已可供 Cloudflare 上的所有开发人员使用。以下是我们如何对核心 OAuth 引擎执行零停机迁移以实现这一目标。]]></description>
       <guid>https://blog.cloudflare.com/oauth-for-all/</guid>
       <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>保护非人类身份：自动撤销、OAuth 和范围权限</title>
       <link>https://blog.cloudflare.com/improved-developer-security/</link>
-      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最小权限架构，同时防止凭证泄漏。]]></description>
+      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最低权限架构，同时防止凭证泄漏。]]></description>
       <guid>https://blog.cloudflare.com/improved-developer-security/</guid>
       <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
     </item>
@@ -127,21 +127,21 @@
     <item>
       <title>AI 应用安全现已全面推出</title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga/</link>
-      <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供 AI 发现，以帮助团队找到并保护影子 AI 部署。]]></description>
+      <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga/</guid>
       <pubDate>Wed, 11 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>AI 应用安全现已全面推出</title>
       <link>https://blog.cloudflare.com/ai-security-for-apps-ga-uk-ua/</link>
-      <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供 AI 发现，以帮助团队找到并保护影子 AI 部署。]]></description>
+      <description><![CDATA[Cloudflare AI Security for Apps 现已全面推出，提供安全层来发现和保护人工智能驱动的应用程序，无论模型或托管提供商如何。我们还为所有计划免费提供人工智能发现，以帮助团队找到并保护影子人工智能部署。]]></description>
       <guid>https://blog.cloudflare.com/ai-security-for-apps-ga-uk-ua/</guid>
       <pubDate>Wed, 11 Mar 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>在 Log Explorer 中调查多向量攻击</title>
       <link>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</link>
-      <description><![CDATA[Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度了解其网络。]]></description>
+      <description><![CDATA[Log Explorer 客户现在可以识别和调查多向量攻击。 Log Explorer 支持 14 个附加 Cloudflare 数据集，使用户能够 360 度查看其网络。]]></description>
       <guid>https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/</guid>
       <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
     </item>
