@@ -4,7 +4,7 @@
     <title>Google 在线安全博客</title>
     <link>http://security.googleblog.com/</link>
     <description>Google 关于互联网安全的最新新闻和见解。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 11:59:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:49:32 GMT</lastBuildDate>
     <item>
       <title>野外人工智能威胁：网络上即时注入的现状</title>
       <link>http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html</link>
@@ -146,7 +146,7 @@
       <pubDate>Mon, 15 Sep 2025 17:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pixel 和 Android 如何通过 C2PA 内容凭证为您的图像带来新的信任度</title>
+      <title>Pixel 和 Android 如何通过 C2PA 内容凭证为您的图像带来新的信任级别</title>
       <link>http://security.googleblog.com/2025/09/pixel-android-trusted-images-c2pa-content-credentials.html</link>
       <description><![CDATA[]]></description>
       <guid>http://security.googleblog.com/2025/09/pixel-android-trusted-images-c2pa-content-credentials.html</guid>
@@ -160,7 +160,7 @@
 今天标志着开源安全和消费电子产品未来的分水岭和新基准。 Google 自豪地宣布，为 Android 虚拟化框架提供支持的管理程序受保护的 KVM (pKVM) 已正式获得SESIP 5 级认证。这使得 pKVM 成为第一个专为消费电子产品大规模部署而设计的软件安全系统，以满足这一保证标准。 支持下一代 Android 功能
 
 
-对安全移动技术未来的影响是深远的。凭借这种级别的安全保证，Android 现在可以安全地支持下一代高关键性隔离工作负载。这包括重要的功能，例如可以对超个性化数据进行操作的设备上人工智能工作负载，并提供最高的隐私和完整性保证。
+对安全移动技术未来的影响是深远的。凭借这种级别的安全保证，Android 现在可以安全地支持下一代高关键性隔离工作负载。这包括重要的功能，例如可以在超个性化数据上运行的设备上人工智能工作负载，并具有最高的隐私和完整性保证。
 
 
 此认证需要由全球认可的网络安全认证实验室 Dekra 进行实际评估，该实验室针对 TrustCB SESIP 方案 进行了评估，符合EN-17927。实现物联网平台安全评估标准 (SESIP) 5 级具有里程碑意义，因为它包含了 AVA_VAN.5，即 ISO 15408（通用标准）标准下最高级别的漏洞分析和渗透测试。经过此级别认证的系统已被评估为能够抵抗可能拥有内部知识和访问权限的高技能、知识渊博、动机良好且资金充足的攻击者。
@@ -173,13 +173,13 @@
 协作努力
 
 
-这一成就只是 Linux 和 KVM 开发者社区以及 Google 多个工程团队多年来为开发 pKVM 和 AVF 所做的巨大贡献的一个重要方面。我们期待看到开源社区和 Android 生态系统在此基础上继续发展，为用户带来高保障移动技术的新时代。
+这一成就只是 Linux 和 KVM 开发者社区以及 Google 多个工程团队多年来为开发 pKVM 和 AVF 所做的巨大贡献的一个重要方面。我们期待看到开源社区和 Android 生态系统继续在此基础上构建，为用户带来高保障移动技术的新时代。
 ]]></description>
       <guid>http://security.googleblog.com/2025/08/Android-pKVM-Certified-SESIP-Level-5.html</guid>
       <pubDate>Tue, 12 Aug 2025 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OSS Rebuild 简介：开源、重建持久</title>
+      <title>OSS Rebuild 简介：开源，重建至最后</title>
       <link>http://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html</link>
       <description><![CDATA[]]></description>
       <guid>http://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html</guid>

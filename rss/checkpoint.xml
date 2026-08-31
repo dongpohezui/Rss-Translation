@@ -4,7 +4,23 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 24 Aug 2026 18:22:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:50:27 GMT</lastBuildDate>
+    <item>
+      <title>打破密封：JSCeal 编译的 V8 字节码的静态反混淆</title>
+      <link>https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/</link>
+      <description><![CDATA[研究者：hasherezade 要点介绍 JSCeal 是一个以编译的 V8 字节码 (.jsc) 形式提供的窃取程序，由捆绑的 Node.js 运行时执行，针对加密货币应用程序（其他供应商也使用名称 WEEVILPROXY 或 MeadowLocust 对其进行标记）。其活动活动可以追溯到 2024 年 3 月[1]； Check Point Research 自早期以来就一直在跟踪恶意软件[…]
+帖子打破封印：JSCeal 编译的 V8 字节码的静态反混淆首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/</guid>
+      <pubDate>Mon, 31 Aug 2026 13:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>8 月 31 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/31th-august-threat-intelligence-report/</link>
+      <description><![CDATA[有关 8 月 31 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露英国曼彻斯特机场集团、伦敦斯坦斯特德机场和东米德兰兹机场运营商披露了一次网络攻击，该攻击泄露了约 870 万客户的数据。泄露的信息包括联系方式，[…]
+8 月 31 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/31th-august-threat-intelligence-report/</guid>
+      <pubDate>Mon, 31 Aug 2026 12:58:42 GMT</pubDate>
+    </item>
     <item>
       <title>8 月 24 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/</link>
@@ -32,7 +48,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>8 月 17 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/</link>
-      <description><![CDATA[有关 8 月 17 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规事件哥伦比亚司法部遭遇勒索软件攻击，影响了其部分技术基础设施，并扰乱了与非法药物监控和法律程序相关的公共服务。官员确认一些文件[…]
+      <description><![CDATA[有关 8 月 17 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规事件 哥伦比亚司法部遭遇勒索软件攻击，影响了其部分技术基础设施，并扰乱了与非法药物监控和法律程序相关的公共服务。官员确认一些文件[…]
 8 月 17 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/</guid>
       <pubDate>Mon, 17 Aug 2026 13:37:34 GMT</pubDate>
@@ -48,7 +64,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>梦想破灭——当工作机会变成零日攻击</title>
       <link>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</link>
-      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research 追踪了一波“梦想工作行动”活动。这波浪潮主要针对全球国防部门，特别是航空航天业的公司。我们观察到威胁行为者分发了经过修改的 PDF 查看器，这些查看器旨在执行嵌入在特殊 […] 中的恶意负载
+      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research 追踪了一波“梦想工作行动”活动。这波浪潮主要针对全球国防部门，特别是航空航天行业的公司。我们观察到威胁行为者分发了经过修改的 PDF 查看器，这些查看器旨在执行嵌入在特殊 […] 中的恶意负载
 帖子粉碎梦想–当工作机会变成零日攻击首先出现在Check Point Research。]]></description>
       <guid>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</guid>
       <pubDate>Tue, 11 Aug 2026 17:30:00 GMT</pubDate>
@@ -56,7 +72,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>8 月 10 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/</link>
-      <description><![CDATA[有关 8 月 10 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和违规行为 运营威尔明顿、莫尔黑德城和其他港口的美国当局北卡罗来纳州港口遭受了网络攻击，迫使一些操作转为手动流程。当局声称其中包含[…]
+      <description><![CDATA[有关 8 月 10 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和违规行为 运营威尔明顿、莫尔黑德城和其他港口的美国当局北卡罗来纳州港口公司遭受了网络攻击，迫使一些操作转为手动流程。当局声称其中含有[…]
 8 月 10 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/</guid>
       <pubDate>Mon, 10 Aug 2026 13:53:22 GMT</pubDate>
@@ -72,7 +88,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>8 月 3 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/</link>
-      <description><![CDATA[有关 7 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 明尼苏达州 IT 服务部门已确认协调一致的网络攻击影响了全州 30 多个社区供水公司。这些事件短暂扰乱了布拉汉姆的一家处理厂，并影响了工业控制系统。官员报告[…]
+      <description><![CDATA[有关 7 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规行为 明尼苏达州 IT 服务部门已确认协调一致的网络攻击影响了全州 30 多个社区供水设施。这些事件短暂扰乱了布拉汉姆的一家处理厂，并影响了工业控制系统。官员报告[…]
 8 月 3 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/</guid>
       <pubDate>Mon, 03 Aug 2026 13:15:55 GMT</pubDate>
@@ -80,7 +96,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>7 月 27 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/</link>
-      <description><![CDATA[有关 7 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 Nichirei 是一家日本冷冻食品供应商和物流公司，遭遇勒索软件攻击，导致运输业务中断并影响了大约 5,000 名客户。肯德基日本警告可能出现短缺。 Nichirei 确认个人数据被盗，[…]
+      <description><![CDATA[有关 7 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 Nichirei 是一家总部位于日本的冷冻食品供应商和物流公司，遭遇勒索软件攻击，该攻击扰乱了运输业务并影响了大约 5,000 名客户。肯德基日本警告可能出现短缺。 Nichirei 确认个人数据被盗，[…]
 7 月 27 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/</guid>
       <pubDate>Mon, 27 Jul 2026 16:00:39 GMT</pubDate>
@@ -96,7 +112,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>2026 年人工智能安全报告</title>
       <link>https://research.checkpoint.com/2026/ai-security-report-2026/</link>
-      <description><![CDATA[多年来，网络安全行业一直将人工智能视为一种力量倍增器：它可以使现有的攻击技术更快、更便宜、更容易获得。这个框架是准确的。 但 Check Point Research 的《2026 年年度人工智能安全报告》记录了更进一步的转变。 人工智能已经从助手跨越到了操作员。它曾经帮助攻击者做好准备，现在它运行[…]
+      <description><![CDATA[多年来，网络安全行业一直将人工智能视为一种力量倍增器：它使现有的攻击技术更快、更便宜、更容易获得。这个框架是准确的。 但 Check Point Research 的《2026 年年度人工智能安全报告》记录了更进一步的转变。 人工智能已经从助手跨越到了操作员。它曾经帮助攻击者做好准备，现在它运行[…]
 这篇文章2026年人工智能安全报告首先出现在Check Point Research上。]]></description>
       <guid>https://research.checkpoint.com/2026/ai-security-report-2026/</guid>
       <pubDate>Tue, 14 Jul 2026 00:51:31 GMT</pubDate>
@@ -104,26 +120,10 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>7 月 13 日——威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</link>
-      <description><![CDATA[有关 7 月 13 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 美国汽车保险公司 AssuranceAmerica 披露了一起影响约 700 万人的数据泄露事件。攻击者以一名员工为目标，并使用受损的凭据访问公司系统，窃取姓名、联系信息、驾照 […]
+      <description><![CDATA[有关 7 月 13 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 美国汽车保险公司 AssuranceAmerica 披露了一起影响约 700 万人的数据泄露事件。攻击者以一名员工为目标，并使用受损的凭据访问公司系统，窃取姓名、联系信息、驾驶执照 […]
 7 月 13 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</guid>
       <pubDate>Mon, 13 Jul 2026 13:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cavern Manticore：暴露与伊朗相关的模块化 C2 框架</title>
-      <link>https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/</link>
-      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research (CPR) 一直在跟踪 Cavern Manticore 使用的新模块化命令和控制框架，该组织是一个与伊朗有联系的 APT 组织，主要针对以色列组织，重点关注 IT 提供商和政府部门。 Cavern Manticore 是与伊朗 MOIS（情报和安全部）有联系的演员，与 OilRig 有联系 […]
-帖子Cavern Manticore：暴露与伊朗相关的模块化C2框架首先出现在Check Point Research上。]]></description>
-      <guid>https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/</guid>
-      <pubDate>Mon, 06 Jul 2026 12:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 月 6 日——威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/</link>
-      <description><![CDATA[有关 7 月 6 日当周网络研究的最新发现，请下载我们的威胁情报公告。河岸的顶级攻击和破坏美国金融机构 Trust 遭遇勒索软件事件，此前未经授权的攻击者于 6 月 16 日访问了母公司 River Financial Corporation 的网络。该银行发现 […]
-7 月 6 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/</guid>
-      <pubDate>Mon, 06 Jul 2026 12:01:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

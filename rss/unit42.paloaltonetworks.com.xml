@@ -4,7 +4,7 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:50:10 GMT</lastBuildDate>
     <item>
       <title>Spring Ring：深入了解 Microsoft Teams 中的语音网络钓鱼活动</title>
       <link>https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/</link>
@@ -97,7 +97,7 @@
       <title>前沿人工智能漏洞爆发：开源软件自主零日发现产业化</title>
       <link>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</link>
       <description><![CDATA[Frontier AI 正在重塑漏洞发现。了解我们的 NOVA 系统如何在开源软件供应链中发现 14,000 多个未知漏洞。
-帖子前沿人工智能漏洞爆发：开源软件中的自主零日发现产业化首先出现在Unit 42上。]]></description>
+帖子前沿人工智能漏洞爆发：开源软件中的自主零日发现工业化首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</guid>
       <pubDate>Tue, 04 Aug 2026 13:00:11 GMT</pubDate>
     </item>

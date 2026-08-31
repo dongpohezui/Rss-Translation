@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:03:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:50:47 GMT</lastBuildDate>
     <item>
       <title>TerminalFix 活动通过多级入侵部署反向隧道</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</link>
@@ -14,7 +14,7 @@ TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 M
       <pubDate>Sat, 29 Aug 2026 03:43:27 GMT</pubDate>
     </item>
     <item>
-      <title>​​​​​​Microsoft 安全更新：2026 年 8 月</title>
+      <title>​​​​​​Microsoft 安全性新增内容：2026 年 8 月</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/</link>
       <description><![CDATA[本月的更新提供了新功能，可帮助组织深入了解代理活动、扩大受支持环境的安全覆盖范围，并增强跨环境的安全管理。
 ​​​​​​Microsoft 安全新增功能：2026 年 8 月 帖子首先出现在 Microsoft 安全博客上。]]></description>
@@ -25,7 +25,7 @@ TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 M
       <title>当人工智能基础设施成为目标时：保护网关和控制点</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</link>
       <description><![CDATA[Microsoft 威胁情报检查对暴露的 AI 工作负载的攻击，包括 LiteLLM 网关利用、凭据收集、持久性和加密挖掘活动。
-当人工智能基础设施成为目标时：保护网关和控制点首先出现在微软安全博客上。]]></description>
+帖子当人工智能基础设施成为目标：保护网关和控制点首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</guid>
       <pubDate>Wed, 26 Aug 2026 16:43:53 GMT</pubDate>
     </item>
@@ -56,7 +56,7 @@ TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 M
     <item>
       <title>Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</link>
-      <description><![CDATA[Microsoft 在 2026 年 IDC MarketScape 中被评为 MDR 服务领导者。了解 Microsoft Defender 专家 MDR 如何结合人工智能、威胁情报和人类专业知识。
+      <description><![CDATA[Microsoft 在 2026 年 IDC MarketScape 的 MDR 服务中被评为领导者。了解 Microsoft Defender 专家 MDR 如何将人工智能、威胁情报和人类专业知识结合起来。
 Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</guid>
       <pubDate>Mon, 10 Aug 2026 16:00:00 GMT</pubDate>
@@ -65,7 +65,7 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
       <title>DeadLock 勒索软件：利用去中心化恢复基础设施破坏基于 Rust 的加密器</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/</link>
       <description><![CDATA[Microsoft 威胁情报研究了 DeadLock 勒索软件，这是一种新兴的经济动机操作，其特点是使用去中心化基础设施来支持受害者通信、谈判和数据泄露操作，以及用于向受害者施压的双重勒索策略。
-帖子DeadLock 勒索软件：使用去中心化恢复基础架构破解基于 Rust 的加密器首先出现在 Microsoft 安全博客。]]></description>
+帖子DeadLock 勒索软件：使用去中心化恢复基础设施破解基于 Rust 的加密器首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/</guid>
       <pubDate>Mon, 10 Aug 2026 15:00:00 GMT</pubDate>
     </item>
@@ -73,7 +73,7 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
       <title>​​Microsoft 在 KuppingerCole 云原生应用程序保护平台领导指南 (CNAPP) 中被评为领导者</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</link>
       <description><![CDATA[了解为什么 KuppingerCole 在其《领导力指南针：云原生应用程序保护平台》报告中将 Microsoft 评为领导者。
-这篇文章​​Microsoft 在云原生应用程序保护平台 (CNAPP) 的 KuppingerCole 领导指南针中被评为领导者首先出现在Microsoft 安全博客。]]></description>
+这篇文章​​Microsoft 在云原生应用程序保护平台 (CNAPP) 的 KuppingerCole 领导指南中被评为领导者首先出现在Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</guid>
       <pubDate>Wed, 05 Aug 2026 16:30:00 GMT</pubDate>
     </item>
