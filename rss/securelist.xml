@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:59:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:00:46 GMT</lastBuildDate>
+    <item>
+      <title>ValleyRAT 伪装成广告软件</title>
+      <link>https://securelist.com/valleyrat-backdoor-adware/121175/</link>
+      <description><![CDATA[威胁行为者正在传播伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
+      <guid>https://securelist.com/valleyrat-backdoor-adware/121175/</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:21 GMT</pubDate>
+    </item>
     <item>
       <title>工业自动化系统的威胁格局。 2026 年第二季度</title>
       <link>https://securelist.com/industrial-threat-report-q2-2026/121159/</link>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>CAV3RN 项目继续进行：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
+      <title>CAV3RN 项目仍在继续：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
       <link>https://securelist.com/project-cav3rn-continues/120991/</link>
       <description><![CDATA[CAV3RN 项目以以色列为目标，提供 Google Apps Script C2 中继和基于 DNS 的路由。模块化 .NET NativeAOT 框架将 C2 流量与合法的 Google 服务混合在一起以逃避检测。]]></description>
       <guid>https://securelist.com/project-cav3rn-continues/120991/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[该报告包含 2026 年第二季度的移动威胁统计数据，以及值得注意的发现和季度趋势：Anatsa 银行家和向 Dropper 的过渡。]]></description>
       <guid>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</guid>
       <pubDate>Mon, 10 Aug 2026 10:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>合法的云平台如何让网络钓鱼者绕过 MFA</title>
-      <link>https://securelist.com/cloud-platforms-in-phishing/120832/</link>
-      <description><![CDATA[我们介绍了利用 Service Workers 和 Ultraviolet 的基于云的 AitM 攻击场景，并跨 Cloudflare Workers、Vercel、Netlify、GitHub Pages 和 IPFS 等平台提供详细的网络钓鱼托管统计数据。]]></description>
-      <guid>https://securelist.com/cloud-platforms-in-phishing/120832/</guid>
-      <pubDate>Tue, 04 Aug 2026 12:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Sat, 29 Aug 2026 01:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:01:57 GMT</lastBuildDate>
+    <item>
+      <title>Spring Ring：深入了解 Microsoft Teams 中的语音网络钓鱼活动</title>
+      <link>https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/</link>
+      <description><![CDATA[了解 Spring Ring 活动如何滥用 Microsoft Teams 和语音网络钓鱼来部署恶意软件并瞄准企业域控制器。
+帖子Spring Ring：深入了解 Microsoft Teams 中的语音网络钓鱼活动首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:36 GMT</pubDate>
+    </item>
     <item>
       <title>扰动探测：LLM 安全脆弱性的新诊断</title>
       <link>https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/</link>
@@ -89,7 +97,7 @@
       <title>前沿人工智能漏洞爆发：开源软件自主零日发现产业化</title>
       <link>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</link>
       <description><![CDATA[Frontier AI 正在重塑漏洞发现。了解我们的 NOVA 系统如何在开源软件供应链中发现 14,000 多个未知漏洞。
-帖子前沿人工智能漏洞爆发：开源软件中的自主零日发现工业化首先出现在Unit 42上。]]></description>
+帖子前沿人工智能漏洞爆发：开源软件中的自主零日发现产业化首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</guid>
       <pubDate>Tue, 04 Aug 2026 13:00:11 GMT</pubDate>
     </item>
@@ -116,14 +124,6 @@
 帖子Xcode 刺客归来：深入了解最新的 XCSSET 版本首先出现在Unit 42。]]></description>
       <guid>https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/</guid>
       <pubDate>Fri, 31 Jul 2026 10:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>中文威胁行为者利用人工智能模型进行自主网络攻击</title>
-      <link>https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/</link>
-      <description><![CDATA[第 42 单元详细介绍了一个讲中文的威胁行为者，将自动人工智能扫描七个漏洞与手动利用相结合。了解更多。
-这篇文章中文威胁参与者利用人工智能模型进行自主网络攻击首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/</guid>
-      <pubDate>Thu, 30 Jul 2026 10:00:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
