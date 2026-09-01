@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 01 Sep 2026 15:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:15:40 GMT</lastBuildDate>
+    <item>
+      <title>网络安全 IR 研讨会：您不容错过的研讨会</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</link>
+      <description><![CDATA[网络弹性在危机发生之前就开始了。从 DART 中获得实用见解，以加强准备和响应。
+帖子网络安全 IR 研讨会：您不应错过的研讨会首先出现在 Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</guid>
+      <pubDate>Tue, 01 Sep 2026 18:55:35 GMT</pubDate>
+    </item>
     <item>
       <title>TerminalFix 活动通过多级入侵部署反向隧道</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</link>
@@ -76,14 +84,6 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
 这篇文章​​Microsoft 在云原生应用程序保护平台 (CNAPP) 的 KuppingerCole 领导指南针中被评为领导者首先出现在Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</guid>
       <pubDate>Wed, 05 Aug 2026 16:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从开放的诱饵到隐蔽的大门：macOS ClickFix 活动如何学会隐藏</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/</link>
-      <description><![CDATA[macOS ClickFix 活动将策略从公开提供信息窃取者诱饵转变为将其隐藏在浏览器指纹门后面。这一变化使得恶意基础设施更难以检测，同时为防御者提供了新的狩猎机会。
-这篇文章从开放的诱饵到隐蔽的大门：macOS ClickFix 活动如何学会隐藏首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/</guid>
-      <pubDate>Wed, 05 Aug 2026 15:48:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
