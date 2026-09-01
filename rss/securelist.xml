@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Sep 2026 02:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:39:27 GMT</lastBuildDate>
+    <item>
+      <title>Mirage Kitten 通过新的恶意软件集瞄准了中东和非洲的航空和金融科技行业</title>
+      <link>https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/</link>
+      <description><![CDATA[卡巴斯基研究人员发现了新的 Mirage Kitten 攻击，其使用之前未记录的恶意软件系列：Node.js 中的 NodeRabbit 和 JavaScript 中的 PollCat。]]></description>
+      <guid>https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/</guid>
+      <pubDate>Tue, 01 Sep 2026 07:00:26 GMT</pubDate>
+    </item>
     <item>
       <title>ValleyRAT 伪装成广告软件</title>
       <link>https://securelist.com/valleyrat-backdoor-adware/121175/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[该报告介绍了 2026 年第二季度针对运行 Windows 和 macOS 的个人电脑以及物联网 (IoT) 设备的恶意软件的主要趋势和统计数据。]]></description>
       <guid>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</guid>
       <pubDate>Mon, 10 Aug 2026 10:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年第二季度 IT 威胁演变。移动统计</title>
-      <link>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</link>
-      <description><![CDATA[该报告包含 2026 年第二季度的移动威胁统计数据，以及值得注意的发现和季度趋势：Anatsa 银行家和向 Dropper 的过渡。]]></description>
-      <guid>https://securelist.com/malware-report-q2-2026-mobile-statistics/120948/</guid>
-      <pubDate>Mon, 10 Aug 2026 10:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
