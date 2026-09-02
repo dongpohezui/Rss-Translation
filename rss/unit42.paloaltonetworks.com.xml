@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Tue, 01 Sep 2026 02:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:30:57 GMT</lastBuildDate>
+    <item>
+      <title>人工智能辅助的网络攻击：Unit 42 调查内部</title>
+      <link>https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/</link>
+      <description><![CDATA[使用自主人工智能代理，攻击者在几个小时内就攻破了企业网络。了解如何解决和防御代理攻击。
+帖子人工智能辅助网络攻击：Unit 42 调查内部首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/</guid>
+      <pubDate>Wed, 02 Sep 2026 10:00:46 GMT</pubDate>
+    </item>
     <item>
       <title>Spring Ring：深入了解 Microsoft Teams 中的语音网络钓鱼活动</title>
       <link>https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/</link>
@@ -116,14 +124,6 @@
 帖子传递密钥：无密码身份验证中的新型攻击面首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</guid>
       <pubDate>Mon, 03 Aug 2026 10:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xcode 刺客归来：深入了解最新的 XCSSET 版本</title>
-      <link>https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/</link>
-      <description><![CDATA[对 XCSSET v40 的分析揭示了一种通过 Xcode 针对开发人员的 macOS 恶意软件。 Unit 42 使用高级模式匹配和人工智能来解码其逻辑。
-帖子Xcode 刺客归来：深入了解最新的 XCSSET 版本首先出现在Unit 42。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/</guid>
-      <pubDate>Fri, 31 Jul 2026 10:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

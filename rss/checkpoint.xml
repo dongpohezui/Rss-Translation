@@ -4,11 +4,19 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 31 Aug 2026 18:50:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:31:07 GMT</lastBuildDate>
     <item>
-      <title>打破密封：JSCeal 编译的 V8 字节码的静态反混淆</title>
+      <title>玩弄系统：一名华语演员如何将巴西政府网站变成 SEO 武器</title>
+      <link>https://research.checkpoint.com/2026/gaming-the-system-how-a-chinese-speaking-actor-turned-brazilian-government-sites-into-an-seo-weapon/</link>
+      <description><![CDATA[研究作者：Amit Yardeni 要点简介 自 2025 年中期以来，Check Point Research 一直在追踪针对巴西组织的持续活动。该间谍活动指向一个与 Earth Berberoka 有关的中文网络犯罪组织，该组织首先“有记录”针对亚洲各地的赌博网站。一旦进入受害者体内，该组织就会部署一个广泛的 Linux 工具包：一个自定义下载器、几个后门、[…]
+博弈系统：华语演员如何将巴西政府网站变成 SEO 武器首先出现在Check Point研究。]]></description>
+      <guid>https://research.checkpoint.com/2026/gaming-the-system-how-a-chinese-speaking-actor-turned-brazilian-government-sites-into-an-seo-weapon/</guid>
+      <pubDate>Wed, 02 Sep 2026 10:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
       <link>https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/</link>
-      <description><![CDATA[研究者：hasherezade 要点介绍 JSCeal 是一个以编译的 V8 字节码 (.jsc) 形式提供的窃取程序，由捆绑的 Node.js 运行时执行，针对加密货币应用程序（其他供应商也使用名称 WEEVILPROXY 或 MeadowLocust 对其进行标记）。其活动活动可以追溯到 2024 年 3 月[1]； Check Point Research 自早期以来就一直在跟踪恶意软件[…]
+      <description><![CDATA[研究者：hasherezade 要点介绍 JSCeal 是一个以编译的 V8 字节码 (.jsc) 形式提供的窃取程序，由捆绑的 Node.js 运行时执行，目标是加密货币应用程序（其他供应商也使用名称 WEEVILPROXY 或 MeadowLocust 对其进行标记）。其活动活动可以追溯到 2024 年 3 月[1]； Check Point Research 自早期以来就一直在跟踪恶意软件[…]
 帖子打破封印：JSCeal 编译的 V8 字节码的静态反混淆首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/</guid>
       <pubDate>Mon, 31 Aug 2026 13:38:28 GMT</pubDate>
@@ -48,7 +56,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>8 月 17 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/</link>
-      <description><![CDATA[有关 8 月 17 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规事件 哥伦比亚司法部遭遇勒索软件攻击，影响了其部分技术基础设施，并扰乱了与非法药物监控和法律程序相关的公共服务。官员确认一些文件[…]
+      <description><![CDATA[For the latest discoveries in cyber research for the week of 17th August, please download our Threat Intelligence Bulletin.主要攻击和违规事件 哥伦比亚司法部遭遇勒索软件攻击，影响了其部分技术基础设施，并扰乱了与非法药物监控和法律程序相关的公共服务。 Officials confirmed that some files were […]
 8 月 17 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/</guid>
       <pubDate>Mon, 17 Aug 2026 13:37:34 GMT</pubDate>
@@ -70,7 +78,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
       <pubDate>Tue, 11 Aug 2026 17:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>8 月 10 日 – 威胁情报报告</title>
+      <title></title>
       <link>https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/</link>
       <description><![CDATA[有关 8 月 10 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和违规行为 运营威尔明顿、莫尔黑德城和其他港口的美国当局北卡罗来纳州港口公司遭受了网络攻击，迫使一些操作转为手动流程。当局声称其中含有[…]
 8 月 10 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
@@ -116,14 +124,6 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
 这篇文章2026年人工智能安全报告首先出现在Check Point Research上。]]></description>
       <guid>https://research.checkpoint.com/2026/ai-security-report-2026/</guid>
       <pubDate>Tue, 14 Jul 2026 00:51:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 月 13 日——威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</link>
-      <description><![CDATA[有关 7 月 13 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和数据泄露 美国汽车保险公司 AssuranceAmerica 披露了一起影响约 700 万人的数据泄露事件。攻击者以一名员工为目标，并使用受损的凭据访问公司系统，窃取姓名、联系信息、驾驶执照 […]
-7 月 13 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/</guid>
-      <pubDate>Mon, 13 Jul 2026 13:06:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
