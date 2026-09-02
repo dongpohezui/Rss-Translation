@@ -4,9 +4,9 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:30:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:16:16 GMT</lastBuildDate>
     <item>
-      <title>FBI 调查销售超过 1.53 亿张驾驶执照的服务</title>
+      <title>FBI 调查服务销售超过 1.53 亿张驾驶执照</title>
       <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
       <description><![CDATA[本周在暗网上推出的一项新的身份盗窃服务正在出售来自美国和加拿大的超过 1.53 亿份驾驶执照的数字扫描件。根据对可通过该服务购买许可证的个人的采访，该服务似乎正在窃取由路易斯安那州一家广泛使用的身份验证公司收集的图像。 KrebsOnSecurity还获悉，联邦调查局（FBI）新奥尔良办事处今天对图像来源展开正式调查。]]></description>
       <guid>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</guid>
@@ -45,7 +45,7 @@
       <pubDate>Thu, 06 Aug 2026 17:00:56 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>在购买电视流媒体棒之前请先阅读此内容</title>
       <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
       <description><![CDATA[多年来，安全专家一直对使用承诺一次性付费提供无限内容流的通用电视盒的风险发出警告，并警告称，它们会秘密地将用户的互联网连接出租给陌生人。但一项突破性的新分析发现，这些设备还经常将自己伪装成手机，点击人工智能生成的网站上的广告，作为旨在欺骗在线商家和广告网络的庞大行动的一部分。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</guid>
@@ -54,21 +54,21 @@
     <item>
       <title>LG 将禁止智能电视应用程序使用住宅代理</title>
       <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
-      <description><![CDATA[家电巨头 LG 电子美国公司本周表示，计划暂停任何为其智能电视构建的应用程序，这些应用程序会将电视变成永远在线的住宅代理节点。不到一个月前，研究人员发现 LG webOS 商店中可供下载的超过 42% 的游戏和其他应用程序允许未知第三方通过用户的电视传输互联网流量。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</guid>
       <pubDate>Wed, 22 Jul 2026 01:10:38 GMT</pubDate>
     </item>
     <item>
       <title>微软修复了创纪录的 570 个安全漏洞</title>
       <link>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</link>
-      <description><![CDATA[微软公司今天发布了软件更新，以堵塞其 Windows 操作系统和其他软件中的至少 570 个安全漏洞，几乎是该软件巨头上个月在创纪录的星期二补丁中修复的漏洞数量的三倍。微软将补丁数量的激增归因于人工智能辅助的漏洞发现。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</guid>
       <pubDate>Tue, 14 Jul 2026 19:22:42 GMT</pubDate>
     </item>
     <item>
       <title>从 CISA 最近的 GitHub 泄露事件中吸取的教训</title>
       <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
+      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。 Experts say the gaps identified in the agency&#39;s initial response provide important lessons that all security teams should absorb.]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</guid>
       <pubDate>Mon, 13 Jul 2026 15:03:28 GMT</pubDate>
     </item>
