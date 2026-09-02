@@ -4,7 +4,14 @@
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
     <description>深入的安全新闻和调查</description>
-    <lastBuildDate>Tue, 01 Sep 2026 20:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:43:44 GMT</lastBuildDate>
+    <item>
+      <title>FBI 调查服务销售超过 1.53 亿张驾驶执照</title>
+      <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
+      <description><![CDATA[本周在暗网上推出的一项新的身份盗窃服务正在出售来自美国和加拿大的超过 1.53 亿份驾驶执照的数字扫描件。根据对可通过该服务购买许可证的个人的采访，该服务似乎正在窃取由路易斯安那州一家广泛使用的身份验证公司收集的图像。 KrebsOnSecurity还获悉，联邦调查局（FBI）新奥尔良办事处今天对图像来源展开正式调查。]]></description>
+      <guid>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</guid>
+      <pubDate>Tue, 01 Sep 2026 22:40:28 GMT</pubDate>
+    </item>
     <item>
       <title>两名涉嫌“TeamPCP”黑客在澳大利亚被捕</title>
       <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
@@ -61,7 +68,7 @@
     <item>
       <title>从 CISA 最近的 GitHub 泄露事件中吸取的教训</title>
       <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后分析报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
+      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</guid>
       <pubDate>Mon, 13 Jul 2026 15:03:28 GMT</pubDate>
     </item>
@@ -71,13 +78,6 @@
       <description><![CDATA[一家网络安全初创公司花费数百万美元收购流行软件中的零日安全漏洞，该公司由一对极右翼阴谋论者和被定罪的重罪犯经营，他们最近的企业包括假情报公司和一个现已解散的基于人工智能的游说平台，他们以假名运营。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
       <pubDate>Wed, 08 Jul 2026 12:31:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>FBI 查获 NetNut 代理平台、Popa 僵尸网络</title>
-      <link>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</link>
-      <description><![CDATA[美国联邦调查局 (FBI) 今天表示，它与行业合作伙伴合作查获了数百个与 NetNut 相关的域名，NetNut 是一项由以色列上市公司 Alarum Technologies [纳斯达克股票代码：ALAR] 运营的庞大住宅代理服务。大约两周前，KrebsOnSecurity 发布了多家安全公司的调查结果，这些安全公司将 NetNut 连接到 Popa 僵尸网络，该僵尸网络至少有 200 万台设备在未经受害者同意的情况下受到恶意软件的攻击。]]></description>
-      <guid>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</guid>
-      <pubDate>Thu, 02 Jul 2026 19:27:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

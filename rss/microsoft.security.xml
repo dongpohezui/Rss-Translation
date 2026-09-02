@@ -4,12 +4,20 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 01 Sep 2026 20:15:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:44:31 GMT</lastBuildDate>
+    <item>
+      <title>假冒安装程序对系统造成危害：跟踪欺骗性软件下载活动</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/</link>
+      <description><![CDATA[一项活跃的活动正在冒充合法软件供应商，通过相似的下载页面和重新生成的安装程序存档来传播恶意软件。 Microsoft Defender 专家分享观察到的攻击技术、Defender XDR 检测、妥协指标和实际缓解措施，以帮助组织识别、阻止和响应此威胁。
+帖子假冒安装程序对系统的危害：跟踪欺骗性软件下载活动首先出现在Microsoft Security博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/</guid>
+      <pubDate>Tue, 01 Sep 2026 22:48:28 GMT</pubDate>
+    </item>
     <item>
       <title>网络安全 IR 研讨会：您不容错过的研讨会</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</link>
       <description><![CDATA[网络弹性在危机发生之前就开始了。从 DART 中获得实用见解，以加强准备和响应。
-帖子网络安全 IR 研讨会：您不应错过的研讨会首先出现在 Microsoft 安全博客上。]]></description>
+网络安全 IR 研讨会：您不容错过的研讨会首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</guid>
       <pubDate>Tue, 01 Sep 2026 18:55:35 GMT</pubDate>
     </item>
@@ -76,14 +84,6 @@ Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首�
 帖子DeadLock 勒索软件：使用去中心化恢复基础架构破解基于 Rust 的加密器首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/</guid>
       <pubDate>Mon, 10 Aug 2026 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>​​Microsoft 在 KuppingerCole 云原生应用程序保护平台领导指南 (CNAPP) 中被评为领导者</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</link>
-      <description><![CDATA[了解为什么 KuppingerCole 在其《领导力指南针：云原生应用程序保护平台》报告中将 Microsoft 评为领导者。
-这篇文章​​Microsoft 在云原生应用程序保护平台 (CNAPP) 的 KuppingerCole 领导指南针中被评为领导者首先出现在Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/</guid>
-      <pubDate>Wed, 05 Aug 2026 16:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
