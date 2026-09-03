@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:50:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:17:44 GMT</lastBuildDate>
     <item>
       <title>Mirage Kitten 通过新的恶意软件集瞄准了中东和非洲的航空和金融科技行业</title>
       <link>https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>ValleyRAT 伪装成广告软件</title>
       <link>https://securelist.com/valleyrat-backdoor-adware/121175/</link>
-      <description><![CDATA[威胁行为者正在传播伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
+      <description><![CDATA[威胁行为者正在分发伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
       <guid>https://securelist.com/valleyrat-backdoor-adware/121175/</guid>
       <pubDate>Mon, 31 Aug 2026 10:00:21 GMT</pubDate>
     </item>

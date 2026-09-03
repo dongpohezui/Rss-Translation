@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 01:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:17:26 GMT</lastBuildDate>
     <item>
       <title>严重的 SonicWall SMA1000 漏洞 CVE-2026-83548、CVE-2026-83549 被广泛利用</title>
       <link>https://www.rapid7.com/blog/post/etr-critical-sonicwall-sma1000-vulnerabilities-cve-2026-83548-cve-2026-83549-exploited-in-the-wild</link>
@@ -90,14 +90,14 @@
       <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>星期二补丁 - 2026 年 8 月</title>
+      <title>周二补丁 - 2026 年 8 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</guid>
       <pubDate>Tue, 11 Aug 2026 21:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63520：Microsoft SharePoint 远程执行代码（已修复）</title>
+      <title>CVE-2026-63520：Microsoft SharePoint 远程代码执行（已修复）</title>
       <link>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed</guid>
