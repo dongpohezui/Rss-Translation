@@ -4,9 +4,9 @@
     <title>凯文·博蒙特在 Medium 上的故事</title>
     <link>https://medium.com/@networksecurity?source=rss-7db6d2df42a6------2</link>
     <description>凯文·博蒙特在 Medium 上的故事</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:14:14 GMT</lastBuildDate>
     <item>
-      <title>Adform 遭到入侵，通过供应链攻击为加密货币窃取者提供服务</title>
+      <title>Adform 遭到破坏，通过供应链攻击为加密货币窃取者提供服务</title>
       <link>https://doublepulsar.com/adform-compromised-to-serve-crypto-stealer-via-supply-chain-attack-2f1ec024f33e?source=rss-7db6d2df42a6------2</link>
       <description><![CDATA[Adform 是一家广告公司，约有 14,000 家公司使用，在需求方类别中拥有约 30% 的份额。他们通过以下 URL 为网站提供 Javascript 嵌入来运营：hxxps://s2.adform.net/banners/scripts/st/trackpoint-async.js该脚本遭到破坏，旨在为加密货币窃取者提供服务。 Adform 已被黑客攻击。据我所知，Adform 还没有告诉人们。这使得下游网站的最终用户设备受到加密窃取恶意软件的攻击。这意味着，如果您访问 example.com 并且他们使用 Adform，example.com 将会危害您的设备。s2.adform.net 提供的服务示例：文件哈希02ff86c7f9fe609a753ff15bda90baa3c3e0d4a2e559ec4fcf8a3de0954b7c55该文件在 Virustotal 上的供应商中标记为良好（所有 URL、文件、域和 IP 在所有安全供应商中都标记为干净）。实际提供的文件 trackpoint-async.js 从此函数开始包含恶意代码：此示例中的代码与剪贴板中有效的比特币、以太坊和 TRX 钱包匹配：然后将剪贴板中的所述地址替换为钱包值被交换为攻击者控制的钱包。地址似乎有所不同。它通过每 3 秒轮询一次，然后交换剪贴板中的地址来实现此目的：即使您发现地址错误并重新复制钱包，它不断替换它。Adform 直接提供的其他脚本包括向攻击者轮询的脚本：除了加密欺诈之外，它们还记录用户的 IP 地址，即他们来自的网站（即妥协的供应链位）和 URL 路径。攻击者服务器为端口 7744 上的 84.32.102.230请求示例：hxxp://84.32.102.230:7744/p?h=example.com&amp;u=/test看来 Adform 可能知道，或者攻击者也知道已经意识到他们已经受到干扰，因为当我输入此内容时，恶意代码似乎正在消失。我可以看到过去一周通过 Adform 进行的恶意活动，而安全行业似乎完全错过了它。Adform 为逆向工程师提供的完整脚本示例：https://pastebin.com/mc7psaNFIoC84.32.102.230 — 信标s2.adform.nethxxps://s2.adform.net/banners/scripts/st/trackpoint-async.jsAdform 被攻破，通过供应链攻击为加密货币窃取者提供服务最初发布在 Medium 上的 DoublePulsar 上，人们通过突出显示并回应这个故事来继续对话。]]></description>
       <guid>https://doublepulsar.com/adform-compromised-to-serve-crypto-stealer-via-supply-chain-attack-2f1ec024f33e?source=rss-7db6d2df42a6------2</guid>

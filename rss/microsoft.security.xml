@@ -4,9 +4,17 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 03 Sep 2026 15:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:15:01 GMT</lastBuildDate>
     <item>
-      <title>冒充 IT 支持：威胁参与者如何将远程会话转变为企业范围的访问</title>
+      <title>ASCII 走私从 AI 提示注入跨越到网络钓鱼规避</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
+      <description><![CDATA[因隐藏 AI 模型指令而流行的不可见 Unicode 字符现在被用来在电子邮件过滤器解析单词之前对其进行混淆。
+这篇文章ASCII 走私从 AI 提示注入交叉到网络钓鱼规避首先出现在 Microsoft Security博客。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</guid>
+      <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>冒充 IT 支持：威胁行为者如何将远程会话转变为企业范围的访问</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/</link>
       <description><![CDATA[Microsoft 威胁情报观察到一次人为入侵活动，该活动滥用 Microsoft Teams 外部协作来冒充 IT 支持、获取远程访问权限并部署基于 Node.js 的植入程序。了解攻击者如何使用合法工具从社交工程转向横向移动，以及 Microsoft Defender 如何帮助检测和破坏活动。
 帖子冒充 IT 支持：威胁行为者如何将远程会话转变为企业范围的访问首先出现在 Microsoft安全博客。]]></description>
@@ -25,7 +33,7 @@
       <title>网络安全 IR 研讨会：您不容错过的研讨会</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</link>
       <description><![CDATA[网络弹性在危机发生之前就开始了。从 DART 中获得实用见解，以加强准备和响应。
-网络安全 IR 研讨会：您不容错过的研讨会首先出现在 Microsoft 安全博客上。]]></description>
+帖子网络安全 IR 研讨会：您不应错过的研讨会首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</guid>
       <pubDate>Tue, 01 Sep 2026 18:55:35 GMT</pubDate>
     </item>
@@ -76,14 +84,6 @@ TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 M
 这篇文章通过行为枢轴追捕 MacSync Stealer 基础设施首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</guid>
       <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</link>
-      <description><![CDATA[Microsoft 在 2026 年 IDC MarketScape 中被评为 MDR 服务领导者。了解 Microsoft Defender 专家 MDR 如何结合人工智能、威胁情报和人类专业知识。
-Microsoft 被评为 2026 年 IDC MarketScape 企业 MDR/MXDR 领导者一文首先出现在 Microsoft 安全博客。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/</guid>
-      <pubDate>Mon, 10 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
