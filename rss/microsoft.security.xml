@@ -4,9 +4,9 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:24:11 GMT</lastBuildDate>
     <item>
-      <title>冒充 IT 支持：威胁行为者如何将远程会话转变为企业范围的访问</title>
+      <title>冒充 IT 支持：威胁参与者如何将远程会话转变为企业范围的访问</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/</link>
       <description><![CDATA[Microsoft 威胁情报观察到一次人为入侵活动，该活动滥用 Microsoft Teams 外部协作来冒充 IT 支持、获取远程访问权限并部署基于 Node.js 的植入程序。了解攻击者如何使用合法工具从社交工程转向横向移动，以及 Microsoft Defender 如何帮助检测和破坏活动。
 帖子冒充 IT 支持：威胁行为者如何将远程会话转变为企业范围的访问首先出现在 Microsoft安全博客。]]></description>
@@ -25,7 +25,7 @@
       <title>网络安全 IR 研讨会：您不容错过的研讨会</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</link>
       <description><![CDATA[网络弹性在危机发生之前就开始了。从 DART 中获得实用见解，以加强准备和响应。
-帖子网络安全 IR 研讨会：您不应错过的研讨会首先出现在 Microsoft 安全博客上。]]></description>
+网络安全 IR 研讨会：您不容错过的研讨会首先出现在 Microsoft 安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</guid>
       <pubDate>Tue, 01 Sep 2026 18:55:35 GMT</pubDate>
     </item>

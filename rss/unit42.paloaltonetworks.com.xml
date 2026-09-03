@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:23:45 GMT</lastBuildDate>
+    <item>
+      <title>攻击者揭露了针对拉丁美洲组织的持续使用人工智能工具</title>
+      <link>https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/</link>
+      <description><![CDATA[探索针对拉丁美洲实体的攻击者如何利用人工智能进行数据泄露，以及基本的 OpSec 错误如何让防御者破坏运营。
+这篇文章攻击者揭露了拉丁美洲持续使用人工智能工具的目标组织首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/</guid>
+      <pubDate>Thu, 03 Sep 2026 10:00:58 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能辅助的网络攻击：Unit 42 调查内部</title>
       <link>https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/</link>
@@ -49,7 +57,7 @@
       <title>通过可信通信渠道进行身份滥用</title>
       <link>https://unit42.paloaltonetworks.com/communication-channel-identity-risks/</link>
       <description><![CDATA[第 42 单元详细介绍了攻击者如何利用企业协作工具进行身份网络钓鱼和凭据盗窃。发现关键防御策略。
-该帖子通过可信通信渠道进行身份滥用首先出现在Unit 42上。]]></description>
+该帖子通过可信通信渠道滥用身份首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/communication-channel-identity-risks/</guid>
       <pubDate>Thu, 20 Aug 2026 10:00:25 GMT</pubDate>
     </item>
@@ -105,7 +113,7 @@
       <title>前沿人工智能漏洞爆发：开源软件自主零日发现产业化</title>
       <link>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</link>
       <description><![CDATA[Frontier AI 正在重塑漏洞发现。了解我们的 NOVA 系统如何在开源软件供应链中发现 14,000 多个未知漏洞。
-帖子前沿人工智能漏洞爆发：开源软件中的自主零日发现工业化首先出现在Unit 42上。]]></description>
+帖子前沿人工智能漏洞爆发：开源软件中的自主零日发现产业化首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</guid>
       <pubDate>Tue, 04 Aug 2026 13:00:11 GMT</pubDate>
     </item>
@@ -116,14 +124,6 @@
 帖子几乎一半的恶意软件样本直接与 IP 通信首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/</guid>
       <pubDate>Tue, 04 Aug 2026 12:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>传递密钥：无密码身份验证中的新型攻击面</title>
-      <link>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</link>
-      <description><![CDATA[探索当依赖方无法验证“用户验证”标志时，密钥实施差距如何破坏安全性，从而将 MFA 减少到单一因素。
-帖子传递密钥：无密码身份验证中的新型攻击面首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</guid>
-      <pubDate>Mon, 03 Aug 2026 10:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
