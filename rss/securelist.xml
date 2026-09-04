@@ -4,7 +4,14 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Sep 2026 01:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:04:57 GMT</lastBuildDate>
+    <item>
+      <title>愤怒的小鸟：玩具食尸鬼的新玩具</title>
+      <link>https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/</link>
+      <description><![CDATA[卡巴斯基 GERT 专家发现了 Toy Ghouls 组织使用的新后门。后门的一种版本使用 HiveMQ MQTT 代理作为其命令和控制服务器；另一个使用基于 Matrix 的 Element 信使。]]></description>
+      <guid>https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/</guid>
+      <pubDate>Fri, 04 Sep 2026 10:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Mirage Kitten 通过新的恶意软件集瞄准了中东和非洲的航空和金融科技行业</title>
       <link>https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>ValleyRAT 伪装成广告软件</title>
       <link>https://securelist.com/valleyrat-backdoor-adware/121175/</link>
-      <description><![CDATA[威胁行为者正在传播伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
+      <description><![CDATA[威胁行为者正在分发伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
       <guid>https://securelist.com/valleyrat-backdoor-adware/121175/</guid>
       <pubDate>Mon, 31 Aug 2026 10:00:21 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[CAV3RN 项目以以色列为目标，提供 Google Apps Script C2 中继和基于 DNS 的路由。模块化 .NET NativeAOT 框架将 C2 流量与合法的 Google 服务混合在一起以逃避检测。]]></description>
       <guid>https://securelist.com/project-cav3rn-continues/120991/</guid>
       <pubDate>Tue, 11 Aug 2026 10:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年第二季度 IT 威胁演变。非移动统计</title>
-      <link>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</link>
-      <description><![CDATA[该报告介绍了 2026 年第二季度针对运行 Windows 和 macOS 的个人电脑以及物联网 (IoT) 设备的恶意软件的主要趋势和统计数据。]]></description>
-      <guid>https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/</guid>
-      <pubDate>Mon, 10 Aug 2026 10:00:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
