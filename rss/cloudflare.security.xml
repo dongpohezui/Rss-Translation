@@ -4,7 +4,7 @@
     <title>贴有“安全”标签的帖子</title>
     <link>https://blog.cloudflare.com/tag/security/</link>
     <description>所有带有安全标签的帖子</description>
-    <lastBuildDate>Fri, 04 Sep 2026 10:05:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:19:33 GMT</lastBuildDate>
     <item>
       <title>通过 Cloudflare Managed Defense 和 OpenAI Daybreak 模型引入上下文感知漏洞发现和修复</title>
       <link>https://blog.cloudflare.com/vulnerability-discovery-remediation/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>白宫的后量子行政命令是一个重要的里程碑。是时候去上班了</title>
       <link>https://blog.cloudflare.com/post-quantum-eo-2026/</link>
-      <description><![CDATA[新的行政命令设定了 2030 年的迁移期限，并为后量子复原力奠定了坚实的基础。我们着眼于哪些方面是正确的，哪些方面可以进一步发展，以及我们为政府和行业提供的迁移手册。]]></description>
+      <description><![CDATA[新的行政命令设定了 2030 年的迁移期限，并为后量子复原力奠定了强大的基础。我们着眼于哪些方面是正确的，哪些方面可以进一步发展，以及我们为政府和行业提供的迁移手册。]]></description>
       <guid>https://blog.cloudflare.com/post-quantum-eo-2026/</guid>
       <pubDate>Tue, 23 Jun 2026 18:25:18 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>保护非人类身份：自动撤销、OAuth 和范围权限</title>
       <link>https://blog.cloudflare.com/improved-developer-security/</link>
-      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最低权限架构，同时防止凭证泄漏。]]></description>
+      <description><![CDATA[Cloudflare 引入了可扫描的 API 令牌、增强的 OAuth 可见性以及资源范围权限的 GA。这些工具可帮助开发人员实现真正的最小权限架构，同时防止凭证泄漏。]]></description>
       <guid>https://blog.cloudflare.com/improved-developer-security/</guid>
       <pubDate>Tue, 14 Apr 2026 13:00:10 GMT</pubDate>
     </item>
@@ -118,14 +118,14 @@
       <pubDate>Mon, 30 Mar 2026 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>宣布推出 Cloudflare 帐户滥用保护：防止机器人和人类的欺诈性攻击</title>
+      <title>宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
       <link>https://blog.cloudflare.com/account-abuse-protection-uk-ua/</link>
       <description><![CDATA[阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。]]></description>
       <guid>https://blog.cloudflare.com/account-abuse-protection-uk-ua/</guid>
       <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>宣布推出 Cloudflare 帐户滥用保护：防止机器人和人类的欺诈性攻击</title>
+      <title>宣布推出 Cloudflare 帐户滥用保护：防止来自机器人和人类的欺诈性攻击</title>
       <link>https://blog.cloudflare.com/account-abuse-protection/</link>
       <description><![CDATA[阻止机器人已经不够了。 Cloudflare 的新欺诈预防功能（现已提供抢先体验）有助于在帐户滥用发生之前阻止其发生。]]></description>
       <guid>https://blog.cloudflare.com/account-abuse-protection/</guid>
