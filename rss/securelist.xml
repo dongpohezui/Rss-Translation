@@ -4,7 +4,7 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:43:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:34:43 GMT</lastBuildDate>
     <item>
       <title>愤怒的小鸟：玩具食尸鬼的新玩具</title>
       <link>https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>ValleyRAT 伪装成广告软件</title>
       <link>https://securelist.com/valleyrat-backdoor-adware/121175/</link>
-      <description><![CDATA[威胁行为者正在传播伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
+      <description><![CDATA[威胁行为者正在分发伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
       <guid>https://securelist.com/valleyrat-backdoor-adware/121175/</guid>
       <pubDate>Mon, 31 Aug 2026 10:00:21 GMT</pubDate>
     </item>
