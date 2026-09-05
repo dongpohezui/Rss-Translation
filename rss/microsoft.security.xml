@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Fri, 04 Sep 2026 19:59:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 01:45:10 GMT</lastBuildDate>
+    <item>
+      <title>如何在客户拥有的环境中保护边缘人工智能</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/</link>
+      <description><![CDATA[随着人工智能进入客户拥有的环境，组织需要新的方法来验证他们信任的系统、软件和人工智能资产，然后再发布敏感数据、凭证和模型。
+这篇文章如何在客户拥有的环境中保护边缘人工智能首先出现在微软安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/</guid>
+      <pubDate>Fri, 04 Sep 2026 19:10:10 GMT</pubDate>
+    </item>
     <item>
       <title>ASCII 走私从 AI 提示注入跨越到网络钓鱼规避</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
@@ -14,7 +22,7 @@
       <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>冒充 IT 支持：威胁行为者如何将远程会话转变为企业范围的访问</title>
+      <title>冒充 IT 支持：威胁参与者如何将远程会话转变为企业范围的访问</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/</link>
       <description><![CDATA[Microsoft 威胁情报观察到一次人为入侵活动，该活动滥用 Microsoft Teams 外部协作来冒充 IT 支持、获取远程访问权限并部署基于 Node.js 的植入程序。了解攻击者如何使用合法工具从社交工程转向横向移动，以及 Microsoft Defender 如何帮助检测和破坏活动。
 帖子冒充 IT 支持：威胁行为者如何将远程会话转变为企业范围的访问首先出现在 Microsoft安全博客。]]></description>
@@ -46,7 +54,7 @@ TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 M
       <pubDate>Sat, 29 Aug 2026 03:43:27 GMT</pubDate>
     </item>
     <item>
-      <title>​​​​​​Microsoft 安全更新：2026 年 8 月</title>
+      <title>​​​​​​Microsoft 安全性新增内容：2026 年 8 月</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/</link>
       <description><![CDATA[本月的更新提供了新功能，可帮助组织深入了解代理活动、扩大受支持环境的安全覆盖范围，并增强跨环境的安全管理。
 ​​​​​​Microsoft 安全新增功能：2026 年 8 月 帖子首先出现在 Microsoft 安全博客上。]]></description>
@@ -70,20 +78,12 @@ TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 M
       <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft 被评为 2026 年 Frost Radar™ 云工作负载保护平台领导者</title>
+      <title>Microsoft 被评为 Frost Radar™ 领导者：2026 年云工作负载保护平台</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
       <description><![CDATA[Microsoft 在 2026 年 Frost Radar 云工作负载保护平台中被评为远见卓识的领导者，凭借 Microsoft Defender for Cloud 的统一运行时安全性而受到认可。
 微软将 2026 年 Frost Radar™ 评为领导者：云工作负载保护平台首先出现在 Microsoft 安全博客。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</guid>
       <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过行为枢轴寻找 MacSync Stealer 基础设施</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</link>
-      <description><![CDATA[MacSync Stealer 快速旋转域以逃避检测，但其行为保持一致。了解 Microsoft 如何使用持久的搜索枢纽发现 30 多个相关域。
-这篇文章通过行为枢轴追捕 MacSync Stealer 基础设施首先出现在 Microsoft 安全博客上。]]></description>
-      <guid>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</guid>
-      <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
