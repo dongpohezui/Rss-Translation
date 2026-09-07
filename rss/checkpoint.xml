@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Wed, 02 Sep 2026 15:31:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:46:23 GMT</lastBuildDate>
+    <item>
+      <title>9 月 7 日 – 威胁情报报告</title>
+      <link>https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/</link>
+      <description><![CDATA[有关 7 月 7 日这一周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和违规行为 全球信息和技术公司汤森路透 (Thomson Reuters) 披露了其 C-Track 法院案件管理平台的违规行为，影响了美国 11 个州和加拿大的法院。未经授权的一方获取了 C-Track 文件 […]
+9 月 7 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/</guid>
+      <pubDate>Mon, 07 Sep 2026 14:54:29 GMT</pubDate>
+    </item>
     <item>
       <title>玩弄系统：一名华语演员如何将巴西政府网站变成 SEO 武器</title>
       <link>https://research.checkpoint.com/2026/gaming-the-system-how-a-chinese-speaking-actor-turned-brazilian-government-sites-into-an-seo-weapon/</link>
@@ -14,9 +22,9 @@
       <pubDate>Wed, 02 Sep 2026 10:16:16 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>打破密封：JSCeal 编译的 V8 字节码的静态反混淆</title>
       <link>https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/</link>
-      <description><![CDATA[研究者：hasherezade 要点介绍 JSCeal 是一个以编译的 V8 字节码 (.jsc) 形式提供的窃取程序，由捆绑的 Node.js 运行时执行，目标是加密货币应用程序（其他供应商也使用名称 WEEVILPROXY 或 MeadowLocust 对其进行标记）。其活动活动可以追溯到 2024 年 3 月[1]； Check Point Research 自早期以来就一直在跟踪恶意软件[…]
+      <description><![CDATA[研究者：hasherezade 要点介绍 JSCeal 是一个以编译的 V8 字节码 (.jsc) 形式提供的窃取程序，由捆绑的 Node.js 运行时执行，针对加密货币应用程序（其他供应商也使用名称 WEEVILPROXY 或 MeadowLocust 对其进行标记）。其活动活动可以追溯到 2024 年 3 月[1]； Check Point Research 自早期以来就一直在跟踪恶意软件[…]
 帖子打破封印：JSCeal 编译的 V8 字节码的静态反混淆首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/</guid>
       <pubDate>Mon, 31 Aug 2026 13:38:28 GMT</pubDate>
@@ -56,7 +64,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>8 月 17 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/</link>
-      <description><![CDATA[For the latest discoveries in cyber research for the week of 17th August, please download our Threat Intelligence Bulletin.主要攻击和违规事件 哥伦比亚司法部遭遇勒索软件攻击，影响了其部分技术基础设施，并扰乱了与非法药物监控和法律程序相关的公共服务。 Officials confirmed that some files were […]
+      <description><![CDATA[有关 8 月 17 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和违规事件 哥伦比亚司法部遭遇勒索软件攻击，影响了其部分技术基础设施，并扰乱了与非法药物监控和法律程序相关的公共服务。官员确认一些文件[…]
 8 月 17 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/</guid>
       <pubDate>Mon, 17 Aug 2026 13:37:34 GMT</pubDate>
@@ -72,15 +80,15 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>梦想破灭——当工作机会变成零日攻击</title>
       <link>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</link>
-      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research 追踪了一波“梦想工作行动”活动。这波浪潮主要针对全球国防部门，特别是航空航天行业的公司。我们观察到威胁行为者分发了经过修改的 PDF 查看器，这些查看器旨在执行嵌入在特殊 […] 中的恶意负载
+      <description><![CDATA[要点介绍 自 2026 年初以来，Check Point Research 追踪了一波“梦想工作行动”活动。这波浪潮主要针对全球国防部门，特别是航空航天行业的公司。我们观察到威胁行为者分发了经过修改的 PDF 查看器，旨在执行嵌入在特殊 […] 中的恶意有效负载
 帖子粉碎梦想–当工作机会变成零日攻击首先出现在Check Point Research。]]></description>
       <guid>https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/</guid>
       <pubDate>Tue, 11 Aug 2026 17:30:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>8 月 10 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/</link>
-      <description><![CDATA[有关 8 月 10 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和违规行为 运营威尔明顿、莫尔黑德城和其他港口的美国当局北卡罗来纳州港口公司遭受了网络攻击，迫使一些操作转为手动流程。当局声称其中含有[…]
+      <description><![CDATA[有关 8 月 10 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和违规行为 运营威尔明顿、莫尔黑德城和其他港口的美国当局北卡罗来纳州港口公司遭受了网络攻击，迫使一些操作转为手动流程。当局声称其中包含[…]
 8 月 10 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/</guid>
       <pubDate>Mon, 10 Aug 2026 13:53:22 GMT</pubDate>
@@ -88,7 +96,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>当代理胶融化时：利用 Cloudflare 代码模式和 Workers</title>
       <link>https://research.checkpoint.com/2026/when-agentic-glue-melts/</link>
-      <description><![CDATA[作者：Yarden Porat，Check Point 研究要点 简短版本 我们着手打破“Cloudflare 代码模式”，最终也打破了“Cloudflare Workers”。我们通过定位workerd（两者之下的运行时）来完成这两项工作：一个完全依赖V8来隔离不可信代码的进程内沙箱。我们在workerd的本机C++中发现了五个内存损坏错误（“粘合剂”[…]
+      <description><![CDATA[作者：Yarden Porat，Check Point 研究要点 简短版本 我们着手打破“Cloudflare 代码模式”，最终也打破了“Cloudflare Workers”。我们通过针对workerd（两者之下的运行时）来完成这两项工作：一个完全依赖V8来隔离不受信任代码的进程内沙箱。我们在workerd的本机C++中发现了五个内存损坏错误（“粘合剂”[…]
 这篇文章当 Agentic Glue 融化时：利用 Cloudflare 代码模式和工作线程首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/when-agentic-glue-melts/</guid>
       <pubDate>Thu, 06 Aug 2026 22:20:00 GMT</pubDate>
@@ -116,14 +124,6 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
 7 月 20 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/</guid>
       <pubDate>Mon, 20 Jul 2026 12:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年人工智能安全报告</title>
-      <link>https://research.checkpoint.com/2026/ai-security-report-2026/</link>
-      <description><![CDATA[多年来，网络安全行业一直将人工智能视为一种力量倍增器：它使现有的攻击技术更快、更便宜、更容易获得。这个框架是准确的。 但 Check Point Research 的《2026 年年度人工智能安全报告》记录了更进一步的转变。 人工智能已经从助手跨越到了操作员。它曾经帮助攻击者做好准备，现在它运行[…]
-这篇文章2026年人工智能安全报告首先出现在Check Point Research上。]]></description>
-      <guid>https://research.checkpoint.com/2026/ai-security-report-2026/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:51:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
