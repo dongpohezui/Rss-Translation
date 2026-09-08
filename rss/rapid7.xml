@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Rapid7 网络安全博客</title>
+    <title></title>
     <link>https://www.rapid7.com/blog/</link>
-    <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 01:45:41 GMT</lastBuildDate>
+    <description></description>
+    <lastBuildDate>Tue, 08 Sep 2026 10:11:52 GMT</lastBuildDate>
     <item>
       <title>朝鲜 APT：Ted 后门和curlRAT 针对韩国媒体和汽车行业</title>
       <link>https://www.rapid7.com/blog/post/tr-dprk-apts-ted-backdoor-curlrat-target-south-korean-media-automotive-sectors</link>
@@ -13,14 +13,14 @@
       <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>严重的 SonicWall SMA1000 漏洞 CVE-2026-83548、CVE-2026-83549 被广泛利用</title>
+      <title></title>
       <link>https://www.rapid7.com/blog/post/etr-critical-sonicwall-sma1000-vulnerabilities-cve-2026-83548-cve-2026-83549-exploited-in-the-wild</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-critical-sonicwall-sma1000-vulnerabilities-cve-2026-83548-cve-2026-83549-exploited-in-the-wild</guid>
       <pubDate>Wed, 02 Sep 2026 16:58:45 GMT</pubDate>
     </item>
     <item>
-      <title>Metasploit 总结：有效负载和漏洞利用以及扫描仪，天哪！</title>
+      <title>Metasploit 总结：有效负载和漏洞利用以及扫描器，天哪！</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners</guid>

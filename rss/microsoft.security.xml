@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>微软安全博客</title>
+    <title></title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Tue, 08 Sep 2026 01:46:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:12:23 GMT</lastBuildDate>
     <item>
       <title>如何在客户拥有的环境中保护边缘人工智能</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/</link>
@@ -30,7 +30,7 @@
       <pubDate>Wed, 02 Sep 2026 22:51:18 GMT</pubDate>
     </item>
     <item>
-      <title>假冒安装程序对系统造成危害：跟踪欺骗性软件下载活动</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/</link>
       <description><![CDATA[一项活跃的活动正在冒充合法软件供应商，通过相似的下载页面和重新生成的安装程序存档来传播恶意软件。 Microsoft Defender 专家分享观察到的攻击技术、Defender XDR 检测、妥协指标和实际缓解措施，以帮助组织识别、阻止和响应此威胁。
 帖子假冒安装程序对系统的危害：跟踪欺骗性软件下载活动首先出现在Microsoft Security博客。]]></description>
@@ -48,8 +48,7 @@
     <item>
       <title>TerminalFix 活动通过多级入侵部署反向隧道</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</link>
-      <description><![CDATA[Microsoft 威胁情报提供对使用虚假 CAPTCHA 提示、DLL 侧载和反向隧道的 ClickFix 活动的分析，以及检测和搜寻指导。
-TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 Microsoft 安全博客上。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</guid>
       <pubDate>Sat, 29 Aug 2026 03:43:27 GMT</pubDate>
     </item>
@@ -64,8 +63,7 @@ TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 M
     <item>
       <title>当人工智能基础设施成为目标时：保护网关和控制点</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</link>
-      <description><![CDATA[Microsoft 威胁情报检查对暴露的 AI 工作负载的攻击，包括 LiteLLM 网关利用、凭据收集、持久性和加密挖掘活动。
-当人工智能基础设施成为目标时：保护网关和控制点首先出现在微软安全博客上。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</guid>
       <pubDate>Wed, 26 Aug 2026 16:43:53 GMT</pubDate>
     </item>
