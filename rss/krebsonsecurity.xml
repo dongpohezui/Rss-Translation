@@ -3,8 +3,8 @@
   <channel>
     <title>克雷布斯谈安全</title>
     <link>https://krebsonsecurity.com</link>
-    <description></description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:12:07 GMT</lastBuildDate>
+    <description>深入的安全新闻和调查</description>
+    <lastBuildDate>Tue, 08 Sep 2026 15:31:49 GMT</lastBuildDate>
     <item>
       <title>FBI 调查销售超过 1.53 亿张驾驶执照的服务</title>
       <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
@@ -33,7 +33,7 @@
     <item>
       <title>微软堵塞近 400 个安全漏洞</title>
       <link>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Microsoft 今天发布了更新，以修复其 Windows 操作系统和支持的软件中的至少 398 个安全漏洞，其中一个漏洞已被积极利用，另外两个漏洞在今天之前已公开详细说明。]]></description>
       <guid>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</guid>
       <pubDate>Tue, 11 Aug 2026 21:28:35 GMT</pubDate>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>在购买电视流媒体棒之前请先阅读此内容</title>
       <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[多年来，安全专家一直对使用承诺一次性付费提供无限内容流的通用电视盒的风险发出警告，并警告称，它们会秘密地将用户的互联网连接出租给陌生人。但一项突破性的新分析发现，这些设备还经常将自己伪装成手机，点击人工智能生成的网站上的广告，作为旨在欺骗在线商家和广告网络的庞大行动的一部分。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</guid>
       <pubDate>Thu, 30 Jul 2026 16:49:00 GMT</pubDate>
     </item>
@@ -66,16 +66,16 @@
       <pubDate>Tue, 14 Jul 2026 19:22:42 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>从 CISA 最近的 GitHub 泄露事件中吸取的教训</title>
       <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[网络安全和基础设施安全局 (CISA) 发布了一份关于数据泄露的事后报告，其中一名承包商在公共 GitHub 存储库中发布了数十个内部 CISA 凭证（包括 AWS Govcloud 密钥）近六个月，然后才收到 KrebsOnSecurity 的通知。专家表示，该机构初步反应中发现的漏洞提供了所有安全团队都应该吸取的重要教训。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</guid>
       <pubDate>Mon, 13 Jul 2026 15:03:28 GMT</pubDate>
     </item>
     <item>
       <title>重罪犯、诈骗犯殴打进攻性网络安全初创公司</title>
       <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[一家网络安全初创公司花费数百万美元收购流行软件中的零日安全漏洞，该公司由一对极右翼阴谋论者和被定罪的重罪犯经营，他们最近的企业包括假情报公司和一个现已解散的基于人工智能的游说平台，他们以假名运营。]]></description>
       <guid>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
       <pubDate>Wed, 08 Jul 2026 12:31:39 GMT</pubDate>
     </item>

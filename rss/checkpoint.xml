@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Mon, 07 Sep 2026 16:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:32:05 GMT</lastBuildDate>
+    <item>
+      <title>沙箱内的共享剪贴板：ChatGPT 跨账户数据泄露</title>
+      <link>https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/</link>
+      <description><![CDATA[研究作者：Alexey Bukhteyev 要点简介 在过去的几年里，人工智能助手的发展已经远远超出了文本生成的范围。现代系统可以执行代码、安装额外的依赖项、分析用户文件以及通过连接的服务访问数据。这些功能显着提高了法学硕士的实用价值，但它们也改变了安全模型：保护用户[…]
+沙箱内的共享剪贴板：ChatGPT 中的跨帐户数据泄露首先出现在 Check Point Research 上。]]></description>
+      <guid>https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/</guid>
+      <pubDate>Tue, 08 Sep 2026 13:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>9 月 7 日 – 威胁情报报告</title>
       <link>https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/</link>
@@ -96,7 +104,7 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
     <item>
       <title>当代理胶融化时：利用 Cloudflare 代码模式和 Workers</title>
       <link>https://research.checkpoint.com/2026/when-agentic-glue-melts/</link>
-      <description><![CDATA[作者：Yarden Porat，Check Point 研究要点 简短版本 我们着手打破“Cloudflare 代码模式”，最终也打破了“Cloudflare Workers”。我们通过针对workerd（两者之下的运行时）来完成这两项工作：一个完全依赖V8来隔离不受信任代码的进程内沙箱。我们在workerd的本机C++中发现了五个内存损坏错误（“粘合剂”[…]
+      <description><![CDATA[作者：Yarden Porat，Check Point 研究要点 简短版本 我们着手打破“Cloudflare 代码模式”，最终也打破了“Cloudflare Workers”。我们通过定位workerd（两者之下的运行时）来完成这两项工作：一个完全依赖V8来隔离不可信代码的进程内沙箱。我们在workerd的本机C++中发现了五个内存损坏错误（“粘合剂”[…]
 这篇文章当 Agentic Glue 融化时：利用 Cloudflare 代码模式和工作线程首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/when-agentic-glue-melts/</guid>
       <pubDate>Thu, 06 Aug 2026 22:20:00 GMT</pubDate>
@@ -116,14 +124,6 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
 7 月 27 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/</guid>
       <pubDate>Mon, 27 Jul 2026 16:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 月 20 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/</link>
-      <description><![CDATA[有关 7 月 20 日当周网络研究的最新发现，请下载我们的威胁情报公告。顶级攻击和违规 Ernst &amp; Young 是一家全球会计和专业服务公司，披露了一起涉及第三方 IT 支持平台受损的数据泄露事件。暴露的支持票可能包含客户文件、税务信息、[…]
-7 月 20 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/</guid>
-      <pubDate>Mon, 20 Jul 2026 12:18:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

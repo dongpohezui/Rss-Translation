@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:31:42 GMT</lastBuildDate>
     <item>
       <title>愤怒的小鸟：玩具食尸鬼的新玩具</title>
       <link>https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/</link>
@@ -20,9 +20,9 @@
       <pubDate>Tue, 01 Sep 2026 07:00:26 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>ValleyRAT 伪装成广告软件</title>
       <link>https://securelist.com/valleyrat-backdoor-adware/121175/</link>
-      <description><![CDATA[威胁行为者正在分发伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
+      <description><![CDATA[威胁行为者正在传播伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
       <guid>https://securelist.com/valleyrat-backdoor-adware/121175/</guid>
       <pubDate>Mon, 31 Aug 2026 10:00:21 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>2026 年第 2 季度的漏洞利用和漏洞</title>
       <link>https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[该报告涵盖了 2026 年第二季度漏洞、漏洞利用和 C2 框架的统计数据。我们有史以来第一次汇总了开源 AI 代理和 AI 框架中的漏洞数据。]]></description>
       <guid>https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/</guid>
       <pubDate>Wed, 26 Aug 2026 10:00:04 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>APT组织HoneyMyte升级CoolClient：后门获得内核级Windows rootkit</title>
       <link>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[我们的专家发现了一个新的 CoolClient 后门变体，带有内核模式 rootkit 驱动程序，可以向安全工具和威胁分析师隐藏恶意进程、文件和网络连接。]]></description>
       <guid>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</guid>
       <pubDate>Fri, 14 Aug 2026 09:00:14 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 13 Aug 2026 08:00:15 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Head Mare APT 正在利用未修补的 TrueConf 服务器中的漏洞向视频会议参与者提供 PhantomCore 和 PhantomGraph</title>
       <link>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</link>
       <description><![CDATA[卡巴斯基专家发现了恶意的 TrueConf 软件安装程序。 Head Mare APT 组织利用它们，通过利用未修补的 TrueConf 服务器中的漏洞，向目标系统提供 PhantomCore 和 PhantomGraph 后门。]]></description>
       <guid>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</guid>

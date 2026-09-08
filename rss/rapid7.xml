@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
-    <description></description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:11:52 GMT</lastBuildDate>
+    <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
+    <lastBuildDate>Tue, 08 Sep 2026 15:31:34 GMT</lastBuildDate>
+    <item>
+      <title>CVE-2026-86206、CVE-2026-86207：N-able N-central 身份验证绕过（已修复）</title>
+      <link>https://www.rapid7.com/blog/post/ve-cve-2026-86206-cve-2026-86207-n-able-n-central-authentication-bypass-fixed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/ve-cve-2026-86206-cve-2026-86207-n-able-n-central-authentication-bypass-fixed</guid>
+      <pubDate>Tue, 08 Sep 2026 11:01:27 GMT</pubDate>
+    </item>
     <item>
       <title>朝鲜 APT：Ted 后门和curlRAT 针对韩国媒体和汽车行业</title>
       <link>https://www.rapid7.com/blog/post/tr-dprk-apts-ted-backdoor-curlrat-target-south-korean-media-automotive-sectors</link>
@@ -13,14 +20,14 @@
       <pubDate>Fri, 04 Sep 2026 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>严重的 SonicWall SMA1000 漏洞 CVE-2026-83548、CVE-2026-83549 被广泛利用</title>
       <link>https://www.rapid7.com/blog/post/etr-critical-sonicwall-sma1000-vulnerabilities-cve-2026-83548-cve-2026-83549-exploited-in-the-wild</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-critical-sonicwall-sma1000-vulnerabilities-cve-2026-83548-cve-2026-83549-exploited-in-the-wild</guid>
       <pubDate>Wed, 02 Sep 2026 16:58:45 GMT</pubDate>
     </item>
     <item>
-      <title>Metasploit 总结：有效负载和漏洞利用以及扫描器，天哪！</title>
+      <title>Metasploit 总结：有效负载和漏洞利用以及扫描仪，天哪！</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ra-kindarails2shell-technical-analysis-cve-2026-66066</guid>
       <pubDate>Mon, 03 Aug 2026 17:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metasploit Pro 5.1 发布</title>
-      <link>https://www.rapid7.com/blog/post/pt-metasploit-pro-5-1-released</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/pt-metasploit-pro-5-1-released</guid>
-      <pubDate>Mon, 03 Aug 2026 14:48:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
