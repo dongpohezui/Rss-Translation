@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 15:27:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:08:36 GMT</lastBuildDate>
+    <item>
+      <title>经认证的端口前发现：不要探测主机，而是询问它</title>
+      <link>https://www.rapid7.com/blog/post/pt-credentialed-pre-port-discovery-asking-host</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/pt-credentialed-pre-port-discovery-asking-host</guid>
+      <pubDate>Wed, 09 Sep 2026 15:16:34 GMT</pubDate>
+    </item>
     <item>
       <title>周二补丁 - 2026 年 9 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-september-2026</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/ra-unauthenticated-rce-in-jetbrains-teamcity-cve-2026-63077</guid>
       <pubDate>Fri, 07 Aug 2026 14:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-18577：N-able N-central 身份验证绕过在野被利用</title>
-      <link>https://www.rapid7.com/blog/post/etr-cve-2026-18577-n-able-n-central-authentication-bypass-exploited-in-the-wild</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/etr-cve-2026-18577-n-able-n-central-authentication-bypass-exploited-in-the-wild</guid>
-      <pubDate>Tue, 04 Aug 2026 11:11:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
