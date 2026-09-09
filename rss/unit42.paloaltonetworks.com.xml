@@ -4,7 +4,15 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Fri, 04 Sep 2026 15:19:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:28:06 GMT</lastBuildDate>
+    <item>
+      <title>未追踪的噩梦：隐藏在商品基础设施背后的威胁</title>
+      <link>https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/</link>
+      <description><![CDATA[调查网络犯罪分子如何利用 YouTube 游戏诱饵和 SEO 中毒向企业网络传送多负载恶意软件。
+帖子未追踪的噩梦：隐藏在商品基础设施背后的威胁首先出现在Unit 42上。]]></description>
+      <guid>https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/</guid>
+      <pubDate>Wed, 09 Sep 2026 10:00:55 GMT</pubDate>
+    </item>
     <item>
       <title>攻击者揭露了针对拉丁美洲组织的持续使用人工智能工具</title>
       <link>https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/</link>
@@ -57,7 +65,7 @@
       <title>通过可信通信渠道进行身份滥用</title>
       <link>https://unit42.paloaltonetworks.com/communication-channel-identity-risks/</link>
       <description><![CDATA[第 42 单元详细介绍了攻击者如何利用企业协作工具进行身份网络钓鱼和凭据盗窃。发现关键防御策略。
-该帖子通过可信通信渠道滥用身份首先出现在Unit 42上。]]></description>
+该帖子通过可信通信渠道进行身份滥用首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/communication-channel-identity-risks/</guid>
       <pubDate>Thu, 20 Aug 2026 10:00:25 GMT</pubDate>
     </item>
@@ -113,17 +121,9 @@
       <title>前沿人工智能漏洞爆发：开源软件自主零日发现产业化</title>
       <link>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</link>
       <description><![CDATA[Frontier AI 正在重塑漏洞发现。了解我们的 NOVA 系统如何在开源软件供应链中发现 14,000 多个未知漏洞。
-帖子前沿人工智能漏洞爆发：开源软件中的自主零日发现产业化首先出现在Unit 42上。]]></description>
+帖子前沿人工智能漏洞爆发：开源软件中的自主零日发现工业化首先出现在Unit 42上。]]></description>
       <guid>https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/</guid>
       <pubDate>Tue, 04 Aug 2026 13:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>近一半的恶意软件样本直接与 IP 通信</title>
-      <link>https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/</link>
-      <description><![CDATA[近一半的 C2 恶意软件通过直接连接到 IP 地址来绕过 DNS。零信任 IP 实施可保护网络免受这些威胁。
-帖子几乎一半的恶意软件样本直接与 IP 通信首先出现在Unit 42上。]]></description>
-      <guid>https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/</guid>
-      <pubDate>Tue, 04 Aug 2026 12:50:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
