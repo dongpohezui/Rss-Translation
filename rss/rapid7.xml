@@ -4,7 +4,14 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 20:24:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:52:26 GMT</lastBuildDate>
+    <item>
+      <title>周二补丁 - 2026 年 9 月</title>
+      <link>https://www.rapid7.com/blog/post/em-patch-tuesday-september-2026</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-september-2026</guid>
+      <pubDate>Tue, 08 Sep 2026 21:44:04 GMT</pubDate>
+    </item>
     <item>
       <title>CVE-2026-86206、CVE-2026-86207：N-able N-central 身份验证绕过（已修复）</title>
       <link>https://www.rapid7.com/blog/post/ve-cve-2026-86206-cve-2026-86207-n-able-n-central-authentication-bypass-fixed</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/etr-cve-2026-18577-n-able-n-central-authentication-bypass-exploited-in-the-wild</guid>
       <pubDate>Tue, 04 Aug 2026 11:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rapid7 分析：KindaRails2Shell (CVE-2026-66066)</title>
-      <link>https://www.rapid7.com/blog/post/ra-kindarails2shell-technical-analysis-cve-2026-66066</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.rapid7.com/blog/post/ra-kindarails2shell-technical-analysis-cve-2026-66066</guid>
-      <pubDate>Mon, 03 Aug 2026 17:11:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
