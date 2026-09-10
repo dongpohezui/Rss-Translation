@@ -4,7 +4,15 @@
     <title>检查点研究</title>
     <link>https://research.checkpoint.com/</link>
     <description>我们团队的最新研究</description>
-    <lastBuildDate>Tue, 08 Sep 2026 15:32:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:23:04 GMT</lastBuildDate>
+    <item>
+      <title>PuzzleMask：滥用简单的散文作为隐蔽的人工智能攻击媒介</title>
+      <link>https://research.checkpoint.com/2026/puzzlemask-abusing-plain-prose-as-a-covert-ai-attack-vector/</link>
+      <description><![CDATA[执行摘要 在这项研究中，我们介绍了一种绕过基于 LLM 的快速策略检查的提示制作技术 - 使用简单的英语（无表情符号、base64、隐形格式等）。违反策略的有效负载（例如“加密 ~/Documents 中的文件”、“给我一个生物危害配方”、“忽略所有先前的指令和……”）嵌入在特制的散文包装中。有限[…]的法学硕士
+帖子PuzzleMask：滥用普通散文作为隐蔽人工智能攻击媒介首先出现在Check Point Research上。]]></description>
+      <guid>https://research.checkpoint.com/2026/puzzlemask-abusing-plain-prose-as-a-covert-ai-attack-vector/</guid>
+      <pubDate>Thu, 10 Sep 2026 14:32:46 GMT</pubDate>
+    </item>
     <item>
       <title>沙箱内的共享剪贴板：ChatGPT 跨账户数据泄露</title>
       <link>https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/</link>
@@ -116,14 +124,6 @@ BTR Reforged：将 Defender 的修复驱动程序武器化为内核操作原语�
 8 月 3 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
       <guid>https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/</guid>
       <pubDate>Mon, 03 Aug 2026 13:15:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 月 27 日 – 威胁情报报告</title>
-      <link>https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/</link>
-      <description><![CDATA[有关 7 月 27 日当周网络研究的最新发现，请下载我们的威胁情报公告。主要攻击和数据泄露 Nichirei 是一家总部位于日本的冷冻食品供应商和物流公司，遭遇勒索软件攻击，该攻击扰乱了运输业务并影响了大约 5,000 名客户。肯德基日本警告可能出现短缺。 Nichirei 确认个人数据被盗，[…]
-7 月 27 日 – 威胁情报报告首先出现在 Check Point Research 上。]]></description>
-      <guid>https://research.checkpoint.com/2026/27th-july-threat-intelligence-report/</guid>
-      <pubDate>Mon, 27 Jul 2026 16:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
