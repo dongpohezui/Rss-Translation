@@ -4,7 +4,15 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Wed, 09 Sep 2026 20:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:49:21 GMT</lastBuildDate>
+    <item>
+      <title>威胁矩阵：绘制跨云 Web 应用程序的威胁图</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/</link>
+      <description><![CDATA[微软推出了云 Web 应用程序威胁矩阵，这是一个符合 MITRE ATT&amp;CK 的框架，可帮助防御者了解、确定优先级并减轻对云托管 Web 应用程序和无服务器平台的威胁。
+帖子威胁矩阵：跨云 Web 应用程序映射威胁首先出现在Microsoft 安全博客上。]]></description>
+      <guid>https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/</guid>
+      <pubDate>Wed, 09 Sep 2026 21:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>以万能钥匙为主题的社会工程导致身份和云妥协</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/</link>
@@ -76,14 +84,6 @@ TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 M
 当人工智能基础设施成为目标时：保护网关和控制点首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</guid>
       <pubDate>Wed, 26 Aug 2026 16:43:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>补丁窗口正在崩溃：为什么安全需要新的控制平面</title>
-      <link>https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/</link>
-      <description><![CDATA[组织需要在发现和修复之间的间隙提供保护。
-帖子补丁窗口正在崩溃：为什么安全性需要新的控制平面首先出现在微软安全博客上。]]></description>
-      <guid>https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/</guid>
-      <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
