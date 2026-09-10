@@ -4,7 +4,7 @@
     <title>Rapid7 网络安全博客</title>
     <link>https://www.rapid7.com/blog/</link>
     <description>Rapid7 将数据转化为洞察力，使安全专业人员能够进步并保护其组织。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 15:22:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:10:31 GMT</lastBuildDate>
     <item>
       <title>经认证的端口前发现：不要探测主机，而是询问它</title>
       <link>https://www.rapid7.com/blog/post/pt-credentialed-pre-port-discovery-asking-host</link>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 02 Sep 2026 16:58:45 GMT</pubDate>
     </item>
     <item>
-      <title>Metasploit 总结：有效负载和漏洞利用以及扫描仪，天哪！</title>
+      <title>Metasploit 总结：有效负载和漏洞利用以及扫描器，天哪！</title>
       <link>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-payloads-exploits-scanners</guid>
@@ -118,7 +118,7 @@
       <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>周二补丁 - 2026 年 8 月</title>
+      <title>星期二补丁 - 2026 年 8 月</title>
       <link>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</link>
       <description><![CDATA[]]></description>
       <guid>https://www.rapid7.com/blog/post/em-patch-tuesday-august-2026</guid>

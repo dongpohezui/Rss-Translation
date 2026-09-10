@@ -4,7 +4,7 @@
     <title>第42单元</title>
     <link>https://unit42.paloaltonetworks.com/</link>
     <description>帕洛阿尔托网络</description>
-    <lastBuildDate>Thu, 10 Sep 2026 15:22:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:11:48 GMT</lastBuildDate>
     <item>
       <title>多面机器：SPIFFE/SPIRE 中的后利用身份滥用</title>
       <link>https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/</link>
