@@ -4,7 +4,7 @@
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
     <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Thu, 10 Sep 2026 20:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 01:48:22 GMT</lastBuildDate>
     <item>
       <title>保护组织免受人工智能辅助的高管冒充和发票欺诈</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/</link>
@@ -32,8 +32,8 @@
     <item>
       <title>以万能钥匙为主题的社会工程导致身份和云妥协</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/</link>
-      <description><![CDATA[以密码为主题的社会工程被用来危害身份并启用更广泛的云攻击。 Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance.
-The post Passkey-themed social engineering leads to identity and cloud compromise appeared first on Microsoft Security Blog.]]></description>
+      <description><![CDATA[以密码为主题的社会工程被用来危害身份并启用更广泛的云攻击。了解威胁行为者如何建立 MFA 持久性、滥用 Microsoft Graph 进行侦察以及访问 SharePoint、OneDrive 和电子邮件数据，以及关键检测和缓解指南。
+这篇文章以密钥为主题的社交工程导致身份和云泄露首先出现在微软安全博客上。]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/</guid>
       <pubDate>Wed, 09 Sep 2026 17:41:18 GMT</pubDate>
     </item>
