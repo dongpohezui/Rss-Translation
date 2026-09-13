@@ -4,32 +4,32 @@
     <title>安全列表</title>
     <link>https://securelist.com</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Sep 2026 19:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 01:44:58 GMT</lastBuildDate>
     <item>
       <title>愤怒的小鸟：玩具食尸鬼的新玩具</title>
       <link>https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/</link>
-      <description><![CDATA[卡巴斯基 GERT 专家发现了 Toy Ghouls 组织使用的新后门。后门的一种版本使用 HiveMQ MQTT 代理作为其命令和控制服务器；另一个使用基于 Matrix 的 Element 信使。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/</guid>
       <pubDate>Fri, 04 Sep 2026 10:00:05 GMT</pubDate>
     </item>
     <item>
       <title>Mirage Kitten 通过新的恶意软件集瞄准了中东和非洲的航空和金融科技行业</title>
       <link>https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/</link>
-      <description><![CDATA[卡巴斯基研究人员发现了新的 Mirage Kitten 攻击，其使用之前未记录的恶意软件系列：Node.js 中的 NodeRabbit 和 JavaScript 中的 PollCat。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/</guid>
       <pubDate>Tue, 01 Sep 2026 07:00:26 GMT</pubDate>
     </item>
     <item>
-      <title>ValleyRAT 伪装成广告软件</title>
+      <title></title>
       <link>https://securelist.com/valleyrat-backdoor-adware/121175/</link>
-      <description><![CDATA[威胁行为者正在分发伪装成广告软件的 ValleyRAT 后门。我们分析从恶意安装程序到最终有效负载的感染链。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/valleyrat-backdoor-adware/121175/</guid>
       <pubDate>Mon, 31 Aug 2026 10:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>工业自动化系统的威胁格局。 2026 年第二季度</title>
+      <title></title>
       <link>https://securelist.com/industrial-threat-report-q2-2026/121159/</link>
-      <description><![CDATA[该报告包含 2026 年第二季度工业威胁的统计数据，包括勒索软件、挖矿软件、间谍软件以及在工业控制系统上检测和阻止的其他威胁。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/industrial-threat-report-q2-2026/121159/</guid>
       <pubDate>Thu, 27 Aug 2026 10:05:43 GMT</pubDate>
     </item>
@@ -41,37 +41,37 @@
       <pubDate>Wed, 26 Aug 2026 10:00:04 GMT</pubDate>
     </item>
     <item>
-      <title>你车里看不见的乘客</title>
+      <title></title>
       <link>https://securelist.com/android-head-unit-malware/121106/</link>
       <description><![CDATA[卡巴斯基专家发现了新的 Android 恶意软件，旨在投放广告并构建代理僵尸网络。它通过 DoFun 主机的合法软件提供。]]></description>
       <guid>https://securelist.com/android-head-unit-malware/121106/</guid>
       <pubDate>Fri, 21 Aug 2026 08:00:29 GMT</pubDate>
     </item>
     <item>
-      <title>APT组织HoneyMyte升级CoolClient：后门获得内核级Windows rootkit</title>
+      <title></title>
       <link>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</link>
-      <description><![CDATA[我们的专家发现了一个新的 CoolClient 后门变体，带有内核模式 rootkit 驱动程序，可以向安全工具和威胁分析师隐藏恶意进程、文件和网络连接。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</guid>
       <pubDate>Fri, 14 Aug 2026 09:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>Armored Likho 扩展其网络间谍工具包</title>
+      <title></title>
       <link>https://securelist.com/armored-likho-still-toolkit/121033/</link>
-      <description><![CDATA[卡巴斯基专家分解了一个新的 Armored Likho 活动，该活动伪装成筹款活动，并提供了一个新的 Still Toolkit，旨在窃取 Telegram 数据并窃听受害者。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/armored-likho-still-toolkit/121033/</guid>
       <pubDate>Thu, 13 Aug 2026 08:00:15 GMT</pubDate>
     </item>
     <item>
       <title>Head Mare APT 正在利用未修补的 TrueConf 服务器中的漏洞向视频会议参与者提供 PhantomCore 和 PhantomGraph</title>
       <link>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</link>
-      <description><![CDATA[卡巴斯基专家发现了恶意的 TrueConf 软件安装程序。 Head Mare APT 组织利用它们，通过利用未修补的 TrueConf 服务器中的漏洞，向目标系统提供 PhantomCore 和 PhantomGraph 后门。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</guid>
       <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>CAV3RN 项目继续进行：Google Apps 脚本作为 C2 中继和基于 DNS 的 C2 通道选择</title>
+      <title></title>
       <link>https://securelist.com/project-cav3rn-continues/120991/</link>
-      <description><![CDATA[CAV3RN 项目以以色列为目标，提供 Google Apps Script C2 中继和基于 DNS 的路由。模块化 .NET NativeAOT 框架将 C2 流量与合法的 Google 服务混合在一起以逃避检测。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://securelist.com/project-cav3rn-continues/120991/</guid>
       <pubDate>Tue, 11 Aug 2026 10:00:19 GMT</pubDate>
     </item>

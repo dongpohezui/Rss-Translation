@@ -3,10 +3,10 @@
   <channel>
     <title>微软安全博客</title>
     <link>https://www.microsoft.com/en-us/security/blog/</link>
-    <description>网络安全主题的专家报道</description>
-    <lastBuildDate>Sat, 12 Sep 2026 19:47:46 GMT</lastBuildDate>
+    <description></description>
+    <lastBuildDate>Sun, 13 Sep 2026 01:45:10 GMT</lastBuildDate>
     <item>
-      <title>保护组织免受人工智能辅助的高管冒充和发票欺诈</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/</link>
       <description><![CDATA[微软正在检查人工智能辅助的商业电子邮件泄露活动，该活动使用高管冒充和虚假发票来针对财务团队进行 ACH 付款欺诈。
 这篇文章保护组织免受人工智能辅助的高管冒充和发票欺诈首先出现在微软安全博客上。]]></description>
@@ -14,10 +14,9 @@
       <pubDate>Thu, 10 Sep 2026 17:23:05 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Microsoft Defender 检测并阻止以 AI 为主题的攻击</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/</link>
-      <description><![CDATA[了解 Microsoft Defender 如何检测和破坏整个攻击链中以 AI 为主题的网络钓鱼、恶意软件和多阶段攻击。
-这篇文章使用 Microsoft Defender 检测并阻止以 AI 为主题的攻击首先出现在 Microsoft 安全博客上。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/</guid>
       <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
     </item>
@@ -30,15 +29,14 @@
       <pubDate>Wed, 09 Sep 2026 21:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>以万能钥匙为主题的社会工程导致身份和云妥协</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/</link>
-      <description><![CDATA[以密码为主题的社会工程被用来危害身份并启用更广泛的云攻击。了解威胁行为者如何建立 MFA 持久性、滥用 Microsoft Graph 进行侦察以及访问 SharePoint、OneDrive 和电子邮件数据，以及关键检测和缓解指南。
-这篇文章以密钥为主题的社交工程导致身份和云泄露首先出现在微软安全博客上。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/</guid>
       <pubDate>Wed, 09 Sep 2026 17:41:18 GMT</pubDate>
     </item>
     <item>
-      <title>如何在客户拥有的环境中保护边缘人工智能</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/</link>
       <description><![CDATA[随着人工智能进入客户拥有的环境，组织需要新的方法来验证他们信任的系统、软件和人工智能资产，然后再发布敏感数据、凭证和模型。
 这篇文章如何在客户拥有的环境中保护边缘人工智能首先出现在微软安全博客上。]]></description>
@@ -48,8 +46,7 @@
     <item>
       <title>ASCII 走私从 AI 提示注入跨越到网络钓鱼规避</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
-      <description><![CDATA[因隐藏 AI 模型指令而流行的不可见 Unicode 字符现在被用来在电子邮件过滤器解析单词之前对其进行混淆。
-这篇文章ASCII 走私从 AI 提示注入交叉到网络钓鱼规避首先出现在 Microsoft Security博客。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</guid>
       <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
     </item>
@@ -70,18 +67,16 @@
       <pubDate>Tue, 01 Sep 2026 22:48:28 GMT</pubDate>
     </item>
     <item>
-      <title>网络安全 IR 研讨会：您不容错过的研讨会</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</link>
-      <description><![CDATA[网络弹性在危机发生之前就开始了。从 DART 中获得实用见解，以加强准备和响应。
-帖子网络安全 IR 研讨会：您不应错过的研讨会首先出现在 Microsoft 安全博客上。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/</guid>
       <pubDate>Tue, 01 Sep 2026 18:55:35 GMT</pubDate>
     </item>
     <item>
-      <title>TerminalFix 活动通过多级入侵部署反向隧道</title>
+      <title></title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</link>
-      <description><![CDATA[Microsoft 威胁情报提供对使用虚假 CAPTCHA 提示、DLL 侧载和反向隧道的 ClickFix 活动的分析，以及检测和搜寻指导。
-TerminalFix 活动通过多级入侵部署反向隧道的帖子首先出现在 Microsoft 安全博客上。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</guid>
       <pubDate>Sat, 29 Aug 2026 03:43:27 GMT</pubDate>
     </item>
